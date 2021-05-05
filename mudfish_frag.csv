@@ -1,4 +1,4 @@
-card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No
+card,Month,Year,catchmentName,fragmentNumber,fragmentName,Catch No
 32843,,1926,Waimakariri River,1491009,Eyre River tributary 1,664.06
 50622,2,1939,Ashburton River,1491069,Carters Creek tributary,688
 50371,,1946,Waimakariri River,1491006,North Brook tributary,664.042
