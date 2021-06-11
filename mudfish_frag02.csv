@@ -1,0 +1,1523 @@
+Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation
+122,1,1975,Selwyn River,1491036,Hororata River tributary 2,680.04,,Unnamed wetland,,140,65,niwa
+828,10,1966,Hinds River,1491091,Hinds River North Branch tributary wetland 1,691.01,day,North Branch Hinds River tributary,,420,59,niwa
+830,10,1966,Hinds River,1491090,Hinds River North Branch tributary 1,691.02,day,South Branch Hinds River tributary,,360,53,niwa
+1026,7,1978,Selwyn River,1491045,Blacks Stream,680.05, ,Blacks Stream tributary, ,270,87,niwa
+1027,7,1978,Selwyn River,1491045,Blacks Stream,680.05,night,Blacks Stream,,255,86,niwa
+1028,7,1978,Selwyn River,1491045,Blacks Stream,680.05, ,Blacks Stream, ,270,87,niwa
+1029,7,1978,Selwyn River,1491045,Blacks Stream,680.05, ,Blacks Stream pond, ,270,87,niwa
+2123,10,1988,Pareora River,1491105,Taiko Stream (Translocation),701,1000,Unnamed pond,,160,32,scfg
+2527,5,1965,Waimakariri River,1491006,North Brook tributary,664.042, ,Cam River, ,25,18,niwa
+3417,,,Morven Drain,1491125,Unnamed stream Morven 3,710.01,,Unnamed pond,,30,8,unk
+3630,4,1987,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,1400,Horseshoe Bend Stream, ,8,5,niwa
+3634,11,1987,Pareora River,1491105,Taiko Stream (Translocation),701.04,1500,Taiko Stream,,130,30,niwa
+3635,11,1987,Washdyke Creek,1491099,Papaka Stream tributary 2,698.02,900,Papaka Stream,,40,14,niwa
+3636,11,1987,Washdyke Creek,1491098,Papaka Stream tributary 1,698.02,1200,Papaka Stream,,35,13,niwa
+3663,6,1981,Selwyn River,1491036,Hororata River tributary 2,680.04,1100,Hororata River,,140,65,niwa
+3674,2,1982,Selwyn River,1491036,Hororata River tributary 2,680.04,1000,Hororata River,,140,64,niwa
+3675,2,1982,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1400,Mounseys Stream tributary,,310,65,niwa
+4351,2,1982,Selwyn River,1491045,Blacks Stream,680.05, ,Blacks Stream, ,255,86,niwa
+5052,10,1982,Pareora River,1491105,Taiko Stream (Translocation),701, ,Unnamed pond, ,160,32,niwa
+5058,10,1982,Longbeach,1491078,Unnamed water race Grahams Road 3,690,night,Unnamed stream Beachcroft,,25,3,niwa
+5652,10,1983,Longbeach,1491078,Unnamed water race Grahams Road 3,690, ,Unnamed stream Beachcroft, ,25,3,niwa
+5660,10,1983,Pareora River,1491105,Taiko Stream (Translocation),701,1200,Unnamed pond,,160,32,niwa
+5662,10,1983,St Andrews,1491106,Unnamed stream St Andrews,702,day,Unnamed stream St Andrews,,5,0,niwa
+5669,1,1984,Selwyn River,1491036,Hororata River tributary 2,680.04,night,Hororata River,,140,65,niwa
+5929,5,1974,Waimate Creek,1491120,Waituna Stream ponds,708,,Unnamed pond,,40,15,niwa
+6634,8,1984,Selwyn River,1491060,Glendore Stream,680.08,1030,Steventon Stream,,360,90,niwa
+6635,8,1984,Selwyn River,1491060,Glendore Stream,680.08,,Steventon Stream pond,,330,89,niwa
+6639,10,1984,Morven Drain,1491126,Dog Kennel Stream,710.02,1300,Dog Kennel Stream,,80,14,niwa
+6640,10,1984,Pareora River,1491105,Taiko Stream (Translocation),701.04,1045,Taiko Stream, ,130,30,niwa
+6641,10,1984,Pareora River,1491105,Taiko Stream (Translocation),701.04,1100,Unnamed pond,,160,32,niwa
+6643,10,1984,Selwyn River,1491032,Selwyn River tributary 2,680,,Selwyn River ponds,,50,38,niwa
+7658,4,1984,Selwyn River,1491033,Selwyn River tributary 3,680,1600,Selwyn River tributary,,110,54,indm
+7745,4,1986,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1400,Peacock Springs, ,40,22,niwa
+7749,5,1986,Avon River,1491028,Christchurch Botanical Gardens (Translocation),666,night,Unnamed pond,,5,17,niwa
+9981,7,1988,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River oxbow,,140,65,niwa
+9982,7,1988,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,niwa
+9994,4,1989,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,night,Peacock Springs,,40,22,niwa
+9997,11,1989,Selwyn River,1491060,Glendore Stream,680.08,1000,Unnamed wetland,,320,89,niwa
+9998,11,1989,Selwyn River,1491060,Glendore Stream,680.08,1400,Unnamed wetland, ,330,89,niwa
+10277,9,1989,Pareora River,1491105,Taiko Stream (Translocation),701.04,1020,Taiko Stream,,160,32,docc
+10278,7,1990,St Andrews,1491106,Unnamed stream St Andrews,702,845,Unnamed stream St Andrews,,5,1,docc
+10279,7,1990,St Andrews,1491106,Unnamed stream St Andrews,702,930,Unnamed stream St Andrews,,5,1,docc
+10280,7,1990,St Andrews,1491106,Unnamed stream St Andrews,702,830,Unnamed stream St Andrews,,5,0,docc
+10281,7,1990,St Andrews,1491106,Unnamed stream St Andrews,702,900,Unnamed stream St Andrews,,5,0,docc
+10282,7,1990,St Andrews,1491106,Unnamed stream St Andrews,702,1015,Unnamed stream St Andrews,,5,2,docc
+10283,7,1990,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,845,Horseshoe Bend Stream,,30,8,docc
+10284,7,1990,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,930,Horseshoe Bend Stream,,30,8,docc
+10285,10,1990,Hook River,1491118,Waituna Stream,707.01,930,Waituna Stream tributary,,20,15,docc
+10286,10,1990,Morven Drain,1491126,Dog Kennel Stream,710.02,940,Dog Kennel Stream,,100,16,docc
+10287,11,1990,Morven Drain,1491126,Dog Kennel Stream,710.02,945,Dog Kennel Stream,,100,16,docc
+10288,11,1990,Morven Drain,1491126,Dog Kennel Stream,710.02,1000,Dog Kennel Stream,,110,16,docc
+10289,10,1991,Longbeach,1491077,Unnamed water race Tanseys Road,690,930,Unnamed stream Seabreeze,,18,1,docc
+10290,10,1991,Longbeach,1491077,Unnamed water race Tanseys Road,690,900,Unnamed stream Seabreeze,,23,2,docc
+10292,10,1993,Longbeach,1491072,Unnamed water race Fords Road,690,1000,Unnamed water race,,80,16,docc
+10293,10,1993,Longbeach,1491079,Unnamed water race Longbeach Road,690,1115,Unnamed stream Beachcroft,,32,5,docc
+10294,10,1993,Longbeach,1491077,Unnamed water race Tanseys Road,690,1205,Unnamed stream Seabreeze,,23,2,docc
+10295,10,1994,Opihi River,1491094,Rangatira Creek,696.024,,Rangatira Creek,,60,19,docc
+10296,5,1995,St Andrews,1491106,Unnamed stream St Andrews,702,,Unnamed stream St Andrews,,5,2,docc
+10298,11,1995,Opihi River,1491094,Rangatira Creek,696.024,,Rangatira Creek,,60,19,docc
+10299,12,1995,Makikihi,1491115,Unnamed stream Makikihi 3,706.5,,Unnamed pond,,50,9,docc
+10300,12,1995,Makikihi,1491115,Unnamed stream Makikihi 3,706.5,,Unnamed stream Makikihi,,50,9,docc
+11339,4,1990,Selwyn River,1491047,Waianiwaniwa River,680.05,1300,Waianiwaniwa River,,235,76,niwa
+11340,4,1990,Selwyn River,1491048,Waianiwaniwa River tributary 2,680.05,1500,Waianiwaniwa River,,325,74,niwa
+11367,12,1986,Selwyn River,1491033,Selwyn River tributary 3,680,1100,Selwyn River,,110,54,niwa
+11368,12,1986,Selwyn River,1491058,Selwyn River tributary 6,680,1245,Selwyn River, ,255,80,niwa
+11382,5,1994,Hinds River,1491084,Hinds River tributary 1,691,,Clearwell Springs,,195,33,unk
+11973,1,2002,Waitaki River,1491139,Waitaki River tributary 2,711, ,Unnamed pond, ,85,28,niwa
+12228,2,2002,Selwyn River,1491056,Selwyn water race,680.04, ,Unnamed pond Hororata Domain, ,195,79,docc
+12230,2,2002,Woodend,1491004,Tutaepatu Lagoon,663, ,Tutai Patu Lagoon, ,2,9,docc
+14907,12,1986,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network,683,1445,Lake Ellesmere tributary, ,40,24,niwa
+15401,4,1996,Longbeach,1491077,Unnamed water race Tanseys Road,690,,Unnamed stream Seabreeze,,15,1,docc
+15403,7,1996,Pareora River,1491101,Pareora River tributary 1,701,1330,Pareora River tributary,,5,2,docc
+15404,7,1996,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,1415,Horseshoe Bend Stream,,10,5,docc
+15405,8,1996,Hook River,1491116,Wainono Lagoon,707,1030,Unnamed wetland,,1,11,docc
+15406,8,1996,Hook River,1491116,Wainono Lagoon,707,1130,Unnamed wetland,,1,11,docc
+15407,10,1996,Pareora River,1491105,Taiko Stream (Translocation),701.04,1000,Taiko Stream,,140,31,docc
+15408,12,1996,Hinds River,1491084,Hinds River tributary 1,691, ,Clearwell Springs, ,195,33,docc
+15409,12,1996,Hinds River,1491088,North Branch Hinds River,691.01,,North Branch Hinds River,,280,45,docc
+15410,4,1997,Longbeach,1491078,Unnamed water race Grahams Road 3,690,1145,Unnamed water race,,35,5,docc
+15412,6,1997,Waitaki River,1491131,Mount Harris Stream,711.01,,Mt Harris Stream,,90,25,docc
+15413,9,1997,Washdyke Creek,1491100,Papaka Stream 2,698.02,1100,Papaka Stream,,50,14,docc
+15414,1,1998,Makikihi,1491113,Unnamed stream Makikihi 1,706.5,,Unnamed pond Makikihi,,15,3,docc
+15415,6,1998,Morven Drain,1491123,Unnamed stream Morven 1,710,1300,Unnamed stream Morven,,10,9,docc
+15416,8,1998,Waitaki River,1491130,Waikakahi Stream,711.01,1130,Unnamed pond,,90,25,docc
+15417,8,1998,Waitaki River,1491127,Whitneys Creek,711,940,Whitneys Creek,,60,17,docc
+15418,3,2000,Longbeach,1491081,Unnamed pond Willowby (Translocation),690,840,Unnamed wetland,,70,15,docc
+15420,2,2002,Lowcliffe,1491093,Unnamed wetland Wairuna,692,900,Unnamed drain Wairuna,,12,2,docc
+15421,2,2002,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,,Unnamed wetland,,160,35,docc
+16002,2,2003,Ashburton River,1491067,Unnamed stock water race Lower Beach Road,688,,Unnamed lake,,5,0,docc
+16806,9,2002,Selwyn River,1491038,Hororata River tributary 4,680.04,1300,Hororata River tributary,,155,67,docc
+16807,10,2002,Selwyn River,1491042,Cordys Stream,680.04,1030,Cordys Stream,,190,79,docc
+16808,10,2002,Selwyn River,1491043,Hororata River 2,680.04,1120,Hororata River,,190,79,docc
+16809,10,2002,Selwyn River,1491043,Hororata River 2,680.04,1130,Hororata River,,190,79,docc
+16815,10,2002,Selwyn River,1491043,Hororata River 2,680.04,1415,Unnamed pond, ,185,78,docc
+16816,11,2002,Selwyn River,1491042,Cordys Stream,680.04,1100,Cordys Stream,,180,77,docc
+16817,11,2002,Selwyn River,1491043,Hororata River 2,680.04,1400,Hororata River,,185,78,docc
+16818,9,2002,Selwyn River,1491038,Hororata River tributary 4,680.04,1500,Hororata River tributary,,155,67,docc
+16819,9,2002,Selwyn River,1491038,Hororata River tributary 4,680.04,1500,Hororata River tributary,,148,67,docc
+16820,9,2002,Selwyn River,1491038,Hororata River tributary 4,680.04,1300,Hororata River tributary, ,148,66,docc
+16821,9,2002,Selwyn River,1491038,Hororata River tributary 4,680.04,1400,Hororata River tributary,,150,63,docc
+16822,9,2002,Selwyn River,1491038,Hororata River tributary 4,680.04,1600,Hororata River tributary,,160,68,docc
+16823,9,2002,Selwyn River,1491038,Hororata River tributary 4,680.04,1530,Unnamed pond,,150,68,docc
+16824,9,2002,Selwyn River,1491038,Hororata River tributary 4,680.04,1330,Hororata River tributary,,155,67,docc
+16825,9,2002,Selwyn River,1491038,Hororata River tributary 4,680.04,1200,Hororata River tributary,,150,67,docc
+16826,9,2002,Selwyn River,1491038,Hororata River tributary 4,680.04,1130,Hororata River tributary,,148,66,docc
+16827,9,2002,Selwyn River,1491040,Hororata River tributary 6,680.04,,Unnamed pond,,158,70,docc
+17129,5,2003,Selwyn River,1491040,Hororata River tributary 6,680.04,1000,Hororata River tributary,,165,72,docc
+17130,5,2003,Selwyn River,1491040,Hororata River tributary 6,680.04,1010,Hororata River tributary, ,165,72,docc
+17134,5,2003,Selwyn River,1491041,Hororata River 1,680.04,1330,Hororata River,,175,74,docc
+17140,5,2003,Selwyn River,1491057,Coalgate water race,680,951,Selwyn River tributary,,140,63,docc
+17142,5,2003,Selwyn River,1491034,Selwyn River tributary 4,680.04,1115,Hororata River,,120,58,docc
+17143,5,2003,Selwyn River,1491056,Selwyn water race,680.04,1200,Hororata River tributary, ,170,70,docc
+17144,5,2003,Selwyn River,1491039,Hororata River tributary 5,680.04,1215,Hororata River tributary,,155,69,docc
+17145,5,2003,Selwyn River,1491036,Hororata River tributary 2,680.04,1345,Hororata River,,140,65,docc
+17146,6,2003,Selwyn River,1491059,Wairiri Stream,680.07,1030,Hall Stream tributary,,300,89,docc
+17147,6,2003,Selwyn River,1491059,Wairiri Stream,680.07,1145,Wairiri Stream tributary,,295,89,docc
+17148,6,2003,Selwyn River,1491060,Glendore Stream,680.08,1400,Unnamed pond Steventon,,330,89,docc
+17149,6,2003,Selwyn River,1491060,Glendore Stream,680.08,1500,Glendore Stream tributary,,320,89,docc
+17150,6,2003,Selwyn River,1491060,Glendore Stream,680.08,1510,Unnamed pond Cleathings Valley,,320,88,docc
+17181,7,1997,Ashley River,1491002,Taranaki Stream tributary wetland (pre Pegasus town),662,,Unnamed wetland,,2,3,niwa
+17282,6,2003,Selwyn River,1491040,Hororata River tributary 6,680.04,1300,Hororata River tributary, ,165,72,docc
+17283,6,2003,Selwyn River,1491040,Hororata River tributary 6,680.04,1315,Hororata River tributary,,165,72,docc
+19515,3,2004,Waitaki River,1491130,Waikakahi Stream,711.01, ,Unnamed pond, ,80,25,docc
+19519,3,2004,Selwyn River,1491056,Selwyn water race,680.04,,Unnamed pond,,190,79,docc
+19686,2,2001,Harts Creek,1491064,Ellesmere stockwater race and drainage network,682,1100,Harts Creek tributary, ,35,19,crc
+20824,1,2003,Waitaki River,1491134,Waitaki River tributary wetland 1,711,1000,Unnamed wetland,,15,6,niwa
+20901,6,2003,Selwyn River,1491057,Coalgate water race,680,945,Selwyn River oxbow,,135,61,docc
+20902,6,2003,Selwyn River,1491036,Hororata River tributary 2,680.04,1100,Hororata River tributary,,140,64,docc
+20903,6,2003,Selwyn River,1491036,Hororata River tributary 2,680.04,1200,Hororata River tributary,,140,64,docc
+20905,6,2003,Selwyn River,1491035,Hororata River tributary 1,680.04,1245,Hororata River,,135,62,docc
+20913,5,2004,Selwyn River,1491056,Selwyn water race,680.04,1000,Unnamed water race Thwaites Road, ,205,79,docc
+20916,5,2004,Selwyn River,1491056,Selwyn water race,680.04,1100,Unnamed water race Struie Road, ,195,73,docc
+20917,5,2004,Selwyn River,1491056,Selwyn water race,680.04,1110,Unnamed water race Struie Road, ,180,72,docc
+20920,5,2004,Selwyn River,1491057,Coalgate water race,680,1025,Unnamed water race Hawkins Road,,145,64,docc
+20921,5,2004,Selwyn River,1491057,Coalgate water race,680,1050,Unnamed water race Warren Road,,145,63,docc
+20945,8,2004,Lake Ellesmere,1491039,Hororata River tributary 5,683,1125,Unnamed water race Dunsandel Road, ,155,51,docc
+20946,8,2004,Lake Ellesmere,1491039,Hororata River tributary 5,683,1100,Unnamed water race Dunsandel Road,,155,51,docc
+20947,8,2004,Lake Ellesmere,1491039,Hororata River tributary 5,683,1135,Unnamed water race Dunsandel Road, ,150,55,docc
+20948,8,2004,Lake Ellesmere,1491039,Hororata River tributary 5,683,1148,Unnamed water race Wrights Road, ,135,53,docc
+22554,5,2006,Selwyn River,1491045,Blacks Stream,680.05,1154,Blacks Stream,,245,84,docc
+22961,3,2007,Selwyn River,1491047,Waianiwaniwa River,680.05,1314,Waianiwaniwa River,,265,92,docc
+23626,10,2006,Pareora River,1491103,Pareora River tributary 3,701,day,Pareora River tributary,,55,9,doco
+23707,3,2007,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1230,Waianiwaniwa River tributary, ,255,91,docn
+23708,4,2007,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1000,Oyster Gully,,240,87,docc
+23709,4,2007,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,1027,Oyster Gully tributary, ,235,87,docc
+23710,4,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1101,Waianiwaniwa River tributary,,250,88,docc
+23711,4,2007,Selwyn River,1491047,Waianiwaniwa River,680.05,1140,Waianiwaniwa River, ,295,95,docc
+24871,5,2003,Waitaki River,1491134,Waitaki River tributary wetland 1,711,1110,Unnamed pond,,15,6,doco
+26303,3,2005,Waimakariri River,1491021,Mounseys Stream,664.063,1400,Mounseys Stream, ,308,65,oas
+26304,3,2005,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,oas
+26305,3,2005,Waimakariri River,1491020,Mounseys Stream tributary 8,664.063,,Mounseys Stream tributary,,310,64,oas
+26306,3,2005,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1420,Mounseys Stream tributary,,310,65,oas
+26307,3,2005,Waimakariri River,1491020,Mounseys Stream tributary 8,664.063,,Mounseys Stream tributary,,308,64,oas
+26308,3,2005,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1430,Mounseys Stream tributary,,310,65,oas
+26309,3,2005,Waimakariri River,1491021,Mounseys Stream,664.063, ,Mounseys Stream tributary, ,305,64,oas
+26310,3,2005,Waimakariri River,1491017,Mounseys Stream tributary 5,664.063,1430,Mounseys Stream tributary, ,310,64,oas
+26311,3,2005,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1420,Mounseys Stream wetland,,310,64,oas
+26313,10,2004,Waimakariri River,1491007,Cust River tributary,664.044, ,Cust River tributary, ,240,53,docc
+26320,10,2004,Selwyn River,1491048,Waianiwaniwa River tributary 2,680.05,1016,Waianiwaniwa River tributary,,235,84,docc
+26321,10,2004,Selwyn River,1491047,Waianiwaniwa River,680.05,944,Waianiwaniwa River,,235,84,docc
+26322,10,2004,Selwyn River,1491046,Waianiwaniwa River tributary 1,680.05,1035,Waianiwaniwa River tributary,,230,85,docc
+26355,10,2004,Selwyn River,1491046,Waianiwaniwa River tributary 1,680.05,1138,Waianiwaniwa River, ,220,82,docc
+26356,10,2004,Selwyn River,1491045,Blacks Stream,680.05,1314,Blacks Stream wetland, ,255,86,docc
+26357,10,2004,Selwyn River,1491045,Blacks Stream,680.05,1330,Blacks Stream, ,255,85,docc
+26389,2,2003,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1111,Mounseys Stream tributary,,310,65,oas
+26406,10,2004,Hinds River,1491088,North Branch Hinds River,691.01, ,North Branch Hinds River, ,265,43,docc
+26407,10,2004,Hinds River,1491088,North Branch Hinds River,691.01, ,North Branch Hinds River, ,265,43,docc
+26410,2,2002,Ashburton River,1491068,Ashburton River tributary drain,688,,Ashburton River tributary,,55,11,doch
+26545,10,2005,Waitaki River,1491135,Waitaki River tributary wetland 2,711,night,Unnamed wetland,,25,8,doco
+26546,10,2005,Waitaki River,1491135,Waitaki River tributary wetland 2,711,night,Unnamed wetland,,25,8,doco
+26643,10,2005,Waitaki River,1491135,Waitaki River tributary wetland 2,711,,Unnamed pond,,15,8,doco
+26647,10,2005,Waitaki River,1491136,Waitaki River tributary wetland 3,711, ,Unnamed wetland, ,25,9,doco
+26649,10,2005,Waitaki River,1491136,Waitaki River tributary wetland 3,711, ,Unnamed pond, ,25,9,doco
+26650,10,2005,Waitaki River,1491136,Waitaki River tributary wetland 3,711,,Unnamed pond,,25,9,doco
+26651,10,2005,Waitaki River,1491136,Waitaki River tributary wetland 3,711,,Unnamed pond,,25,9,doco
+26652,10,2005,Waitaki River,1491136,Waitaki River tributary wetland 3,711,,Unnamed pond,,25,9,doco
+26657,10,2005,Waitaki River,1491137,Waitaki River tributary wetland 4,711, ,Unnamed pond, ,35,10,doco
+26658,10,2005,Waitaki River,1491137,Waitaki River tributary wetland 4,711,,Waitaki River tributary,,35,10,doco
+26671,3,2006,Waitaki River,1491135,Waitaki River tributary wetland 2,711,,Welcome Creek tributary,,25,8,doco
+26672,3,2006,Waitaki River,1491136,Waitaki River tributary wetland 3,711,,Welcome Creek tributary,,25,9,doco
+26673,3,2006,Waitaki River,1491136,Waitaki River tributary wetland 3,711,,Unnamed pond,,25,9,doco
+26674,3,2006,Waitaki River,1491136,Waitaki River tributary wetland 3,711,,Waitaki River tributary,,25,9,doco
+26675,3,2006,Waitaki River,1491135,Waitaki River tributary wetland 2,711,,Unnamed pond,,25,8,doco
+26676,3,2006,Waitaki River,1491135,Waitaki River tributary wetland 2,711,,Unnamed pond,,25,8,doco
+27513,9,2019,Pareora River,1491103,Pareora River tributary 3,701,1000,Pareora River, ,40,9,docc
+27516,8,2019,Pareora River,1491142,Pareora River tributary 4,702,1000,Pareora River tributary, ,37,7,docc
+27536,8,2018,Hinds Drains,1491141,Twenty-One Drain,692,930,Farm Drain tributary of Dobsons Drain, , , ,docc
+27538,8,2018,Hinds Drains,1491141,Twenty-One Drain,692,1030,Dobsons Drain tributary, ,19,0,docc
+27539,8,2018,Hinds Drains,1491093,Unnamed wetland Wairuna,692,1200,Dobsons Drain tribuatary, ,14,2,docc
+27585,9,2008,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,900,Mounseys Stream tributary,,308,65,docc
+28361,6,2006,Harts Creek,1491065,Ellesmere drainage network,682,1102,Harts Creek tributary, ,5,10,docc
+28415,4,2007,Selwyn River,1491044,Nelsons Road Water Race,680.04,1200,Unnamed water race,,320,93,docc
+28416,6,2007,Selwyn River,1491056,Selwyn water race,680.04,1100,Unnamed water race,,175,72,docc
+28417,6,2007,Selwyn River,1491056,Selwyn water race,680.04,1115,Unnamed water race, ,170,73,docc
+28418,6,2007,Selwyn River,1491056,Selwyn water race,680.04,1400,Unnamed water race,,195,79,docc
+28419,6,2007,Selwyn River,1491056,Selwyn water race,680.04,1425,Unnamed water race,,185,78,docc
+28420,6,2007,Selwyn River,1491056,Selwyn water race,680.04,1450,Unnamed water race,,170,70,docc
+28501,11,2006,Waitaki River,1491137,Waitaki River tributary wetland 4,711,day,Unnamed pond,,35,10,doco
+28503,11,2006,Waitaki River,1491137,Waitaki River tributary wetland 4,711,day,Unnamed pond,,35,10,doco
+29036,4,2007,Selwyn River,1491038,Hororata River tributary 4,680.04,1100,Hororata River tributary, ,150,67,docc
+29037,6,2007,Selwyn River,1491056,Selwyn water race,680.04,1135,Unnamed water race, ,170,70,docc
+29038,6,2007,Selwyn River,1491056,Selwyn water race,680.04,1150,Unnamed water race, ,180,72,docc
+29042,6,2007,Selwyn River,1491056,Selwyn water race,680.04,1435,Unnamed water race, ,185,78,docc
+29062,4,2007,Selwyn River,1491059,Wairiri Stream,680.07,1350,Wairiri Stream,,265,82,docc
+29066,4,2007,Selwyn River,1491056,Selwyn water race,680.04,1500,Hororata Racecource pond, ,190,79,docc
+29078,4,2007,Selwyn River,1491040,Hororata River tributary 6,680.04, ,Unnamed pond, ,155,70,docc
+29402,7,2006,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,250,88,uoc
+29403,2,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,290,91,uoc
+29862,1,2009,Waimakariri River,1491021,Mounseys Stream,664.063,10.3,Mounseys Stream,,305,64,doc
+30044,8,2008,Selwyn River,1491032,Selwyn River tributary 2,680,1400,Selwyn River, ,52,38,docc
+30215,11,2004,Longbeach,1491067,Unnamed stock water race Lower Beach Road,690,day,Unnamed water race Lower Beach Rd,,22,1,inic
+30216,11,2004,Longbeach,1491067,Unnamed stock water race Lower Beach Road,690,day,Unnamed water race Lower Beach Rd,,25,2,inic
+30217,11,2004,Longbeach,1491067,Unnamed stock water race Lower Beach Road,690,day,Unnamed water race Lower Beach Rd,,25,2,inic
+30218,11,2004,Longbeach,1491067,Unnamed stock water race Lower Beach Road,690,day,Unnamed water race Lower Beach Rd,,25,1,inic
+30219,11,2004,Waihao River,1491122,Buchanans Creek,709.011,day,Buchanans Creek tributary,,8,5,inic
+30220,5,2005,Waihao River,1491122,Buchanans Creek,709.011,night,Buchanans Creek,,8,7,inic
+30221,11,2004,Waihao River,1491122,Buchanans Creek,709.011,day,Buchanans Creek,,8,6,inic
+30222,5,2005,Waihao River,1491122,Buchanans Creek,709.011,night,Buchanans Creek,,8,6,inic
+30223,5,2005,Waihao River,1491122,Buchanans Creek,709.011,night,Buchanans Creek,,8,6,inic
+30224,5,2005,Waihao River,1491122,Buchanans Creek,709.011,night,Buchanans Creek,,8,6,inic
+30225,6,2006,Longbeach,1491080,Unnamed stream Eiffleton,690,day,Unnamed water race Eiffelton,,55,11,inic
+30227,11,2004,Longbeach,1491080,Unnamed stream Eiffleton,690,day,Unnamed water race Surveyors Rd,,45,9,inic
+30228,6,2006,Longbeach,1491079,Unnamed water race Longbeach Road,690, ,Unnamed water race Surveyors Rd, ,47,9,inic
+30229,6,2006,Longbeach,1491079,Unnamed water race Longbeach Road,690, ,Unnamed wetland Eiffelton, ,47,9,inic
+30230,5,2005,Longbeach,1491079,Unnamed water race Longbeach Road,690,night,Unnamed water race Surveyors Rd,,47,9,inic
+30231,11,2004,Longbeach,1491079,Unnamed water race Longbeach Road,690,day,Unnamed water race Surveyors Rd,,47,9,inic
+30232,5,2005,Longbeach,1491079,Unnamed water race Longbeach Road,690,night,Unnamed water race Surveyors Rd,,47,8,inic
+30233,5,2005,Longbeach,1491079,Unnamed water race Longbeach Road,690,night,Unnamed water race Longbeach Rd,,47,8,inic
+30234,11,2004,Longbeach,1491079,Unnamed water race Longbeach Road,690,day,Unnamed water race Longbeach Rd,,47,8,inic
+30235,5,2005,Longbeach,1491079,Unnamed water race Longbeach Road,690,night,Unnamed water race Longbeach Rd,,47,8,inic
+30236,11,2004,Longbeach,1491079,Unnamed water race Longbeach Road,690,day,Unnamed water race Longbeach Rd,,0,0,inic
+30237,11,2004,Longbeach,1491079,Unnamed water race Longbeach Road,690,day,Unnamed water race Longbeach Rd,,0,0,inic
+30238,6,2006,Longbeach,1491079,Unnamed water race Longbeach Road,690, ,Unnamed water race Surveyors Rd, ,45,8,inic
+30239,6,2006,Longbeach,1491080,Unnamed stream Eiffleton,690, ,Unnamed water race Eiffelton, ,49,9,inic
+30240,6,2006,Longbeach,1491079,Unnamed water race Longbeach Road,690, ,Unnamed water race Eiffelton, ,48,9,inic
+30241,2,2004,Lake Ellesmere,1491039,Hororata River tributary 5,683, ,Unnamed water race Dunsandel Rd, ,149,55,uoc
+30242,11,2004,Ashburton River,1491068,Ashburton River tributary drain,688,day,Ashburton River tributary,,57,11,inic
+30243,12,2006,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,,South Branch Ashburton River tributary,,158,35,inic
+30244,12,2006,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688, ,South Branch Ashburton River tributary, ,158, ,inic
+30245,12,2006,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,158,35,inic
+30246,12,2006,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,157,35,inic
+30247,12,2006,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,157,35,inic
+30248,12,2006,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,158,35,inic
+30249,11,2004,Waitaki River,1491131,Mount Harris Stream,711.01,day,Mt Harris Stream,,90,24,inic
+30250,2,2006,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,,North Branch Hinds River wetland,,435,64,inic
+30251,2,2006,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,night,North Branch Hinds River tributary,,430,63,inic
+30253,3,2005,Avon River,1491029,Okeover Stream (Translocation),666,930,Okeover Stream (from captive population),,15,23,uoc
+30254,6,2006,Longbeach,1491082,Unnamed drain Windermere Road,690, ,Unnamed drain Peatlands, ,59,13,inic
+30255,6,2006,Longbeach,1491082,Unnamed drain Windermere Road,690,day,Unnamed drain Peatlands,,58,13,inic
+30256,6,2006,Longbeach,1491082,Unnamed drain Windermere Road,690, ,Unnamed drain Peatlands, ,57,13,inic
+30261,11,2004,Waitaki River,1491128,Whitneys Creek tributary,711,day,Whitneys Creek tributary,,45,13,inic
+30262,11,2004,Waitaki River,1491128,Whitneys Creek tributary,711,day,Whitneys Creek tributary,,45,12,inic
+30263,11,2004,Waitaki River,1491128,Whitneys Creek tributary,711,day,Whitneys Creek tributary,,45,12,inic
+30264,11,2004,Waitaki River,1491129,Waikakahi Stream tributary,711.01,day,Waikakahi Stream tributary,,43,13,inic
+30265,11,2004,Waitaki River,1491132,Ryde Stream,711.01,day,Ryde Stream,,110,24,inic
+30266,11,2004,Waitaki River,1491133,Redcliff Stream water race,711.01,day,Unnamed water race Pikes Point Rd,,80,25,inic
+30268,11,2004,Longbeach,1491079,Unnamed water race Longbeach Road,690, ,Unnamed water race Longbeach Rd, ,32,5,inic
+30269,11,2004,Longbeach,1491078,Unnamed water race Grahams Road 3,690, ,Unnamed water race Dawsons Rd, ,33,5,inic
+30270,11,2006,Morven,1491124,Unnamed stream Morven 2,710,day,Sinclairs Creek,,25,8,inic
+30271,11,2004,Morven,1491123,Unnamed stream Morven 1,710,day,Sinclairs Creek,,10,4,inic
+30272,11,2004,Morven,1491125,Unnamed stream Morven 3,710.01, ,Broad Gully Stream, ,40,8,inic
+30273,1,2006,St Andrews,1491106,Unnamed stream St Andrews,702,night,Unnamed stream St Andrews,,22,4,inic
+30274,1,2006,St Andrews,1491106,Unnamed stream St Andrews,702,night,Unnamed stream St Andrews,,22,4,inic
+30275,1,2006,St Andrews,1491106,Unnamed stream St Andrews,702,night,Unnamed stream St Andrews,,22,4,inic
+30276,1,2006,St Andrews,1491106,Unnamed stream St Andrews,702,night,Unnamed stream St Andrews,,15,3,inic
+30277,1,2006,St Andrews,1491106,Unnamed stream St Andrews,702,night,Unnamed stream St Andrews,,17,3,inic
+30278,1,2006,St Andrews,1491106,Unnamed stream St Andrews,702,night,Unnamed stream St Andrews,,12,3,inic
+30279,11,2005,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,day,Mounseys Stream tributary,,317,65,inic
+30280,11,2005,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,night,Mounseys Stream tributary,,312,65,inic
+30281,11,2006,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,night,Mounseys Stream tributary,,310,65,inic
+30282,11,2005,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,night,Mounseys Stream tributary,,308,65,inic
+30283,11,2004,Hook River,1491118,Waituna Stream,707.01,day,Waituna Stream,,70,13,inic
+30284,11,2004,Longbeach,1491073,Unnamed stockwater race Grahams Road 1,690,day,Unnamed water race Waterton,,27,3,inic
+30285,6,2006,Longbeach,1491074,Unnamed water race Grahams Road 2,690, ,Unnamed stockwater race Waterton, ,25,2,inic
+30286,6,2006,Longbeach,1491074,Unnamed water race Grahams Road 2,690, ,Unnamed stockwater race Waterton, ,24,2,inic
+30287,11,2004,Longbeach,1491074,Unnamed water race Grahams Road 2,690,day,Unnamed stockwater race Waterton,,23,1,inic
+30288,11,2004,Longbeach,1491074,Unnamed water race Grahams Road 2,690,day,Unnamed stockwater race Waterton,,23,1,inic
+30289,11,2004,Longbeach,1491074,Unnamed water race Grahams Road 2,690,day,Unnamed stockwater race Waterton,,22,1,inic
+30290,6,2006,Longbeach,1491074,Unnamed water race Grahams Road 2,690, ,Unnamed stockwater race Waterton, ,26,1,inic
+30291,6,2006,Longbeach,1491074,Unnamed water race Grahams Road 2,690, ,Unnamed stockwater race Waterton, ,10,1,inic
+30292,6,2006,Longbeach,1491074,Unnamed water race Grahams Road 2,690, ,Unnamed stockwater race Waterton, ,15,0,inic
+30293,11,2004,Longbeach,1491074,Unnamed water race Grahams Road 2,690,day,Unnamed stockwater race Waterton,,15,0,inic
+30294,6,2006,Longbeach,1491074,Unnamed water race Grahams Road 2,690,night,Unnamed stockwater race Waterton,,22,1,inic
+30295,12,2004,Avon River,1491029,Okeover Stream (Translocation),666,500,Okeover Stream (from L. Georgina), ,15,23,uoc
+30296,8,2006,Selwyn River,1491056,Selwyn water race,680.04,day,Unnamed water race Hororata,,185,78,inic
+30297,8,2006,Selwyn River,1491056,Selwyn water race,680.04,day,Unnamed lake Hororata,,193,79,inic
+30298,8,2006,Selwyn River,1491056,Selwyn water race,680.04,day,Unnamed water race Hororata Domain,,195,79,inic
+30423,6,2009,Waitaki River,1491139,Waitaki River tributary 2,711,night,Waitaki River tributary,,85,27,doc
+30424,6,2009,Morven Drain,1491126,Dog Kennel Stream,710.02, ,Dog Kennel Stream, ,90,15,docc
+30426,6,2009,Waitaki River,1491139,Waitaki River tributary 2,711,night,Waitaki River tributary,,85,27,docc
+30427,6,2009,Waitaki River,1491139,Waitaki River tributary 2,711,night,Waitaki River tributary,,87,28,docc
+30428,6,2009,Waitaki River,1491139,Waitaki River tributary 2,711,night,Waitaki River tributary,,87,28,docc
+30436,7,2009,Waitaki River,1491135,Waitaki River tributary wetland 2,711,night,Waitaki River tributary,,25,8,docc
+30832,7,2009,Selwyn River,1491042,Cordys Stream,680.04,1105,Cordys Stream,,180,77,docc
+30836,8,2009,Selwyn River,1491057,Coalgate water race,680,1030,Selwyn River, ,147,62,docc
+30837,8,2009,Selwyn River,1491057,Coalgate water race,680,954,Water race, ,145,63,docc
+30838,8,2009,Selwyn River,1491057,Coalgate water race,680,1010,Water race,,140,62,docc
+30839,8,2009,Selwyn River,1491057,Coalgate water race,680,940,Water race, ,145,64,docc
+30840,8,2009,Selwyn River,1491057,Coalgate water race,680,945,Water race,,145,63,docc
+30841,8,2009,Selwyn River,1491040,Hororata River tributary 6,680.04,1200,Hororata River tributary, ,165,72,docc
+30929,9,2008,Woodend,1491004,Tutaepatu Lagoon,663,1130,Tutai Patu Lagoon, ,5,9,docc
+30933,9,2009,Selwyn River,1491036,Hororata River tributary 2,680.04,1050,Hororata River tributary,,140,64,docc
+30934,7,2005,Selwyn River,1491058,Selwyn River tributary 6,680.06,1100,Survey0rs Gully,,265,81,docc
+30935,7,2005,Selwyn River,1491058,Selwyn River tributary 6,680.06,1132,Surveyors Gully, ,260,81,docc
+30936,7,2005,Selwyn River,1491058,Selwyn River tributary 6,680,1200,Selwyn River,,255,80,docc
+30944,5,2009,Lee River,1491066,Tent Burn,684.03,1500,Lee River Wetland, ,5,0,docc
+30945,5,2009,Coopers Lagoon,1491066,Tent Burn,684.01,1430,Coopers Lagoon,,6,0,docc
+30956,9,2008,Avon River,1491027,Avon River tributary wetland (Translocation),666,1400,Travis Wetland, ,5,7,docc
+32820,12,1964,Hinds River,1491090,Hinds River North Branch tributary 1,691.01,day,North Branch Hinds River,,332,54,niwa
+32821,,1968,Hinds River,1491090,Hinds River North Branch tributary 1,691.01,,North Branch Hinds River,,332,54,uoc
+32822,,1968,Washdyke Creek,1491095,Waitawa Creek,698,,Waitawa Creek,,29,10,uoc
+32823,,1968,Hook River,1491120,Waituna Stream ponds,707.01,,Waituna Stream tributary ponds,,52,11,uoc
+32824,,1968,Hook River,1491120,Waituna Stream ponds,707,,Unnamed ponds,,52,11,uoc
+32825,,1968,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,uoc
+32826,,1968,Waitaki River,1491138,Waitaki River tributary 1,711,,Unnamed water race Ikawai,,78,24,uoc
+32827,,1975,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,308,65,niwa
+32828,,1975,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,niwa
+32829,,1975,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,64,niwa
+32830,,1975,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,64,niwa
+32831,,1975,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,64,niwa
+32832,,1975,Hinds River,1491090,Hinds River North Branch tributary 1,691.01,,Hinds River North Branch,,331,54,niwa
+32833,,1975,Hinds River,,Arundel Rakaia Gorge Road water race,691.01,,Hinds River North Branch,,276,47,niwa
+32834,,1975,Hinds River,1491087,Hinds River tributary 3,691,,Hinds River,,236,41,niwa
+32835,,1975,Hinds River,1491086,Hinds River tributary 2,691,,Hinds River,,218,39,niwa
+32836,8,1975,Hinds River,1491085,Unnamed water race Barford Road,691,,Unnamed water race Clearwell,,194,35,niwa
+32837,,1975,Longbeach,1491078,Unnamed water race Grahams Road 3,690,,Unnamed stream Beachcroft,,245,3,niwa
+32838,,1975,Washdyke Creek,1491096,Rosewill Stream,698.02,,Rosewill Stream,,53,12,niwa
+32839,6,1975,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,9,6,niwa
+32840,8,1975,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,9,6,niwa
+32841,5,1976,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,9,6,niwa
+32842,,1975,Waitaki River,1491127,Whitneys Creek,711,,Whitneys Creek,,57,17,niwa
+32843,,1926,Waimakariri River,1491009,Eyre River tributary 1,664.06,,Eyre River tributary,,257,56,indx
+32849,2,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,295,91,uoc
+32850,2,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,292,91,uoc
+32851,2,2007,Selwyn River,1491043,Hororata River 2,680.05,night,Hororata River,,191,79,uoc
+32852,2,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,282,91,uoc
+32853,2,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,275,90,uoc
+32854,2,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,275,90,uoc
+32855,2,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,271,90,uoc
+32856,2,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,257,89,uoc
+32857,2,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,249,88,uoc
+32858,2,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,249,88,uoc
+32859,2,2007,Selwyn River,1491047,Waianiwaniwa River,680.05,night,Waianiwaniwa River,,248,88,uoc
+32860,2,2007,Selwyn River,1491047,Waianiwaniwa River,680.05,night,Waianiwaniwa River,,258,90,uoc
+32861,2,2007,Selwyn River,1491054,Waianiwaniwa River tributary 7,680,night,Waianiwaniwa River tributary pond,,272,91,uoc
+32862,2,2007,Selwyn River,1491047,Waianiwaniwa River,680,night,Waianiwaniwa River,,271,92,uoc
+32863,2,2007,Selwyn River,1491050,Waianiwaniwa River tributary 4,680,night,Oyster Gully,,250,87,uoc
+32865,7,2006,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,271,90,uoc
+32866,7,2006,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,275,90,uoc
+32867,7,2006,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,272,90,uoc
+32868,7,2006,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,275,90,uoc
+32869,7,2006,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,275,90,uoc
+32870,7,2006,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,281,91,uoc
+32871,7,2006,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,280,91,uoc
+32872,7,2006,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,284,91,uoc
+32873,7,2006,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,293,91,uoc
+32877,7,2006,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,night,Waianiwaniwa River tributary,,270,91,uoc
+32879,7,2006,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05, ,Waianiwaniwa River tributary, ,265,91,uoc
+32880,7,2006,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,night,Waianiwaniwa River tributary,,260,91,uoc
+32881,7,2006,Selwyn River,1491047,Waianiwaniwa River,680.05,night,Waianiwaniwa River,,276,93,uoc
+32882,7,2006,Selwyn River,1491047,Waianiwaniwa River,680.05, ,Waianiwaniwa River, ,271,92,uoc
+32884,7,2006,Selwyn River,1491047,Waianiwaniwa River,680.05,night,Waianiwaniwa River,,258,90,uoc
+32885,7,2006,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,night,Waianiwaniwa River tributary,,255,87,uoc
+32886,1,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,295,91,uoc
+32887,1,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,293,91,uoc
+32888,1,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,281,91,uoc
+32889,1,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,284,91,uoc
+32890,1,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,275,90,uoc
+32891,1,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,275,90,uoc
+32892,1,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,271,90,uoc
+32893,1,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,257,89,uoc
+32894,1,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,249,88,uoc
+32895,1,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,249,88,uoc
+32896,1,2007,Selwyn River,1491047,Waianiwaniwa River,680.05,night,Waianiwaniwa River,,248,88,uoc
+32897,1,2007,Selwyn River,1491047,Waianiwaniwa River,680.05,night,Waianiwaniwa River,,258,90,uoc
+32898,1,2007,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,night,Waianiwaniwa River tributary,,270,91,uoc
+32899,1,2007,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,night,Waianiwaniwa River tributary,,263,91,uoc
+32900,1,2007,Selwyn River,1491047,Waianiwaniwa River,680.05,night,Waianiwaniwa River,,271,92,uoc
+32901,1,2007,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,night,Waianiwaniwa River tributary,,255,87,uoc
+32902,1,2007,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,night,Oyster Gully,,250,87,uoc
+34053,8,2010,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1000,Mounseys Stream tributary,,309,65,docc
+34054,8,2009,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1000,Mounseys Stream tributary,,309,65,docc
+34065,7,2012,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,900,Mounseys Stream,,310,65,doc
+34075,6,2013,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1000,Mounseys Stream,,310,64,doc
+34306,12,2010,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,day,Horseshoe Bend Stream,,22,7,docc
+34307,12,2010,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,day,Horseshoe Bend Stream,,18,6,docc
+34308,12,2010,Washdyke Creek,1491096,Rosewill Stream,698.02,1530,Rosewill Stream, ,54,13,docc
+34310,12,2010,Washdyke Creek,1491100,Papaka Stream 2,698.02,1400,Papaka Stream,,56,15,docc
+34312,8,2009,Hook River,1491116,Wainono Lagoon,707,day,Wainono Lagoon,,5,2,docc
+34313,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,9,4,docc
+34314,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,9,3,docc
+34315,8,2009,Hook River,1491116,Wainono Lagoon,707,day,Wainono Lagoon,,5,2,docc
+34316,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,9,3,docc
+34317,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,9,3,docc
+34318,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,9,3,docc
+34319,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,9,3,docc
+34320,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,9,3,docc
+34321,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,9,3,docc
+34322,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,9,3,docc
+34323,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,9,3,docc
+34324,1,2010,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,9,3,docc
+34326,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,9,4,docc
+34327,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,9,4,docc
+34328,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,1343,Kohika Stream tributary,,9,4,docc
+34329,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,1343,Kohika Stream tributary, ,9,4,docc
+34330,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,1315,Kohika Stream tributary,,8,4,docc
+34331,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,1315,Kohika Stream tributary,,9,4,docc
+34332,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,1343,Kohika Stream tributary,,9,4,docc
+34333,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,1343,Kohika Stream tributary, ,9,4,docc
+34334,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,1343,Kohika Stream tributary, ,9,4,docc
+34335,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,9,4,docc
+34336,1,2011,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,10,4,docc
+34337,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,docc
+34338,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,docc
+34353,12,2010,Washdyke Creek,1491097,Papaka Stream 1,698.02,1430,Papaka Stream,,19,8,docc
+34371,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1621,North Branch Hinds River tributary, ,438,63,docc
+34372,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1620,North Branch Hinds River tributary, ,438,63,docc
+34373,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,day,North Branch Hinds River tributary,,438,63,docc
+34374,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1619,North Branch Hinds River tributary,,438,63,docc
+34375,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1632,North Branch Hinds River tributary, ,438,63,docc
+34376,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1613,North Branch Hinds River tributary, ,437,63,docc
+34377,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1554,North Branch Hinds River tributary, ,437,63,docc
+34378,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1611,North Branch Hinds River tributary, ,437,63,docc
+34379,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1610,North Branch Hinds River tributary, ,437,63,docc
+34380,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1608,North Branch Hinds River tributary,,437,63,docc
+34381,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1608,North Branch Hinds River tributary, ,437,63,docc
+34407,2,2008,Ashburton River,1491068,Ashburton River tributary drain,688,1450,Ashburton River tributary,,58,11,docc
+34668,8,2011,Pegasus,1491003,Taranaki Stream tributary 1,663,1400,Tutai Patu Lagoon,,8,5,docc
+34669,8,2011,Pegasus,1491003,Taranaki Stream tributary 1,663,1105,Tutai Patu Lagoon, , , ,docc
+34670,8,2011,Pegasus,1491003,Taranaki Stream tributary 1,663,1125,Tutai Patu Lagoon, , , ,docc
+34671,8,2011,Pegasus,1491002,Taranaki Stream tributary wetland (pre Pegasus town),663,1145,Tutai Patu Lagoon,,0,0,docc
+34672,8,2011,Pegasus,1491003,Taranaki Stream tributary 1,663,1215,Unnamed stream Pegasus, ,8,5,docc
+34673,8,2011,Pegasus,1491002,Taranaki Stream tributary wetland (pre Pegasus town),663,1245,Unnamed stream Pegasus,,0,0,docc
+34674,6,2010,Selwyn River,1491038,Hororata River tributary 4,680.04,1125,Hororata River tributary, ,162,69,docc
+34676,12,2010,Selwyn River,1491038,Hororata River tributary 4,680.04,1433,Hororata River tributary, ,150,67,docc
+34677,12,2010,Selwyn River,1491038,Hororata River tributary 4,680.04,1316,Hororata River tributary, ,148,66,docc
+34678,6,2011,Lee River,1491066,Tent Burn,684.03,923,Lee River,,7,1,docc
+34679,6,2011,Lee River,1491066,Tent Burn,684.031,1100,Tent Burn,,7,1,docc
+34684,9,2008,Selwyn River,1491056,Selwyn water race,680.04,1230,Hororata River tributary,,188,78,docc
+35001,6,2012,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,95,15,docc
+35002,6,2012,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,95,15,docc
+35003,6,2012,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,95,15,docc
+35004,6,2012,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River tributary,,155,35,docc
+35005,6,2012,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River,,155,35,docc
+35006,6,2012,Waitaki River,1491135,Waitaki River tributary wetland 2,711,night,Waitaki River tributary,,25,9,docc
+35007,5,2012,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,155,70,docc
+35008,5,2012,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,150,70,docc
+35009,5,2012,Avon River,1491030,Avon River pond (Translocation),666,,Unnamed pond,,22,22,docc
+35010,5,2012,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,,Unnamed stream Waimakariri River,,30,20,docc
+35011,5,2012,Selwyn River,1491037,Hororata River tributary 3,680.04,,Hororata River tributary,,142,70,docc
+35012,5,2012,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,148,70,docc
+35013,5,2012,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,147,70,docc
+35014,5,2012,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,3,7,docc
+35015,5,2012,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,3,7,docc
+35016,5,2012,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Avon River, ,3,7,docc
+50004,,,Waimakariri River,1491007,Cust River tributary,664.044,,Cust River tributary,,260,53,unk
+50371,,1946,Waimakariri River,1491006,North Brook tributary,664.042,,Cam River,,25,18,unk
+50395,2,1971,Woodend,1491004,Tutaepatu Lagoon,663,,Unnamed wetland,,4,9,unk
+50459,,1975,Waimakariri River,1491010,Coopers Creek tributary,664.062,,Coopers Creek tributary,,270,58,niwa
+50509,8,1962,Hinds River,1491083,Unnamed drain Maronan Valetta Road,691,,Unnamed irrigation race,,165,28,niwa
+50512,11,1975,Hinds River,1491091,Hinds River North Branch tributary wetland 1,691.01,night,North Branch Hinds River tributary,,420,59,niwa
+50556,11,1962,Hinds River,1491088,North Branch Hinds River,691.01, ,North Branch Hinds River, ,265,43,niwa
+50609,,1975,Hinds River,1491084,Hinds River tributary 1,691,,Clearwell Springs,,195,33,niwa
+50620,11,1977,Ashburton River,1491070,Ashburton River tributary 1,688,,Ashburton River tributary,,90,21,unk
+50622,2,1939,Ashburton River,1491069,Carters Creek tributary,688,,Carters Creek tributary,,90,18,unk
+50647,5,1947,Longbeach,1491076,Unnamed water race Bells Road,690,,Unnamed stream Eiffelton,,45,9,unk
+50690,12,1976,Washdyke Creek,1491099,Papaka Stream tributary 2,698.02,,Papaka Stream tributary,,40,14,niwa
+50705,12,1975,Pareora River,1491102,Pareora River tributary 2,701,,Pareora River tributary,,5,2,niwa
+50711,12,1975,Pareora River,1491102,Pareora River tributary 2,701,,Pareora River tributary,,10,3,niwa
+50714,12,1976,St Andrews,1491106,Unnamed stream St Andrews,702,,Unnamed stream St Andrews,,5,0,niwa
+50715,5,1976,St Andrews,1491106,Unnamed stream St Andrews,702,,Unnamed stream St Andrews,,5,0,niwa
+50720,4,1976,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,,Horseshoe Bend Stream,,20,7,niwa
+50721,12,1976,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,,Horseshoe Bend Stream,,20,7,niwa
+50726,,1975,Hook River,1491120,Waituna Stream ponds,707.01,night,Unnamed pond,,50,19,niwa
+50740,,1975,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,80,15,niwa
+50741,11,1975,Waitaki River,1491127,Whitneys Creek,711,night,Whitneys Creek,,45,12,niwa
+50742,4,1976,Waitaki River,1491127,Whitneys Creek,711,,Whitneys Creek,,45,12,niwa
+100165,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,320,97,uoc
+100166,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,320,97,uoc
+100167,1,2010,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,,Waianiwaniwa River tributary,,300,95,chhf
+100168,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,300,95,uoc
+100169,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River tributary,,275,93,uoc
+100170,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River tributary,,280,93,chhf
+100171,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River tributary,,275,93,uoc
+100172,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,270,92,uoc
+100173,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,270,92,uoc
+100176,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,260,91,uoc
+100177,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,260,91,uoc
+100178,1,2010,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,,Waianiwaniwa River tributary,,310,93,uoc
+100179,1,2010,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,,Waianiwaniwa River tributary,,290,93,uoc
+100180,1,2010,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,,Waianiwaniwa River tributary,,280,92,uoc
+100181,1,2010,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,,Waianiwaniwa River tributary,,270,91,uoc
+100182,1,2010,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,,Waianiwaniwa River tributary,,260,91,uoc
+100183,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River tributary,,260,90,uoc
+100184,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,260,90,uoc
+100185,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,260,90,uoc
+100186,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,260,90,uoc
+100187,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,260,90,uoc
+100188,1,2010,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,,Waianiwaniwa River tributary,,290,91,uoc
+100189,1,2010,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,280,91,uoc
+100190,1,2010,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,,Waianiwaniwa River tributary,,280,91,uoc
+100191,1,2010,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,280,91,uoc
+100192,1,2010,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05, ,Waianiwaniwa River tributary, ,280,90,uoc
+100193,1,2010,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,,Waianiwaniwa River tributary,,250,88,uoc
+100194,1,2010,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,,Waianiwaniwa River tributary,,250,88,uoc
+100195,1,2010,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,,Waianiwaniwa River tributary,,250,87,uoc
+100196,1,2010,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,,Waianiwaniwa River tributary,,260,87,uoc
+100197,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05, ,Waianiwaniwa River, ,240,86,uoc
+100198,1,2010,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,240,85,uoc
+100199,1,2010,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,,Waianiwaniwa River tributary,,240,84,uoc
+100214,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,1040,Unnamed water race, ,70,30,docc
+100215,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680, ,Unnamed water race, ,30,23,docc
+100216,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680, ,Unnamed water race, ,30,23,docc
+100217,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680, ,Unnamed water race, ,30,23,docc
+100218,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,1310,Unnamed water race, ,50,22,docc
+100219,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,1025,Unnamed water race,,60,30,docc
+100220,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,1050,Unnamed water race,,60,33,docc
+100221,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,1100,Unnamed water race,,60,33,docc
+100222,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,1115,Unnamed water race,,60,32,docc
+100223,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,1135,Unnamed water race,,60,30,docc
+100224,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,1145,Unnamed water race,,55,30,docc
+100225,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,1200,Unnamed water race,,50,30,docc
+100226,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,1210,Unnamed water race,,55,30,docc
+100227,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,50,23,docc
+100228,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,35,23,docc
+100229,7,2012,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,1330,Unnamed water race,,35,21,docc
+100230,6,2013,Morven Drain,1491126,Dog Kennel Stream,710.02,night,Dog Kennel Stream,,110,15,docc
+100231,6,2013,Morven Drain,1491126,Dog Kennel Stream,710.02,night,Dog Kennel Stream,,100,15,docc
+100232,6,2013,Morven Drain,1491126,Dog Kennel Stream,710.02,night,Dog Kennel Stream,,100,15,docc
+100233,6,2013,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,Unnamed wetland South Branch Ashburton R,,155,35,docc
+100235,7,2013,Waitaki River,1491135,Waitaki River tributary wetland 2,711,night,Waitaki River tributary,,30,8,docc
+100236,7,2013,Selwyn River,1491040,Hororata River tributary 6,680.04,,Hororata River tributary,,170,71,docc
+100237,7,2013,Selwyn River,1491040,Hororata River tributary 6,680.04,,Hororata River tributary,,170,72,docc
+100238,7,2013,Selwyn River,1491043,Hororata River 2,680.04,,Hororata River tributary,,180,78,docc
+100241,6,2013,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664,,Unnamed pond,,30,21,docc
+100245,6,2013,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,150,67,docc
+100247,10,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race Southbridge Dunsandel,,50,30,inic
+100248,10,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,50,31,inic
+100249,10,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race Southbridge Dunsandel,,50,30,inic
+100250,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,65,33,inic
+100251,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,60,33,inic
+100252,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,55,33,inic
+100253,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,60,33,inic
+100254,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,60,30,inic
+100255,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,50,30,inic
+100256,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,55,30,inic
+100257,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,55,30,inic
+100258,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,55,30,inic
+100259,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,55,30,inic
+100260,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,55,30,inic
+100261,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,55,25,inic
+100262,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,55,25,inic
+100263,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,50,23,inic
+100264,11,2011,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network,683,,Unnamed water race,,40,23,inic
+100265,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,40,24,inic
+100266,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,35,23,inic
+100267,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,35,23,inic
+100268,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,35,23,inic
+100269,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,35,23,inic
+100270,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,35,22,inic
+100271,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,40,23,inic
+100272,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,35,21,inic
+100273,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,35,21,inic
+100274,11,2011,Selwyn River,1491064,Ellesmere stockwater race and drainage network,680,,Unnamed water race,,55,28,inic
+100275,10,2012,St Andrews,1491106,Unnamed stream St Andrews,702,,Unnamed stream St Andrews,,5,1,inic
+100276,10,2012,Washdyke Creek,1491100,Papaka Stream 2,698.02,,Papaka Stream,,50,14,inic
+100277,10,2012,Washdyke Creek,1491100,Papaka Stream 2,698.02,,Papaka Stream tributary,,50,14,inic
+100278,10,2012,Selwyn River,1491037,Hororata River tributary 3,680.04,,Hororata River tributary,,130,65,inic
+100279,10,2012,Selwyn River,1491039,Hororata River tributary 5,680,,Unnamed water race,,130,53,inic
+100280,11,2012,Hinds River,1491087,Hinds River tributary 3,691,,Hinds River tributary,,240,41,docc
+100281,11,2012,Waimakariri River,1491013,Mounseys Stream tributary 1,664.06,,Eyre River tributary,,310,63,inic
+100282,11,2012,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,inic
+100348,11,1996,Whitneys Creek,1491127,Whitneys Creek,710, ,Whitneys Creek tributary, ,55,17,docc
+100349,11,1996,Waitaki River,1491131,Mount Harris Stream,711, ,Mount Harris Stream, ,110,25,docc
+100350,11,1996,Waitaki River,1491131,Mount Harris Stream,711,,Mount Harris Stream,,100,25,docc
+100351,11,1996,Waitaki River,1491131,Mount Harris Stream,711,,Mount Harris Stream,,80,23,docc
+100352,11,1996,Waitaki River,1491131,Mount Harris Stream,711,,Mount Harris Stream,,80,23,docc
+100354,11,1996,Whitneys Creek,1491127,Whitneys Creek,710, ,Whitneys Creek, ,70,12,docc
+100355,12,1996,Hinds River,1491084,Hinds River tributary 1,691, ,Hinds River tributary, ,190,33,docc
+100356,12,1996,Hinds River,1491088,North Branch Hinds River,691.01,,Hinds River North Branch tributary,,250,-5,docc
+100357,12,1996,Hinds River,1491086,Hinds River tributary 2,691,,Hinds River tributary,,220,38,docc
+100358,8,1996,Wainono Lagoon,1491116,Wainono Lagoon,707,,Wainono Lagoon wetland,,5,2,docc
+100359,8,1996,Wainono Lagoon,1491116,Wainono Lagoon,707,,Wainono Lagoon wetland,,5,2,docc
+100367,9,1996,Washdyke Creek,1491096,Rosewill Stream,698, ,Rosewill Stream, ,50,12,docc
+100369,10,1996,Pareora River,1491105,Taiko Stream (Translocation),701,,Taiko Stream,,110,23,docc
+100370,10,1996,Pareora River,1491105,Taiko Stream (Translocation),701,,Taiko Stream,,110,26,docc
+100372,10,1996,Pareora River,1491105,Taiko Stream (Translocation),701,,Taiko Stream,,110,23,docc
+100375,10,1996,Pareora River,1491101,Pareora River tributary 1,701,,Pareora River tributary,,10,3,docc
+100387,7,1996,Hook River,1491116,Wainono Lagoon,707,,Hook River,,5,2,docc
+100388,7,1996,Hook River,1491116,Wainono Lagoon,707,,Wainono Lagoon wetland,,5,2,docc
+100389,7,1996,Hook River,1491116,Wainono Lagoon,707,,Hook River tributary,,5,2,docc
+100390,7,1996,Hook River,1491116,Wainono Lagoon,707, ,Hook River tributary, ,5,2,docc
+100395,8,1996,Wainono Lagoon,1491116,Wainono Lagoon,707,,Wainono Lagoon wetland,,5,2,docc
+100396,8,1996,Wainono Lake,1491116,Wainono Lagoon,707,,Wainono Lagoon wetland,,5,2,docc
+100405,7,1996,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,,Horseshoe Bend Stream,,10,5,docc
+100406,7,1996,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,,Horseshoe Bend Stream,,15,6,docc
+100407,7,1996,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705, ,Horseshoe Bend Stream, ,50,8,docc
+100412,5,2009,Waimakariri River,1491020,Mounseys Stream tributary 8,664.063,,Mounseys Stream tributary,,300,66,inic
+100413,5,2005,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100414,5,2005,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100415,5,2005,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100416,7,2006,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100417,7,2006,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100418,7,2006,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100419,6,2007,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100420,6,2007,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100421,6,2007,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100422,4,2008,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100423,4,2008,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100424,4,2008,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100425,6,2009,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100426,6,2009,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100427,6,2010,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100428,6,2010,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100429,6,2010,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,100,15,docc
+100430,7,2005,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100431,7,2005,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100432,7,2006,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100433,7,2006,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100434,6,2007,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100435,6,2007,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100436,7,2008,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100437,7,2008,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100438,7,2009,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100439,7,2009,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100440,6,2010,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100441,6,2010,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,150,35,docc
+100442,7,2010,Waitaki River,1491135,Waitaki River tributary wetland 2,711,night,Waitaki River tributary,,30,8,docc
+100443,5,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666,,Unnamed wetland,,10,7,docc
+100444,7,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666,,Unnamed wetland,,10,7,docc
+100445,7,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666,,Unnamed wetland,,10,7,docc
+100446,11,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666,,Unnamed wetland,,10,7,docc
+100447,2,2011,Avon River,1491027,Avon River tributary wetland (Translocation),666,,Unnamed wetland,,10,7,indx
+100448,3,2011,Avon River,1491027,Avon River tributary wetland (Translocation),666,,Unnamed wetland,,10,7,docc
+100449,5,2011,Avon River,1491027,Avon River tributary wetland (Translocation),666,,Unnamed wetland,,10,7,docc
+100450,8,2011,Pegasus,1491002,Taranaki Stream tributary wetland (pre Pegasus town),663,,Unnamed wetland,,0,0,docc
+100451,8,2011,Pegasus,1491002,Taranaki Stream tributary wetland (pre Pegasus town),663,,Unnamed wetland,,5,5,docc
+100452,8,2011,Pegasus,1491002,Taranaki Stream tributary wetland (pre Pegasus town),663,,Unnamed wetland,,5,5,docc
+100453,4,2007,Selwyn River,1491037,Hororata River tributary 3,680.04,,Hororata River tributary,,150,65,docc
+100454,5,2009,Selwyn River,1491037,Hororata River tributary 3,680.04,,Hororata River tributary,,150,65,docc
+100455,6,2010,Selwyn River,1491037,Hororata River tributary 3,680.04,,Hororata River tributary,,150,65,docc
+100456,4,2011,Selwyn River,1491037,Hororata River tributary 3,680.04,,Hororata River tributary,,150,65,docc
+100457,6,2008,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664,,Peacock Springs,,20,22,docc
+100458,4,2011,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664,,Peacock Springs,,20,22,docc
+100459,12,2008,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664,,Peacock Springs,,20,20,docc
+100460,5,2010,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664,,Peacock Springs,,20,20,docc
+100461,4,2011,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664,,Peacock Springs,,20,20,docc
+100462,5,2008,Avon River,1491030,Avon River pond (Translocation),666,,Unnamed pond,,20,22,docc
+100463,6,2008,Avon River,1491030,Avon River pond (Translocation),666,,Unnamed pond,,20,22,docc
+100464,5,2010,Avon River,1491030,Avon River pond (Translocation),666,,Unnamed pond,,20,22,docc
+100465,4,2011,Avon River,1491030,Avon River pond (Translocation),666,,Unnamed pond,,20,22,docc
+100466,7,1986,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,,Peacock Springs,,0,22,niwa
+100467,3,2008,Avon River,1491030,Avon River pond (Translocation),666,,Unnamed pond,,20,22,docc
+100468,1,2011,Pareora River,1491102,Pareora River tributary 2,701,,Pareora River tributary,,30,7,doco
+100469,4,2009,Ashley River,1491002,Taranaki Stream tributary wetland (pre Pegasus town),662,,Unnamed wetland,,5,3,bma
+100470,4,2009,Ashley River,1491002,Taranaki Stream tributary wetland (pre Pegasus town),662,,Unnamed wetland,,5,5,bma
+100471,4,2007,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,150,67,docc
+100472,5,2008,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,150,67,docc
+100473,6,2010,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,150,67,docc
+100474,4,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,150,67,docc
+100475,4,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,150,67,docc
+100476,,1996,Lee River,1491066,Tent Burn,684.031,,Tent Burn,,5,2,niwa
+100477,5,1999,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,uoc
+100478,5,2001,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,uoc
+100479,4,2002,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,uoc
+100480,5,2002,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,uoc
+100481,4,1999,Waimakariri River,1491021,Mounseys Stream,664.063,,Mounseys Stream,,330,64,uoc
+100482,3,1999,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,64,uoc
+100483,4,2002,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,64,uoc
+100484,6,2007,Selwyn River,1491056,Selwyn water race,680,,Unnamed water race Substation Road,,170,73,docc
+100485,4,1999,St Andrews,1491106,Unnamed stream St Andrews,702,,Unnamed stream St Andrews,,5,0,uoc
+100486,5,2001,St Andrews,1491106,Unnamed stream St Andrews,702,,Unnamed stream St Andrews,,0,0,uoc
+100487,4,2002,St Andrews,1491106,Unnamed stream St Andrews,702,,Unnamed stream St Andrews,,5,0,uoc
+100488,5,2001,Makikihi,1491115,Unnamed stream Makikihi 3,706.5,,Unnamed stream Makikihi,,55,9,uoc
+100489,4,1999,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,14,uoc
+100490,4,1999,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,14,uoc
+100491,5,2001,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,14,uoc
+100492,4,2002,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,14,uoc
+100493,5,2002,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,14,uoc
+100494,4,2005,Avon River,1491029,Okeover Stream (Translocation),666,night,Okeover Stream,,15,23,uoc
+100495,5,2009,Waimakariri River,1491020,Mounseys Stream tributary 8,664.063,night,Mounseys Stream tributary,,320,64,inic
+100496,10,2007,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,night,Mounseys Stream tributary,,310,65,inic
+100497,5,2009,Waimakariri River,1491018,Mounseys Stream tributary 6,664.063,night,Mounseys Stream tributary,,328,63,inic
+100498,9,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,250,88,inic
+100499,9,2007,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,250,89,inic
+100500,10,2009,Longbeach,1491075,Unnamed wetland Grahams Road,690,,Unnamed wetland Waterton,,25,5,inic
+100501,5,2010,Longbeach,1491075,Unnamed wetland Grahams Road,690,,Unnamed wetland Waterton,,25,5,inic
+100502,6,2010,Longbeach,1491075,Unnamed wetland Grahams Road,690,,Unnamed wetland Waterton,,25,5,inic
+100503,6,2011,Longbeach,1491075,Unnamed wetland Grahams Road,690,,Unnamed wetland Waterton,,25,5,inic
+100504,7,1999,Selwyn River,1491053,Waianiwaniwa River pond,680.05,,Unnamed pond Waianiwaniwa River,,340,89,uoc
+100505,2,2000,Selwyn River,1491053,Waianiwaniwa River pond,680.05,,Unnamed pond Waianiwaniwa River,,340,89,uoc
+100506,9,2009,Selwyn River,1491045,Blacks Stream,680.05,,Blacks Stream,,270,85,inic
+100507,9,2009,Selwyn River,1491040,Hororata River tributary 6,680.04,,Hororata River tributary,,170,72,inic
+100508,5,2002,St Andrews,1491106,Unnamed stream St Andrews,702,,Unnamed stream St Andrews,,5,0,uoc
+100509,7,1999,Selwyn River,1491053,Waianiwaniwa River pond,680.05,,Unnamed pond Waianiwaniwa River,,340,89,uoc
+100510,5,2002,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,63,uoc
+100511,5,2001,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,uoc
+100512,5,2001,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,63,uoc
+100513,5,2001,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,63,uoc
+100514,5,2001,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,14,uoc
+100515,4,2002,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,uoc
+100516,5,2002,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,uoc
+100517,4,2002,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,63,uoc
+100518,5,2002,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,63,uoc
+100519,4,2002,St Andrews,1491106,Unnamed stream St Andrews,702,,Unnamed stream St Andrews,,5,0,uoc
+100520,5,2002,St Andrews,1491106,Unnamed stream St Andrews,702,,Unnamed stream St Andrews,,5,0,uoc
+100521,4,2002,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,14,uoc
+100522,5,2002,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,14,uoc
+100523,12,2000,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,63,uoc
+100524,7,2000,Selwyn River,1491036,Hororata River tributary 2,680.04,,Hororata River tributary,,140,64,uoc
+100525,4,1999,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,uoc
+100526,4,1999,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,310,65,uoc
+100527,1,2000,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,14,uoc
+100528,5,2002,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,14,uoc
+100529,5,2001,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,16,uoc
+100530,5,2001,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream,,90,14,uoc
+100531,5,2001,Selwyn River,1491053,Waianiwaniwa River pond,680.05,,Unnamed pond Waianiwaniwa River,,340,89,uoc
+100532,7,1999,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,340,90,uoc
+100533,7,1999,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,340,90,uoc
+100534,7,1999,Selwyn River,1491047,Waianiwaniwa River,680.05,,Waianiwaniwa River,,340,89,uoc
+100535,4,2008,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,inic
+100542,10,2007,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,150,67,inic
+100543,10,2007,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,150,67,inic
+100544,10,2007,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,150,67,inic
+100545,10,2007,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063, ,Mounseys Stream tributary, ,310,65,inic
+100546,3,2008,Waitaki River,1491133,Redcliff Stream water race,711.01, ,Unnamed water race Pikes Point Road, ,80,25,inic
+100547,11,2004,Waitaki River,1491130,Waikakahi Stream,711.01, ,Waikakahi Stream, ,90,25,inic
+100548,5,2009,Waimakariri River,1491017,Mounseys Stream tributary 5,664.063, ,Mounseys Stream tributary, ,320,64,inic
+100549,5,2009,Waimakariri River,1491017,Mounseys Stream tributary 5,664.063, ,Mounseys Stream tributary, ,320,64,inic
+100550,5,2009,Waimakariri River,1491018,Mounseys Stream tributary 6,664.063, ,Mounseys Stream tributary, ,330,64,inic
+100551,5,2009,Waimakariri River,1491018,Mounseys Stream tributary 6,664.063, ,Mounseys Stream tributary, ,320,65,inic
+100552,8,2011,Ashley River,1491003,Taranaki Stream tributary 1,662, ,Tutaepatu Lagoon, ,5,9,docc
+100553,8,2011,Ashley River,1491003,Taranaki Stream tributary 1,662, ,Tutaepatu Lagoon, ,5,9,docc
+100554,4,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100555,4,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100556,4,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100557,7,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100558,10,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100559,10,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100560,10,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100561,11,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100562,12,2010,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100563,5,2011,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100564,5,2011,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100565,9,2011,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100566,9,2011,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100567,9,2011,Avon River,1491027,Avon River tributary wetland (Translocation),666, ,Unnamed wetland, ,5,7,docc
+100568,12,2010,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,160,69,docc
+100570,12,2010,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,150,67,docc
+100571,12,2010,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,150,67,docc
+100572,12,2010,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,150,67,docc
+100573,5,1975,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,5,niwa
+100574,5,1977,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,5,niwa
+100575,6,2011,Lee River,1491066,Tent Burn,684.031,,Tent Burn,,5,0,docc
+100576,6,2011,Lee River,1491066,Tent Burn,684.031,,Tent Burn,,5,0,docc
+100577,6,2011,Lee River,1491066,Tent Burn,684.031,,Tent Burn,,5,1,docc
+100578,6,2011,Lee River,1491066,Tent Burn,684.031,,Tent Burn,,5,1,docc
+100579,6,2011,Lee River,1491066,Tent Burn,684.031,,Tent Burn,,5,1,docc
+100580,6,2011,Lee River,1491066,Tent Burn,684.031,,Tent Burn,,5,1,docc
+100586,2,2006,Hinds River,1491091,Hinds River North Branch tributary wetland 1,691.01,,Hinds River North Branch tributary,,420,62,uoo
+100635,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,5,doco
+100636,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,4,doco
+100637,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,4,doco
+100638,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,4,doco
+100639,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,4,doco
+100640,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,4,doco
+100641,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,4,doco
+100642,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,30,6,doco
+100643,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,30,8,doco
+100644,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,30,8,doco
+100645,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,30,7,doco
+100648,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100649,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100650,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,4,doco
+100651,8,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,4,doco
+100652,8,2013,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream, ,5,5,doco
+100656,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100657,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100659,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100660,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100661,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100662,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,2,doco
+100663,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100664,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100665,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,1,doco
+100666,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,2,doco
+100667,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100668,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,1,doco
+100669,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,1,doco
+100670,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,1,doco
+100671,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,5,1,doco
+100672,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100673,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100674,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100675,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,5,2,doco
+100676,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream, ,1,4,doco
+100678,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100679,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100680,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,5,doco
+100681,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100682,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,4,doco
+100683,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100684,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,5,doco
+100685,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,5,doco
+100686,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,5,doco
+100687,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,5,doco
+100688,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,5,doco
+100689,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,5,doco
+100690,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100691,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100692,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100693,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100694,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,5,doco
+100695,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,5,doco
+100696,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,5,doco
+100697,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,4,doco
+100698,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100699,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,4,doco
+100700,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,4,doco
+100701,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100702,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100703,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100704,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100705,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100706,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,doco
+100707,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,4,doco
+100708,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,4,doco
+100709,9,2013,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,10,5,doco
+100710,9,2013,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,10,5,doco
+100711,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,5,doco
+100712,9,2013,Kohika Stream,1491109,Kohika Stream tributary 3,704,,Kohika Stream tributary,,10,6,doco
+100714,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,30,8,doco
+100715,9,2013,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,10,5,doco
+100716,9,2013,Kohika Stream,1491109,Kohika Stream tributary 3,704,,Kohika Stream tributary,,10,5,doco
+100717,9,2013,Kohika Stream,1491109,Kohika Stream tributary 3,704, ,Kohika Stream tributary, ,10,5,doco
+100718,9,2013,Kohika Stream,1491109,Kohika Stream tributary 3,704, ,Kohika Stream tributary, ,10,5,doco
+100719,9,2013,Kohika Stream,1491109,Kohika Stream tributary 3,704,,Kohika Stream tributary,,10,5,doco
+100720,9,2013,Kohika Stream,1491109,Kohika Stream tributary 3,704,,Kohika Stream tributary,,10,5,doco
+100721,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100722,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100723,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100724,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704,,Kohika Stream tributary,,10,6,doco
+100725,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704,,Kohika Stream tributary,,10,6,doco
+100726,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100727,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100728,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704,,Kohika Stream tributary,,10,6,doco
+100729,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100730,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100731,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100732,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100733,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100734,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100735,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100736,9,2013,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,10,6,doco
+100737,9,2013,Waitaki River,1491137,Waitaki River tributary wetland 4,711,,Unnamed pond,,10,11,doco
+100738,9,2013,Waitaki River,1491135,Waitaki River tributary wetland 2,711,,Unnamed pond,,25,8,doco
+100739,9,2013,Waitaki River,1491135,Waitaki River tributary wetland 2,711,,Unnamed pond,,25,8,doco
+100740,9,2013,Waitaki River,1491134,Waitaki River tributary wetland 1,711, ,Unnamed pond, ,10,5,doco
+100741,9,2013,Waitaki River,1491134,Waitaki River tributary wetland 1,711, ,Unnamed pond, ,10,5,doco
+100743,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100744,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100745,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100746,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100747,1,2014,Waihao River,1491122,Buchanans Creek,709.011, ,Buchanans Creek, ,10,6,unk
+100748,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100749,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100750,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100751,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100752,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100753,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100754,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100755,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,7,unk
+100756,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,7,unk
+100757,1,2014,Waihao River,1491122,Buchanans Creek,709.011, ,Buchanans Creek, ,10,7,unk
+100758,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,7,unk
+100759,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,7,unk
+100760,1,2014,Waihao River,1491122,Buchanans Creek,709.011, ,Buchanans Creek, ,10,7,unk
+100761,1,2014,Waihao River,1491122,Buchanans Creek,709.011, ,Buchanans Creek, ,10,6,unk
+100762,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100763,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100764,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100765,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100766,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,7,unk
+100767,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100768,1,2014,Waihao River,1491122,Buchanans Creek,709.011, ,Buchanans Creek, ,10,6,unk
+100769,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100770,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100771,1,2014,Waihao River,1491122,Buchanans Creek,709.011,,Buchanans Creek,,10,6,unk
+100772,1,2014,Waihao River,1491122,Buchanans Creek,709.011, ,Buchanans Creek, ,10,6,unk
+100773,12,2013,Makikihi,1491113,Unnamed stream Makikihi 1,706.5,,Unnamed stream Makikihi,,7,2,crc
+100774,12,2013,Makikihi,1491113,Unnamed stream Makikihi 1,706.5,1030,Unnamed stream Makikihi,,8,2,crc
+100775,12,2013,Makikihi,1491114,Unnamed stream Makikihi 2,706.5,,Unnamed stream Makikihi,,80,11,crc
+100776,12,2013,Makikihi,1491114,Unnamed stream Makikihi 2,706.5,,Unnamed stream Makikihi,,80,11,crc
+100777,12,2013,Makikihi,1491114,Unnamed stream Makikihi 2,706.5,,Unnamed stream Makikihi,,95,12,crc
+100778,12,2013,Makikihi,1491114,Unnamed stream Makikihi 2,706.5,,Unnamed stream Makikihi,,80,11,crc
+100779,1,2014,Makikihi,1491114,Unnamed stream Makikihi 2,706.5,,Unnamed stream Makikihi,,80,11,crc
+100780,1,2014,Makikihi,1491114,Unnamed stream Makikihi 2,706.5,,Unnamed stream Makikihi,,80,11,crc
+100781,1,2014,Hook River,1491117,Hook River tributary,707,,Hook River tributary,,80,14,crc
+100782,1,2014,Hook River,1491117,Hook River tributary,707,,Hook River tributary,,75,13,crc
+102084,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,936,Selwyn River tributary,,49,33,docc
+102085,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,949,Selwyn River tributary,,50,34,docc
+102086,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1008,Selwyn River tributary,,50,34,docc
+102087,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1030,Selwyn River tributary,,51,34,docc
+102088,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1043,Selwyn River tributary,,51,34,docc
+102089,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1055,Selwyn River tributary,,52,34,docc
+102090,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1108,Selwyn River tributary, ,52,34,docc
+102091,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1119,Selwyn River tributary,,52,34,docc
+102092,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1127,Selwyn River tributary,,52,34,docc
+102093,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1140,Selwyn River tributary,,53,34,docc
+102094,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1152,Selwyn River tributary,,53,34,docc
+102095,4,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1206,Selwyn River tributary,,54,34,docc
+102096,7,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1415,Selwyn River tributary,,48,33,docc
+102097,7,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1405,Selwyn River tributary,,48,33,docc
+102098,7,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1350,Selwyn River tributary,,47,33,docc
+102099,7,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1535,Selwyn River tributary,,47,33,docc
+102100,7,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1315,Selwyn River tributary,,47,33,docc
+102101,7,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1300,Selwyn River tributary,,46,33,docc
+102102,7,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1230,Selwyn River tributary,,46,33,docc
+102103,7,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1215,Selwyn River tributary, ,45,33,docc
+102104,7,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1155,Selwyn River tributary, ,45,33,docc
+102105,7,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1130,Selwyn River tributary,,45,33,docc
+102106,7,2014,Selwyn River,1491031,Selwyn River tributary 1,680,1100,Selwyn River tributary,,44,31,docc
+102107,5,2014,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1100,Unnamed pond,,40,19,docc
+102108,5,2014,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1200,Peacock Springs,,42,21,docc
+102109,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,153,63,docc
+102110,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,153,63,docc
+102111,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,152,63,docc
+102112,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,152,63,docc
+102113,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,152,63,docc
+102114,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,152,63,docc
+102115,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,152,63,docc
+102116,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,152,63,docc
+102117,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,151,63,docc
+102118,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,150,63,docc
+102119,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,151,63,docc
+102120,7,2014,Selwyn River,1491036,Hororata River tributary 2,680.04,930,Hororata River tributary,,152,63,docc
+102122,6,2012,Selwyn River,1491040,Hororata River tributary 6,680.04,1030,Hororata River tributary, ,168,71,docc
+102127,6,2010,Selwyn River,1491059,Wairiri Stream,680.07,1224,Wairiri Stream tributray,,294,90,docc
+102171,6,2008,Avon River,1491028,Christchurch Botanical Gardens (Translocation),666,1430,Unnamed pond, , , ,docc
+102172,6,2008,Avon River,1491028,Christchurch Botanical Gardens (Translocation),666,,Unnamed pond,,0,0,docc
+102173,6,2008,Selwyn River,1491058,Selwyn River tributary 6,680.06,950,Surveyors Gully, ,260,82,docc
+102174,6,2008,Selwyn River,1491058,Selwyn River tributary 6,680.06,1030,Surveyors Gully, ,263,82,docc
+102175,6,2005,Selwyn River,1491058,Selwyn River tributary 6,680.06,1015,Surveyors Gully,,265,82,docc
+102190,5,2008,Selwyn River,1491038,Hororata River tributary 4,680.04,1100,Hororata River tributary, ,151,68,docc
+102191,5,2008,Selwyn River,1491056,Selwyn water race,680,1230,Unnamed water race Hawkins Rd,,150,78,docc
+102513,7,2012,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,night,Mounseys Stream tributary,,311,64,docc
+102514,6,2013,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,night,Mounseys Stream tributary,,311,64,docc
+102515,9,2014,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,night,Mounseys Stream tributary,,311,64,docc
+102516,5,2015,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,night,Mounseys Stream tributary,,311,64,docc
+102517,6,2013,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,0,0,docc
+102518,6,2013,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,0,0,docc
+102519,5,2014,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,0,0,docc
+102520,5,2014,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,0,0,docc
+102521,6,2015,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,0,0,docc
+102522,6,2015,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,night,South Branch Ashburton River wetland,,0,0,docc
+102526,6,2014,Morven Drain,1491126,Dog Kennel Stream,710.02,night,Dog Kennel Stream,,140,15,docc
+102527,6,2014,Morven Drain,1491126,Dog Kennel Stream,710.02,night,Dog Kennel Stream,,144,15,docc
+102528,6,2014,Morven Drain,1491126,Dog Kennel Stream,710.02,night,Dog Kennel Stream,,144,15,docc
+102529,6,2015,Morven Drain,1491126,Dog Kennel Stream,710.02,night,Dog Kennel Stream,,140,15,docc
+102530,6,2015,Morven Drain,1491126,Dog Kennel Stream,710.02,night,Dog Kennel Stream,,144,15,docc
+102531,6,2015,Morven Drain,1491126,Dog Kennel Stream,710.02,night,Dog Kennel Stream,,144,15,docc
+102532,7,2013,Waitaki River,1491135,Waitaki River tributary wetland 2,711,night,Waitaki River tributary,,0,0,docc
+102533,6,2014,Waitaki River,1491135,Waitaki River tributary wetland 2,711,night,Waitaki River tributary,,0,0,docc
+102534,6,2015,Waitaki River,1491135,Waitaki River tributary wetland 2,711, ,Waitaki River tributary, , , ,docc
+102535,6,2013,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,152,68,docc
+102536,6,2013,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,151,68,docc
+102537,6,2013,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,153,68,docc
+102538,6,2013,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,149,68,docc
+102539,6,2013,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,153,68,docc
+102540,6,2014,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,152,68,docc
+102541,6,2014,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, , , ,docc
+102542,6,2014,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,149,68,docc
+102543,6,2014,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,153,68,docc
+102544,6,2014,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,153,68,docc
+102545,6,2013,Avon River,1491030,Avon River pond (Translocation),666,,Unnamed pond,,0,0,docc
+102546,5,2014,Avon River,1491030,Avon River pond (Translocation),666,,Unnamed pond,,0,0,docc
+102547,5,2015,Avon River,1491030,Avon River pond (Translocation),666,,Unnamed pond,,0,0,docc
+102548,6,2013,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,,Peacock Springs,,31,19,docc
+102551,5,2015,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,,Peacock Springs,,36,21,docc
+102552,5,2015,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,,Peacock Springs,,31,21,docc
+102553,5,2015,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,,Peacock Springs,,31,19,docc
+102554,6,2013,Selwyn River,1491037,Hororata River tributary 3,680.04,,Hororata River tributary,,0,0,docc
+102555,6,2014,Selwyn River,1491037,Hororata River tributary 3,680.04,,Hororata River tributary,,0,0,docc
+102556,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,32,4,doco
+102557,9,2014,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,32,4,doco
+102558,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,32,4,doco
+102559,9,2014,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,32,4,doco
+102560,9,2014,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,32,4,doco
+102561,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,32,4,doco
+102562,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,32,4,doco
+102567,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704,,Kohika Stream tributary,,7,5,doco
+102568,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,7,5,doco
+102569,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,7,5,doco
+102570,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,7,5,doco
+102571,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,7,5,doco
+102572,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,7,5,doco
+102573,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,7,5,doco
+102574,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,7,5,doco
+102575,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, ,7,5,doco
+102576,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, , , ,doco
+102577,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, , , ,doco
+102578,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, , , ,doco
+102579,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704, ,Kohika Stream tributary, , , ,doco
+102580,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704,,Kohika Stream tributary,,0,0,doco
+102581,9,2014,Kohika Stream,1491108,Kohika Stream tributary 2,704,,Kohika Stream tributary,,0,0,doco
+102583,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704, ,Kohika Stream tributary, ,31,7,doco
+102584,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704, ,Kohika Stream tributary, ,31,7,doco
+102585,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco
+102586,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704, ,Kohika Stream tributary, ,31,7,doco
+102587,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704, ,Kohika Stream tributary, ,31,7,doco
+102588,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704, ,Kohika Stream tributary, ,31,7,doco
+102589,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704, ,Kohika Stream tributary, ,31,7,doco
+102590,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,32,4,doco
+102591,9,2014,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,32,4,doco
+102592,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,32,4,doco
+102593,9,2014,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,32,4,doco
+102594,9,2014,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,32,4,doco
+102595,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,32,4,doco
+102596,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,32,4,doco
+102597,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,32,4,doco
+102598,9,2014,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,32,4,doco
+102599,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,32,4,doco
+102600,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,3,4,doco
+102601,9,2014,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,3,4,doco
+102602,9,2014,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,3,4,doco
+102603,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704, ,Kohika Stream tributary, ,31,7,doco
+102604,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco
+102605,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704, ,Kohika Stream tributary, ,31,7,doco
+102606,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704, ,Kohika Stream tributary, ,31,7,doco
+102607,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco
+102608,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco
+102609,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco
+102610,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco
+102611,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco
+102612,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco
+102613,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco
+102614,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco
+102615,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco
+102674,7,2014,Waitaki River,1491136,Waitaki River tributary wetland 3,711,1425,Waitaki River, ,28,8,doco
+103442,10,2015,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1430,Waianiwaniwa River,,321,91,docc
+103475,11,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1110,Waianiwaniwa River tributary,,300,92,docc
+103476,11,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1050,Waianiwaniwa River tributary,,300,92,docc
+103477,11,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1120,Waianiwaniwa River tributary,,300,92,docc
+103478,11,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1134,Waianiwaniwa River tributary,,300,92,docc
+103479,11,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1048,Waianiwaniwa River tributary,,387,93,docc
+103480,11,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1208,Waianiwaniwa River tributary,,387,93,docc
+103481,11,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1230,Waianiwaniwa River tributary,,387,93,docc
+103483,11,2015,Selwyn River,1491045,Blacks Stream,680.05,1340,Blacks Stream,,278,88,docc
+103484,11,2015,Selwyn River,1491045,Blacks Stream,680.05,1400,Blacks Stream,,311,89,docc
+103485,11,2015,Selwyn River,1491045,Blacks Stream,680.05,1410,Blacks Stream,,278,88,docc
+103486,11,2015,Selwyn River,1491045,Blacks Stream,680.05,1435,Blacks Stream,,278,88,docc
+103487,11,2015,Selwyn River,1491045,Blacks Stream,680.05,1420,Blacks Stream pond,,271,87,docc
+103488,6,2015,Ashley River,1491002,Taranaki Stream tributary wetland (pre Pegasus town),662,1150,Ashley River tributary,,0,0,docc
+103489,6,2015,Ashley River,1491002,Taranaki Stream tributary wetland (pre Pegasus town),662,1315,Tutaepatu Lagoon,,0,0,docc
+103496,5,2015,Avon River,1491030,Avon River pond (Translocation),666,1000,Mahaanui Pond,,0,0,docc
+103497,6,2015,Selwyn River,1491043,Hororata River 2,680.04,1245,Hororata River,,190,79,docc
+103503,8,2015,Hinds River,1491090,Hinds River North Branch tributary 1,691.01,1000,Unnamed stock water race Heenans Road,,331,52,docc
+103510,8,2015,Waimakariri River,1491013,Mounseys Stream tributary 1,664.06,night,Mounseys Stream tributary,,0,0,inic
+103511,8,2015,Waimakariri River,1491017,Mounseys Stream tributary 5,664.063,night,Mounseys Stream tributary,,328,63,inic
+103512,8,2015,Waimakariri River,1491021,Mounseys Stream,664.063,night,Mounseys Stream tributary,,301,62,inic
+103513,8,2015,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063, ,Mounseys Stream tributary, ,305,63,inic
+103515,8,2015,Selwyn River,1491031,Selwyn River tributary 1,680, ,Selwyn River tributary, ,38,33,docc
+103516,8,2015,Selwyn River,1491033,Selwyn River tributary 3,680,,Selwyn River tributary,,109,53,docc
+103517,8,2015,Selwyn River,1491037,Hororata River tributary 3,680.04, ,Hororata River tributary, , , ,docc
+103518,7,2015,Selwyn River,1491038,Hororata River tributary 4,680.04,night,Hororata River tributary,,152,68,docc
+103519,7,2015,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,153,68,docc
+103520,7,2015,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,153,68,docc
+103521,7,2015,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,153,68,docc
+103522,7,2015,Selwyn River,1491040,Hororata River tributary 6,680.04, ,Hororata River tributary, ,173,71,docc
+103523,7,2015,Selwyn River,1491040,Hororata River tributary 6,680.04, ,Hororata River tributary, ,173,71,docc
+103524,7,2015,Selwyn River,1491040,Hororata River tributary 6,680.04,night,Hororata River tributary,,173,71,docc
+103525,8,2015,Selwyn River,1491042,Cordys Stream,680.04,night,Cordys Stream,,185,79,docc
+103526,8,2015,Selwyn River,1491043,Hororata River 2,680.04,night,Hororata River,,190,79,docc
+103527,8,2015,Selwyn River,1491043,Hororata River 2,680.04, ,Hororata River, ,190,79,docc
+103528,8,2015,Selwyn River,1491043,Hororata River 2,680.04, ,Hororata River, ,190,79,docc
+103529,7,2015,Selwyn River,1491044,Nelsons Road Water Race,680.04, ,Unnamed water race, ,315,92,docc
+103530,8,2015,Selwyn River,1491045,Blacks Stream,680.05,night,Blacks Stream,,255,85,docc
+103531,8,2015,Selwyn River,1491046,Waianiwaniwa River tributary 1,680.05,night,Waianiwaniwa River tributary,,256,85,docc
+103532,8,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,night,Waianiwaniwa River,,287,90,docc
+103533,8,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,night,Waianiwaniwa River,,266,91,docc
+103534,8,2015,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,night,Waianiwaniwa River tributary,,236,84,docc
+103535,8,2015,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,night,Waianiwaniwa River tributary,,238,85,docc
+103536,8,2015,Selwyn River,1491048,Waianiwaniwa River tributary 2,680.05, ,Waianiwaniwa River tributary, ,246,84,docc
+103537,8,2015,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,night,Waianiwaniwa River tributary,,252,87,docc
+103538,8,2015,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,night,Waianiwaniwa River tributary,,252,87,docc
+103539,8,2015,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,night,Waianiwaniwa River tributary,,265,88,docc
+103540,8,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,night,Waianiwaniwa River tributary,,266,91,docc
+103541,8,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,night,Waianiwaniwa River tributary,,266,91,docc
+103542,8,2015,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,night,Waianiwaniwa River tributary,,322,95,docc
+103543,8,2015,Selwyn River,1491057,Coalgate water race,680, ,Unnamed water race, ,137,62,docc
+103544,8,2015,Selwyn River,1491057,Coalgate water race,680,night,Selwyn River tributary,,137,62,docc
+103545,8,2015,Selwyn River,1491058,Selwyn River tributary 6,680, ,Selwyn River, ,247,80,docc
+103546,8,2015,Selwyn River,1491058,Selwyn River tributary 6,680, ,Selwyn River, ,247,80,docc
+103547,8,2015,Selwyn River,1491059,Wairiri Stream,680.07,,Wairiri Stream tributary,,290,90,docc
+103548,8,2015,Selwyn River,1491059,Wairiri Stream,680, ,Wairiri Stream tributary, ,285,87,docc
+103549,8,2015,Selwyn River,1491059,Wairiri Stream,680, ,Wairiri Stream tributary, ,286,87,docc
+103550,8,2015,Selwyn River,1491060,Glendore Stream,680.08,night,Glendore Stream tributary,,318,89,docc
+103551,8,2015,Selwyn River,1491060,Glendore Stream,680.08,night,Glendore Stream tributary,,318,89,docc
+103552,8,2015,Selwyn River,1491060,Glendore Stream,680,night,Steventon Stream,,338,88,docc
+103553,8,2015,Ashburton River,1491068,Ashburton River tributary drain,688,night,Ashburton River tributary,,0,0,docc
+103554,8,2015,Ashburton River,1491068,Ashburton River tributary drain,688,night,Ashburton River tributary,,0,0,docc
+103555,8,2015,Longbeach,1491080,Unnamed stream Eiffleton,690,night,Parakanoi Drain tributary,,0,0,docc
+103556,8,2015,Longbeach,1491080,Unnamed stream Eiffleton,690,night,Parakanoi Drain tributary,,0,0,docc
+103557,8,2015,Longbeach,1491082,Unnamed drain Windermere Road,690,night,Deals Drain tributary,,52,9,docc
+103558,8,2015,Longbeach,1491082,Unnamed drain Windermere Road,690,night,Deals Drain tributary,,52,9,docc
+103559,8,2015,Hinds River,1491083,Unnamed drain Maronan Valetta Road,691, ,Unnamed irrigation race, , , ,docc
+103560,8,2015,Hinds River,1491084,Hinds River tributary 1,691, ,Hinds River tributary, , , ,docc
+103561,8,2015,Hinds River,1491084,Hinds River tributary 1,691, ,Hinds River tributary, , , ,docc
+103562,8,2015,Hinds River,1491084,Hinds River tributary 1,691, ,Unnamed pond, , , ,docc
+103563,8,2015,Hinds River,1491086,Hinds River tributary 2,691, ,Hinds River tributary, , , ,docc
+103564,8,2015,Hinds River,1491087,Hinds River tributary 3,691, ,Hinds River tributary, , , ,docc
+103565,8,2015,Hinds River,1491087,Hinds River tributary 3,691, ,Hinds River tributary, , , ,docc
+103566,8,2015,Hinds River,1491090,Hinds River North Branch tributary 1,691.01,night,Hinds River North Branch tributary,,331,52,docc
+103567,8,2015,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,night,Hinds River North Branch tributary,,465,59,docc
+103568,8,2015,Hinds River,1491091,Hinds River North Branch tributary wetland 1,691, ,Hinds River tributary, ,465,59,docc
+103569,8,2015,Dobsons Drain,1491093,Unnamed wetland Wairuna,692, ,Dobsons Drain tributary, ,15,2,docc
+103570,8,2015,Selwyn River,1491031,Selwyn River tributary 1,680, ,Selwyn River tributary, , , ,docc
+103661,10,2015,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1455,Bush Gully Stream,,321,91,docc
+103662,10,2015,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1500,Bush Gully Stream, ,306,90,docc
+103663,10,2015,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1515,Bush Gully Stream, ,278,90,docc
+104568,5,2008,Pareora River,1491102,Pareora River tributary 2,701,,Pareora River tributary,,13,3,niwa
+104569,5,2008,Unnamed River,1491106,Unnamed stream St Andrews,702,,Unnamed stream,,1,0,niwa
+104570,5,2008,Unnamed River,1491106,Unnamed stream St Andrews,702,,Unnamed Stream,,12,1,niwa
+104574,5,2008,Pareora River,1491103,Pareora River tributary 3,701.02,,Gordons Stream tributary,,166,25,niwa
+104578,5,2008,Hook River,1491118,Waituna Stream,707.01, ,Waituna Stream, ,24,4,niwa
+104580,5,2008,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705, ,Horseshoe Bend Stream, ,11,3,niwa
+104581,5,2008,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,,Horseshoe Bend Stream,,38,5,niwa
+104582,5,2008,Makikihi River,1491112,Teschemakers Creek,706, ,Teschemaker Creek tributary, ,197,14,niwa
+104583,5,2008,Makikihi River,1491112,Teschemakers Creek,706, ,Teschemaker Creek tributary, ,139,14,niwa
+104584,5,2008,Makikihi River,1491112,Teschemakers Creek,706,,Teschemaker Creek tributary,,110,12,niwa
+104595,5,2008,Waitaki River,1491131,Mount Harris Stream,711.01,,Mount Harris Stream,,105,23,niwa
+104596,5,2008,Whitneys Creek,1491127,Whitneys Creek,710, ,Whitneys Creek, ,56,16,niwa
+104597,5,2008,Morven Drain,1491126,Dog Kennel Stream,710.02,,Dog Kennel Stream tributary,,121,15,niwa
+104598,5,2008,Waitaki River,1491127,Whitneys Creek,711, ,Whitneys Creek, ,55,12,niwa
+104599,5,2008,Unnamed Stream,1491124,Unnamed stream Morven 2,710,,Unnamed Stream,,40,8,niwa
+104698,12,2007,Longbeach,1491079,Unnamed water race Longbeach Road,690,1930,Unnamed drain, ,36,2,ga
+104705,12,2007,Longbeach,1491067,Unnamed stock water race Lower Beach Road,690,1850,Unnamed drain,,30,0,ga
+104707,12,2007,Longbeach,1491074,Unnamed water race Grahams Road 2,690,,Unnamed drain,,16,0,ga
+104878,12,2015,Waimakariri River,1491015,Mounseys Stream tributary 3,664.063,800,Mounseys Stream unnamed spring tributary,,0,0,wwt
+104879,9,2015,Pegasus,1491005,Taranaki Stream tributary 2 (Translocation),663,1415,Wetlands near Pegasus,,0,0,wwt
+106018,3,2016,Waimakariri River,1491013,Mounseys Stream tributary 1,664.06,1100,Mounseys Stream unnamed spring tributary,,0,0,wwt
+106050,4,2016,Woodend Beach,1491005,Taranaki Stream tributary 2 (Translocation),663,1300,Unnamed pond,,0,0,wwt
+106051,4,2016,Pegasus,1491005,Taranaki Stream tributary 2 (Translocation),663,1300,Unnamed pond,,0,0,wwt
+106052,4,2016,Pegasus,1491005,Taranaki Stream tributary 2 (Translocation),663,930,Unnamed pond,,0,0,wwt
+106416,4,2016,Waimakariri River,1491011,Unnamed wetland Coopers Creek,664.062,800,Coopers Creek unnamed wetland,,0,0,wwt
+106489,3,2016,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network,683,1000,Rakaia Selwyn Road water race downstream,,62,31,docc
+106554,1,2011,Pareora River,1491142,Pareora River tributary 4,701,1700,Pareora River unnamed tributary,,35,7,ind
+106661,6,2016,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1237,Bush Gully Stream,,326,91,docc
+106662,6,2016,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1300,Bush Gully Stream, ,326,91,docc
+106663,6,2016,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1320,Bush Gully Stream,,321,91,docc
+106678,10,2015,Selwyn River,1491043,Hororata River 2,680.04,900,Hororata River,,180,78,bml
+107121,8,2016,Selwyn River,1491059,Wairiri Stream,680.07,1115,Wairiri Stream,,304,86,docc
+107122,8,2016,Selwyn River,1491059,Wairiri Stream,680.07,1050,Wairiri Stream,,304,86,docc
+107123,8,2016,Selwyn River,1491059,Wairiri Stream,680.07,1225,Wairiri Stream,,304,86,docc
+107340,11,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,921,Hororata River tributary, ,149,68,doco
+107341,11,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,932,Hororata River tributary, ,153,68,doco
+107342,11,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,936,Hororata River tributary, ,153,68,doco
+107343,11,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,940,Hororata River tributary, ,153,68,doco
+107344,11,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,944,Hororata River tributary, ,153,68,doco
+107345,11,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,950,Hororata River tributary, ,153,68,doco
+107346,11,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,954,Hororata River tributary, ,153,68,doco
+107347,11,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,959,Hororata River tributary, ,153,68,doco
+107348,11,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,1002,Hororata River tributary, ,167,69,doco
+107349,11,2011,Selwyn River,1491038,Hororata River tributary 4,680.04,1006,Hororata River tributary, ,167,69,doco
+107574,11,2013,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,827,Waianiwaniwa River tributary,,252,87,ga
+107576,11,2013,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,838,Waianiwaniwa River tributary,,284,87,ga
+107577,11,2013,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,841,Bush Gully Stream,,342,92,ga
+107578,11,2013,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,851,Bush Gully Stream,,342,92,ga
+107579,11,2013,Selwyn River,1491047,Waianiwaniwa River,680.05,856,Bush Gully Stream,,283,88,ga
+109019,6,2016,Morven Drain,1491126,Dog Kennel Stream,710.02,1030,Dog Kennel Stream,,140,15,docc
+109020,6,2016,Morven Drain,1491126,Dog Kennel Stream,710.02,1125,Dog Kennel Stream,,144,15,docc
+109021,6,2016,Morven Drain,1491126,Dog Kennel Stream,710.02,1300,Dog Kennel Stream,,144,15,docc
+109022,8,2016,Avon River,1491030,Avon River pond (Translocation),666,,Unnamed pond,,0,0,docc
+109023,7,2015,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,153,68,docc
+109024,9,2002,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,153,68,docc
+109025,7,2015,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, ,153,68,docc
+109026,8,2016,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,153,68,docc
+109027,8,2016,Selwyn River,1491038,Hororata River tributary 4,680.04,,Hororata River tributary,,152,68,docc
+109028,7,2015,Selwyn River,1491038,Hororata River tributary 4,680.04, ,Hororata River tributary, , , ,docc
+109029,7,2016,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,,Mounseys Stream tributary,,311,64,docc
+109030,6,2016,Waitaki River,1491135,Waitaki River tributary wetland 2,711, ,Waitaki River tributary, , , ,docc
+109031,1,2005,Longbeach,1491081,Unnamed pond Willowby (Translocation),690, ,Unnamed wetland, , , ,docc
+109032,1,2006,Longbeach,1491081,Unnamed pond Willowby (Translocation),690, ,Unnamed wetland, , , ,docc
+109033,1,2007,Longbeach,1491081,Unnamed pond Willowby (Translocation),690, ,Unnamed wetland, , , ,docc
+109034,1,2008,Longbeach,1491081,Unnamed pond Willowby (Translocation),690, ,Unnamed wetland, , , ,docc
+109035,12,2009,Longbeach,1491081,Unnamed pond Willowby (Translocation),690, ,Unnamed wetland, , , ,docc
+110527,2,2017,Hurunui River,1491001,Waikari River tributary (Translocation),651.06,1300,Waikari River unnamed tributary,,0,0,wwt
+111148,6,2017,Washdyke Creek,1491100,Papaka Stream 2,698.02,,Papaka Stream,,54,14,ecan
+111150,6,2017,Washdyke Creek,1491100,Papaka Stream 2,698.02,14,Papaka Stream,,54,14,ecan
+111679,6,2017,Makikihi,1491114,Unnamed stream Makikihi 2,706.5,1145,Unnamed stream tributary,,84,9,wwt
+111684,6,2017,Makikihi,1491114,Unnamed stream Makikihi 2,706.5,1200,Unnamed stream tributary,,84,9,wwt
+111689,6,2017,Makikihi,1491114,Unnamed stream Makikihi 2,706.5,1230,Unnamed stream tributary,,84,9,wwt
+111693,6,2017,Makikihi,1491114,Unnamed stream Makikihi 2,706.5,1300,Unnamed stream tributary,,84,9,wwt
+112054,6,2016,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,1030,South Branch Ashburton River wetland, , , ,docc
+112055,6,2016,Ashburton River,1491071,Ashburton River tributary 2 (Translocation),688,1149,Ashburton River, ,156,33,docc
+112445,11,2015,Selwyn River,1491040,Hororata River tributary 6,680.04,1500,Hororata River spring fed tributary, , , ,wwcl
+112446,11,2015,Selwyn River,1491040,Hororata River tributary 6,680.04,1615,Hororata River spring tributary, , , ,wwcl
+112447,11,2015,Selwyn River,1491040,Hororata River tributary 6,680.04,1508,Hororata River spring fed tributary, , , ,wwcl
+112448,11,2015,Selwyn River,1491040,Hororata River tributary 6,680.04,1629,Hororata River spring tributary, , , ,wwcl
+112450,11,2015,Selwyn River,1491040,Hororata River tributary 6,680.04,1600,Hororata River tributary, , , ,wwcl
+112451,11,2015,Selwyn River,1491040,Hororata River tributary 6,680.04,1500,Hororata River artifical pond, , , ,wwcl
+112452,11,2015,Selwyn River,1491040,Hororata River tributary 6,680.04,1805,Hororata River tributary, , , ,wwcl
+112453,11,2015,Selwyn River,1491040,Hororata River tributary 6,680.04,1612,Hororata River tributary, , , ,wwcl
+112454,11,2015,Sewlyn River,1491040,Hororata River tributary 6,680.04,1617,Hororata River tributary, , , ,wwcl
+112547,11,2017,Kohika Stream,1491108,Kohika Stream tributary 2,704,1600,Kohika Stream tributary, ,27,7,ecan
+112548,11,2017,Kohika Stream,1491108,Kohika Stream tributary 2,704,1600,Kohika Stream tributary, ,51,8,ecan
+112549,11,2017,Kohika Stream,1491108,Kohika Stream tributary 2,704,1600,Kohika Stream tributary, ,51,8,ecan
+112550,11,2017,Kohika Stream,1491108,Kohika Stream tributary 2,704,1630,Kohika Stream tributary, ,51,8,ecan
+112551,11,2017,Kohika Stream,1491108,Kohika Stream tributary 2,704,1630,Kohika Stream tributary, ,51,8,ecan
+112552,11,2017,Kohika Stream,1491108,Kohika Stream tributary 2,704,1645,Kohika Stream tributary, ,51,8,ecan
+112553,11,2017,Kohika Stream,1491108,Kohika Stream tributary 2,704,1700,Kohika Stream tributary, ,51,8,ecan
+112554,11,2017,Kohika Stream,1491108,Kohika Stream tributary 2,704,1700,Kohika Stream tributary, ,51,8,ecan
+112555,11,2017,Kohika Stream,1491108,Kohika Stream tributary 2,704,1715,Kohika Stream tributary, ,51,8,ecan
+112556,11,2017,Washdyke Creek,1491100,Papaka Stream 2,698.02,1400,Papaka Stream, ,64,16,ecan
+112557,11,2017,Washdyke Creek,1491100,Papaka Stream 2,698.02,1400,Papaka Stream, ,64,16,ecan
+112558,11,2017,Washdyke Creek,1491100,Papaka Stream 2,698.02,1415,Papaka Stream, ,64,16,ecan
+112559,11,2017,Washdyke Creek,1491100,Papaka Stream 2,698.02,1415,Papaka Stream, ,64,16,ecan
+112560,11,2017,Washdyke Creek,1491100,Papaka Stream 2,698.02,1415,Papaka Stream, ,64,16,ecan
+112910,2,2017,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,11,3,rcl
+112920,2,2017,Wainono Lagoon,1491118,Waituna Stream,707.01, ,Waituna Stream, ,24,4,rcl
+113350,3,2018,Selwyn River,1491042,Cordys Stream,680.04,815,Cordys Stream, ,243,80,wild
+113355,3,2018,Avon River,1491027,Avon River tributary wetland (Translocation),666,940,Travis Wetland, ,3,5,wild
+113356,3,2018,Avon River,1491027,Avon River tributary wetland (Translocation),666,1025,Travis Wetland, ,3,5,wild
+113357,3,2018,Avon River,1491027,Avon River tributary wetland (Translocation),666,1050,Travis Wetland, ,3,5,wild
+113358,3,2018,Avon River,1491027,Avon River tributary wetland (Translocation),666,1110,Travis Wetland, ,3,5,wild
+113359,3,2018,Avon River,1491027,Avon River tributary wetland (Translocation),666,1430,Travis Wetland, ,3,5,wild
+113360,3,2018,Avon River,1491027,Avon River tributary wetland (Translocation),666,1330,Travis Wetland, ,3,5,wild
+113361,3,2018,Avon River,1491027,Avon River tributary wetland (Translocation),666,1400,Travis Wetland, ,3,5,wild
+113362,3,2018,Avon River,1491027,Avon River tributary wetland (Translocation),666,1500,Travis Wetland, ,3,5,wild
+113654,4,2018,Selwyn River,1491043,Hororata River 2,680,1155,Hororata River temporary river diversion,,,,wild
+113655,4,2018,Selwyn River,1491043,Hororata River 2,680,730,Hororata River temporary river diversion,,,,wild
+113702,3,2018,Unnamed stream,1491114,Unnamed stream Makikihi 2,706.5,900,Unnamed stream, ,67,7,wwt
+113703,3,2018,Unnamed stream,1491113,Unnamed stream Makikihi 1,706.5,1000,Unnamed stream, ,13,2,wwt
+113704,3,2018,Unnamed stream,1491113,Unnamed stream Makikihi 1,706.5,930,Wallace's culvert, ,13,2,wwt
+113896,5,2018,Selwyn River,1491140,Selwyn River tributary 5,680,930,Selwyn River, ,199,71,wild
+113897,5,2018,Selwyn River,1491140,Selwyn River tributary 5,680,930,Selwyn River, ,199,71,wild
+114222,5,2018,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1315,Peacock Springs machinery pond, ,0,0,docc
+115767,3,2019,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,930,Bush Gully, ,255,89,bml
+115770,3,2019,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,930,Bush Gully Stream, ,268,89,bml
+115771,3,2019,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,932,Bush Gully Stream, ,268,89,bml
+115772,3,2019,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,930,Bush Gully Stream, ,268,89,bml
+115773,3,2019,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,930,Bush Gully Stream, ,280,90,bml
+115774,3,2019,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,930,Bush Gully Stream, ,280,90,bml
+116228,6,2019,Temuka River,1491094,Rangatira Creek,696.024,1000,Rangatira Creek, ,70,19,docc
+116229,6,2019,Pareora River,1491104,Gordons Stream,701.02,1400,Gordons Stream, ,110,20,docc
+116230,6,2019,Pareora River,1491104,Gordons Stream,701.02,1400,Gordons Stream tributary, ,159,24,docc
+116231,6,2019,Pareora River,1491101,Pareora River tributary 1,701,1100,Delmore Springs,,11,1,docc
+116232,6,2019,Pareora River,1491103,Pareora River tributary 3,701,1200,Brassels Bridge Spring, ,39,9,docc
+116418,7,2019,Ashley River,1491003,Taranaki Stream tributary 1,662,1300,Tutaepatu Lagoon, , , ,docc
+116420,7,2019,Ashley River,1491003,Taranaki Stream tributary 1,662,1100,Tutaepatu Lagoon,,,,docc
+116424,5,2019,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network,683,200,Water race, , , ,docc
+116425,5,2019,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network,683,100,Water race, , , ,docc
+116426,5,2019,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network, ,1000,Water race, , , ,docc
+116427,5,2019,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1200,Waianiwaniwa River tributary, ,288,91,docc
+116428,5,2019,Selwyn River,1491045,Blacks Stream,680.05,1400,Waianiwaniwa River, ,247,84,docc
+116429,5,2019,Selwyn River,1491045,Blacks Stream, ,1400,Waianiwaniwa River, ,247,84,docc
+116443,5,2019,Selwyn River,1491047,Waianiwaniwa River,680.05,1130,Waianiwaniwa River, ,258,91,docc
+116444,5,2019,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1200,Waianiwaniwa River tributary, ,260,91,docc
+116445,5,2019,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,1230,Waianiwaniwa River tributary,,239,84,docc
+116446,5,2019,Selwyn River,1491040,Hororata River tributary 6,680.04,1000,Hororata River tributary, ,170,71,docc
+116898,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,918,Taiko Stream, ,139,29,crc
+116900,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc
+116901,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc
+116902,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,149,30,crc
+116903,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc
+116904,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc
+116905,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc
+116906,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,118,25,crc
+116908,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,117,25,crc
+116909,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,118,25,crc
+116911,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,24,crc
+116912,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc
+116913,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc
+116914,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc
+116915,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc
+116916,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc
+117228,4,2019,Waitaki River,1491139,Waitaki River tributary 2,711.031,,Waihuna Stream tributary,,91,28,rel
+117532,8,2019,Waihao River,1491146,Buchanans Creek tributary,709,1030,Buchanans Creek, ,9,5,docc
+117710,10,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,950,Waianiwaniwa River,,328,97,uoc
+117711,10,2016,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,1100,Waianiwaniwa River tributary,,304,95,uoc
+117714,10,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1200,Waianiwaniwa River oxbow,,281,93,uoc
+117715,10,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1240,Waianiwaniwa River tributary,,295,93,uoc
+117716,10,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1320,Waianiwaniwa River,,268,91,uoc
+117717,10,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1405,Waianiwaniwa River tributary,,260,91,uoc
+117718,10,2016,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1450,Waianiwaniwa River tributary,,260,91,uoc
+117719,10,2016,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1550,Waianiwaniwa River tributary,,270,91,uoc
+117720,11,2016,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1630,Waianiwaniwa River tributary,,288,92,uoc
+117722,11,2016,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,1740,Waianiwaniwa River tributary,,276,87,uoc
+117723,11,2016,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1810,Waianiwaniwa River tributary,,254,87,uoc
+117724,11,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1530,Waianiwaniwa River,,243,86,uoc
+117726,11,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1600,Waianiwaniwa River,,243,86,uoc
+117727,11,2016,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1640,Waianiwaniwa River tributary,,241,85,uoc
+117728,11,2016,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,1710,Waianiwaniwa River tributary,,239,84,uoc
+117729,11,2016,Selwyn River,1491043,Hororata River 2,680.04,1800,Hororata River tributary,,182,79,uoc
+117730,11,2016,Selwyn River,1491042,Cordys Stream,680.04,1830,Hororata River tributary,,180,78,uoc
+117731,11,2016,Selwyn River,1491043,Hororata River 2,680.04,1630,Hororata River,,189,79,uoc
+117734,11,2016,Selwyn River,1491040,Hororata River tributary 6,680.04,1030,Hororata River tributary,,170,71,uoc
+117736,11,2016,Selwyn River,1491040,Hororata River tributary 6,680.04,1130,Hororata River tributary,,170,71,uoc
+117737,11,2016,Selwyn River,1491040,Hororata River tributary 6,680.04,1250,Hororata River tributary,,170,71,uoc
+117738,11,2016,Selwyn River,1491038,Hororata River tributary 4,680.04,1400,Hororata River tributary,,151,68,uoc
+117739,11,2016,Selwyn River,1491038,Hororata River tributary 4,680.04,1600,Hororata River tributary,,148,68,uoc
+117740,11,2016,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1730,Waianiwaniwa River tributary,,288,91,uoc
+117741,11,2016,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1800,Waianiwaniwa River tributary,,280,90,uoc
+117742,11,2016,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1830,Waianiwaniwa River tributary,,250,88,uoc
+117743,12,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,930,Waianiwaniwa River,,328,97,uoc
+117744,12,2015,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,950,Waianiwaniwa River tributary,,304,95,uoc
+117745,12,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,1030,Waianiwaniwa River,,281,93,uoc
+117746,12,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,1050,Waianiwaniwa River,,278,92,uoc
+117747,12,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,1130,Waianiwaniwa River,,268,91,uoc
+117748,12,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1200,Waianiwaniwa River tributary,,260,91,uoc
+117749,12,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,1240,Waianiwaniwa River,,258,90,uoc
+117750,12,2015,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,1300,Waianiwaniwa River tributary,,276,87,uoc
+117751,12,2015,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1330,Waianiwaniwa River tributary,,250,88,uoc
+117752,12,2015,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1405,Waianiwaniwa River tributary,,254,87,uoc
+117753,12,2015,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1440,Waianiwaniwa River tributary,,241,85,uoc
+117754,12,2015,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,1500,Waianiwaniwa River tributary,,239,84,uoc
+117755,12,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,1420,Waianiwaniwa River tributary,,260,91,uoc
+117756,12,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,1500,Waianiwaniwa River,,268,91,uoc
+117757,12,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,1600,Waianiwaniwa River tributary,,295,93,uoc
+117758,12,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,1620,Waianiwaniwa River tributary,,295,93,uoc
+117759,12,2015,Selwyn River,1491047,Waianiwaniwa River,680.05,1705,Waianiwaniwa River oxbow,,281,93,uoc
+117760,12,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1000,Waianiwaniwa River tributary,,288,92,uoc
+117761,12,2015,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1010,Waianiwaniwa River tributary,,270,91,uoc
+117762,12,2015,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1730,Waianiwaniwa River tributary,,288,91,uoc
+117763,12,2015,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1740,Waianiwaniwa River tributary,,288,91,uoc
+117764,12,2015,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1755,Waianiwaniwa River tributary,,268,89,uoc
+117765,12,2015,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1810,Waianiwaniwa River tributary,,255,89,uoc
+117774,11,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,940,Waianiwaniwa River,,328,97,uoc
+117775,11,2016,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,1000,Waianiwaniwa River tributary,,304,95,uoc
+117776,11,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1100,Waianiwaniwa River oxbow,,281,93,uoc
+117777,11,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1120,Waianiwaniwa River tributary,,295,93,uoc
+117778,11,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1140,Waianiwaniwa River,,268,91,uoc
+117779,11,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1200,Waianiwaniwa River tributary,,260,91,uoc
+117780,11,2016,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1300,Waianiwaniwa River tributary,,260,91,uoc
+117781,11,2016,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1330,Waianiwaniwa River tributary,,270,91,uoc
+117782,11,2016,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1420,Waianiwaniwa River tributary,,288,92,uoc
+117783,11,2016,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1130,Waianiwaniwa River tributary,,250,88,uoc
+117784,11,2016,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,1200,Waianiwaniwa River tributary,,276,87,uoc
+117786,11,2016,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1210,Waianiwaniwa River tributary,,254,87,uoc
+117787,11,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1000,Waianiwaniwa River,,243,86,uoc
+117789,11,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,930,Waianiwaniwa River,,243,86,uoc
+117790,12,2016,Selwyn River,1491043,Hororata River 2,680.04,1030,Hororata River tributary,,188,79,uoc
+117791,11,2016,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1020,Waianiwaniwa River tributary,,241,85,uoc
+117792,11,2016,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,1050,Waianiwaniwa River tributary,,239,84,uoc
+117794,12,2016,Selwyn River,1491042,Cordys Stream,680.04,1000,Hororata River tributary,,180,78,uoc
+117796,12,2016,Selwyn River,1491043,Hororata River 2,680.04,1110,Hororata River,,189,79,uoc
+117797,12,2016,Selwyn River,1491040,Hororata River tributary 6,680.04,940,Hororata River tributary,,170,71,uoc
+117798,11,2016,Selwyn River,1491040,Hororata River tributary 6,680.04,1250,Hororata River tributary,,170,71,uoc
+117799,12,2016,Selwyn River,1491040,Hororata River tributary 6,680.04,900,Hororata River tributary,,170,71,uoc
+117800,11,2016,Selwyn River,1491038,Hororata River tributary 4,680.04,1320,Hororata River tributary,,151,68,uoc
+117801,11,2016,Selwyn River,1491038,Hororata River tributary 4,680.04,1350,Hororata River tributary,,148,68,uoc
+117802,12,2016,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1300,Waianiwaniwa River tributary,,288,91,uoc
+117803,12,2016,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1200,Waianiwaniwa River tributary,,280,90,uoc
+117804,12,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,950,Waianiwaniwa River,,328,97,uoc
+117805,12,2016,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,1020,Waianiwaniwa River tributary,,304,95,uoc
+117806,12,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1100,Waianiwaniwa River oxbow,,281,93,uoc
+117807,1,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1050,Waianiwaniwa River,,328,97,uoc
+117808,1,2017,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,1130,Waianiwaniwa River tributary,,304,95,uoc
+117809,1,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1150,Waianiwaniwa River oxbow,,281,93,uoc
+117810,1,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1230,Waianiwaniwa River tributary,,295,93,uoc
+117811,1,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1200,Waianiwaniwa River,,268,91,uoc
+117812,1,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1140,Waianiwaniwa River tributary,,260,91,uoc
+117813,1,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1300,Waianiwaniwa River tributary,,260,91,uoc
+117814,1,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1310,Waianiwaniwa River tributary,,270,91,uoc
+117815,1,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1350,Waianiwaniwa River tributary,,288,92,uoc
+117816,1,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1120,Waianiwaniwa River tributary,,250,88,uoc
+117817,1,2017,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,1050,Waianiwaniwa River tributary,,276,87,uoc
+117818,1,2017,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1030,Waianiwaniwa River tributary,,254,87,uoc
+117819,1,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,925,Waianiwaniwa River,,243,86,uoc
+117820,1,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,900,Waianiwaniwa River,,243,86,uoc
+117821,1,2017,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1000,Waianiwaniwa River tributary,,241,85,uoc
+117822,1,2017,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,1010,Waianiwaniwa River tributary,,239,84,uoc
+117823,1,2017,Selwyn River,1491043,Hororata River 2,680.04,900,Hororata River tributary,,188,79,uoc
+117825,1,2017,Selwyn River,1491042,Cordys Stream,680.04,1020,Hororata River tributary,,180,78,uoc
+117826,1,2017,Selwyn River,1491043,Hororata River 2,680.04,950,Hororata River,,189,79,uoc
+117828,1,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1050,Hororata River tributary,,170,71,uoc
+117830,1,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1100,Hororata River tributary,,170,71,uoc
+117833,1,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1140,Hororata River tributary,,170,71,uoc
+117834,1,2017,Selwyn River,1491038,Hororata River tributary 4,680.04,904,Hororata River tributary,,151,68,uoc
+117835,1,2017,Selwyn River,1491038,Hororata River tributary 4,680.04,940,Hororata River tributary,,148,68,uoc
+117836,1,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1530,Waianiwaniwa River tributary,,288,91,uoc
+117839,1,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1500,Waianiwaniwa River tributary,,280,90,uoc
+117840,2,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,930,Waianiwaniwa River,,328,97,uoc
+117841,2,2017,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,1000,Waianiwaniwa River tributary,,304,95,uoc
+117842,2,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1040,Waianiwaniwa River oxbow,,281,93,uoc
+117844,3,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,940,Waianiwaniwa River,,328,97,uoc
+117845,3,2017,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,1010,Waianiwaniwa River tributary,,304,95,uoc
+117846,3,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1040,Waianiwaniwa River oxbow,,281,93,uoc
+117847,3,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1100,Waianiwaniwa River tributary,,295,93,uoc
+117848,3,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1140,Waianiwaniwa River,,268,91,uoc
+117849,3,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1215,Waianiwaniwa River tributary,,260,91,uoc
+117850,3,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1245,Waianiwaniwa River tributary,,260,91,uoc
+117851,3,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1250,Waianiwaniwa River tributary,,270,91,uoc
+117852,3,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1320,Waianiwaniwa River tributary,,288,92,uoc
+117853,3,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1315,Waianiwaniwa River tributary,,250,88,uoc
+117854,3,2017,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,1345,Waianiwaniwa River tributary,,276,87,uoc
+117855,3,2017,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1350,Waianiwaniwa River tributary,,254,87,uoc
+117856,3,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1130,Waianiwaniwa River,,243,86,uoc
+117857,3,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1030,Waianiwaniwa River,,243,86,uoc
+117858,3,2017,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,930,Waianiwaniwa River tributary,,241,85,uoc
+117859,3,2017,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,1230,Waianiwaniwa River tributary,,239,84,uoc
+117860,3,2017,Selwyn River,1491043,Hororata River 2,680.04,1520,Hororata River tributary,,188,79,uoc
+117861,3,2017,Selwyn River,1491042,Cordys Stream,680.04,1615,Hororata River tributary,,180,78,uoc
+117862,3,2017,Selwyn River,1491043,Hororata River 2,680.04,1545,Hororata River,,189,79,uoc
+117863,3,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1635,Hororata River tributary,,170,71,uoc
+117864,3,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1645,Hororata River tributary,,170,71,uoc
+117865,3,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1320,Hororata River tributary,,170,71,uoc
+117866,3,2017,Selwyn River,1491038,Hororata River tributary 4,680.04,1345,Hororata River tributary,,151,68,uoc
+117867,3,2017,Selwyn River,1491038,Hororata River tributary 4,680.04,1410,Hororata River tributary,,148,68,uoc
+117868,3,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1345,Waianiwaniwa River tributary,,288,91,uoc
+117869,3,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1430,Waianiwaniwa River tributary,,280,90,uoc
+117870,3,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,930,Waianiwaniwa River,,328,97,uoc
+117871,3,2017,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,1020,Waianiwaniwa River tributary,,304,95,uoc
+117872,3,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1100,Waianiwaniwa River oxbow,,281,93,uoc
+117873,5,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,810,Waianiwaniwa River,,328,97,uoc
+117874,5,2017,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,825,Waianiwaniwa River tributary,,304,95,uoc
+117875,5,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,850,Waianiwaniwa River oxbow,,281,93,uoc
+117876,5,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,910,Waianiwaniwa River tributary,,295,93,uoc
+117877,5,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,950,Waianiwaniwa River,,268,91,uoc
+117878,5,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1020,Waianiwaniwa River tributary,,260,91,uoc
+117879,5,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1050,Waianiwaniwa River tributary,,260,91,uoc
+117880,5,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1100,Waianiwaniwa River tributary,,270,91,uoc
+117881,5,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1130,Waianiwaniwa River tributary,,288,92,uoc
+117882,5,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1230,Waianiwaniwa River tributary,,250,88,uoc
+117883,5,2017,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,1340,Waianiwaniwa River tributary,,276,87,uoc
+117884,5,2017,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1400,Waianiwaniwa River tributary,,254,87,uoc
+117885,5,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1500,Waianiwaniwa River,,243,86,uoc
+117886,5,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1430,Waianiwaniwa River,,243,86,uoc
+117887,5,2017,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1520,Waianiwaniwa River tributary,,241,85,uoc
+117888,5,2017,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,1550,Waianiwaniwa River tributary,,239,84,uoc
+117889,5,2017,Selwyn River,1491043,Hororata River 2,680.04,1120,Hororata River tributary,,188,79,uoc
+117890,5,2017,Selwyn River,1491042,Cordys Stream,680.04,1240,Hororata River tributary,,180,78,uoc
+117891,5,2017,Selwyn River,1491043,Hororata River 2,680.04,1200,Hororata River,,189,79,uoc
+117892,5,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1300,Hororata River tributary,,170,71,uoc
+117893,5,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1330,Hororata River tributary,,170,71,uoc
+117894,5,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1350,Hororata River tributary,,170,71,uoc
+117895,5,2017,Selwyn River,1491038,Hororata River tributary 4,680.04,1420,Hororata River tributary,,151,68,uoc
+117896,5,2017,Selwyn River,1491038,Hororata River tributary 4,680.04,1500,Hororata River tributary,,148,68,uoc
+117897,5,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1310,Waianiwaniwa River tributary,,288,91,uoc
+117898,5,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1250,Waianiwaniwa River tributary,,280,90,uoc
+117899,5,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,930,Waianiwaniwa River,,328,97,uoc
+117900,5,2017,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,1000,Waianiwaniwa River tributary,,304,95,uoc
+117901,5,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1030,Waianiwaniwa River oxbow,,281,93,uoc
+117904,7,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,930,Waianiwaniwa River,,328,97,uoc
+117905,7,2017,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,950,Waianiwaniwa River tributary,,304,95,uoc
+117906,7,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1020,Waianiwaniwa River oxbow,,281,93,uoc
+117907,7,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1040,Waianiwaniwa River tributary,,295,93,uoc
+117908,7,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1100,Waianiwaniwa River,,268,91,uoc
+117909,7,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1120,Waianiwaniwa River tributary,,260,91,uoc
+117910,7,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1130,Waianiwaniwa River tributary,,260,91,uoc
+117911,7,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1150,Waianiwaniwa River tributary,,270,91,uoc
+117912,7,2017,Selwyn River,1491054,Waianiwaniwa River tributary 7,680.05,1220,Waianiwaniwa River tributary,,288,92,uoc
+117913,7,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1515,Waianiwaniwa River tributary,,250,88,uoc
+117914,7,2017,Selwyn River,1491051,Waianiwaniwa River tributary 5,680.05,1555,Waianiwaniwa River tributary,,276,87,uoc
+117915,7,2017,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1610,Waianiwaniwa River tributary,,254,87,uoc
+117916,7,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1640,Waianiwaniwa River,,243,86,uoc
+117917,7,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1630,Waianiwaniwa River,,243,86,uoc
+117918,7,2017,Selwyn River,1491050,Waianiwaniwa River tributary 4,680.05,1700,Waianiwaniwa River tributary,,241,85,uoc
+117919,7,2017,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,1710,Waianiwaniwa River tributary,,239,84,uoc
+117920,7,2017,Selwyn River,1491043,Hororata River 2,680.04,1300,Hororata River tributary,,188,79,uoc
+117921,7,2017,Selwyn River,1491042,Cordys Stream,680.04,1330,Hororata River tributary,,180,78,uoc
+117922,7,2017,Selwyn River,1491043,Hororata River 2,680.04,1350,Hororata River,,189,79,uoc
+117923,7,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1405,Hororata River tributary,,170,71,uoc
+117924,7,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1420,Hororata River tributary,,170,71,uoc
+117925,7,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1440,Hororata River tributary,,170,71,uoc
+117926,7,2017,Selwyn River,1491038,Hororata River tributary 4,680.04,1455,Hororata River tributary,,151,68,uoc
+117927,7,2017,Selwyn River,1491038,Hororata River tributary 4,680.04,1505,Hororata River tributary,,148,68,uoc
+117928,7,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1545,Waianiwaniwa River tributary,,288,91,uoc
+117929,7,2017,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,1530,Waianiwaniwa River tributary,,280,90,uoc
+117930,7,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,930,Waianiwaniwa River,,328,97,uoc
+117931,7,2017,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,1010,Waianiwaniwa River tributary,,304,95,uoc
+117932,7,2017,Selwyn River,1491047,Waianiwaniwa River,680.05,1100,Waianiwaniwa River oxbow,,281,93,uoc
+117976,8,2019,Waihao River,1491122,Buchanans Creek,709.02,1030,Buchanans Creek,,10,6,docc
+118033,8,2017,Waimakariri River,1491026,Mounseys Stream tributary 13,664.06,900,Mounseys Stream tributary, ,309,64,docc
+118034,7,2016,Waimakariri River,1491026,Mounseys Stream tributary 13,664.06,920,Mounseys Stream tributary, ,309,64,docc
+118037,5,2017,Waimakariri River,1491026,Mounseys Stream tributary 13,664.06,915,Mounseys Stream tributary, ,309,64,docc
+118038,9,2014,Waimakariri River,1491026,Mounseys Stream tributary 13,664.06,910,Mounseys Stream tributary, ,309,64,docc
+118039,6,2013,Waimakariri River,1491026,Mounseys Stream tributary 13,664.06,935,Mounseys Stream tributary, ,311,64,docc
+118040,7,2012,Waimakariri River,1491026,Mounseys Stream tributary 13,664.06,938,Mounseys Stream tributary, ,311,64,docc
+118046,6,2011,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,915,Mounseys Stream tributary, ,309,64,docc
+119223,5,2020,Waimakariri River,1491011,Unnamed wetland Coopers Creek,664.062,910,Coopers Creek restoration pond, ,0,0,docc
+119224,6,2020,Waimakariri River,1491012,Eyre River tributary 2,664.06,1030,Eyre River wetland, ,269,58,docc
+119225,6,2020,Waimakariri River,1491012,Eyre River tributary 2,664.06,1040,Eyre River wetland, ,269,58,docc
+119226,5,2020,Waimakariri River,1491017,Mounseys Stream tributary 5,664.063,1120,Mounseys Stream tributary, ,321,63,docc
+119227,5,2020,Waimakariri River,1491017,Mounseys Stream tributary 5,664.063,1140,Mounseys Stream tributary, ,321,63,docc
+119228,5,2020,Waimakariri River,1491019,Mounseys Stream tributary 7,664.063,1000,Mounseys Stream tributary, ,303,62,docc
+119314,5,2020,Waimakariri River,1491145,Mounseys Stream tributary 15,664.063,1025,Mounseys Stream, ,302,62,docc
+119846,5,2020,Waimakariri River,1491144,Mounseys Stream tributary 14,664.063,1200,Mounseys Stream tributary, ,302,62,docc
+119853,5,2020,Waimakariri River,1491025,Mounseys Stream tributary 12,664.063,1000,Mounseys Stream tributary, ,321,63,docc
+119856,5,2020,Waimakariri River,1491025,Mounseys Stream tributary 12,664.063,945,Mounseys Stream tributary, ,321,63,docc
+119857,5,2020,Waimakariri,1491025,Mounseys Stream tributary 12,664.063,930,Mounseys Stream tributary, ,321,63,docc
+119858,5,2020,Waimakariri River,1491025,Mounseys Stream tributary 12,664.063,1100,Mounseys Stream tributary, ,321,63,docc
+119859,5,2020,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,900,Mounseys Stream tributary, ,357,65,docc
+119860,5,2020,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1000,Mounseys Stream, ,315,64,docc
+119861,5,2020,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1040,Mounseys Stream tributary, ,315,64,docc
+119866,5,2020,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1045,Mounseys Stream tributary, ,315,64,docc
+119867,5,2020,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,915,Mounseys Stream tributary, ,315,64,docc
+119891,9,2020,Pareora River,1491105,Taiko Stream (Translocation),701.04,1030,Taiko Stream, ,139,29,crc
+119892,9,2020,Pareora River,1491105,Taiko Stream (Translocation),701.04,1130,Taiko Stream, ,137,28,crc
+119893,9,2020,Pareora River,1491105,Taiko Stream (Translocation),701.04,1200,Taiko Stream, ,130,27,crc
+119894,9,2020,Pareora River,1491105,Taiko Stream (Translocation),253,1230,Taiko Stream, ,130,27,crc
+119895,9,2020,Pareora River,1491105,Taiko Stream (Translocation),701.04,1230,Taiko Stream, ,130,27,crc
+119896,9,2020,Pareora River,1491105,Taiko Stream (Translocation),701.04,1230,Taiko Stream, ,122,27,crc
+119897,9,2020,Pareora River,1491105,Taiko Stream (Translocation),701.04,930,Taiko Stream, ,118,25,crc
+119898,9,2020,Pareora River,1491105,Taiko Stream (Translocation),701.04,940,Taiko Stream, ,120,23,crc
+119899,5,2020,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1355,Mounseys Stream tributary, ,309,64,docc
+119900,5,2020,Waimakariri River,1491026,Mounseys Stream tributary 13,664,1330,Mounseys Stream tributary, ,0,0,docc
+119901,5,2020,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,1340,Mounseys Stream tributary, ,309,64,docc
+119906,11,2016,Waimakariri River,1491015,Mounseys Stream tributary 3,664.063,800,Mounseys Stream spring tributary,,,,wwt
+119910,8,2017,Waimakariri River,1491145,Mounseys Stream tributary 15,664.063,815,Mounseys Stream spring tributary, ,0,0,wwt
+119911,11,2017,Waimakariri River,1491145,Mounseys Stream tributary 15,664.063,1318,Mounseys Stream spring tributary, ,0,0,wwt
+119913,3,2019,Waimakariri River,1491011,Unnamed wetland Coopers Creek,664.062,1103,Coopers Creek wetland,,,,wwt
+119915,5,2018,Waimakariri River,1491145,Mounseys Stream tributary 15,664.063,840,Mounseys Stream spring tributary, ,0,0,wwt
+119917,1,2019,Waimakariri River,1491145,Mounseys Stream tributary 15,664.063,1130,Mounseys Stream spring tributary, ,0,0,wwt
+119986,9,2020,Waimakariri River,1491145,Mounseys Stream tributary 15,664.063,1129,Mounseys Stream tributary spring, ,0,0,wwt
+119988,2,2018,Selwyn River,1491148,Unnamed pond Hororata River 1,680.04,1300,Temporary pond, ,0,0,wild
+120023,10,2020,Selwyn River,1491143,Selwyn River tributary 7,680,1330,Happy Jack Creek, ,223,76,docc
+120024,9,2019,Selwyn River,1491143,Selwyn River tributary 7,680,1200,Happy Jacks Creek, ,223,76,docc
+120026,9,2020,Selwyn River,1491143,Selwyn River tributary 7,680,1349,Happy Jack Creek, ,223,76,doco
+120493,8,2019,Selwyn River,1491143,Selwyn River tributary 7,680,1004,Happy Jack Creek, ,223,76,docc
+120494,11,2019,Selwyn River,1491143,Selwyn River tributary 7,680,1013,Happy Jack Creek, ,288,80,docc
+120495,11,2019,Selwyn River,1491143,Selwyn River tributary 7,680,1017,Happy Jack Creek, ,232,79,docc
