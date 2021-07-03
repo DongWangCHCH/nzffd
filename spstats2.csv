@@ -1,0 +1,30 @@
+item,value
+Number of records,1097
+Earliest record,1926
+Latest record,2020
+Mean record,2008.72835
+Median record,2013
+Density min,0
+Density max,306
+Density mean,6.298815122
+Density Q25,0.666666667
+Density Q50,2
+Density Q75,6
+Min length min,15
+Min length max,147
+Min length mean,69.62429379
+Min length Q25,57
+Min length Q50,69
+Min length Q75,81
+Max length min,9
+Max length max,177
+Max length mean,102.0192308
+Max length Q25,84
+Max length Q50,105
+Max length Q75,125
+Length range min,1
+Length range max,133
+Length range mean,38.35511364
+Length range Q25,15
+Length range Q50,33
+Length range Q75,59
