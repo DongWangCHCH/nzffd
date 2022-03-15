@@ -1,0 +1,334 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+2561,3,1965,Utakura River,1511017,Lake Omapere wetland,477.05, ,Lake Omapere, ,235,24,niwa,p05,2581000,6648800,1009347,ef,1, , 
+55022,2,1966,Utakura River,1511017,Lake Omapere wetland,477.05,,Lake Omapere,,235,25,niwa,p05,2581300,6648800,1009347,unk,,,
+8654,1,1988,Utakura River,1511017,Lake Omapere wetland,477.05, ,Lake Omapere, ,235,24,nffg,p05,2581100,6648800,1009347,ncn, , , 
+9292,2,1992,Waitangi River,1511006,Mangatawai Stream wetland,37.015,1050,Unnamed lake, ,210,38,bior,p05,2589300,6642600,0,ef,1, , 
+9293,2,1992,Waitangi River,1511006,Mangatawai Stream wetland,37.015,1120,Unnamed lake, ,210,38,bior,p05,2589200,6642500,0,ncn, , , 
+9294,2,1992,Waitangi River,1511006,Mangatawai Stream wetland,37.015,1440,Unnamed wetland, ,230,38,bior,p05,2590100,6642000,0,gmt, , ,3
+13353,8,1993,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,140,11,docx,P05,2593500,6659500,0,gmt,,,17
+13301,2,1994,Waitangi River,1511006,Mangatawai Stream wetland,37.015,night,Unnamed wetland,,110,36,docx,P05,2589000,6643000,1010368,kbt,,,9
+18777,6,1998,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,1000,Unnamed wetland,,150,11,docx,P05,2593200,6659500,0,kbt,,,10
+18776,1,1999,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,1100,Unnamed wetland,,150,11,docx,P05,2593200,6659500,0,gmt,,,10
+19399,10,1999,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,night,Unnamed wetland,,120,10,docx,P05,2593300,6660400,0,gmt,,,5
+19400,10,1999,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,night,Waiwhakangarongaro Stream tributary,,120,10,docx,P05,2593200,6660200,1007001,kgt,,,10
+19401,8,1999,Waitangi River,1511006,Mangatawai Stream wetland,37.015,1400,Mangatawai Stream tributary,,120,36,docx,P05,2589000,6642700,1010530,gmt,,,12
+19577,11,1999,Waima River,1511012,Punakitere River tributary Rakautao Forest wetland,475.033,1200,Wairoro Stream tributary, ,120,43,chhf,p06,2589500,6639200,1011216,efp,2, ,50
+19578,11,1999,Waima River,1511012,Punakitere River tributary Rakautao Forest wetland,475.033,1200,Wairoro Stream tributary, ,120,44,chhf,p06,2589500,6639000,1011216,efp,2, ,50
+19900,5,2000,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36, ,Unnamed wetland, ,20,5,docx,p05,2601600,6661700,1006689,gmt, , ,15
+20252,6,2000,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Unnamed wetland,,35,6,docx,P05,2603200,6660800,1006856,gmt,,,12
+20253,6,2000,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Unnamed wetland,,10,2,docx,P05,2602800,6663500,1006538,gmt,,,7
+20254,7,2000,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Unnamed wetland,,10,1,docx,P05,2603200,6663800,1006414,gmt,,,8
+20255,7,2000,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36, ,Unnamed wetland, ,10,2,docx,p05,2603800,6663700,1006409,gmt, , ,8
+20256,7,2000,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Unnamed wetland,,20,5,docx,P05,2601500,6661800,1006689,gmt,,,10
+20257,7,2000,Waihou River,1511018,Whakanekeneke River wetland,478.02,night,Unnamed wetland,,240,27,docx,P05,2581900,6657200,1007653,gmt,,,11
+20261,7,2000,Waitangi River,1511007,Waitangi River wetland,37,night,Unnamed wetland,,230,38,docx,P05,2584800,6651900,1008653,gmt,,,10
+20262,7,2000,Waitangi River,1511007,Waitangi River wetland,37,night,Unnamed wetland,,230,39,docx,P05,2584900,6651600,1008653,gmt,,,10
+20263,7,2000,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Unnamed wetland,,10,1,docx,P05,2603200,6663800,1006414,gmt,,,10
+20264,7,2000,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36, ,Unnamed wetland, ,10,2,docx,p05,2603600,6663700,1006409,gmt, , ,10
+20276,8,2000,Waitangi River,1511006,Mangatawai Stream wetland,37.015,night,Unnamed wetland,,210,36,docx,P05,2588800,6643000,1010368,gmt,,,10
+20278,9,2000,Waitangi River,1511006,Mangatawai Stream wetland,37.015,night,Unnamed wetland,,230,38,docx,P05,2590000,6642200,0,gmt,,,20
+20279,9,2000,Kerikeri Inlet,1511001,Hauparua Inlet wetland,36, ,Unnamed wetland, ,15,2,docx,p05,2605500,6663500,1006416,gmt, , ,20
+20280,9,2000,Kerikeri Inlet,1511001,Hauparua Inlet wetland,36, ,Unnamed lake, ,15,1,docx,p05,2605200,6663500,1006300,kgt, , ,10
+20281,9,2000,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,night,Unnamed wetland,,30,5,docx,P05,2605000,6661700,1006843,gmt,,,12
+20284,9,2000,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Unnamed wetland,,15,4,docx,P05,2602800,6662300,1006575,gmt,,,5
+20286,9,2000,Utakura River,1511017,Lake Omapere wetland,477.05,night,Unnamed wetland,,230,25,docx,P05,2580700,6649400,1009034,gmt,,,10
+20295,10,2000,Utakura River,1511017,Lake Omapere wetland,477.05,night,Unnamed wetland,,235,24,docx,P05,2581100,6648800,0,gmt,,,8
+20297,10,2000,Utakura River,1511017,Lake Omapere wetland,477.05,night,Unnamed wetland,,240,26,docx,P05,2582200,6648100,0,gmt,,,10
+20299,10,2000,Utakura River,1511017,Lake Omapere wetland,477.05,night,Unnamed wetland,,240,26,docx,P05,2580900,6651000,1008899,gmt,,,10
+20577,10,2000,Utakura River,1511016,Utakura River wetland,477.05,night,Unnamed wetland,,220,22,docx,P05,2579800,6648400,1009458,gmt,,,7
+108654,8,2000,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108672,8,2000,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108689,8,2000,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,13
+108706,8,2000,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,11
+108723,8,2000,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,tfu,,,10
+108741,8,2000,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,15
+20621,5,2001,Waima River,1511008,Waionepu Stream wetland,475.033, ,Kaipeha Swamp, ,55,22,docx,p06,2576900,6636500,1011882,kgt, , ,8
+20622,5,2001,Waima River,1511008,Waionepu Stream wetland,475.033, ,Kaipeha Swamp, ,60,23,docx,p06,2577600,6636000,1011929,kgt, , ,7
+20623,5,2001,Waima River,1511008,Waionepu Stream wetland,475.033,night,Kaipeha Swamp,,55,23,docx,P06,2577200,6636000,1011975,gmt,,,10
+20624,5,2001,Waima River,1511008,Waionepu Stream wetland,475.033,night,Kaipeha Swamp,,55,23,docx,P06,2576900,6636300,1011882,gmt,,,10
+20625,5,2001,Waima River,1511008,Waionepu Stream wetland,475.033,night,Kaipeha Swamp,,55,23,docx,P06,2576000,6635800,1011813,gmt,,,6
+21077,3,2001,Waima River,1511012,Punakitere River tributary Rakautao Forest wetland,475.033,1100,Wairoro Stream tributary, ,125,43,chhf,p06,2589500,6639200,1011262,efp,2, ,10
+21546,6,2001,Waihou River,1511018,Whakanekeneke River wetland,478.02,1600,Unnamed wetland,,260,27,docx,P05,2581900,6657200,1007653,han,,,1
+22302,11,2001,Waima River,1511010,Kaupae Stream wetland,475.033,night,Unnamed wetland,,95,28,docx,P06,2580500,6638000,1011561,gmt,,,10
+22303,11,2001,Utakura River,1511017,Lake Omapere wetland,477.05,night,Unnamed wetland,,240,29,docx,P05,2584000,6651800,1008693,gmt,,,10
+22310,11,2001,Waima River,1511014,Taikawhena Stream,475.033,night,Unnamed wetland,,195,48,docx,P05,2586300,6642900,0,gmt,,,8
+22311,11,2001,Waima River,1511014,Taikawhena Stream,475.033,night,Unnamed wetland,,190,47,docx,P05,2585300,6643000,1010423,gmt,,,8
+22312,11,2001,Waima River,1511012,Punakitere River tributary Rakautao Forest wetland,475.033,night,Unnamed wetland,,130,43,docx,P06,2588600,6639400,1011161,gmt,,,8
+22313,11,2001,Waima River,1511011,Punakitere River tributary wetland,475.033,night,Unnamed wetland,,110,39,docx,P06,2586700,6638600,1011375,gmt,,,12
+22314,11,2001,Waima River,1511012,Punakitere River tributary Rakautao Forest wetland,475.033,night,Unnamed wetland,,130,44,docx,P06,2589400,6638800,1011343,gmt,,,14
+22319,11,2001,Waima River,1511012,Punakitere River tributary Rakautao Forest wetland,475.033,night,Unnamed wetland,,130,45,docx,P06,2590900,6638800,0,gmt,,,8
+22321,12,2001,Waima River,1511015,Punakitere River wetland,475.033,night,Unnamed wetland,,130,40,docx,P06,2587800,6636500,1011816,gmt,,,10
+108655,8,2001,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108673,8,2001,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108690,8,2001,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,13
+108707,8,2001,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,11
+108724,8,2001,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,thw,,,10
+108742,8,2001,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,14
+22353,2,2002,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36, ,Unnamed wetland, ,10,3,docx,p05,2603500,6663500,1006409,gmt, , ,10
+22354,2,2002,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36, ,Unnamed wetland, ,10,2,docx,p05,2603600,6664400,1006409,gmt, , ,10
+22355,2,2002,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Unnamed wetland,,10,1,docx,P05,2603400,6663800,1006409,gmt,,,10
+22356,2,2002,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36, ,Unnamed wetland, ,10,3,docx,p05,2603600,6663600,1006409,gmt, , ,10
+108656,8,2002,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108674,8,2002,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108691,8,2002,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,13
+108708,8,2002,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,11
+108725,8,2002,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,tfu,,,10
+108743,8,2002,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,15
+18506,11,2003,Utakura River,1511017,Lake Omapere wetland,477.05,night,Unnamed wetland,,240,26,nzac,P05,2580700,6650700,1008899,gmt,,,1
+22459,5,2003,Waitangi River,1511006,Mangatawai Stream wetland,37.015, ,Mangatawai Stream, ,220,37,docx,p05,2589900,6642600,1010546,kgt, , ,10
+22470,10,2003,Waima River,1511013,Wairoro Stream wetland,475.033,night,Unnamed wetland,,120,44,docx,P05,2585000,6641000,0,gmt,,,2
+23751,11,2003,Waitangi River,1511005,Kanikau Stream wetland,37.01,night,Unnamed wetland,,160,33,docx,P05,2591300,6646500,1009807,gmt,,,10
+23752,11,2003,Waitangi River,1511005,Kanikau Stream wetland,37.01,night,Unnamed wetland,,160,33,docx,P05,2591300,6646500,1009807,gmt,,,10
+23757,11,2003,Waima River,1511009,Mohitonui Stream wetland,475.033,night,Unnamed wetland,,150,30,docx,P05,2579800,6641600,1010726,gmt,,,10
+108657,8,2003,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108675,8,2003,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,9
+108692,8,2003,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,10
+108709,8,2003,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,11
+108727,8,2003,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,tfu,,,10
+108744,8,2003,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,16
+23762,5,2004,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Unnamed wetland,,15,5,docx,P05,2603400,6662100,0,gmt,,,10
+108573,4,2004,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,mcgl,P05,2591300,6646500,1009807,tfu,,,10
+108585,7,2004,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593500,6659500,,tfu,,,10
+108598,7,2004,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593684,6659405,,tfu,,,10
+108658,8,2004,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108676,8,2004,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108693,8,2004,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,13
+108710,8,2004,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,11
+108728,8,2004,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,tfu,,,10
+108745,8,2004,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,15
+24603,7,2005,Kerikeri Inlet,1511001,Hauparua Inlet wetland,36, ,Unnamed wetland, ,10,2,docx,p05,2606000,6663400,1006504,gmt, , ,10
+24606,8,2005,Kerikeri Inlet,1511001,Hauparua Inlet wetland,36, ,Unnamed wetland, ,10,2,docx,p05,2605700,6663500,1006416,gmt, , ,10
+24621,11,2005,Hauparua Inlet,1511001,Hauparua Inlet wetland,36,night,Unnamed wetland,,10,2,docx,P05,2605600,6663500,1006416,gmt,,,12
+108574,7,2005,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,mcgl,P05,2591300,6646500,1009807,tfu,,,10
+108586,7,2005,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593500,6659500,,tfu,,,10
+108599,7,2005,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593684,6659405,,tfu,,,10
+108611,7,2005,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,mcgl,P05,2605000,6661700,1006843,tfu,,,10
+108623,7,2005,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,mcgl,P05,2605192,6661770,1006843,tfu,,,10
+108635,7,2005,Waitangi River,1511007,Waitangi River wetland,37,,Waitangi River wetland,,240,36,mcgl,P05,2584800,6651900,1008653,tfu,,,10
+108659,8,2005,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108677,8,2005,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108694,8,2005,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,13
+108711,8,2005,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,11
+108729,8,2005,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,tfu,,,10
+108746,8,2005,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,15
+27026,8,2006,Waitangi River,1511006,Mangatawai Stream wetland,37.015,night,Unnamed wetland,,170,38,docx,P05,2590100,6642100,1010546,gmt,,,10
+27027,8,2006,Waitangi River,1511006,Mangatawai Stream wetland,37.015,1400,Unnamed wetland,,170,38,docx,P05,2589600,6641800,1010546,obs,,,4
+108575,8,2006,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,mcgl,P05,2591300,6646500,1009807,tfu,,,10
+108587,8,2006,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593500,6659500,,tfu,,,10
+108600,8,2006,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593684,6659405,,tfu,,,10
+108612,8,2006,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,mcgl,P05,2605000,6661700,1006843,tfu, , ,10
+108624,8,2006,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,mcgl,P05,2605192,6661770,1006843,tfu,,,10
+108636,8,2006,Waitangi River,1511007,Waitangi River wetland,37, ,Waitangi River wetland, ,240,36,mcgl,P05,2584800,6651900,1008653,tfu, , ,10
+108660,8,2006,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108678,8,2006,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108695,8,2006,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,13
+108712,8,2006,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,11
+108730,8,2006,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,tfu,,,10
+108747,8,2006,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,15
+27036,1,2007,Utakura River,1511017,Lake Omapere wetland,477.05,night,Lake Omapere tributary,,250,27,docx,P05,2583200,6648400,1009459,kgt,,,5
+27037,1,2007,Utakura River,1511017,Lake Omapere wetland,477.05,,Lake Omapere tributary,,250,26,docx,p05,2582700,6648200,1009466,kgt,,,9
+27043,6,2007,Waitangi River,1511006,Mangatawai Stream wetland,37.015,night,Unnamed wetland,,130,38,docx,P05,2589800,6641900,0,gmt,,,10
+27044,6,2007,Waitangi River,1511006,Mangatawai Stream wetland,37.015,night,Unnamed wetland,,130,38,docx,P05,2589800,6642200,0,gmt,,,10
+27045,6,2007,Waitangi River,1511006,Mangatawai Stream wetland,37.015,night,Unnamed wetland,,130,38,docx,P05,2590000,6641700,0,gmt,,,10
+108576,8,2007,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,mcgl,P05,2591300,6646500,1009807,tfu,,,10
+108588,8,2007,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593500,6659500,,tfu,,,10
+108601,8,2007,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593684,6659405,,tfu,,,10
+108613,8,2007,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,mcgl,P05,2605000,6661700,1006843,tfu, , ,10
+108625,8,2007,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,mcgl,P05,2605192,6661770,1006843,tfu,,,10
+108637,8,2007,Waitangi River,1511007,Waitangi River wetland,37,,Waitangi River wetland,,240,36,mcgl,P05,2584800,6651900,1008653,tfu,,,10
+108661,8,2007,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108679,8,2007,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108696,8,2007,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,13
+108713,8,2007,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,219,36,mcgl,P05,2588777,6642821,1010511,tfu,,,11
+108731,8,2007,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,tfu,,,10
+108748,8,2007,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,15
+32046,11,2008,Utakura River,1511017,Lake Omapere wetland,477.05,11,Lake Omapere, ,240,28,niwa,P05,2584071,6651444,1008693,ntc, , ,15
+32051,11,2008,Utakura River,1511017,Lake Omapere wetland,477.05,11,Lake Omapere, ,235,26,niwa,P05,2582452,6648265,1009466,fyn, , ,10
+32052,11,2008,Utakura River,1511017,Lake Omapere wetland,477.05,11,Lake Omapere, ,240,24,niwa,P05,2581054,6649069,1009276,fyn, , ,10
+108589,8,2008,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,docx,P05,2593500,6659500,,tfu,,,10
+108602,8,2008,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,docx,P05,2593684,6659405,,tfu,,,10
+108614,8,2008,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,docx,P05,2605000,6661700,1006843,tfu,,,10
+108626,8,2008,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,docx,P05,2605192,6661770,1006843,tfu, , ,10
+108638,8,2008,Waitangi River,1511007,Waitangi River wetland,37,,Waitangi River wetland,,240,36,docx,P05,2584800,6651900,1008653,tfu,,,10
+108662,8,2008,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588777,6642821,1010353,tfu,,,35
+108680,8,2008,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588844,6642645,1010353,tfu,,,10
+108697,8,2008,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588809,6642772,1010353,tfu,,,13
+108714,8,2008,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588777,6642821,1010353,tfu,,,11
+108732,8,2008,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588664,6642979,1010353,tfu,,,10
+108749,8,2008,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588784,6642768,1010353,tfu,,,15
+28178,9,2009,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Kerikeri Inlet tributary,,15,5,docx,P05,2601400,6661800,1006689,gmt,,,11
+28179,9,2009,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Kerikeri Inlet tributary,,10,5,docx,P05,2602700,6661800,1006679,gmt,,,10
+28180,9,2009,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Kerikeri Inlet tributary,,15,5,docx,P05,2602900,6662100,1006679,gmt,,,10
+28181,9,2009,Kerikeri Island,1511002,Kerikeri Inlet tributary wetland,36, ,Kerikeri Inlet tributary, ,15,8,docx,p05,2603700,6659600,1007195,gmt, , ,10
+108577,8,2009,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,docx,P05,2591300,6646500,1009807,tfu,,,10
+108590,8,2009,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,docx,P05,2593500,6659500,,tfu,,,10
+108603,8,2009,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,docx,P05,2593684,6659405,,tfu,,,10
+108615,8,2009,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,docx,P05,2605000,6661700,1006843,tfu, , ,10
+108627,8,2009,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,docx,P05,2605192,6661770,1006843,tfu,,,10
+108639,8,2009,Waitangi River,1511007,Waitangi River wetland,37, ,Waitangi River wetland, ,240,36,docx,P05,2584800,6651900,1008653,tfu, , ,10
+108663,8,2009,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588777,6642821,1010353,tfu,,,35
+108681,8,2009,Waitangi River,1511006,Mangatawai Stream wetland,37.015, ,Unnamed wetland, ,210,34,docx,P05,2588844,6642645,1010353,tfu, , ,10
+108698,8,2009,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588809,6642772,1010353,tfu,,,13
+108715,8,2009,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588777,6642821,1010353,tfu,,,11
+108733,8,2009,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588664,6642979,1010353,tfu,,,10
+108750,8,2009,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588784,6642768,1010353,tfu,,,15
+28187,9,2010,Waitangi River,1511007,Waitangi River wetland,37,night,Waitangi River wetland,,240,38,docx,P05,2584800,6651900,1008653,gmt,,,30
+28188,9,2010,Kerikeri Inlet,1511001,Hauparua Inlet wetland,36, ,Unnamed wetland Kerikeri Inlet, ,15,2,docx,P05,2605600,6663500,1006416,gmt, , ,12
+28189,9,2010,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Waitangi Forest wetland,,18,2,docx,P05,2603200,6663800,1006538,gmt,,,10
+28190,9,2010,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Waitangi Forest wetland,,18,2,docx,P05,2602800,6663500,1006538,gmt,,,10
+28191,9,2010,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Waitangi Forest wetland,,37,6,docx,P05,2603200,6660800,1006679,gmt,,,20
+28192,9,2010,Kerikeri Inlet,1511002,Kerikeri Inlet tributary wetland,36,night,Waitangi Forest wetland,,31,5,docx,P05,2603400,6662100,1006576,gmt,,,10
+28193,9,2010,Utakura River,1511017,Lake Omapere wetland,477.05,night,Lake Omapere wetland,,237,23,docx,P05,2582200,6648100,1009426,gmt,,,10
+28194,9,2010,Utakura River,1511016,Utakura River wetland,477.05,night,Lake Omapere tributary wetland,,235,22,docx,P05,2579800,6648400,1009426,gmt,,,10
+28195,9,2010,Utakura River,1511017,Lake Omapere wetland,477.05,night,Lake Omapere wetland,,240,24,docx,P05,2581100,6648800,1009362,gmt,,,10
+28196,9,2010,Utakura River,1511017,Lake Omapere wetland,477.05,night,Lake Omapere wetland,,240,25,docx,P05,2580700,6649400,1009034,gmt,,,10
+28197,9,2010,Utakura River,1511017,Lake Omapere wetland,477.05,night,Lake Omapere,,240,26,docx,P05,2580900,6651000,1008899,gmt,,,10
+28198,9,2010,Utakura River,1511017,Lake Omapere wetland,477.05,night,Lake Omapere,,240,29,docx,P05,2584000,6651800,1008693,gmt,,,10
+28199,9,2010,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,night,Waiwhakangarongaro Stream tributary,,128,10,docx,P05,2593300,6660400,1007001,gmt,,,10
+28200,9,2010,Waihou River,1511018,Whakanekeneke River wetland,478.02, ,Unnamed wetland, ,230,26,docx,P05,2582200,6658100,1007451,gmt, , ,20
+33626,9,2010,Waima River,1511010,Kaupae Stream wetland,475.033, ,Unnamed wetland, ,85,27,docx,P06,2580500,6638000,1011561,gmt, , ,10
+33627,9,2010,Waima River,1511008,Waionepu Stream wetland,475.031,night,Kaipeha Swamp,,54,22,docx,P06,2575800,6636500,1011829,gmt,,,10
+33628,9,2010,Waima River,1511012,Punakitere River tributary Rakautao Forest wetland,475.033,night,Rakautao Forest wetland,,130,44,docx,P06,2589400,6638800,1011343,gmt,,,12
+33629,9,2010,Waima River,1511012,Punakitere River tributary Rakautao Forest wetland,475.033,night,Rakautao Forest wetland,,130,43,docx,P06,2588600,6639400,1011161,gmt,,,10
+33630,9,2010,Waima River,1511012,Punakitere River tributary Rakautao Forest wetland,475.033,night,Rakautao Forest wetland,,137,45,docx,P06,2590900,6638900,1011319,gmt,,,10
+33631,9,2010,Waima River,1511015,Punakitere River wetland,475.033,night,Rakautao Forest wetland,,128,40,docx,P06,2587800,6636300,1011816,gmt,,,10
+108578,9,2010,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,mcgl,P05,2591300,6646500,1009807,tfu,,,10
+108591,8,2010,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593500,6659500,,tfu,,,10
+108604,8,2010,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593684,6659405,,tfu,,,10
+108616,8,2010,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,mcgl,P05,2605000,6661700,1006843,tfu, , ,10
+108628,8,2010,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,mcgl,P05,2605192,6661770,1006843,tfu,,,11
+108640,8,2010,Waitangi River,1511007,Waitangi River wetland,37,,Waitangi River wetland,,240,36,mcgl,P05,2584800,6651900,1008653,tfu,,,9
+108664,8,2010,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108682,8,2010,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108699,8,2010,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,13
+108716,8,2010,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,11
+108734,8,2010,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,tfu,,,9
+108751,8,2010,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,15
+108579,8,2011,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,mcgl,P05,2591300,6646500,1009807,tfu,,,10
+108592,8,2011,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593500,6659500,,tfu,,,10
+108605,8,2011,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593684,6659405,,tfu,,,10
+108617,8,2011,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,mcgl,P05,2605000,6661700,1006843,tfu, , ,10
+108629,8,2011,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,mcgl,P05,2605192,6661770,1006843,tfu,,,10
+108641,8,2011,Waitangi River,1511007,Waitangi River wetland,37,,Waitangi River wetland,,240,36,mcgl,P05,2584800,6651900,1008653,tfu,,,10
+108665,8,2011,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108683,8,2011,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108700,8,2011,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,6
+108717,8,2011,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,11
+108735,8,2011,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,tfu,,,10
+108752,8,2011,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,14
+108580,8,2012,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,mcgl,P05,2591300,6646500,1009807,tfu,,,10
+108606,8,2012,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593684,6659405,,tfu,,,10
+108618,8,2012,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,mcgl,P05,2605000,6661700,1006843,tfu,,,10
+108630,8,2012,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,mcgl,P05,2605192,6661770,1006843,tfu, , ,10
+108642,8,2012,Waitangi River,1511007,Waitangi River wetland,37,,Waitangi River wetland,,240,36,mcgl,P05,2584800,6651900,1008653,tfu,,,10
+108666,10,2012,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108684,8,2012,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108701,8,2012,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,13
+108718,8,2012,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,11
+108736,8,2012,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,0,0,mcgl,P05,2588664,6642979,,tfu,,,10
+108753,8,2012,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,15
+108581,8,2013,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,mcgl,P05,2591300,6646500,1009807,tfu,,,10
+108593,8,2013,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593500,6659500,,tfu,,,10
+108594,8,2013,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593500,6659500,,tfu,,,10
+108607,8,2013,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593684,6659405,,tfu,,,10
+108619,8,2013,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,mcgl,P05,2605000,6661700,1006843,tfu, , ,10
+108631,8,2013,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,mcgl,P05,2605192,6661770,1006843,tfu,,,10
+108643,8,2013,Waitangi River,1511007,Waitangi River wetland,37,,Waitangi River wetland,,240,36,mcgl,P05,2584800,6651900,1008653,tfu,,,10
+108667,8,2013,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108685,8,2013,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108702,8,2013,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,13
+108719,8,2013,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,11
+108737,8,2013,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,tfu,,,10
+108754,8,2013,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,15
+115213,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,1200,Waitangi wetlands, ,30,4,wild,P05,2603124,6660875,1006679,tfu, , ,1
+115214,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,30,4,wild,P05,2603123,6660874,1006679,tfu, , ,1
+115215,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,30,4,wild,P05,2603114,6660866,1006679,tfu, , ,1
+115216,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,30,4,wild,P05,2603105,6660848,1006679,tfu, , ,1
+115217,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,30,4,wild,P05,2603107,6660840,1006679,tfu, , ,1
+115218,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,30,4,wild,P05,2603097,6660830,1006679,tfu, , ,1
+115219,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,30,4,wild,P05,2603095,6660822,1006679,tfu, , ,1
+115220,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,30,4,wild,P05,2603087,6660814,1006679,tfu, , ,1
+115221,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,30,4,wild,P05,2603075,6660799,1006679,tfu, , ,1
+115222,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,30,4,wild,P05,2603070,6660786,1006679,tfu, , ,1
+115223,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603387,6659814,1007142,tfu, , ,1
+115224,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603388,6659813,1007142,tfu, , ,1
+115225,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603400,6659807,1007142,tfu, , ,1
+115226,10,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603407,6659804,1007142,tfu, , ,1
+115227,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603420,6659793,1007142,tfu, , ,1
+115228,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603419,6659787,1007142,tfu, , ,1
+115229,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603423,6659788,1007142,tfu, , ,1
+115230,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603454,6659748,1007142,tfu, , ,1
+115231,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603453,6659744,1007142,tfu, , ,1
+115232,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603456,6659744,1007142,tfu, , ,1
+115233,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603873,6659754,1007195,tfu, , ,1
+115234,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603876,6659753,1007195,tfu, , ,1
+115235,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603876,6659746,1007195,tfu, , ,1
+115236,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603869,6659743,1007195,tfu, , ,1
+115237,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603869,6659744,1007195,tfu, , ,1
+115238,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603863,6659741,1007195,tfu, , ,1
+115239,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603867,6659738,1007195,tfu, , ,1
+115240,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603862,6659735,1007195,tfu, , ,1
+115241,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603859,6659735,1007195,tfu, , ,1
+115242,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603853,6659735,1007195,tfu, , ,1
+115245,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603686,6659835,1007195,tfu, , ,1
+115246,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603680,6659843,1007195,tfu, , ,1
+115247,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603678,6659849,1007195,tfu, , ,1
+115249,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603681,6659854,1007195,tfu, , ,1
+115250,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603686,6659862,1007195,tfu, , ,1
+115251,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603690,6659860,1007195,tfu, , ,1
+115252,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603693,6659846,1007195,tfu, , ,1
+115253,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603693,6659834,1007195,tfu, , ,1
+115255,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603694,6659831,1007195,tfu, , ,1
+115256,9,2013,Kerikeri Inlet to Waitangi River,1511002,Kerikeri Inlet tributary wetland,36,900,Waitangi wetlands, ,40,7,wild,P05,2603695,6659828,1007195,tfu, , ,1
+108582,8,2014,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,mcgl,P05,2591300,6646500,1009807,tfu,,,10
+108595,8,2014,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593500,6659500,,tfu,,,10
+108608,8,2014,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,mcgl,P05,2593684,6659405,,tfu,,,10
+108620,8,2014,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,mcgl,P05,2605000,6661700,1006843,tfu, , ,10
+108632,8,2014,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,mcgl,P05,2605192,6661770,1006843,tfu,,,10
+108644,8,2014,Waitangi River,1511007,Waitangi River wetland,37,,Waitangi River wetland,,240,36,mcgl,P05,2584800,6651900,1008653,tfu,,,10
+108668,8,2014,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,35
+108686,8,2014,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588844,6642645,1010353,tfu,,,10
+108703,8,2014,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588809,6642772,1010353,tfu,,,13
+108720,8,2014,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588777,6642821,1010353,tfu,,,15
+108738,8,2014,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588664,6642979,1010353,tfu,,,11
+108755,8,2014,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,mcgl,P05,2588784,6642768,1010353,tfu,,,10
+102973,7,2015,Waima River,1511014,Taikawhena Stream,475.033,1001,Unnamed wetland Taikawhena Stream tribut,,243,48,nrc,O05,2587127,6643149,1010453,tfu,,,1
+102974,7,2015,Waima River,1511014,Taikawhena Stream,475.033,1010,Unnamed wetland Taikawhena Stream Tribut,,243,48,nrc,O05,2587127,6643158,1010453,tfu,,,1
+102975,7,2015,Waitangi River,1511014,Taikawhena Stream,37,1205,Ngawha unnamed wetland,,231,48,nrc,P05,2587223,6643334,1010341,tfu,,,1
+102976,7,2015,Waitangi River,1511014,Taikawhena Stream,37,1116,Ngawha unnamed wetland,,231,48,nrc,P05,2587224,6643338,1010341,tfu,,,1
+102977,7,2015,Waitangi River,1511014,Taikawhena Stream,37,1327,Ngawha unnamed wetland,,231,48,nrc,P05,2587205,6643348,1010341,tfu,,,1
+102978,7,2015,Waitangi River,1511014,Taikawhena Stream,37,1258,Ngawha unnamed wetland,,231,48,nrc,P05,2587569,6643108,1010341,tfu,,,1
+102979,7,2015,Waitangi River,1511014,Taikawhena Stream,37,1308,Ngawha unnamed wetland,,231,48,nrc,P05,2587562,6643118,1010341,tfu,,,1
+108583,8,2015,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,docx,P05,2591300,6646500,1009807,tfu,,,10
+108596,8,2015,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,docx,P05,2593500,6659500,,tfu,,,10
+108609,8,2015,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,docx,P05,2593684,6659405,,tfu,,,11
+108621,8,2015,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,docx,P05,2605000,6661700,1006843,tfu, , ,10
+108633,8,2015,Onewhero Bay,1511004,Onewhero Bay wetland,37.5,,Unnamed wetland,,37,5,docx,P05,2605192,6661770,1006843,tfu,,,10
+108645,8,2015,Waitangi River,1511007,Waitangi River wetland,37,,Waitangi River wetland,,240,36,docx,P05,2584800,6651900,1008653,tfu,,,10
+108669,8,2015,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588777,6642821,1010353,tfu,,,35
+108687,8,2015,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588844,6642645,1010353,tfu,,,10
+108704,8,2015,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588809,6642772,1010353,tfu,,,13
+108721,8,2015,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588777,6642821,1010353,tfu,,,15
+108739,8,2015,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588664,6642979,1010353,tfu,,,11
+108756,8,2015,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588784,6642768,1010353,tfu,,,10
+108584,8,2016,Waitangi River,1511005,Kanikau Stream wetland,37.01,,Unnamed wetland,,176,31,docx,P05,2591300,6646500,1009807,tfu,,,10
+108597,9,2016,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,docx,P05,2593500,6659500,,tfu,,,10
+108610,9,2016,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,,Unnamed wetland,,0,0,docx,P05,2593684,6659405,,tfu,,,10
+108622,8,2016,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,docx,P05,2605000,6661700,1006843,tfu, , ,10
+108634,8,2016,Onewhero Bay,1511004,Onewhero Bay wetland,37.5, ,Unnamed wetland, ,37,5,docx,P05,2605192,6661770,1006843,tfu, , ,10
+108646,8,2016,Waitangi River,1511007,Waitangi River wetland,37,,Waitangi River wetland,,240,36,docx,P05,2584800,6651900,1008653,tfu,,,10
+108671,8,2016,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588777,6642821,1010353,tfu,,,35
+108688,8,2016,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588844,6642645,1010353,tfu,,,10
+108705,8,2016,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588809,6642772,1010353,tfu,,,13
+108722,8,2016,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588777,6642821,1010353,tfu,,,15
+108740,8,2016,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588664,6642979,1010353,tfu,,,11
+108757,8,2016,Waitangi River,1511006,Mangatawai Stream wetland,37.015,,Unnamed wetland,,210,34,docx,P05,2588784,6642768,1010353,tfu,,,10
+110520,3,2017,Utakura River,1511017,Lake Omapere wetland,477,1400,Lake Omapere unnamed tributary,,259,24,mcgl,O05,2582696,6648249,1009466,tfu,,,2
+110521,3,2017,Utakura River,1511017,Lake Omapere wetland,477,1430,Lake Omapere unnamed tributary, ,254,24,mcgl,O05,2583296,6648348,1009459,tfu, , ,3
+112276,8,2017,Onewhero Bay,1511004,Onewhero Bay wetland,36,930,Daniell's wetland, ,39,5,mcgl,P05,2605216,6661569,1006843,tfu, , ,1
+112277,8,2017,Onewhero Bay,1511004,Onewhero Bay wetland,36,1045,Daniell's wetland, ,39,5,mcgl,P05,2605110,6661536,1006843,tfu, , ,2
+114468,8,2018,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,1200,Kerikeri Airport swamp, ,127,9,ind,P05,2593525,6660251,1007001,kbt, , ,5
+115599,12,2018,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35.01,800,Kerikeri Airport Swamp, ,125,9,ind,P05,2593500,6660143,1007001,kbt, , ,8
+117382,10,2019,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35,1500,Kerikeri Airport Swamp, ,125,9,ind,P05,2593392,6659483,1007001,kbt,, ,9
+117388,10,2019,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35,1300,Kerikeri Airport Swamp, ,0,0,ind,P05,2593433,6659436, ,kbt,, ,5
+120995,11,2020,Kerikeri River,1511003,Waiwhakangarongaro Stream wetland,35,1700,Kerikeri Airport swamp, ,125,9,ind,P05,2593554,6660140,1007001,kbt, , ,6
