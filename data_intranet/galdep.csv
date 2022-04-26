@@ -1,0 +1,778 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+833,1,1965,Shag River,1121009,Shag River - mainstem upper,726, ,Shag River, ,400,71,unk,i42,2308300,5548700,14037376,ef,1, , 
+50767,1,1965,Shag River,1121014,Pigroot Creek,726.24, ,Pigroot Creek, ,400,78,unk,i42,2306400,5552400,14035179,unk, , , 
+4014,1,1967,Shag River,1121009,Shag River - mainstem upper,726, ,Shag River, ,660,86,niwa,i42,2306700,5557200,14033241,ef,1, , 
+4015,1,1967,Shag River,1121009,Shag River - mainstem upper,726, ,Shag River, ,590,84,niwa,i42,2306300,5555700,14034149,ef,1, , 
+4016,1,1967,Shag River,1121014,Pigroot Creek,726.24, ,Pigroot Creek, ,520,80,niwa,i42,2307800,5553700,14035000,ef,1, , 
+4017,1,1967,Shag River,1121009,Shag River - mainstem upper,726, ,Shag River, ,590,78,niwa,i42,2306200,5552500,14035593,ef,1, , 
+4018,1,1967,Shag River,1121009,Shag River - mainstem upper,726, ,Shag River, ,400,71,niwa,i42,2308300,5548700,14037376,ef,1, , 
+4019,1,1967,Shag River,1121002,Shag River - mainstem lower,726,,Shag River,,120,43,niwa,i42,2319600,5540100,14041300,ef,1,,
+4020,1,1967,Shag River,1121002,Shag River - mainstem lower,726, ,Shag River, ,50,29,niwa,i42,2323900,5535200,14043212,ef,1, , 
+5932,4,1973,Shag River,1121002,Shag River - mainstem lower,726, ,Shag River tributary, ,140,44,niwa,i42,2319100,5539800,0,han, , ,2
+3666,,1981,Taieri River,1121042,Shepards Hut Creek,743.864,,Shepherds Hut Creek,,850,258,unk,H43,2263300,5509900,14051806,unk,,,
+4926,1,1983,Taieri River,1121022,Nenthorn Stream,743.23,1100,Nenthorn Stream, ,260,95,otfg,i43,2298200,5513500,14050699,ef,2, ,242
+4927,1,1983,Taieri River,1121022,Nenthorn Stream,743.23,1400,Nenthorn Stream,,270,97,otfg,I43,2299800,5512900,14050840,ef,2,,368
+4928,1,1983,Taieri River,1121022,Nenthorn Stream,743.23,1500,Nenthorn Stream,,300,103,otfg,I43,2299900,5515700,14050067,ef,2,,163
+4929,1,1983,Taieri River,1121022,Nenthorn Stream,743.236,1600,Black Rock Stream,,300,103,otfg,I43,2299900,5515900,14049989,ef,2,,45
+4930,2,1983,Taieri River,1121022,Nenthorn Stream,743.23,1130,Nenthorn Stream,,300,105,otfg,I43,2298700,5516800,14049741,ef,2,,240
+4931,2,1983,Taieri River,1121022,Nenthorn Stream,743.23,1320,Nenthorn Stream,,350,119,otfg,I43,2302100,5524800,14047188,ef,2,,60
+4932,2,1983,Taieri River,1121022,Nenthorn Stream,743.238,1420,Deighton Creek,,350,120,otfg,I43,2302900,5524900,14047307,ef,2,,78
+7801,1,1987,Taieri River,1121023,Mare Burn,743.58,1500,Mare Burn, ,300,145,otfg,i42,2297600,5543900,14039741,ef,2, , 
+7808,1,1987,Taieri River,1121027,Healy Creek,743.648,1345,Healy Creek, ,640,194,otfg,i41,2299100,5578800,14023208,ef,2, ,117
+7859,5,1987,Shag River,1121002,Shag River - mainstem lower,726,930,Shag River, ,150,50,otfg,i42,2316400,5540500,14041203,ef,1, , 
+7860,5,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,305,59,otfg,i42,2309800,5537100,14042618,ef,2, , 
+7861,5,1987,Shag River,1121007,Deepdell Creek,726.17,,Deepdell Creek tributary,,310,59,otfg,i42,2309700,5536900,14042712,obs,,,2
+7862,5,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,360,63,otfg,i42,2307700,5536000,14043095,ef,3, , 
+7863,5,1987,Shag River,1121007,Deepdell Creek,726.174,,Maori Tommy Gully,,370,63,otfg,i42,2308000,5535900,14043096,ef,2,,
+7864,5,1987,Shag River,1121007,Deepdell Creek,726.17,,Deepdell Creek tributary,,470,70,otfg,i42,2307100,5536800,14042917,ef,3,,
+7865,5,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,330,61,otfg,i42,2308600,5536600,14042746,ef,2, , 
+7866,5,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek tributary, ,340,62,otfg,i42,2308400,5536500,14042907,obs, , ,1
+7867,9,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,300,59,otfg,i42,2310000,5537100,14042619,ef,2, , 
+7868,9,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,320,61,otfg,i42,2308700,5536700,14042746,ef,2, , 
+7869,9,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,350,63,otfg,i42,2308000,5536400,14042800,ef,2, , 
+7870,9,1987,Shag River,1121007,Deepdell Creek,726.174,,Maori Tommy Gully,,370,63,otfg,i42,2308100,5535900,14043096,ef,2,,
+7871,9,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,360,63,otfg,i42,2307700,5536000,14043095,ef,2, , 
+7872,12,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,360,63,otfg,i42,2307700,5535900,14043095,ef,2, , 
+7873,12,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,360,63,otfg,i42,2307700,5535900,14043095,ef,2, , 
+7874,12,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,350,63,otfg,i42,2308000,5536400,14042937,ef,2, , 
+7875,12,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,330,61,otfg,i42,2308700,5536700,14042746,ef,2, , 
+7880,12,1987,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,300,59,otfg,i42,2309800,5537100,14042618,ef,2, , 
+5298,9,1988,Taieri River,1121022,Nenthorn Stream,743.23,1030,Nenthorn Stream,,240,88,otfg,I43,2295500,5510300,14051691,ef,2,,
+7819,1,1988,Taieri River,1121023,Mare Burn,743.58,1100,Mare Burn, ,300,145,otfg,i42,2297600,5543900,14039741,ef,6, , 
+7820,9,1988,Taieri River,1121021,Ross Stream,743.21,1200,Ross Stream, ,150,80,otfg,i43,2295400,5505400,14053012,ef,2, , 
+7821,9,1988,Taieri River,1121021,Ross Stream,743.21,1400,Ross Stream, ,330,87,otfg,i43,2299500,5505600,14053039,ef,2, , 
+7822,9,1988,Taieri River,1121022,Nenthorn Stream,743.23,1600,Nenthorn Stream,,170,81,otfg,I43,2294800,5506200,14052929,ef,1,,
+10881,3,1989,Shag River,1121004,Shag River tributary 2,726,1200,Shag River tributary, ,120,38,otfg,i42,2322400,5538800,14041729,ef,1, ,62
+10884,3,1989,Shag River,1121014,Pigroot Creek,726.24,1200,Siberia Creek, ,520,80,otfg,i42,2307800,5553700,14035038,ef,2, ,50
+10885,3,1989,Shag River,1121009,Shag River - mainstem upper,726,1400,Shag River, ,620,85,otfg,i42,2306700,5556400,14033800,ef,2, ,50
+10886,3,1989,Shag River,1121009,Shag River - mainstem upper,726,1600,Shag River, ,400,71,otfg,i42,2308200,5548700,14037376,ef,2, ,152
+10887,3,1989,Shag River,1121009,Shag River - mainstem upper,726,1000,Shag River, ,470,78,otfg,i42,2306200,5552600,14035452,ef,2, ,93
+10888,3,1989,Shag River,1121002,Shag River - mainstem lower,726,1200,Shag River, ,50,29,otfg,i42,2324000,5535200,14043212,ef,2, ,87
+11207,7,1989,Shag River,1121009,Shag River - mainstem upper,726,1000,Shag River, ,400,71,uoo,i42,2308200,5548700,14037376,han, , ,50
+11212,11,1989,Shag River,1121007,Deepdell Creek,726.17,900,Deepdell Creek, ,330,61,uoo,i42,2308700,5536800,14042746,wbn, , ,200
+10906,3,1990,Shag River,1121007,Deepdell Creek,726.17,1600,Deepdell Creek, ,300,59,otfg,i42,2310100,5537300,14042503,ef,2, ,56
+10907,3,1990,Shag River,1121007,Deepdell Creek,726.17,1320,Deepdell Creek, ,350,63,otfg,i42,2307800,5536400,14042937,ef,3, ,40
+10908,3,1990,Shag River,1121007,Deepdell Creek,726.17,1330,Deepdell Creek,,340,63,otfg,i42,2307600,5536300,14042937,ef,2,,57
+10909,3,1990,Shag River,1121007,Deepdell Creek,726.17,1640,Deepdell Creek, ,360,64,otfg,i42,2307200,5535600,14043228,ef,2, ,37
+10929,1,1990,Taieri River,1121027,Healy Creek,743.648, ,Healy Creek, ,640,194,uoo,i41,2299000,5578900,14023208,efp,1, ,21
+10952,1,1990,Taieri River,1121029,Kye Burn,743.64, ,Kye Burn, ,810,198,otfg,i41,2302000,5580500,14022470,efp,1, ,10
+10982,1,1990,Taieri River,1121027,Healy Creek,743.648,day,Healy Creek,,670,194,uoo,I41,2299200,5578700,14023208,efp,1,,20
+10983,1,1990,Taieri River,1121027,Healy Creek,743.648,day,Healy Creek,,670,194,uoo,I41,2299200,5578700,14023208,efp,1,,8
+10984,1,1990,Taieri River,1121028,Kye Burn tributary 7,743.64,day,Kye Burn tributary,,760,197,uoo,I41,2301000,5580100,14022642,efp,1,,25
+10985,1,1990,Taieri River,1121028,Kye Burn tributary 7,743.64,day,Kye Burn tributary,,800,197,uoo,I41,2301200,5579800,14022642,efp,1,,12
+10986,1,1990,Taieri River,1121028,Kye Burn tributary 7,743.64,day,Kye Burn tributary,,820,198,uoo,I41,2301300,5579700,14022823,efp,1,,46
+10987,1,1990,Taieri River,1121029,Kye Burn,743.64, ,Kye Burn, ,740,206,uoo,i41,2301100,5580300,14022470,efp,1, ,6
+10988,1,1990,Taieri River,1121029,Kye Burn,743.64, ,Kye Burn tributary, ,740,197,uoo,i41,2301100,5580300,14022048,efp,1, ,6
+10989,1,1990,Taieri River,1121029,Kye Burn,743.64,day,Kye Burn,,880,197,uoo,I41,2301500,5580300,14022470,efp,1,,5
+10990,1,1990,Taieri River,1121029,Kye Burn,743.64,day,Kye Burn,,880,197,uoo,I41,2301500,5580300,14022470,efp,1,,3
+10991,1,1990,Taieri River,1121030,Kye Burn tributary 8,743.64,day,Kye Burn tributary,,820,198,uoo,I41,2302100,5580500,14022471,efp,1,,7
+11860,2,1990,Taieri River,1121022,Nenthorn Stream,743.23,day,Nenthorn Stream,,240,88,uoo,I43,2295500,5510400,14051474,efp,1,,27
+11861,2,1990,Taieri River,1121022,Nenthorn Stream,743.23,day,Nenthorn Stream,,300,106,uoo,I43,2298500,5517100,14049567,efp,1,,31
+11862,2,1990,Taieri River,1121022,Nenthorn Stream,743.23,day,Nenthorn Stream,,300,106,uoo,I43,2298500,5517100,14049567,efp,1,,30
+11863,1,1990,Taieri River,1121022,Nenthorn Stream,743.23, ,Nenthorn Stream, ,350,119,uoo,i43,2302000,5524500,14047243,efp,1, ,62
+11864,1,1990,Taieri River,1121022,Nenthorn Stream,743.23, ,Nenthorn Stream, ,350,119,uoo,i43,2302000,5524500,14047243,efp,1, ,29
+11865,2,1990,Taieri River,1121022,Nenthorn Stream,743.232,day,Washpool Stream,,270,92,uoo,I43,2297900,5510800,14051495,efp,1,,12
+11866,2,1990,Taieri River,1121022,Nenthorn Stream,743.232,day,Washpool Stream,,270,92,uoo,I43,2297900,5510800,14051495,efp,1,,3
+11867,1,1990,Taieri River,1121022,Nenthorn Stream,743.232,day,Washpool Stream,,330,93,uoo,I43,2299000,5510900,14051486,efp,1,,3
+11868,2,1990,Taieri River,1121022,Nenthorn Stream,743.232,day,Washpool Stream,,330,93,uoo,I43,2299000,5510900,14051486,efp,1,,3
+11869,2,1990,Taieri River,1121022,Nenthorn Stream,743.232,day,Washpool Stream,,380,97,uoo,I43,2301700,5510000,14051773,efp,1,,14
+11870,2,1990,Taieri River,1121022,Nenthorn Stream,743.232,day,Washpool Stream,,380,97,uoo,I43,2301700,5510000,14051773,efp,1,,9
+11871,2,1990,Taieri River,1121022,Nenthorn Stream,743.236, ,Black Rock Stream, ,300,103,uoo,i43,2299900,5515900,14049989,efp,1, ,32
+11872,2,1990,Taieri River,1121022,Nenthorn Stream,743.236,day,Black Rock Stream,,300,103,uoo,I43,2299900,5515900,14049989,efp,1,,8
+11873,2,1990,Taieri River,1121022,Nenthorn Stream,743.236,day,Black Rock Stream,,310,104,uoo,I43,2300600,5515900,14049966,efp,1,,41
+11874,2,1990,Taieri River,1121022,Nenthorn Stream,743.236,day,Black Rock Stream,,310,104,uoo,I43,2300600,5515900,14050014,efp,1,,16
+11875,2,1990,Taieri River,1121022,Nenthorn Stream,743.236,day,Black Rock Stream,,330,106,uoo,I43,2300800,5516900,14049659,efp,1,,29
+9276,4,1991,Shag River,1121007,Deepdell Creek,726.17,1415,Unnamed pond,,480,71,bior,i42,2307500,5537600,14042455,ef,1,,
+9277,4,1991,Shag River,1121007,Deepdell Creek,726.17,1505,Unnamed pond,,460,69,bior,i42,2306800,5536600,0,ef,1,,
+9279,4,1991,Waikouaiti River,1121051,Murphys Creek,731.1,1315,Murphys Creek,,400,59,bior,i42,2312900,5531300,14044900,ef,1,,
+9281,4,1991,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1530,North Branch Waikouaiti River, ,450,61,bior,i43,2310800,5528900,14045778,ef,1, , 
+9283,10,1991,Shag River,1121007,Deepdell Creek,726.17,1420,Unnamed pond,,460,69,bior,i42,2306800,5536600,0,ntc,,,
+9285,10,1991,Waikouaiti River,1121051,Murphys Creek,731.1,945,Murphys Creek,,400,59,bior,i42,2312900,5531300,14044900,ef,1,,
+9287,10,1991,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1545,North Branch Waikouaiti River, ,450,61,bior,i43,2310800,5528900,14045778,ef,1, , 
+9288,10,1991,Shag River,1121007,Deepdell Creek,726.17,1300,Deepdell Creek tributary,,420,60,bior,i42,2309400,5536300,14043005,efp,1,,
+9289,10,1991,Shag River,1121007,Deepdell Creek,726.17,1215,Deepdell Creek tributary,,400,60,bior,i42,2309700,5536500,14042918,efp,1,,
+9290,10,1991,Shag River,1121007,Deepdell Creek,726.17,1115,Deepdell Creek tributary,,380,60,bior,i42,2309800,5536600,14042828,efp,1,,
+10911,4,1991,Taieri River,1121042,Shepards Hut Creek,743.864,1030,Shepherds Hut Creek, ,850,258,otfg,h43,2263300,5509700,14051806,ef,2, ,70
+10912,4,1991,Taieri River,1121042,Shepards Hut Creek,743.864,1100,Shepherds Hut Creek, ,850,258,otfg,h43,2263400,5510100,14051772,ef,2, ,64
+11343,4,1991,Taieri River,1121027,Healy Creek,743.648,1630,Healy Creek, ,670,194,niwa,i41,2299100,5578800,14023208,efp,1, ,30
+11344,4,1991,Shag River,1121005,Happy Valley Creek,726.15,900,Happy Valley Creek, ,170,47,niwa,i42,2318300,5541300,14040764,efp,1, ,120
+15831,11,1991,Taieri River,1121036,Linn Burn,743.81,930,Linn Burn, ,450,216,uoo,h42,2265500,5532200,14044423,efp,1, ,40
+9282,10,1992,Shag River,1121007,Deepdell Creek,726.17,1330,Unnamed pond,,480,71,bior,i42,2307500,5537600,14042455,ntc,,,
+11379,2,1992,Taieri River,1121036,Linn Burn,743.81, ,Linn Burn, ,450,215,niwa,h42,2266500,5532800,14044366,ef,1, ,40
+15585,10,1992,Taieri River,1121027,Healy Creek,743.648,930,Healy Creek,,860,197,uoo,I41,2299300,5576800,14024161,efp,1,,25
+15586,12,1992,Taieri River,1121027,Healy Creek,743.648,900,Healy Creek,,860,197,uoo,I41,2299300,5576800,14024161,efp,3,,55
+15598,1,1992,Taieri River,1121027,Healy Creek,743.648,800,Healy Creek,,930,197,uoo,I41,2299000,5576200,14024373,efp,3,,25
+15599,6,1992,Taieri River,1121027,Healy Creek,743.648,1000,Healy Creek,,930,197,uoo,I41,2299000,5576200,14024373,efp,3,,25
+15600,12,1992,Taieri River,1121027,Healy Creek,743.648,1300,Healy Creek,,930,197,uoo,I41,2299000,5576200,14024373,efp,3,,25
+15618,12,1992,Taieri River,1121027,Healy Creek,743.648,1000,Healy Creek,,700,195,uoo,I41,2299400,5578500,14023208,efp,3,,85
+15624,1,1992,Taieri River,1121027,Healy Creek,743.648,1000,Healy Creek,,860,197,uoo,I41,2299300,5576800,14024161,efp,3,,55
+15625,6,1992,Taieri River,1121027,Healy Creek,743.648,1130,Healy Creek,,860,197,uoo,I41,2299300,5576800,14024161,efp,3,,55
+15826,2,1992,Taieri River,1121036,Linn Burn,743.81,1600,Linn Burn, ,1120,230,uoo,h43,2255200,5528600,14045933,efp,2, ,8
+15828,3,1992,Taieri River,1121035,Totara Creek,743.8,1430,Totara Creek tributary, ,1120,229,uoo,h42,2254200,5530800,14045050,obs, , ,40
+15838,3,1992,Taieri River,1121020,Three O'Clock Stream,743.16,1000,Three O'clock Stream,,270,87,uoo,I43,2311100,5509600,14051904,efp,5,,120
+15839,6,1992,Taieri River,1121020,Three O'Clock Stream,743.16,930,Three O'clock Stream,,270,87,uoo,I43,2311100,5509600,14051904,efp,3,,125
+15844,6,1992,Taieri River,1121020,Three O'Clock Stream,743.16,915,Three O'clock Stream tributary,,275,88,uoo,I43,2311100,5510200,14051332,efp,3,,90
+15845,10,1992,Taieri River,1121020,Three O'Clock Stream,743.16,915,Three O'clock Stream tributary,,275,88,uoo,I43,2311100,5510200,14051332,efp,3,,90
+15846,12,1992,Taieri River,1121020,Three O'Clock Stream,743.16,915,Three O'clock Stream tributary,,275,88,uoo,I43,2311100,5510200,14051332,efp,3,,90
+15860,10,1992,Taieri River,1121020,Three O'Clock Stream,743.16,1300,Three O'clock Stream,,270,87,uoo,I43,2311100,5509600,14051904,efp,3,,125
+15861,12,1992,Taieri River,1121020,Three O'Clock Stream,743.16,1300,Three O'clock Stream,,270,87,uoo,I43,2311100,5509600,14051904,efp,3,,125
+15875,2,1992,Taieri River,1121020,Three O'Clock Stream,743.16,1000,Three O'clock Stream tributary,,275,88,uoo,I43,2311100,5510200,14051332,efp,3,,90
+15882,3,1992,Taieri River,1121020,Three O'Clock Stream,743.16,950,Three O'clock Stream tributary,,370,91,uoo,I43,2309300,5511800,14051260,efp,3,,60
+15883,6,1992,Taieri River,1121020,Three O'Clock Stream,743.16,1000,Three O'clock Stream tributary,,370,91,uoo,I43,2309300,5511800,14051260,efp,3,,60
+15884,9,1992,Taieri River,1121020,Three O'Clock Stream,743.16,1000,Three O'clock Stream tributary,,370,91,uoo,I43,2309300,5511800,14051260,efp,3,,60
+15885,12,1992,Taieri River,1121020,Three O'Clock Stream,743.16,930,Three O'clock Stream tributary,,370,91,uoo,I43,2309300,5511800,14051260,efp,3,,60
+15892,3,1992,Taieri River,1121020,Three O'Clock Stream,743.16,1430,Three O'clock Stream tributary,,420,93,uoo,I43,2309200,5513200,14050803,efp,3,,60
+15893,6,1992,Taieri River,1121020,Three O'Clock Stream,743.16,1400,Three O'clock Stream tributary,,420,93,uoo,I43,2309200,5513200,14050803,efp,3,,60
+15894,9,1992,Taieri River,1121020,Three O'Clock Stream,743.16,1430,Three O'clock Stream tributary,,420,93,uoo,I43,2309200,5513200,14050803,efp,3,,60
+15895,12,1992,Taieri River,1121020,Three O'Clock Stream,743.16,1330,Three O'clock Stream tributary,,420,93,uoo,I43,2309200,5513200,14050803,efp,3,,60
+16222,3,1992,Taieri River,1121035,Totara Creek,743.8,1500,Totara Creek, ,1050,226,uoo,h42,2256200,5530900,14044803,efp,3, ,8
+16223,12,1992,Taieri River,1121035,Totara Creek,743.8,1530,Totara Creek, ,1050,226,uoo,h42,2256200,5530900,14044803,efp,3, ,8
+10899,1,1993,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn, ,300,146,otfg,i42,2297900,5544000,14039498,ef,0, , 
+15587,3,1993,Taieri River,1121027,Healy Creek,743.648,900,Healy Creek,,860,197,uoo,I41,2299300,5576800,14024161,efp,3,,55
+15593,6,1993,Taieri River,1121027,Healy Creek,743.648,930,Healy Creek,,860,197,uoo,I41,2299300,5576800,14024161,efp,3,,55
+15594,10,1993,Taieri River,1121027,Healy Creek,743.648,930,Healy Creek,,860,197,uoo,I41,2299300,5576800,14024161,efp,3,,55
+15619,3,1993,Taieri River,1121027,Healy Creek,743.648,1500,Healy Creek,,700,195,uoo,I41,2299400,5578500,14023208,efp,3,,85
+15620,6,1993,Taieri River,1121027,Healy Creek,743.648,1300,Healy Creek,,700,195,uoo,I41,2299400,5578500,14023208,efp,3,,85
+15621,12,1993,Taieri River,1121027,Healy Creek,743.648,1400,Healy Creek,,700,195,uoo,I41,2299400,5578500,14023208,efp,3,,85
+15827,1,1993,Taieri River,1121036,Linn Burn,743.81,1600,Linn Burn, ,850,226,uoo,h43,2258300,5528300,14045882,efp,1, ,25
+15829,3,1993,Taieri River,1121035,Totara Creek,743.8,1700,Totara Creek, ,1070,228,uoo,h43,2254200,5529900,14045424,han, , ,3
+15832,3,1993,Taieri River,1121027,Healy Creek,743.648,1400,Healy Creek,,930,197,uoo,I41,2299000,5576200,14024373,efp,3,,25
+15833,6,1993,Taieri River,1121027,Healy Creek,743.648,1400,Healy Creek,,930,197,uoo,I41,2299000,5576200,14024373,efp,3,,25
+15834,10,1993,Taieri River,1121027,Healy Creek,743.648,1500,Healy Creek,,930,197,uoo,I41,2299000,5576200,14024373,efp,3,,25
+15847,3,1993,Taieri River,1121020,Three O'Clock Stream,743.16,1000,Three O'clock Stream tributary,,275,88,uoo,I43,2311100,5510200,14051332,efp,3,,90
+15848,6,1993,Taieri River,1121020,Three O'Clock Stream,743.16,930,Three O'clock Stream tributary,,275,88,uoo,I43,2311100,5510200,14051332,efp,3,,90
+15849,9,1993,Taieri River,1121020,Three O'Clock Stream,743.16,930,Three O'clock Stream tributary,,275,88,uoo,I43,2311100,5510200,14051332,efp,3,,90
+15862,3,1993,Taieri River,1121020,Three O'Clock Stream,743.16,1300,Three O'clock Stream,,270,87,uoo,I43,2311100,5509600,14051904,efp,3,,125
+15863,6,1993,Taieri River,1121020,Three O'Clock Stream,743.16,1330,Three O'clock Stream,,270,87,uoo,I43,2311100,5509600,14051904,efp,3,,125
+15871,9,1993,Taieri River,1121020,Three O'Clock Stream,743.16,1330,Three O'clock Stream,,270,87,uoo,I43,2311100,5509600,14051904,efp,3,,125
+15886,3,1993,Taieri River,1121020,Three O'Clock Stream,743.16,930,Three O'clock Stream tributary,,370,91,uoo,I43,2309300,5511800,14051260,efp,3,,60
+15887,6,1993,Taieri River,1121020,Three O'Clock Stream,743.16,1000,Three O'clock Stream tributary,,370,91,uoo,I43,2309300,5511800,14051260,efp,3,,60
+15888,9,1993,Taieri River,1121020,Three O'Clock Stream,743.16,930,Three O'clock Stream tributary,,370,91,uoo,I43,2309300,5511800,14051260,efp,4,,60
+15896,3,1993,Taieri River,1121020,Three O'Clock Stream,743.16,1345,Three O'clock Stream tributary,,420,93,uoo,I43,2309200,5513200,14050803,efp,3,,60
+15897,6,1993,Taieri River,1121020,Three O'Clock Stream,743.16,1415,Three O'clock Stream tributary,,420,93,uoo,I43,2309200,5513200,14050803,efp,3,,60
+15898,9,1993,Taieri River,1121020,Three O'Clock Stream,743.16,1300,Three O'clock Stream tributary,,420,93,uoo,I43,2309200,5513200,14050803,efp,3,,60
+16215,3,1993,Taieri River,1121035,Totara Creek,743.8,1230,Totara Creek, ,1040,223,uoo,h42,2257300,5532700,14044393,efp,3, ,60
+16216,6,1993,Taieri River,1121035,Totara Creek,743.8,1145,Totara Creek, ,1040,223,uoo,h42,2257300,5532700,14044393,efp,3, ,60
+16217,10,1993,Taieri River,1121035,Totara Creek,743.8,1200,Totara Creek, ,1040,223,uoo,h42,2257300,5532700,14044393,efp,3, ,60
+16218,11,1993,Taieri River,1121035,Totara Creek,743.8,1200,Totara Creek, ,1040,223,uoo,h42,2257300,5532700,14044393,efp,3, ,60
+16224,3,1993,Taieri River,1121035,Totara Creek,743.8,1530,Totara Creek, ,1050,226,uoo,h42,2256200,5530900,14044803,efp,3, ,8
+16225,11,1993,Taieri River,1121035,Totara Creek,743.8,1500,Totara Creek, ,1050,226,uoo,h42,2256200,5530900,14045085,efp,3, ,8
+2287,4,1994,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1700,North Branch Waikouaiti River, ,450,61,bior,i43,2310800,5528900,14045778,efm,1, ,30
+2290,4,1994,Shag River,1121007,Deepdell Creek,726.17,1430,Deepdell Creek,,350,63,bior,i42,2307700,5536300,14042937,efm,2,,46
+2291,4,1994,Shag River,1121007,Deepdell Creek,726.17,1100,Deepdell Creek, ,300,59,bior,i42,2310000,5537100,14042619,efm,1, ,65
+11765,3,1994,Taieri River,1121035,Totara Creek,743.8,1030,Totara Creek bypass, ,1040,223,otfg,h42,2257300,5532700,0,ef,1, ,17
+11766,3,1994,Taieri River,1121035,Totara Creek,743.8,1130,Totara Creek, ,1020,223,otfg,h42,2257800,5532800,14044240,ef,1, ,30
+11767,3,1994,Taieri River,1121035,Totara Creek,743.8,1230,Totara Creek, ,930,219,otfg,h42,2260300,5535000,14043578,ef,1, ,42
+15595,1,1994,Taieri River,1121027,Healy Creek,743.648,1000,Healy Creek,,860,197,uoo,I41,2299300,5576800,14024161,efp,3,,55
+15596,4,1994,Taieri River,1121027,Healy Creek,743.648,930,Healy Creek,,860,197,uoo,I41,2299300,5576800,14024161,efp,3,,55
+15597,12,1994,Taieri River,1121027,Healy Creek,743.648,1000,Healy Creek,,860,197,uoo,I41,2299300,5576800,14024161,efp,3,,50
+15622,1,1994,Taieri River,1121027,Healy Creek,743.648,1300,Healy Creek,,700,195,uoo,I41,2299400,5578500,14023208,efp,3,,85
+15623,12,1994,Taieri River,1121027,Healy Creek,743.648,1000,Healy Creek,,700,195,uoo,I41,2299400,5578500,14023208,efp,3,,85
+15835,1,1994,Taieri River,1121027,Healy Creek,743.648,1500,Healy Creek,,930,197,uoo,I41,2299000,5576200,14024373,efp,3,,25
+15836,4,1994,Taieri River,1121027,Healy Creek,743.648,1500,Healy Creek,,930,197,uoo,I41,2299000,5576200,14024373,efp,3,,25
+15837,12,1994,Taieri River,1121027,Healy Creek,743.648,1500,Healy Creek, ,930,197,uoo,i41,2299000,5576200,14024373,obs, , ,1
+15850,5,1994,Taieri River,1121020,Three O'Clock Stream,743.16,900,Three O'clock Stream tributary,,275,88,uoo,I43,2311100,5510200,14051332,efp,3,,90
+15870,4,1994,Taieri River,1121027,Healy Creek,743.648,1545,Healy Creek,,700,195,uoo,I41,2299400,5578500,14023208,efp,3,,85
+15872,2,1994,Taieri River,1121020,Three O'Clock Stream,743.16,1330,Three O'clock Stream,,270,87,uoo,I43,2311100,5509600,14051904,efp,3,,125
+15873,5,1994,Taieri River,1121020,Three O'Clock Stream,743.16,1345,Three O'clock Stream,,270,87,uoo,I43,2311100,5509600,14051904,efp,3,,125
+15874,12,1994,Taieri River,1121020,Three O'Clock Stream,743.16,1330,Three O'clock Stream,,270,87,uoo,I43,2311100,5509600,14051904,efp,5,,125
+15880,2,1994,Taieri River,1121020,Three O'Clock Stream,743.16,915,Three O'clock Stream tributary,,275,88,uoo,I43,2311100,5510200,14051332,efp,2,,90
+15881,12,1994,Taieri River,1121020,Three O'Clock Stream,743.16,915,Three O'clock Stream tributary,,275,88,uoo,I43,2311100,5510200,14051332,efp,3,,90
+15889,2,1994,Taieri River,1121020,Three O'Clock Stream,743.16,930,Three O'clock Stream tributary,,370,91,uoo,I43,2309300,5511800,14051260,efp,3,,60
+15890,4,1994,Taieri River,1121020,Three O'Clock Stream,743.16,915,Three O'clock Stream tributary,,370,91,uoo,I43,2309300,5511800,14051260,efp,3,,60
+15891,12,1994,Taieri River,1121020,Three O'Clock Stream,743.16,1000,Three O'clock Stream tributary,,370,91,uoo,I43,2309300,5511800,14051260,efp,3,,60
+15899,1,1994,Taieri River,1121020,Three O'Clock Stream,743.16,1315,Three O'clock Stream tributary,,420,93,uoo,I43,2309200,5513200,14050803,efp,3,,60
+15900,4,1994,Taieri River,1121020,Three O'Clock Stream,743.16,1330,Three O'clock Stream tributary,,420,93,uoo,I43,2309200,5513200,14050803,efp,3,,60
+15915,12,1994,Taieri River,1121020,Three O'Clock Stream,743.16,1330,Three O'clock Stream tributary,,420,93,uoo,I43,2309200,5513200,14050803,efp,3,,60
+16177,1,1994,Taieri River,1121035,Totara Creek,743.8,1545,Totara Creek, ,1050,226,uoo,h42,2256200,5530900,14044803,efp,3, ,8
+16178,12,1994,Taieri River,1121035,Totara Creek,743.8,1500,Totara Creek, ,1050,226,uoo,h42,2256200,5530900,14044803,efp,3, ,8
+16219,1,1994,Taieri River,1121035,Totara Creek,743.8,1230,Totara Creek, ,1040,223,uoo,h42,2257300,5532700,14044393,efp,3, ,60
+16220,5,1994,Taieri River,1121035,Totara Creek,743.8,1100,Totara Creek, ,1040,223,uoo,h42,2257300,5532700,14044393,efp,3, ,60
+16221,12,1994,Taieri River,1121035,Totara Creek,743.8,1200,Totara Creek, ,1040,223,uoo,h42,2257300,5532700,14044393,efp,3, ,60
+12378,10,1995,Taieri River,1121022,Nenthorn Stream,743.235,1500,Manuka Stream, ,630,109,uoo,i43,2306800,5517500,14049457,obs, , ,5
+15541,3,1995,Waikouaiti River,1121018,Back Creek,731.07,1600,Back Creek, ,250,41,doco,i43,2318600,5522200,14048044,efp,1, ,50
+15545,1,1995,Taieri River,1121041,Great Moss Swamp tributary 2,743.86,1345,Logan Burn tributary, ,850,259,doco,h43,2261400,5511500,14051156,efp,1, ,40
+15546,1,1995,Taieri River,1121046,Taieri River,743,1300,Taieri River tributary, ,800,268,doco,h43,2259500,5511900,14051120,efp,1, ,20
+15547,1,1995,Taieri River,1121046,Taieri River,743,1615,Taieri River, ,770,266,doco,h43,2258300,5510300,14051668,efp,1, ,100
+15549,3,1995,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1115,North Branch Waikouaiti River tributary, ,460,62,doco,i43,2309700,5528100,14046045,efp,1, ,40
+15550,3,1995,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1040,North Branch Waikouaiti River, ,450,61,doco,i43,2310800,5528800,14045778,efp,1, ,20
+15604,3,1995,Taieri River,1121022,Nenthorn Stream,743.238,1400,Emerald Creek, ,500,130,doco,i43,2308000,5524600,14047244,efp,1, ,60
+2288,4,1996,Shag River,1121007,Deepdell Creek,726.17,1515,Deepdell Creek, ,370,64,bior,i42,2307200,5535500,14043272,efm,1, , 
+2289,4,1996,Shag River,1121007,Deepdell Creek,726.17,1045,Deepdell Creek, ,370,64,bior,i42,2307200,5535600,14043095,efm,1, ,20
+12151,1,1996,Taieri River,1121027,Healy Creek,743.648,1400,Healy Creek, ,650,194,uoo,i41,2299200,5578800,14023208,sen, , ,2
+12855,2,1996,Shag River,1121007,Deepdell Creek,726.17,1200,Deepdell Creek tributary,,470,70,otfg,i42,2307100,5536900,14042711,ef,3,,
+12856,2,1996,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,360,63,otfg,i42,2307700,5536100,14042937,ef,3, , 
+12857,2,1996,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,300,56,otfg,i42,2310100,5537100,14042619,ef,3, , 
+12858,2,1996,Shag River,1121007,Deepdell Creek,726.17,,Deepdell Creek,,350,63,otfg,i42,2307600,5536500,14042937,ef,3,,
+12971,9,1996,Shag River,1121001,Tipperary Creek,726.09,830,Tipperary Creek, ,400,40,niwa,i42,2314400,5534000,14043888,efp,1, ,50
+12973,9,1996,Shag River,1121002,Shag River - mainstem lower,726,1530,Shag River tributary, ,130,44,niwa,i42,2319400,5539800,14041491,efp,1, ,40
+15511,2,1996,Taieri River,1121038,McPhees Creek,743.862,1300,McPhees Creek tributary, ,1000,243,doco,h43,2272400,5522200,14048078,efp,1, ,10
+15513,2,1996,Taieri River,1121038,McPhees Creek,743.862,1415,McPhees Creek, ,1030,245,doco,h43,2272900,5521100,14048271,han, , ,6
+15514,2,1996,Taieri River,1121040,Great Moss Swamp tributary 1,743.865,1500,McHardies Creek tributary, ,980,256,doco,h43,2272800,5519400,14048850,efp,1, ,30
+15578,3,1996,Taieri River,1121025,Horse Burn,743.59,1430,Horse Burn, ,380,152,doco,i42,2297700,5547800,14037955,efp,1, ,80
+15629,3,1996,Taieri River,1121040,Great Moss Swamp tributary 1,743.865,1630,McHardies Creek tributary, ,910,253,doco,h43,2273300,5517500,14049383,efp,1, ,20
+15667,3,1996,Taieri River,1121040,Great Moss Swamp tributary 1,743.865,1045,McHardies Creek tributary,,880,253,doco,h43,2272300,5517500,14049197,efp,1,,30
+15668,3,1996,Taieri River,1121040,Great Moss Swamp tributary 1,743.865,1145,McHardies Creek tributary, ,940,254,doco,h43,2272600,5518400,14048933,efp,1, ,10
+15669,3,1996,Taieri River,1121040,Great Moss Swamp tributary 1,743.865,1300,McHardies Creek tributary, ,880,253,doco,h43,2272700,5517300,14049495,efp,1, ,8
+15851,4,1996,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1330,North Branch Waikouaiti River tributary, ,600,58,doco,i43,2311600,5525100,14046968,efp,2, ,3
+15852,4,1996,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1350,North Branch Waikouaiti River tributary, ,570,58,doco,i43,2311900,5525400,14046968,efp,1, ,5
+15853,4,1996,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1415,North Branch Waikouaiti River tributary, ,530,57,doco,i43,2312200,5525400,14046693,efp,1, ,15
+15854,4,1996,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1445,North Branch Waikouaiti River tributary, ,520,57,doco,i43,2312500,5525500,14046693,efp,1, ,10
+16179,9,1996,Akatore Creek,1121047,Akatore Creek,745,930,Akatore Creek tributary, ,80,11,doco,h45,2287600,5456500,14066345,efp,1, ,100
+16180,9,1996,Akatore Creek,1121047,Akatore Creek,745,1015,Akatore Creek tributary, ,100,13,doco,h45,2287300,5457200,14066180,efp,1, ,40
+16181,9,1996,Akatore Creek,1121047,Akatore Creek,745,1045,Akatore Creek tributary, ,150,14,doco,h45,2286900,5458800,14065867,efp,1, ,10
+16197,10,1996,Akatore Creek,1121047,Akatore Creek,745,1100,Akatore Creek, ,50,9,doco,h45,2287700,5454700,14066691,efp,1, ,50
+16198,10,1996,Akatore Creek,1121047,Akatore Creek,745,1130,Akatore Creek,,55,9,doco,H45,2287700,5454800,14066692,efp,1,,30
+16399,10,1996,Shag River,1121004,Shag River tributary 2,726,1600,Shag River tributary, ,140,39,doco,i42,2321700,5539400,14041596,efp,1, ,30
+6026,2,1997,Shag River,1121002,Shag River - mainstem lower,726, ,Shag River, ,60,31,orc,i42,2323400,5535500,14043186,han, , ,1
+12392,3,1997,Taieri River,1121022,Nenthorn Stream,743.238,1000,Deighton Creek, ,350,120,uoo,i43,2302300,5524900,14047078,efp,1, ,40
+12393,3,1997,Taieri River,1121022,Nenthorn Stream,743.23,1000,Nenthorn Stream, ,290,103,uoo,i43,2299900,5515500,14050067,efp,1, ,20
+12394,3,1997,Taieri River,1121022,Nenthorn Stream,743.23,1230,Nenthorn Stream, ,350,119,uoo,i43,2301800,5524500,14047243,efp,1, ,80
+16692,4,1997,Taieri River,1121039,Logan Burn tributary,743.86,1145,Logan Burn tributary, ,960,247,doco,h43,2271700,5518300,0,ef,1, , 
+15178,4,1998,Shag River,1121002,Shag River - mainstem lower,726.09,1130,McCormicks Creek, ,50,25,otfg,i42,2324900,5532400,14044550,ef,1, ,75
+16710,5,1998,Taieri River,1121044,Deep Creek,743.873,1400,Deep Creek tributary, ,770,256,doco,h43,2252200,5520000,14048591,ef,1, , 
+16711,5,1998,Taieri River,1121036,Linn Burn,743.81,1500,Linn Burn, ,440,215,doco,h42,2266500,5532700,14044376,ef,1, ,70
+17548,1,1998,Taieri River,1121034,Stony Creek,743.79,1300,Stony Creek, ,640,211,niwa,h42,2262900,5539400,14041473,efp,1, ,15
+17405,3,1999,Taieri River,1121027,Healy Creek,743.648,1100,Healy Creek, ,650,194,uoo,i41,2299100,5578900,14023208,efp,1, ,50
+17412,4,1999,Taieri River,1121043,Waimonga Creek,743.874,1200,Waimonga Creek, ,790,251,uoo,h43,2257000,5525600,14046900,efp,1, ,60
+17971,2,1999,Taieri River,1121031,Sow Burn,743.73,1148,Sow Burn,,1130,216,doco,H42,2284300,5532200,14044575,ef,1,,20
+24853,2,1999,Taieri River,1121031,Sow Burn,743.73,1415,Cambridge Creek,,1020,208,doco,H42,2278400,5532600,14044426,efp,1,,20
+24854,2,1999,Taieri River,1121031,Sow Burn,743.73,1530,Sow Burn, ,500,198,doco,h42,2278500,5540200,14041288,efp,1, ,20
+24855,2,1999,Taieri River,1121033,Gimmer Burn,743.74,1045,Gimmer Burn,,780,207,doco,H42,2263400,5557400,14033188,efp,1,,150
+25003,5,1999,Taieri River,1121034,Stony Creek,743.79,1200,Stony Creek, ,730,211,doco,h42,2263100,5539800,14041473,efp,1, ,60
+25006,5,1999,Taieri River,1121034,Stony Creek,743.79,1100,Stony Creek,,460,207,doco,h42,2265200,5540300,14041257,efp,1,,20
+25001,4,2000,Taieri River,1121046,Taieri River,743.94,1530,Red Swamp Creek,,910,274,doco,h43,2255200,5508500,14052131,efp,1,,10
+25002,4,2000,Taieri River,1121046,Taieri River,743.94,1640,Red Swamp Creek,,920,275,doco,h43,2254700,5508600,14052131,efp,1,,20
+25048,11,2000,Taieri River,1121032,Wether Burn,743.742,1405,Wether Burn tributary, ,560,207,doco,h41,2266500,5562600,14030834,efp,1, ,31
+21681,2,2001,Taieri River,1121023,Mare Burn,743.58,1120,Mare Burn, ,300,145,uoo,i42,2297800,5543900,14039498,efp,2, ,60
+21683,3,2001,Taieri River,1121020,Three O'Clock Stream,743.16,900,Three O'clock Stream,,260,87,uoo,I43,2311200,5509600,14051904,efp,2,,60
+24892,4,2003,Shag River,1121014,Pigroot Creek,726.24,1100,Pigroot Creek, ,520,80,doco,i42,2307600,5554000,14034556,efp,1, ,45
+24893,1,2003,Shag River,1121014,Pigroot Creek,726.24,1140,Siberia Creek, ,590,81,doco,i42,2308600,5553400,14035038,efp,1, ,60
+24894,1,2003,Shag River,1121014,Pigroot Creek,726.24,1300,Siberia Creek, ,620,82,doco,i42,2309300,5553600,14035001,efp,1, ,40
+24895,1,2003,Shag River,1121014,Pigroot Creek,726.24,1330,Siberia Creek, ,620,82,doco,i42,2309300,5553600,14035001,efp,1, ,45
+24896,1,2003,Shag River,1121014,Pigroot Creek,726.24,1400,Siberia Creek tributary, ,580,81,doco,i42,2308800,5554000,14034457,efp,1, ,42
+24897,1,2003,Shag River,1121014,Pigroot Creek,726.24,1420,Siberia Creek, ,530,80,doco,i42,2308000,5553700,14035038,efp,1, ,35
+24898,1,2003,Shag River,1121011,Shingly Creek,726.21,1520,Shingly Creek, ,415,71,doco,i42,2310400,5549800,14036797,efp,1, ,55
+24899,1,2003,Shag River,1121011,Shingly Creek,726.21,1540,Huntley Creek, ,365,69,doco,i42,2310500,5548300,14036556,efp,1, ,50
+25688,11,2003,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1145,North Branch Waikouaiti River, ,600,64,doco,i43,2308700,5527200,14046371,efm,1, ,60
+25689,11,2003,Taieri River,1121022,Nenthorn Stream,743.238,1330,Emerald Creek tributary, ,560,131,doco,i43,2308200,5525900,14046946,efm,1, , 
+25716,11,2003,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1145,North Branch Waikouaiti River tributary, ,580,65,doco,i43,2307700,5526900,14046345,efm,1, ,35
+25985,12,2003,Taieri River,1121031,Sow Burn,743.73,1100,Sow Burn tributary,,1160,209,doco,H42,2281200,5535800,14043140,efm,1,,10
+107356,1,2003,Shag River,1121014,Pigroot Creek,726.24,1423,Pigroot Creek,,565,77,doco,I42,2308273,5554074,14034826,efp,,,58.5
+25978,11,2004,Taieri River,1121024,Wee Cap Burn,743.6, ,Cap Burn tributary, ,980,161,doco,h42,2286900,5543600,14039300,efp,1, ,60
+25979,11,2004,Taieri River,1121024,Wee Cap Burn,743.6, ,Cap Burn tributary, ,1000,160,doco,h42,2287400,5543300,14039516,efp,1, ,70
+25980,11,2004,Taieri River,1121024,Wee Cap Burn,743.6, ,Cap Burn tributary, ,980,158,doco,h42,2288700,5543000,14039426,efp,1, ,70
+25981,11,2004,Taieri River,1121024,Wee Cap Burn,743.6,day,Cap Burn,,770,159,doco,H42,2288400,5544100,14039517,efp,1,,20
+25982,11,2004,Taieri River,1121024,Wee Cap Burn,743.6,day,Cap Burn tributary,,820,159,doco,H42,2287800,5545100,14039033,efp,1,,70
+25986,12,2004,Taieri River,1121031,Sow Burn,743.73,1050,Sow Burn tributary, ,1060,208,doco,h42,2279500,5535600,14043321,efm,1, ,10
+25987,12,2004,Taieri River,1121031,Sow Burn,743.73,1000,Sow Burn, ,760,203,doco,h42,2277600,5535800,14043046,efm,1, ,40
+25988,11,2004,Taieri River,1121031,Sow Burn,743.73,1130,Sow Burn,,1280,221,doco,H43,2281400,5529800,14045482,efm,1,,
+25991,11,2004,Taieri River,1121031,Sow Burn,743.73,day,Cambridge Creek,,1280,212,doco,H43,2278500,5530000,14044887,efm,1,,10
+25993,12,2004,Taieri River,1121031,Sow Burn,743.73,1150,Sow Burn,,1180,217,doco,H42,2283500,5531600,14044575,efm,1,,40
+25994,12,2004,Taieri River,1121031,Sow Burn,743.73,1140,Sow Burn,,1050,212,doco,H42,2282400,5533900,14043816,efm,1,,40
+25995,12,2004,Taieri River,1121031,Sow Burn,743.73,1120,Sow Burn,,1020,210,doco,H42,2281300,5533900,14043953,efm,1,,40
+25996,12,2004,Taieri River,1121031,Sow Burn,743.73,1035,Cambridge Creek, ,960,207,doco,h42,2278700,5533800,14043951,efm,1, ,40
+25997,12,2004,Taieri River,1121031,Sow Burn,743.73,1010,Sow Burn,,900,206,doco,H42,2278900,5535000,14043294,efm,1,,40
+25998,11,2004,Taieri River,1121031,Sow Burn,743.73,day,Cambridge Creek,,1020,208,doco,H42,2278300,5532600,14043951,efm,1,,50
+25999,11,2004,Taieri River,1121031,Sow Burn,743.73,1300,Sow Burn tributary,,1180,213,doco,H42,2281800,5531900,14044081,efm,,,
+26000,4,2004,Taieri River,1121031,Sow Burn,743.73,1345,Cambridge Creek tributary,,1210,211,doco,H42,2280500,5532000,14044493,efm,1,,
+26001,11,2004,Taieri River,1121031,Sow Burn,743.73, ,Sow Burn tributary, ,1190,212,doco,h42,2280800,5532400,14044043,efm,1, ,50
+26003,11,2004,Taieri River,1121037,Taieri River tributary,743,day,Taieri River tributary,,580,221,doco,H43,2273300,5530000,14045417,efm,1,,10
+26006,4,2004,Taieri River,1121037,Taieri River tributary,743,,Taieri River tributary,,850,224,doco,h43,2273600,5528000,14045946,obs,,,4
+26009,11,2004,Taieri River,1121024,Wee Cap Burn,743.6, ,Cap Burn tributary, ,910,161,doco,h42,2286500,5544400,14039280,obs, , ,4
+29552,12,2004,Taieri River,1121035,Totara Creek,743.8, ,Totara Creek, ,1045,224,doco,h42,2257049,5532401,14044393,efp, , , 
+109904,3,2004,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,208,13,rdcl,I45,2288329,5458566,14065898,efp,,,55.5
+109916,5,2004,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,144,11,rdcl,I45,2287126,5457446,14066180,efp,,,98.6
+109929,5,2004,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,89,10,rdcl,I45,2287676,5456505,14066345,efp,,,45
+24829,12,2005,Shag River,1121010,Bushy Creek,726.18,1200,Bushy Creek,,380,65,doco,I42,2310504,5543142,14039959,efp,1,,50
+24830,12,2005,Shag River,1121005,Happy Valley Creek,726.15,1645,Happy Valley Creek,,200,48,doco,I42,2318040,5542258,14040351,efp,1,,50
+24831,1,2005,Shag River,1121012,Shag River tributary 3,726,1200,Shag River tributary,,520,77,doco,I42,2305760,5548805,14037412,efp,1,,60
+24832,1,2005,Shag River,1121008,Green Valley Creek,726,950,Green Valley Creek,,250,57,doco,I42,2315500,5543500,14039843,efp,1,,90
+24834,11,2005,Shag River,1121010,Bushy Creek,726.18,1335,Bushy Creek,,270,64,doco,I42,2311621,5544112,14039613,efp,1,,
+24836,11,2005,Shag River,1121009,Shag River - mainstem upper,726,1145,Shag River,,270,64,doco,I42,2311550,5544507,14039359,efp,1,,200
+24838,12,2005,Shag River,1121009,Shag River - mainstem upper,726,1510,Shag River,,470,77,doco,I42,2306128,5552309,14035685,efp,1,,100
+24840,12,2005,Shag River,1121012,Shag River tributary 3,726,day,Shag River tributary,,470,75,doco,I42,2306706,5549669,14036937,efp,1,,35
+24841,11,2005,Shag River,1121009,Shag River - mainstem upper,726,1100,Shag River,,390,71,doco,I42,2308182,5548657,14037376,efp,1,,132
+24846,12,2005,Shag River,1121013,Shag River tributary 4,726,1030,Shag River tributary,,515,77,doco,I42,2305285,5551285,14036142,efp,2,,50
+25960,6,2005,Waikouaiti River,1121018,Back Creek,731.07,1300,Back Creek,,490,53,doco,I43,2309900,5522400,14047972,efp,1,,50
+25961,6,2005,Waikouaiti River,1121018,Back Creek,731.07,1215,Back Creek tributary, ,580,52,doco,i43,2311600,5522800,14047756,efp,1, ,30
+25962,6,2005,Waikouaiti River,1121018,Back Creek,731.07,1350,Back Creek tributary, ,640,53,doco,i43,2310400,5521100,14048291,efp,1, , 
+25966,6,2005,Taieri River,1121022,Nenthorn Stream,743.238,1515,Emerald Creek tributary,,515,130,doco,I43,2307600,5522500,14047951,efp,1,,35
+25984,2,2005,Taieri River,1121031,Sow Burn,743.73,800,Sow Burn tributary, ,1100,205,doco,h42,2281900,5537000,14042708,efp,1, ,30
+25992,2,2005,Taieri River,1121031,Sow Burn,743.73,750,Sow Burn tributary, ,1212,215,doco,h42,2284300,5534500,14043731,efm,1, ,20
+26002,2,2005,Taieri River,1121037,Taieri River tributary,743,1005,Taieri River tributary,,580,221,doco,H43,2273300,5529900,14045417,efm,1,,40
+26011,2,2005,Taieri River,1121024,Wee Cap Burn,743.6,830,Wee Cap Burn,,1040,162,doco,H42,2288100,5540200,14041299,efm,1,,40
+26198,2,2005,Tokomairiro River,1121048,Narrowdale Stream,748.041, ,Upper Narrowdale Stream, ,90,28,doco,h45,2280600,5450200,14067523,efp,4, ,19
+26199,2,2005,Tokomairiro River,1121048,Narrowdale Stream,748.041,1245,Upper Narrowdale Stream, ,90,28,doco,h45,2280600,5450300,14067523,efp,1, ,24
+26200,2,2005,Tokomairiro River,1121048,Narrowdale Stream,748.041,1130,Lower Narrowdale Stream, ,160,31,doco,h45,2282400,5451200,14067246,efp,3, ,7
+26527,5,2005,Akatore Creek,1121047,Akatore Creek,745,1320,Akatore Creek,,190,14,doco,H45,2288300,5458500,14065898,efp,2,,
+26528,5,2005,Akatore Creek,1121047,Akatore Creek,745,day,Akatore Creek tributary,,105,13,doco,H45,2287100,5457400,14066106,efp,4,,
+26529,9,2005,Taieri River,1121022,Nenthorn Stream,743.236,1040,Black Rock Stream,,370,108,doco,I43,2301693,5518606,14049040,efp,1,,
+26530,9,2005,Taieri River,1121022,Nenthorn Stream,743.236,1145,Black Rock Stream,,290,103,doco,I43,2299819,5515779,14049989,efp,1,,
+26531,9,2005,Taieri River,1121022,Nenthorn Stream,743.235,1448,Manuka Stream,,280,99,doco,I43,2301501,5513118,14050853,efp,1,,
+26532,9,2005,Taieri River,1121022,Nenthorn Stream,743.23,day,Nenthorn Stream tributary,,410,99,doco,I43,2301485,5511891,14051238,efp,1,,
+26533,9,2005,Taieri River,1121022,Nenthorn Stream,743.238,1620,Deighton Creek,,540,131,doco,I43,2306166,5518828,14049058,efp,1,,
+26534,9,2005,Taieri River,1121022,Nenthorn Stream,743.23,1320,Nenthorn Stream,,330,115,doco,I43,2301085,5521852,14048011,efp,1,,
+26535,9,2005,Taieri River,1121022,Nenthorn Stream,743.236,1055,Black Rock Stream,,440,112,doco,I43,2303724,5520390,14048621,efp,1,,
+26536,9,2005,Taieri River,1121022,Nenthorn Stream,743.235,day,Manuka Stream,,640,109,doco,I43,2306914,5517458,14049457,efp,1,,
+26537,9,2005,Waikouaiti River,1121017,Poley Creek,731.062,day,Poley Creek,,370,42,doco,I43,2312769,5515596,14050107,efp,1,,
+26538,9,2005,Taieri River,1121020,Three O'Clock Stream,743.16,day,Three O'clock Stream tributary,,420,93,doco,I43,2309555,5513403,14050855,efp,1,,
+26539,9,2005,Waikouaiti River,1121016,Garden Bush Creek,731.03,day,Garden Bush Creek,,335,27,doco,I43,2314603,5509569,14051906,efp,1,,
+26540,7,2005,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1510,North Branch Waikouaiti River,,480,64,doco,I43,2308841,5527259,14046221,efp,1,,
+26541,9,2005,Waikouaiti River,1121015,Tommy Flat Creek,731.03,day,Tommy Flat Creek tributary,,100,22,doco,I43,2318798,5507935,0,efp,1,,
+26542,7,2005,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1245,North Branch Waikouaiti River,,490,64,doco,I43,2308743,5526980,14046446,efp,1,,
+26557,9,2005,Taieri River,1121022,Nenthorn Stream,743.238,1550,Deighton Creek,,440,127,doco,I43,2305500,5521900,14048152,efp,1,,25
+26558,9,2005,Taieri River,1121022,Nenthorn Stream,743.23,1520,Nenthorn Stream,,350,119,doco,I43,2302200,5524700,14047188,efp,1,,25
+26559,9,2005,Taieri River,1121022,Nenthorn Stream,743.232,1530,Washpool Stream,,460,101,doco,I43,2303100,5510500,14051624,efp,1,,35
+26560,9,2005,Taieri River,1121021,Ross Stream,743.21,1615,Ross Stream,,340,87,doco,I43,2299500,5505700,14053039,efp,1,,7
+26561,9,2005,Taieri River,1121022,Nenthorn Stream,743.232,1330,Washpool Stream,,330,93,doco,I43,2298900,5510800,14051486,efp,1,,45
+26565,9,2005,Taieri River,1121020,Three O'Clock Stream,743.16,1030,Three O'clock Stream,,560,98,doco,I43,2305900,5512700,14050964,efp,1,,
+26566,9,2005,Taieri River,1121022,Nenthorn Stream,743.232,1210,Washpool Stream,,560,103,doco,I43,2303900,5511500,14051084,efp,1,,
+26576,8,2005,Taieri River,1121031,Sow Burn,743.73,day,Sow Burn,,580,200,doco,H42,2278200,5538600,14041928,efp,1,,50
+26593,9,2005,Taieri River,1121020,Three O'Clock Stream,743.16,1445,Three O'clock Stream tributary,,400,92,doco,I43,2308700,5511800,14051259,efp,1,,
+26594,11,2005,Shag River,1121014,Pigroot Creek,726.24,1500,Pigroot Creek,,520,79,doco,I42,2307600,5553600,14035000,efp,1,,
+26595,11,2005,Shag River,1121011,Shingly Creek,726.21,1550,Shingly Creek,,370,69,doco,I42,2310200,5548300,14037636,efp,1,,
+26596,11,2005,Shag River,1121009,Shag River - mainstem upper,726,1400,Shag River,,560,83,doco,I42,2305200,5555600,14034174,efp,1,,120
+26597,12,2005,Shag River,1121013,Shag River tributary 4,726,1150,Shag River tributary,,470,76,doco,I42,2306200,5550900,14036282,efp,1,,
+26598,12,2005,Taieri River,1121026,Hound Burn,743.62,1530,Hound Burn,,520,167,doco,I42,2302400,5552700,14035309,efp,1,,50
+26688,11,2005,Shag River,1121013,Shag River tributary 4,726,1320,Shag River tributary,,590,80,doco,i42,2303926,5550135,14036330,efp,1,,
+26872,8,2005,Taieri River,1121031,Sow Burn,743.73, ,Sow Burn, ,530,199,doco,h42,2277975,5539195,14041526,efp,1, ,10
+26873,8,2005,Taieri River,1121031,Sow Burn,743.73, ,Sow Burn, ,600,200,doco,h42,2278443,5538247,14041928,efp,1, , 
+26874,8,2005,Taieri River,1121031,Sow Burn,743.73, ,Sow Burn, ,580,200,doco,h42,2278162,5538697,14041928,efp,1, , 
+26887,7,2005,Taieri River,1121032,Wether Burn,743.742, ,Wether Burn tributary, ,560,207,doco,h41,2266554,5562640,14030834,efp,1, ,90
+26888,7,2005,Taieri River,1121032,Wether Burn,743.742, ,Wether Burn tributary, ,560,206,doco,h41,2267381,5563756,14030261,efp,1, ,220
+26919,7,2005,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731, ,North Branch Waikouaiti River tributary, ,455,62,doco,i43,2309825,5528237,14045810,efp,1, , 
+26920,7,2005,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1130,North Branch Waikouaiti River tributary, ,435,61,doco,i43,2310716,5528798,14045810,efp,1, , 
+26921,7,2005,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731, ,North Branch Waikouaiti River tributary, ,440,61,doco,i43,2310389,5528692,14045747,efp,1, , 
+26922,9,2005,Waikouaiti River,1121015,Tommy Flat Creek,731.03, ,Tommy Flat Creek, ,80,23,doco,i43,2318798,5507935,14052167,efp,1, , 
+26923,9,2005,Taieri River,1121022,Nenthorn Stream,743.238,1425,Deighton Creek, ,460,129,doco,i43,2305673,5520237,14048682,efp,1, , 
+26924,9,2005,Taieri River,1121022,Nenthorn Stream,743.238,1530,Deighton Creek, ,465,129,doco,i43,2305785,5519918,14048777,efp,1, , 
+26925,9,2005,Taieri River,1121022,Nenthorn Stream,743.23,1450,Nenthorn Stream, ,280,99,doco,i43,2301466,5513097,14050538,efp,1, , 
+26926,9,2005,Taieri River,1121022,Nenthorn Stream,743.23,1230,Nenthorn Stream, ,290,103,doco,i43,2299792,5515745,14049995,efp,1, , 
+26927,9,2005,Taieri River,1121022,Nenthorn Stream,743.23,1445,Nenthorn Stream,,385,123,doco,i43,2302333,5527066,14046342,efp,1,,
+109931,5,2005,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,89,10,doco,I45,2287676,5456505,14066345,efp,,,107
+24826,1,2006,Shag River,1121007,Deepdell Creek,726.171,1600,Highlay Creek,,420,62,doco,I42,2308464,5538818,14041895,efp,1,,100
+24827,1,2006,Shag River,1121001,Tipperary Creek,726.09,1335,Tipperary Creek,,420,40,doco,I42,2314163,5534111,14043888,efp,1,,
+24828,1,2006,Shag River,1121007,Deepdell Creek,726.17,1450,Deepdell Creek tributary,,460,69,doco,I42,2306127,5536660,14042515,efp,1,,100
+24833,1,2006,Shag River,1121002,Shag River - mainstem lower,726,day,Shag River,,110,42,doco,I42,2319649,5539452,14041382,efp,1,,100
+24837,1,2006,Shag River,1121002,Shag River - mainstem lower,726,1333,Shag River,,70,37,doco,I42,2322256,5537569,14042380,efp,1,,100
+24839,2,2006,Shag River,1121003,Shag River tributary 1,726,1520,Shag River tributary,,195,42,doco,I42,2317930,5537371,14042535,efp,1,,
+24844,3,2006,Shag River,1121008,Green Valley Creek,726,1145,Green Valley Creek,,320,60,doco,I42,2314187,5546149,14038200,efp,3,,27
+24845,1,2006,Shag River,1121007,Deepdell Creek,726.17,1207,Deepdell Creek,,335,62,doco,I42,2308308,5536530,14042800,efp,1,,100
+24850,2,2006,Shag River,1121002,Shag River - mainstem lower,726,1330,Shag River,,140,48,doco,I42,2317110,5539955,14041412,efp,1,,30
+26599,1,2006,Shag River,1121002,Shag River - mainstem lower,726,1100,Shag River,,55,29,doco,I42,2324100,5535200,14043212,efp,1,,100
+26600,1,2006,Shag River,1121004,Shag River tributary 2,726,1440,Shag River tributary,,115,38,doco,I42,2322300,5538800,14041729,efp,1,,100
+26601,3,2006,Shag River,1121008,Green Valley Creek,726,1020,Green Valley Creek,,300,59,doco,I42,2314700,5545600,14038845,efp,1,,25
+26602,3,2006,Shag River,1121008,Green Valley Creek,726,1340,Green Valley Creek,,350,61,doco,I42,2313900,5546800,14038200,efp,1,,25
+26603,3,2006,Shag River,1121008,Green Valley Creek,726,1515,Green Valley Creek,,380,62,doco,I42,2314500,5547100,14038175,efp,1,,
+26692,1,2006,Shag River,1121007,Deepdell Creek,726.17,1305,Deepdell Creek tributary, ,450,70,doco,i42,2303747,5533150,14044231,obs, , ,4
+26693,1,2006,Shag River,1121007,Deepdell Creek,726.17,1350,Deepdell Creek tributary, ,440,68,doco,i42,2304933,5535118,14043463,efp,1, ,50
+26694,1,2006,Shag River,1121001,Tipperary Creek,726.09,1130,Tipperary Creek, ,500,43,doco,i42,2313284,5535759,14043169,efp,1, ,10
+26703,1,2006,Shag River,1121002,Shag River - mainstem lower,726, ,Shag River, ,50,25,doco,i42,2324916,5532554,14044326,efp,1, , 
+28554,12,2006,Taieri River,1121027,Healy Creek,743.648,day,Healy Creek,,660,194,doco,I41,2299089,5578843,14023208,efp,1,,
+28555,12,2006,Taieri River,1121027,Healy Creek,743.648,day,Healy Creek,,760,196,doco,I41,2299204,5577643,14023779,efp,1,,60
+109905,2,2006,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,208,13,doco,I45,2288329,5458566,14065898,efp,,,36.5
+109917,2,2006,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,144,11,doco,I45,2287126,5457446,14066180,efp,,,45
+109932,2,2006,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,89,10,doco,I45,2287676,5456505,14066345,efp,,,80
+28488,5,2007,Taieri River,1121020,Three O'Clock Stream,743.16,1130,Three O'clock Stream tributary,,500,92,doco,i43,2307679,5508649,14052155,efp,1,,50
+28489,5,2007,Taieri River,1121020,Three O'Clock Stream,743.16,1200,Three O'clock Stream tributary,,510,92,doco,i43,2307734,5508614,14052155,efp,1,,50
+28492,5,2007,Taieri River,1121021,Ross Stream,743.21,1414,Ross Stream tributary,,580,98,doco,I43,2305752,5508422,14052178,efp,1,,40
+109906,3,2007,Akatore Creek,1121047,Akatore Creek,745,1115,Akatore Creek tributary,,208,13,doco,I45,2288329,5458566,14065898,efp,,,48.5
+109918,3,2007,Akatore Creek,1121047,Akatore Creek,745,1100,Akatore Creek tributary,,144,11,doco,I45,2287126,5457446,14066180,efp,,,55
+109933,3,2007,Akatore Creek,1121047,Akatore Creek,745,1030,Akatore Creek tributary,,89,10,doco,I45,2287676,5456505,14066345,efp,,,76.05
+29310,4,2008,Shag River,1121009,Shag River - mainstem upper,726,1025,Shag River tributary, ,610,84,doco,i42,2306616,5556067,14033917,efp,1, ,50
+29311,4,2008,Shag River,1121009,Shag River - mainstem upper,726,1102,Shag River tributary, ,620,85,doco,i42,2306816,5556254,14033917,efp,1, ,50
+29312,4,2008,Shag River,1121009,Shag River - mainstem upper,726,1230,Shag River tributary,,780,88,doco,i42,2307836,5558541,14032809,efp,1,,50
+29313,4,2008,Shag River,1121009,Shag River - mainstem upper,726,1320,Shag River,,760,87,doco,i42,2307648,5558328,14032827,efp,1,,50
+29314,4,2008,Shag River,1121009,Shag River - mainstem upper,726,1415,Shag River, ,630,85,doco,i42,2306672,5556410,14033800,efp,1, ,50
+29315,4,2008,Shag River,1121014,Pigroot Creek,726.24,1555,Pigroot Creek tributary,,580,81,doco,I42,2307827,5554775,14034556,efp,1,,50
+29451,6,2008,Tokomairiro River,1121048,Narrowdale Stream,748.041,1430,Upper Narrowdale Stream,,110,29,doco,H45,2281413,5450290,14067495,efp,1,,50
+29452,6,2008,Tokomairiro River,1121048,Narrowdale Stream,748.041,1345,Lower Narrowdale Stream,,130,30,doco,H45,2281995,5451630,14067246,efp,1,,50
+31843,12,2008,Taieri River,1121024,Wee Cap Burn,743.6,1200,Wee Cap Burn tributary,,920,161,doco,H42,2289957,5540388,14040841,efp,1,,
+109907,5,2008,Akatore Creek,1121047,Akatore Creek,745, ,Akatore Creek, ,208,13,doco,I45,2288329,5458566,14065898,efp, , , 
+109919,5,2008,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,144,11,doco,I45,2287126,5457446,14066180,efp,,,79
+109934,5,2008,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,89,10,doco,I45,2287676,5456505,14066345,efp,,,136
+31889,12,2009,Taieri River,1121045,Riddles Creek,743.912,11.45,Riddles Creek,,731,261,doco,H43,2252873,5513205,14050762,efp,1,,30
+31892,12,2009,Taieri River,1121046,Taieri River,743,945,Taieri River tributary, ,788,267,doco,H43,2258382,5509349,14051934,efp, , , 
+31893,12,2009,Taieri River,1121046,Taieri River,743.94,1100,Red Swamp Creek,,836,270,doco,H43,2257174,5507777,14052339,efp,1,,30
+109908,3,2009,Akatore Creek,1121047,Akatore Creek,745,1440,Akatore Creek tributary,,208,13,doco,I45,2288329,5458566,14065898,efp,,,58.5
+109920,3,2009,Akatore Creek,1121047,Akatore Creek,745,1200,Akatore Creek tributary,,144,11,doco,I45,2287126,5457446,14066180,efp,,,75
+109935,3,2009,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,89,10,doco,I45,2287676,5456505,14066345,efp,,,103
+101393,2,2010,Akatore Creek,1121047,Akatore Creek,745,1630,Akatore Creek, ,131,11,niwa,I45,2287470,5457035,14066235,efp,1, ,50
+101395,2,2010,Taieri River,1121022,Nenthorn Stream,743.238,1100,Emerald Creek tributary, ,516,124,niwa,I43,2307680,5523370,14047638,efp,1, ,40
+101396,2,2010,Taieri River,1121022,Nenthorn Stream,743.232,1730,Washpool Stream tributary, ,470,99,niwa,I43,2303105,5510580,14051548,efp,1, ,10
+101398,2,2010,Taieri River,1121038,McPhees Creek,743.862,1040,McPhees Creek, ,1032,241,niwa,H43,2272900,5521100,14048391,efp,1, ,30
+101437,2,2010,Taieri River,1121027,Healy Creek,743.648,900,Healy Creek, ,690,191,doco,I41,2299085,5578902,14023208,efp,1, , 
+109911,4,2010,Akatore Creek,1121047,Akatore Creek,745,1115,Akatore Creek tributary,,208,13,doco,I45,2288329,5458566,14065898,efp,,,58.5
+109921,4,2010,Akatore Creek,1121047,Akatore Creek,745,940,Akatore Creek tributary,,144,11,doco,I45,2287126,5457446,14066180,vbd,,,49
+109936,4,2010,Akatore Creek,1121047,Akatore Creek,745,1000,Akatore Creek tributary,,89,10,doco,I45,2287676,5456505,14066345,efp,,,67
+101560,12,2011,Shag River,1121009,Shag River - mainstem upper,726,,Shag River,,570,80,doco,J43,2305503,5555694,14034148,efp,1,,
+102712,6,2011,Taieri River,1121046,Taieri River,743.99,1300,Ailsa Creek,,935,268,doco,H43,2257752,5504791,14053426,efp,,,82
+102713,6,2011,Taieri River,1121046,Taieri River,743,1334,Elbow Creek,,909,273,doco,I45,2256080,5501741,14054337,efp,,,90
+102714,6,2011,Taieri River,1121046,Taieri River,743,1500,Unnamed Tributary,,952,277,doco,I45,2254984,5499716,14054906,efp,,,54
+102715,6,2011,Taieri River,1121046,Taieri River,743,1540,Unnamed Tributary,,979,282,doco,I45,2254768,5497655,14055506,efp,,,
+103434,9,2011,Shag River,1121014,Pigroot Creek,726.24,954,Pigroot Creek, ,523,77,uoo,I42,2307622,5553643,14035000,efp, , , 
+103448,9,2011,Taieri River,1121036,Linn Burn,743.81,1017,Linn Burn, ,470,212,uoo,H42,2266531,5532800,14044366,efp, , , 
+103449,9,2011,Taieri River,1121036,Linn Burn,743.81,1019,Linn Burn,,486,212,uoo,H42,2265584,5532215,14044423,efp,,,
+103473,9,2011,Shag River,1121014,Pigroot Creek,726.24,908,Pigroot Creek,,523,77,uoo,I42,2307618,5553642,14035000,efp,,,
+103474,9,2011,Shag River,1121011,Shingly Creek,726.21,913,Shingly Creek,,391,68,uoo,I42,2310185,5549245,14036868,efp,,,
+103750,9,2011,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,192,12,uoo,H45,2287065,5457455,14066106,efp,1,,60
+103751,9,2011,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,89,10,uoo,H45,2287660,5456545,14066345,efp,1,,60
+103752,9,2011,Taieri River,1121020,Three O'Clock Stream,743.16,,Three O'clock Stream,,285,85,uoo,I43,2310960,5509550,14051904,efp,1,,100
+103754,9,2011,Taieri River,1121020,Three O'Clock Stream,743.16,,Three O'clock Stream tributary,,514,89,uoo,i43,2307930,5508870,14051992,efp,1,,20
+109914,1,2011,Akatore Creek,1121047,Akatore Creek,745,1300,Akatore Creek tributary,,208,13,doco,I45,2288329,5458566,14065898,efp,,,54
+109922,1,2011,Akatore Creek,1121047,Akatore Creek,745,1100,Akatore Creek tributary,,144,11,doco,I45,2287126,5457446,14066180,efp,,,65
+109937,2,2011,Akatore Creek,1121047,Akatore Creek,745,,Akatore Creek tributary,,89,10,doco,I45,2287676,5456505,14066345,efp,,,125.5
+101478,10,2012,Taieri River,1121032,Wether Burn,743.742, ,Wether Burn tributary, ,572,203,doco,H41,2267383,5563731,14030261,efp,1, , 
+101479,10,2012,Taieri River,1121032,Wether Burn,743.742, ,Wether Burn tributary, ,580,204,doco,H41,2266540,5562672,14030767,efp,1, , 
+103772,2,2012,Shag River,1121014,Pigroot Creek,726.24, ,Pigroot Creek, ,504,75,uoo,i42,2306585,5552665,14035029,efp,1, ,100
+103773,2,2012,Shag River,1121014,Pigroot Creek,726.24, ,Pigroot Creek, ,523,77,uoo,i42,2307570,5553605,14035000,efp,1, ,100
+103774,2,2012,Shag River,1121014,Pigroot Creek,726.24, ,Pigroot Creek, ,563,77,uoo,i42,2307585,5553945,14034556,efp,1, ,60
+103783,3,2012,Taieri River,1121020,Three O'Clock Stream,743.16, ,Three O'clock Stream, ,301,86,uoo,i43,2311235,5509800,14051837,efp,1, ,200
+103784,3,2012,Taieri River,1121022,Nenthorn Stream,743.238, ,Deighton Creek, ,537,128,uoo,i43,2306210,5518795,14049058,efp,1, ,80
+103785,3,2012,Taieri River,1121022,Nenthorn Stream,743.238, ,Deighton Creek, ,537,128,uoo,i43,2305915,5518835,14049058,efp,1, ,80
+103786,3,2012,Taieri River,1121022,Nenthorn Stream,743.238,,Deighton Creek,,452,124,uoo,I43,2305480,5521815,14048152,efp,1,,60
+103814,4,2012,Shag River,1121011,Shingly Creek,726.21, ,Shingly Creek, ,359,66,uoo,i41,2310385,5547595,14038059,efp,1, ,100
+103820,6,2012,Taieri River,1121031,Sow Burn,743.73, ,Sow Burn, ,521,195,uoo,h42,2278425,5540200,14041288,efp,1, ,100
+103821,6,2012,Taieri River,1121031,Sow Burn,743.73, ,Sow Burn, ,614,197,uoo,h42,2278060,5538785,14041526,efp,1, ,100
+103823,6,2012,Taieri River,1121027,Healy Creek,743.648, ,Healy Creek, ,700,191,uoo,i41,2299285,5578140,14023208,efp,1, ,100
+103824,6,2012,Taieri River,1121027,Healy Creek,743.648, ,Healy Creek, ,700,191,uoo,I41,2299065,5578925,14023208,efp,1, ,80
+103825,6,2012,Taieri River,1121027,Healy Creek,743.64, ,Kye Burn, ,725,191,uoo,i41,2298980,5579060,14022991,efp,1, ,60
+103827,6,2012,Taieri River,1121022,Nenthorn Stream,743.236, ,Black Rock Stream, ,331,102,uoo,i43,2299875,5515805,14049989,efp,1, ,100
+103828,6,2012,Taieri River,1121022,Nenthorn Stream,743.236, ,Black Rock Stream, ,366,102,uoo,i43,2300690,5516040,14049966,efp,1, ,100
+103829,6,2012,Taieri River,1121021,Ross Stream,743.21, ,Ross Stream, ,366,85,uoo,i43,2299530,5505650,14053039,efp,1, ,60
+103869,9,2012,Taieri River,1121044,Deep Creek,743.873,,Deep Creek tributary,,771,251,uoo,H43,2252180,5520020,14048535,efp,1,,60
+103870,9,2012,Taieri River,1121032,Wether Burn,743.742, ,Wether Burn tributary, ,575,204,uoo,H41,2266470,5562690,14030767,efp,1, ,60
+103871,4,2012,Taieri River,1121025,Horse Burn,743.59,,Horse Burn,,377,149,uoo,I42,2297555,5547675,14037966,efp,1,,60
+103872,4,2012,Shag River,1121008,Green Valley Creek,726, ,Green Valley Creek, ,342,58,uoo,I42,2314230,5546030,14038680,efp,1, ,80
+103873,9,2012,Shag River,1121011,Shingly Creek,726.21, ,Shingly Creek, ,364,67,uoo,I42,2310490,5547760,14037743,efp,1, ,60
+103874,9,2012,Taieri River,1121022,Nenthorn Stream,743.238, ,Deighton Creek, ,537,128,uoo,I43,2305950,5518925,14049058,efp,1, ,80
+103875,9,2012,Taieri River,1121020,Three O'Clock Stream,743.16, ,Three O'clock Stream, ,301,86,uoo,I43,2310950,5509650,14051837,efp,1, ,60
+103876,9,2012,Akatore Creek,1121047,Akatore Creek,745, ,Akatore Creek, ,115,11,uoo,I45,2287625,5456575,14066235,efp,1, ,80
+103900,9,2012,Shag River,1121014,Pigroot Creek,726.24, ,Pigroot Creek, ,523,77,uoo,I42,2307585,5553620,14035000,efp,1, ,60
+103904,9,2012,Shag River,1121011,Shingly Creek,726.21, ,Shingly Creek, ,359,66,uoo,I42,2310375,5547580,14038059,efp,1, ,60
+103916,12,2012,Waikouaiti River,1121017,Poley Creek,731.062, ,Poley Creek, ,580,47,uoo,I43,2308575,5516365,14049752,efp,1, ,60
+103917,12,2012,Taieri River,1121022,Nenthorn Stream,743.236, ,Black Rock Stream, ,531,109,uoo,I43,2304830,5518070,14049273,efp,1, ,60
+103918,12,2012,Taieri River,1121020,Three O'Clock Stream,743.16, ,Three O'clock Stream, ,515,91,uoo,I43,2309530,5513400,14050754,efp,1, ,60
+103919,12,2012,Taieri River,1121022,Nenthorn Stream,743.235, ,Manuka Stream, ,660,107,uoo,I43,2306880,5517560,14049457,efp,1, ,60
+103920,12,2012,Taieri River,1121022,Nenthorn Stream,743.235, ,Manuka Stream, ,483,103,uoo,I43,2303715,5516705,14049534,efp,1, ,60
+109915,3,2012,Akatore Creek,1121047,Akatore Creek,745,1100,Akatore Creek tributary,,208,13,doco,I45,2288329,5458566,14065898,efp,,,65
+109924,2,2012,Akatore Creek,1121047,Akatore Creek,745,1130,Akatore Creek tributary,,144,11,doco,I45,2287126,5457446,14066180,efp,,,38.4
+109938,2,2012,Akatore Creek,1121047,Akatore Creek,745,1400,Akatore Creek tributary,,89,10,doco,I45,2287676,5456505,14066345,efp,,,110
+101776,10,2013,Taieri River,1121023,Mare Burn,743.58,1105,Mare Burn,,516,152,doco,I42,2303725,5542091,14040500,efp,1,,
+101777,10,2013,Taieri River,1121023,Mare Burn,743.58, ,Maori Hen Creek, ,620,154,doco,i42,2304609,5540007,14040711,efp,1, , 
+101778,10,2013,Taieri River,1121023,Mare Burn,743.58, ,Maori Hen Creek, ,625,154,doco,i42,2304668,5539953,14040711,efp,1, , 
+103926,1,2013,Taieri River,1121038,McPhees Creek,743.862, ,McPhees Creek tributary, ,1011,240,uoo,H43,2272285,5522140,14048077,efp,1, ,100
+103927,1,2013,Taieri River,1121038,McPhees Creek,743.862, ,McPhees Creek tributary, ,933,237,uoo,H43,2270910,5520500,14048301,efp,1, ,100
+103928,1,2013,Taieri River,1121038,McPhees Creek,743.862, ,McPhees Creek, ,1120,241,uoo,H43,2272890,5521100,14048391,efp,1, ,100
+103935,2,2013,Taieri River,1121040,Great Moss Swamp tributary 1,743.865, ,McHardies Creek, ,974,251,uoo,H43,2272660,5518590,14048933,efp,1, ,100
+103936,2,2013,Taieri River,1121040,Great Moss Swamp tributary 1,743.865, ,McHardies Creek, ,932,250,uoo,H43,2272600,5518430,14048933,efp,1, ,100
+103937,2,2013,Waikouaiti River,1121015,Tommy Flat Creek,731.03, ,Tommy Flat Creek, ,115,21,uoo,I43,2318535,5508465,14052166,efp,1, ,100
+103938,2,2013,Waikouaiti River,1121016,Garden Bush Creek,731, ,Dip Creek, ,211,19,uoo,I43,2318520,5508735,14052185,efp,1, ,100
+103950,9,2013,Akatore Creek,1121047,Akatore Creek,745, ,Akatore Creek tributary, ,115,11,uoo,H45,2287470,5457075,14066235,efp,1, ,120
+103955,11,2013,Taieri River,1121027,Healy Creek,743.648, ,Healy Creek, ,700,191,uoo,I41,2299115,5578840,14023208,efp,1, ,30
+103956,11,2013,Taieri River,1121027,Healy Creek,743.648, ,Healy Creek, ,700,191,uoo,I41,2299085,5578910,14023208,efp,1, ,30
+103998,11,2013,Shag River,1121009,Shag River - mainstem upper,726, ,Shag River, ,578,80,uoo, ,2305215,5555660,14034174,efp,1, ,30
+103999,11,2013,Shag River,1121014,Pigroot Creek,726.24, ,Pigroot Creek, ,523,77,uoo,I42,2307640,5553660,14035000,efp,1, ,30
+104000,11,2013,Shag River,1121009,Shag River - mainstem upper,726, ,Shag River, ,495,75,uoo,I42,2306125,5552300,14035685,efp,1, ,30
+104001,11,2013,Shag River,1121009,Shag River - mainstem upper,726, ,Shag River, ,469,73,uoo,I42,2306795,5550860,14036217,efp,1, ,30
+104002,11,2013,Shag River,1121009,Shag River - mainstem upper,726, ,Shag River, ,393,69,uoo,I42,2308170,5548665,14037376,efp,1, ,30
+104003,11,2013,Shag River,1121011,Shingly Creek,726.21, ,Shingly Creek, ,358,67,uoo,I42,2310485,5547695,14037944,efp,1, ,30
+104004,11,2013,Shag River,1121011,Shingly Creek,726.21, ,Shingly Creek, ,337,64,uoo,I42,2310660,5545950,14038199,efp,1, ,30
+104005,11,2013,Shag River,1121009,Shag River - mainstem upper,726, ,Shag River, ,378,64,uoo,I42,2310760,5545745,14038774,efp,1, ,30
+104006,11,2013,Shag River,1121009,Shag River - mainstem upper,726, ,Shag River, ,288,62,uoo,I42,2311615,5544525,14039359,efp,1, ,30
+104007,11,2013,Shag River,1121008,Green Valley Creek,726, ,Green Valley Creek, ,223,53,uoo,I42,2314600,5542140,14040459,efp,1, ,30
+104008,11,2013,Shag River,1121002,Shag River - mainstem lower,726, ,Shag River, ,149,47,uoo,I42,2317090,5539995,14041478,efp,1, ,30
+104009,11,2013,Shag River,1121005,Happy Valley Creek,726.15, ,Happy Valley Creek, ,150,45,uoo,I42,2318075,5540405,14041211,efp,1, ,30
+104010,11,2013,Shag River,1121002,Shag River - mainstem lower,726, ,Shag River, ,80,35,uoo,I42,2322240,5537560,14042479,efp,1, ,30
+104011,11,2013,Shag River,1121002,Shag River - mainstem lower,726,,Shag River,,88,29,uoo,I42,2323760,5535560,14043186,efp,1,,30
+104012,11,2013,Shag River,1121002,Shag River - mainstem lower,726, ,Shag River, ,77,28,uoo,I42,2324080,5535235,14043212,efp,1, ,30
+104013,11,2013,Shag River,1121002,Shag River - mainstem lower,726, ,Shag River, ,54,26,uoo,I42,2324400,5533425,14043967,efp,1, ,30
+104014,11,2013,Shag River,1121002,Shag River - mainstem lower,726, ,Shag River, ,52,22,uoo,I42,2325480,5530885,14044744,efp,1, ,30
+106510,2,2013,Taieri River,1121042,Shepards Hut Creek,743.864, ,Shepherds Hut Creek, ,856,254,doco,h43,2263345,5509966,14051806,efp,1, , 
+106511,2,2013,Taieri River,1121042,Shepards Hut Creek,743.864,,Shepherds Hut Creek tributary,,865,254,doco,H43,2263389,5509962,14051806,efp,1,,
+106512,2,2013,Taieri River,1121041,Great Moss Swamp tributary 2,743.864,,Shepherds Hut Creek,,870,255,doco,H43,2261445,5511476,14051156,efp,1,,
+106513,2,2013,Taieri River,1121046,Taieri River,743,,Taieri River,,802,258,doco,H43,2256274,5511092,14051430,efp,1,,
+106514,2,2013,Taieri River,1121046,Taieri River,743,,Taieri River tributary,,816,262,doco,H43,2258963,5511191,14051400,efp,1,,
+106515,2,2013,Taieri River,1121046,Taieri River,743,,Taieri River tributary,,816,262,doco,H43,2258955,5511206,14051400,efp,1,,
+106516,2,2013,Taieri River,1121046,Taieri River,743,,Taieri River tributary,,816,262,doco,H43,2258966,5511146,14051400,efp,1,,
+106517,2,2013,Taieri River,1121046,Taieri River,743,,Taieri River tributary,,807,264,doco,H43,2259580,5511942,14051109,efp,1,,
+106518,2,2013,Taieri River,1121046,Taieri River,743, ,Taieri River tributary, ,814,264,doco,h43,2259309,5512160,14051120,efp,1, , 
+107320,10,2013,Taieri River,1121023,Mare Burn,743.58,1556,Maori Hen Creek tributary,,666,157,doco,I42,2305849,5539351,14041545,efp,,,
+107321,10,2013,Taieri River,1121023,Mare Burn,743.58,1600,Maori Hen Creek tributary,,626,157,doco,I42,2305582,5539342,14041545,efp,,,
+107322,10,2013,Taieri River,1121023,Mare Burn,743.58,1604,Maori Hen Creek tributary,,571,154,doco,I42,2305387,5539256,14040711,efp,,,
+107323,10,2013,Taieri River,1121023,Mare Burn,743.58,1607,Maori Hen Creek tributary,,602,156,doco,I42,2305386,5539992,14041327,efp,,,
+107324,10,2013,Taieri River,1121023,Mare Burn,743.58,803,Maori Hen Creek, ,571,154,doco,I42,2304609,5540007,14040711,efp, , , 
+107325,10,2013,Taieri River,1121023,Mare Burn,743.58,807,Maori Hen Creek, ,571,154,doco,I42,2304728,5539872,14040711,efp, , , 
+107326,10,2013,Taieri River,1121023,Mare Burn,743.58,810,Maori Hen Creek, ,571,154,doco,I42,2304734,5539679,14040711,efp, , , 
+107327,10,2013,Taieri River,1121023,Mare Burn,743.58,813,Maori Hen Creek tributary,,571,154,doco,I42,2304903,5539373,14040711,efp,,,
+101906,6,2014,Taieri River,1121034,Stony Creek,743.79,,Stony Creek,,465,204,doco,h42,2265286,5540285,14041257,efm,1,,
+101908,6,2014,Taieri River,1121034,Stony Creek,743.79,,Stony Creek,,535,204,doco,h42,2264900,5540340,14041257,efm,1,,
+101909,6,2014,Taieri River,1121034,Stony Creek,743.79,,Stony Creek,,542,204,doco,h42,2264894,5540339,14041257,efm,1,,
+101910,6,2014,Taieri River,1121034,Stony Creek,743.79,,Stony Creek,,570,204,doco,h42,2264831,5540335,14041257,efm,1,,
+101911,6,2014,Taieri River,1121034,Stony Creek,743.79,,Stony Creek,,592,204,doco,h42,2264749,5540368,14041257,efm,1,,
+101912,6,2014,Taieri River,1121034,Stony Creek,743.79,,Stony Creek,,565,204,doco,h42,2264678,5540423,14041257,efm,1,,
+101914,6,2014,Taieri River,1121034,Stony Creek,743.79,,Stony Creek,,586,204,doco,h42,2264591,5540463,14041257,efm,1,,
+101915,6,2014,Taieri River,1121034,Stony Creek,743.79,,Stony Creek,,573,204,doco,h42,2264549,5540483,14041257,efm,1,,
+101916,6,2014,Taieri River,1121034,Stony Creek,743.79,,Stony Creek,,576,204,doco,h42,2264528,5540482,14041257,efm,1,,
+101917,6,2014,Taieri River,1121034,Stony Creek,743.79, ,Stony Creek, ,603,205,doco,h42,2264460,5540454,14041033,efm,1, , 
+101918,6,2014,Taieri River,1121034,Stony Creek,743.79, ,Stony Creek, ,603,205,doco,h42,2264422,5540466,14041033,efm,1, , 
+101919,6,2014,Taieri River,1121034,Stony Creek,743.79, ,Stony Creek, ,607,205,doco,h42,2264305,5540523,14041033,efm,1, , 
+101920,6,2014,Taieri River,1121034,Stony Creek,743.79, ,Stony Creek, ,611,205,doco,h42,2264282,5540515,14041033,efm,1, , 
+101921,6,2014,Taieri River,1121034,Stony Creek,743.79, ,Stony Creek, ,623,205,doco,h42,2264239,5540531,14041033,efm,1, , 
+101922,6,2014,Taieri River,1121034,Stony Creek,743.79, ,Stony Creek, ,633,205,doco,h42,2264214,5540557,14041033,efm,1, , 
+101923,6,2014,Taieri River,1121034,Stony Creek,743.79, ,Stony Creek, ,644,205,doco,h42,2264187,5540579,14041033,efm,1, , 
+101924,6,2014,Taieri River,1121034,Stony Creek,743.79,,Stony Creek,,645,205,doco,H42,2264166,5540600,14041033,efm,1,,
+101925,6,2014,Taieri River,1121034,Stony Creek,743.79,,Stony Creek,,637,205,doco,H42,2264160,5540618,14041033,efm,1,,
+102658,7,2015,Akatore Creek,1121047,Akatore Creek,745,1435,Akatore Creek,,89,10,doco,I45,2287715,5456385,14066345,efp,,,150
+102716,1,2015,Taieri River,1121022,Nenthorn Stream,743.23,1300,Nenthorn Stream, ,363,117,ind,I43,2302097,5524738,14047188,vbd, , , 
+106304,1,2016,Taieri River,1121024,Wee Cap Burn,743.6,,Cap Burn,,894,157,doco,I42,2288422,5544190,14039516,vbd,,,
+106317,2,2016,Taieri River,1121034,Stony Creek,743.79,1030,Stony Creek,,517,204,doco,H42,2264985,5540330,14041257,efp,,,
+106350,2,2016,Tokomairiro River,1121048,Narrowdale Stream,748.041,1000,Lower Narrowdale Stream, ,149,28,doco,H45,2281959,5451631,14067253,efp, , , 
+106351,2,2016,Tokomairiro River,1121048,Narrowdale Stream,748.041,1030,Lower Narrowdale Stream,,108,26,doco,H45,2280065,5450429,14067386,efp,,,
+106352,2,2016,Tokomairiro River,1121048,Narrowdale Stream,748.041,1015,Lower Narrowdale Stream, ,149,28,doco,H45,2281681,5451563,14067253,efp, , , 
+106354,2,2016,Tokomairiro River,1121048,Narrowdale Stream,748.041,1130,Upper Narrowdale Stream, ,173,28,doco,H45,2281380,5450287,14067495,efp, , , 
+106356,2,2016,Tokomairiro River,1121048,Narrowdale Stream,748.041,1400,Upper Narrowdale Stream, ,252,29,doco,H45,2282346,5450550,14067463,vbd, , , 
+106453,5,2016,Taieri River,1121028,Kye Burn tributary 7,743.64,1500,Kye Burn,,822,194,doco,I42,2301048,5580108,14022642,efp,,,
+106454,5,2016,Taieri River,1121029,Kye Burn,743.64,1600,Kye Burn,,816,194,doco,I42,2301180,5580410,14022470,efp,,,
+106835,4,2016,Taieri River,1121028,Kye Burn tributary 7,743.64,1445,Kye Burn tributary,,822,194,docc,I42,2301025,5580132,14022642,efp,,,
+110655,10,2016,Taieri River,1121050,Deep Creek tributary,743.873,1346,Deep Creek tributary,,814,258,docc,H43,2249401,5519063,14048673,efp,,,
+110656,10,2016,Taieri River,1121044,Deep Creek,743.873,1406,Deep Creek tributary,,771,251,docc,H43,2252196,5520069,14048535,efp,,,3
+117189,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,424,58,rcl,I43,2311970,5531303,14044948,efp,,,
+117190,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,424,58,rcl,I43,2311950,5531218,14044948,efp,,,
+117191,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,424,58,rcl,I43,2312234,5531203,14044948,efp,,,
+117192,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,424,58,rcl,I43,2312251,5531184,14044948,efp,,,
+117193,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,424,58,rcl,I43,2312514,5531345,14044948,efp,,,
+117194,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,408,57,rcl,I43,2312926,5531285,14044900,efp,,,
+117195,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,408,57,rcl,I43,2312894,5531237,14044900,efp,,,
+117196,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,401,57,rcl,I43,2312895,5530864,14045032,efp,,,
+117197,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,395,56,rcl,I43,2312975,5530683,14045092,efp,,,
+117198,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,395,56,rcl,I43,2312983,5530615,14045092,efp,,,
+117199,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,395,56,rcl,I43,2313242,5530422,14045092,efp,,,
+117200,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,395,56,rcl,I43,2313277,5530392,14045092,efp,,,
+117201,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,384,56,rcl,I43,2313438,5530295,14045378,efp,,,
+117202,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,384,56,rcl,I43,2313587,5530142,14045378,efp,,,
+117203,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,373,55,rcl,I43,2313823,5529748,14045521,efp,,,
+117204,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,373,55,rcl,I43,2314279,5529415,14045521,efp,,,
+117205,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,364,54,rcl,I43,2314761,5529026,14045629,efp,,,
+117206,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,349,54,rcl,I43,2315279,5528570,14045749,efp,,,
+117207,10,2016,Waikouaiti River,1121051,Murphys Creek,731.1,0,Murphys Creek, ,331,53,rcl,I43,2315228,5528471,14045903,efp,,,
+110679,2,2017,Taieri River,1121033,Gimmer Burn,743.74,1728,Gimmer Burn tributary,,824,204,docc,H42,2263429,5557383,14033188,efp,,,
+110682,2,2017,Taieri River,1121032,Wether Burn,743.742,1829,Wether Burn tributary,,750,204,docc,H42,2266545,5562656,14030424,efp,,,
+110683,2,2017,Taieri River,1121032,Wether Burn,743.742,1841,Wether Burn tributary, ,561,203,docc,H42,2267379,5563746,14030261,vbd, , , 
+110763,2,2017,Taieri River,1121026,Hound Burn,743.62,1241,Hound Burn,,373,159,docc,I42,2298083,5553577,14034911,vbd,,,
+110764,2,2017,Taieri River,1121026,Hound Burn,743.62,1243,Hound Burn,,390,161,docc,I42,2298768,5553055,14035296,vbd,,,
+110766,2,2017,Shag River,1121007,Deepdell Creek,726.171,1340,Highlay Creek,,431,59,docc,I42,2308450,5538820,14041895,vbd,,,
+110767,2,2017,Taieri River,1121022,Nenthorn Stream,743.23,1419,Nenthorn Stream,,419,122,docc,I43,2303222,5528116,14046031,efp,,,
+110768,2,2017,Taieri River,1121049,Sheepwash Creek,743.34,1452,Sheepwash Creek,,411,114,docc,H43,2295779,5521533,14048115,vbd,,,
+110836,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,940,Salmonds Creek,,66,23,doco,H45,2279191,5450647,14067443,efp,,,
+110911,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,66,23,doco,H45,2279262,5450619,14067443,efp,,,
+110912,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,66,23,doco,H45,2279291,5450516,14067443,efp,,,
+110913,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,66,23,doco,H45,2279373,5450516,14067443,efp,,,
+110914,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,66,23,doco,H45,2279429,5450471,14067443,efp,,,
+110915,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,66,23,doco,H45,2279538,5450384,14067443,efp,,,
+110916,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,66,23,doco,H45,2279624,5450316,14067443,efp,,,
+110917,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,66,23,doco,H45,2279695,5450313,14067443,efp,,,
+110918,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,66,23,doco,H45,2279784,5450297,14067443,efp,,,
+110919,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,108,26,doco,H45,2279856,5450336,14067386,efp,,,
+110920,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,66,23,doco,H45,2279063,5450697,14067443,efp,,,
+110921,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,66,23,doco,H45,2278918,5450722,14067443,efp,,,
+110922,2,2017,Tokomairiro River,1121048,Narrowdale Stream,748.041,,Salmonds Creek,,66,23,doco,H45,2278894,5450754,14067443,efp,,,
+112004,5,2017,Shag River,1121011,Shingly Creek,726.21,,Shingly Creek,,376,67,doco,I42,2310279,5548333,14037340,efp,,,
+112005,5,2017,Waikouaiti River,1121016,Garden Bush Creek,731,1600,Garden Bush Creek,,368,25,doco,I43,2314610,5509572,14051907,efp,,,
+112006,5,2017,Waikouaiti River,1121016,Garden Bush Creek,731,1630,Garden Bush Creek tributary,,354,25,doco,I43,2315254,5509957,14051709,efp,,,
+112680,12,2017,Shag River,1121002,Shag River - mainstem lower,726,1630,Shag River, ,77,28,ind,J43,2324325,5535406,14043212,vbd, , , 
+114257,5,2017,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn, ,542,150,rcl,I42,2302836,5542166,14040268,kbt, , ,2
+114260,5,2017,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn, ,542,150,rcl,I42,2302562,5542191,14040268,kbt, , ,3
+114261,5,2017,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn, ,542,150,rcl,I42,2302353,5542156,14040268,kbt, , ,2
+114263,5,2017,Taieri River,1121023,Mare Burn,743.58, ,Maori Hen Creek, ,571,154,rcl,I42,2304645,5539976,14040711,kbt, , ,1
+114264,5,2017,Taieri River,1121023,Mare Burn,743.58, ,Maori Hen Creek, ,571,154,rcl,I42,2304598,5540456,14040711,kbt, , ,4
+114265,5,2017,Taieri River,1121023,Mare Burn,743.58, ,Maori Hen Creek, ,571,154,rcl,I42,2304299,5540887,14040711,kbt, , ,3
+114267,5,2017,Taieri River,1121023,Mare Burn,743.58, ,Maori Hen Creek, ,571,154,rcl,I42,2304406,5541290,14040711,kbt, , ,2
+114296,3,2017,Taieri River,1121023,Mare Burn,743.58, ,Trimbells Gully, ,517,154,rcl,I42,2304327,5541417,14040711,efp, , , 
+114297,3,2017,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn, ,501,152,rcl,I42,2303777,5542071,14040500,efp, , , 
+114298,3,2017,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn, ,468,151,rcl,I42,2302858,5542144,14040555,efp, , , 
+114299,3,2017,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,327,58,rcl,I42,2310058,5537117,14042619,efp, , , 
+114300,3,2017,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,451,66,rcl,I42,2305197,5534297,14043751,efp, , , 
+114302,3,2017,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,405,59,rcl,I42,2308376,5536586,14042746,efp, , , 
+114303,3,2017,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,313,55,rcl,I42,2311802,5537860,14042330,efp, , , 
+114314,3,2017,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,409,62,rcl,I42,2307192,5535600,14043095,efp, , , 
+114316,3,2017,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,421,62,rcl,I42,2307132,5535447,14043272,efp, , , 
+114317,3,2017,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,378,61,rcl,I42,2307885,5536354,14042937,efp, , , 
+114319,3,2017,Shag River,1121001,Tipperary Creek,726.09, ,Tipperary Creek, ,450,39,rcl,I42,2314218,5534098,14043685,efp, , , 
+114320,3,2017,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731, ,Waikouaiti River North Branch, ,460,59,rcl,I43,2310900,5528817,14045803,efp, , , 
+114321,3,2017,Waikouaiti River,1121051,Murphys Creek,731.1, ,Murphys Creek, ,362,53,rcl,I43,2315277,5528524,14045903,efp, , , 
+114322,3,2017,Shag River,1121007,Deepdell Creek,726.17, ,Camp Creek, ,531,67,rcl,I42,2305558,5536952,14042515,efp, , , 
+114323,3,2017,Waikouaiti River,1121051,Murphys Creek,731.1,,Murphys Creek,,409,57,rcl,I43,2312894,5531263,14044900,efp,,,
+113307,1,2018,Taieri River,1121035,Totara Creek,743.8,1300,Totara Creek tributary, ,930,214,doco, ,2260906,5534177,14043786,han,1, ,1
+113308,1,2018,Taieri River,1121035,Totara Creek,743.8,1330,Totara Creek, ,964,216,doco, ,2260202,5534995,14043499,obs,1, ,1
+113863,5,2018,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731, ,Waikouaiti River North Branch, ,498,62,doco, ,2308760,5526968,14046446,efp,1, ,20
+113864,5,2018,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731, ,Waikouaiti River North Branch, ,500,62,doco, ,2308674,5526946,14046445,efp,1, ,20
+113865,5,2018,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731, ,Waikouaiti River North Branch, ,489,62,doco, ,2308710,5527320,14046346,efp,1, ,20
+113866,5,2018,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1245,Waikouaiti River North Branch, ,516,62,doco, ,2308527,5527301,14046345,efp,1, ,20
+113867,5,2018,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731, ,Waikouaiti River North Branch, ,516,62,doco, ,2308613,5527301,14046345,efp,1, ,20
+113868,5,2018,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731,1325,Waikouaiti River North Branch, ,459,59,doco, ,2310848,5528793,14045810,efp,1, ,20
+113869,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek tributary, ,496,62,doco, ,2307290,5538133,14042061,tfu, , ,1
+113870,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek tributary, ,496,62,doco, ,2307332,5538143,14042061,tfu, , ,1
+113871,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek tributary, ,496,62,doco, ,2307371,5538141,14042061,tfu, , ,1
+113872,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek tributary, ,496,62,doco, ,2307394,5538144,14042061,tfu, , ,1
+113873,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek tributary, ,496,62,doco, ,2307430,5538176,14042061,tfu, , ,1
+113874,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek tributary, ,496,62,doco, ,2307449,5538189,14042061,tfu, , ,1
+113875,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek tributary, ,496,62,doco, ,2307471,5538207,14042061,tfu, , ,1
+113876,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek tributary, ,496,62,doco, ,2307484,5538232,14042061,tfu, , ,2
+113877,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek tributary, ,496,62,doco, ,2307525,5538249,14042061,tfu, , ,1
+113878,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek tributary, ,496,62,doco, ,2307522,5538254,14042061,tcu, , ,1
+113879,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek, ,470,61,doco, ,2308036,5538856,14041808,tfu, , ,1
+113880,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek, ,470,61,doco, ,2307995,5538875,14041808,tfu, , ,1
+113881,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek, ,470,61,doco, ,2307948,5538853,14041808,tfu, , ,2
+113882,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek, ,470,61,doco, ,2307909,5538872,14041808,tfu, , ,1
+113883,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek, ,470,61,doco, ,2307861,5538873,14041808,tfu, , ,1
+113884,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek, ,470,61,doco, ,2307817,5538891,14041808,tfu, , ,1
+113885,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek, ,470,61,doco, ,2307764,5538898,14041808,tcu, , ,1
+113886,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek, ,470,61,doco, ,2307702,5538956,14041808,tcu, , ,1
+113887,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek, ,470,61,doco, ,2307665,5538999,14041808,tcu, , ,1
+113888,5,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek, ,470,61,doco, ,2307638,5539040,14041808,tcu, , ,1
+113889,5,2018,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek tributary, ,494,67,doco, ,2306155,5536534,14042515,efp,1, , 
+113890,5,2018,Shag River,1121007,Deepdell Creek,726.17,,Deepdell Creek tributary,,449,67,doco,,2305042,5535273,14043373,efp,1,,
+114201,6,2018,Taieri River,1121035,Totara Creek,743, ,Totara Creek water race, , , ,rdcl,I45,2265113,5535056, ,efp, , , 
+114339,2,2018,Shag River,1121007,Deepdell Creek,726.171, ,Highlay Creek, ,431,59,rel,I42,2308493,5538809,14041895,vbd, , , 
+114340,2,2018,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,327,58,rel,I42,2310058,5537117,14042619,efp, , , 
+114341,2,2018,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,451,66,rel,I42,2305197,5534297,14043751,efp, , , 
+114342,2,2018,Shag River,1121007,Deepdell Creek,726.17, ,Camp Creek, ,531,67,rel,I42,2305558,5536952,14042515,efp, , , 
+114766,4,2018,Waikouaiti River,1121015,Tommy Flat Creek,731.03,,Tommy Flat Creek Tributary,,90,21,doco,,2319108,5507874,14052167,efp,,,
+114767,4,2018,Waikouaiti River,1121015,Tommy Flat Creek,731.03, ,Tommy Flat Creek Tributary, ,90,21,doco, ,2318706,5507938,14052167,efp, , , 
+114768,4,2018,Waikouaiti River,1121015,Tommy Flat Creek,731.03, ,Tommy Flat Creek, ,90,21,doco, ,2318787,5507765,14052167,efp, , , 
+114769,5,2018,Akatore Creek,1121047,Akatore Creek,745, ,Akatore Creek, ,69,9,doco, ,2287839,5454914,14066451,efp,1, , 
+114846,7,2018,Akatore Creek,1121047,Akatore Creek,745,1100,Akatore Creek tributary, ,216,14,wwcl,I45,2287946,5459223,14065789,efp, , , 
+114908,10,2018,Shag River,1121009,Shag River - mainstem upper,726,1220,Shag River, ,277,62,otfg, ,2311675,5544316,14039359,vbd,1, , 
+114985,9,2018,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn, ,440,150,rel,I42,2302836,5542166,14040432,kbt, , ,3
+114986,9,2018,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn, ,440,150,rel,I42,2302562,5542191,14040432,kbt, , ,3
+114987,9,2018,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn, ,440,150,rel,I42,2302353,5542156,14040432,kbt, , ,2
+114988,9,2018,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn tributary, ,484,153,rel,I42,2304327,5541417,14040524,efp, , , 
+114989,9,2018,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn, ,471,152,rel,I42,2303777,5542071,14040500,efp, , , 
+114990,9,2018,Taieri River,1121023,Mare Burn,743.58, ,Mare Burn, ,440,150,rel,I42,2302858,5542144,14040432,efp, , , 
+114991,9,2018,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,305,58,rel,I42,2310058,5537117,14042619,efp, , , 
+114992,9,2018,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,429,66,rel,I42,2305197,5534297,14043751,efp, , , 
+114993,9,2018,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,340,59,rel,I42,2308376,5536586,14042746,efp, , , 
+114994,9,2018,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,251,55,rel,I42,2311687,5537747,14042434,efp, , , 
+114995,9,2018,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,368,62,rel,I42,2307192,5535600,14043095,efp, , , 
+114996,9,2018,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,379,62,rel,I42,2307132,5535447,14043272,efp, , , 
+114997,9,2018,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek, ,360,61,rel,I42,2307885,5536354,14042937,efp, , , 
+114998,8,2018,Shag River,1121001,Tipperary Creek,726.09, ,Tipperary Creek, ,410,39,rel,I42,2314218,5534098,14043888,efp, , , 
+114999,7,2018,Waikouaiti River,1121019,Waikouaiti River North Branch - upper,731, ,Waikouaiti River North Branch, ,452,59,rel,I43,2310900,5528817,14045803,efp, , , 
+115000,8,2018,Waikouaiti River,1121051,Murphys Creek,731.1, ,Murphys Creek, ,331,53,rel,I43,2315277,5528524,14045903,efp, , , 
+115001,9,2018,Shag River,1121007,Deepdell Creek,726.17, ,Deepdell Creek tributary, ,494,67,rel,I42,2305558,5536952,14042515,efp, , , 
+115002,8,2018,Waikouaiti River,1121051,Murphys Creek,731.1,,Murphys Creek,,408,57,rel,I43,2312894,5531263,14044900,efp,,,
+115004,8,2018,Waikouaiti River,1121051,Murphys Creek,731.1,,Murphys Creek,,424,58,rel,I43,2311971,5531341,14044948,efp,,,
+115065,8,2018,Taieri River,1121020,Three O'Clock Stream,743.16,1126,Three O'clock Stream, ,281,86,wwcl,I44,2311132,5510109,14051762,vbd, , , 
+115066,8,2018,Taieri River,1121020,Three O'Clock Stream,743.16,1232,Three O'clock Stream, ,331,87,wwcl,I44,2311047,5510222,14051260,efp, , , 
+117211,6,2018,Shag River,1121007,Deepdell Creek,726.17,0,Deepdell Creek, ,360,61,rel,I42,2307907,5536381,14042937,efp,,,
+115913,3,2019,Taieri River,1121040,Great Moss Swamp tributary 1,743.86, ,McHardies Creek, ,1087,252,rdcl,H43,2274586,5520066,14048477,efp, , , 
+116151,5,2019,Taieri River,1121027,Healy Creek,743,1107,Healy Creek, ,693,191,doco, ,2299082,5578917,14023553,efp,1, ,4
+116152,5,2019,Taieri River,1121027,Healy Creek,743.648,1152,Healy Creek, ,693,191,doco, ,2299100,5578806,14023553,efp,1, ,4
+119354,1,1992,Taieri River,1121038,McPhees Creek,743.862,0,McPhees Creek, ,934,237,uoo, ,2272261,5519954,14048642,efp,1,,
+118341,5,2011,Akatore Creek,1121047,Akatore Creek,745,0,Akatore Creek, ,188,13,doco,H45,2288360,5458717,14065898,efp,1,,
+119399,2,1999,Taieri River,1121035,Totara Creek,743.874,0,Waimonga Creek, ,0,0,uoo, ,2254300,5530800,0,efp,1,,
+119334,2,1991,Shag River,1121014,Pigroot Creek,726,0,Shag River, ,479,75,uoo, ,2306299,5552399,14035663,efp,1,,
+120045,10,1991,Taieri River,1121027,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299000,5579000,14023553,efp,,,
+120046,11,1992,Taieri River,1121027,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299000,5579000,14023553,efp,,,
+119362,5,1996,Taieri River,1121052,Filly Burn,743.56,0,Filly Burn, ,598,143,uoo, ,2302000,5536399,14042961,efp,1,,
+119331,1,1991,Taieri River,1121028,Kye Burn tributary 7,743.64,0,Kye Burn tributary, ,781,194,uoo, ,2301068,5580099,14022642,efp,1,,
+119347,5,1991,Shag River,1121009,Shag River - mainstem upper,726,0,Shag River tributary, ,754,82,uoo, ,2306799,5556599,14033641,efp,1,,
+120102,12,1992,Taieri River,1121020,Three O'Clock Stream,743.16,1427,Three O'clock Stream tributary, ,331,87,uoo,I44,2311000,5510300,14051260,efp,,,
+119333,2,1991,Shag River,1121009,Shag River - mainstem upper,726,0,Shag River, ,574,80,uoo, ,2305300,5555700,14034148,efp,1,,
+119363,9,1996,Taieri River,1121026,Hound Burn,743.62,0,Hound Burn, ,401,162,uoo, ,2299499,5553200,14035191,efp,1,,
+119335,2,1991,Taieri River,1121027,Healy Creek,743.648,0,Kye Burn, ,693,191,uoo, ,2299300,5578599,14023553,efp,1,,
+120044,2,1991,Taieri River,1121027,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299300,5578600,14023553,efp,,,
+119401,2,1999,Taieri River,1121036,Linn Burn,743.81,0,Linn Burn, ,1056,225,uoo, ,2255299,5528499,14045933,efp,1,,
+119351,10,1991,Taieri River,1121020,Three O'Clock Stream,743.16,0,Three O'Clock Stream tributary, ,331,87,uoo, ,2311000,5510299,14051260,efp,1,,
+120042,1,1991,Taieri River,1121027,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299000,5579000,14023553,efp,,,
+120051,2,1999,Taieri River,1121027,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299100,5578700,14023553,efp,,,
+120052,1,1991,Taieri River,1121028,Kye Burn tributary 7,743.64,0,Kye Burn tributary, ,781,194,uoo,I42,2301100,5580100,14022642,efp,,,
+119327,8,1990,Taieri River,1121030,Kye Burn tributary 8,743.64,0,Kye Burn, ,780,194,uoo, ,2302100,5580499,14022470,efp,1,,
+119338,3,1991,Taieri River,1121022,Nenthorn Stream,743.238,0,Deighton Creek, ,420,123,uoo, ,2305900,5522900,14047839,efp,1,,
+119326,8,1990,Taieri River,1121029,Kye Burn,743.64,0,Kye Burn, ,780,194,uoo, ,2301100,5580399,14022470,efp,1,,
+119330,11,1990,Taieri River,1121027,Healy Creek,743.64,0,Kye Burn, ,639,191,uoo, ,2298999,5578999,14022991,efp,1,,
+118340,5,2011,Akatore Creek,1121047,Akatore Creek,745,945,Akatore Creek, ,91,11,doco,H45,2287572,5456723,14066235,efp,1,,
+120043,1,1991,Taieri River,1121027,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299000,5579000,14023553,efp,,,
+118342,5,2011,Akatore Creek,1121047,Akatore Creek,745,0,Akatore Creek, ,69,9,doco,H45,2287765,5455921,14066451,efp,1,,
+119352,10,1991,Taieri River,1121035,Totara Creek,743.8,0,Totara Creek, ,914,215,uoo, ,2260300,5534999,14043578,efp,1,,
+119442,10,2003,Taieri River,1121035,Totara Creek,743.8,0,Totara Creek, ,1041,220,uoo, ,2257399,5532700,14044375,efp,1,,
+119441,10,2003,Taieri River,1121035,Totara Creek,743.8,0,Totara Creek, ,914,215,uoo, ,2260400,5534899,14043578,efp,1,,
+118524,11,2019,Taieri River,1121035,Totara Creek,743.8,956,Totara Creek, ,1050,220,doco,H42,2257252,5532657,14044393,efp,1,,4
+118525,11,2019,Taieri River,1121035,Totara Creek,743.8,1037,Unnamed water race, ,0,0,doco,H42,2257417,5532749,0,efp,1,,38
+118526,11,2019,Taieri River,1121035,Totara Creek,743.8,1046,Unnamed water race, ,0,0,doco,H42,2257574,5532854,0,efp,1,,10
+119368,1,1993,Taieri River,1121035,Totara Creek,743.874,0,Waimonga Creek, ,0,0,uoo, ,2254300,5530000,0,efp,1,,
+120566,1,2021,Shag River,1121002,Shag River - mainstem lower,726,1130,Shag River, ,62,29,ind, ,2323715,5535549,14043186,vbd,,,
+119400,2,1999,Taieri River,1121035,Totara Creek,743.874,0,Waimonga Creek, ,0,0,uoo, ,2254699,5529900,0,efp,1,,
+119357,3,1992,Taieri River,1121035,Totara Creek,743.8,0,Totara Creek, ,1050,220,uoo, ,2257399,5532499,14044393,efp,1,,
+119404,4,1999,Taieri River,1121035,Totara Creek,743.874,0,Waimonga Creek, ,0,0,uoo, ,2254300,5530000,0,efp,1,,
+120083,5,1991,Shag River,1121009,Shag River - mainstem upper,726,0,Shag River tributary, ,754,82,uoo,J43,2307000,5556600,14033641,efp,,,
+121569,1,2021,Waikouaiti River,1121053,Waikouaiti River North Branch - lower,731,1527,Waikouaiti River North Branch, ,260,44,doco,I43,2318692,5524170,14047324,vbd,,,
+121570,1,2021,Waikouaiti River,1121053,Waikouaiti River North Branch - lower,731,1549,Waikouaiti River North Branch, ,260,44,doco,I43,2318627,5524165,14047324,efp,,,
+119481,9,2004,Tokomairiro River,1121048,Narrowdale Stream,748.041,0,Upper Narrowdale Stream, ,107,28,doco, ,2280976,5450338,14067503,efp,1,,
+121451,3,2021,Akatore Creek,1121047,Akatore Creek,745,1013,Akatore Creek, ,69,9,doco,I45,2287755,5455330,14066451,dna,,,
+121452,1,2021,Akatore Creek,1121047,Akatore Creek,745,1122,Akatore Creek, ,80,10,doco,I45,2287682,5456297,14066345,dna,,,
+121453,5,2021,Akatore Creek,1121047,Akatore Creek,745,1335,Akatore Creek, ,91,11,doco,I45,2287473,5457052,14066235,dna,,,
+121923,8,2020,Akatore Creek,1121047,Akatore Creek,745,1020,Akatore Creek tributary, ,69,9,doco,I45,2287833,5455381,14066451,efp,,,
+121924,8,2020,Akatore Creek,1121047,Akatore Creek,745,1224,Akatore Creek tributary, ,69,9,doco,I45,2287882,5455411,14066451,efp,,,
+121925,8,2020,Akatore Creek,1121047,Akatore Creek,745,1226,Akatore Creek tributary, ,69,9,doco,I45,2287829,5455425,14066451,efp,,,
+121926,8,2020,Akatore Creek,1121047,Akatore Creek,745,1230,Akatore Creek tributary, ,69,9,doco,I45,2287797,5455455,14066451,efp,,,
+121927,8,2020,Akatore Creek,1121047,Akatore Creek,745,1234,Akatore Creek tributary, ,69,9,doco,I45,2287853,5455542,14066451,efp,,,
+121928,8,2020,Akatore Creek,1121047,Akatore Creek,745,1236,Akatore Creek tributary, ,69,9,doco,I45,2287857,5455626,14066451,efp,,,
+121929,8,2020,Akatore Creek,1121047,Akatore Creek,745,1238,Akatore Creek tributary, ,69,9,doco,I45,2287791,5455668,14066451,efp,,,
+121930,8,2020,Akatore Creek,1121047,Akatore Creek,745,1240,Akatore Creek tributary, ,69,9,doco,I45,2287819,5455795,14066451,efp,,,
+121931,8,2020,Akatore Creek,1121047,Akatore Creek,745,1242,Akatore Creek tributary, ,69,9,doco,I45,2287785,5455902,14066451,efp,,,
+121932,8,2020,Akatore Creek,1121047,Akatore Creek,745,1346,Akatore Creek tributary, ,69,9,doco,I45,2287732,5455996,14066451,efp,,,
+121933,8,2020,Akatore Creek,1121047,Akatore Creek,745,1352,Akatore Creek tributary, ,80,10,doco,I45,2287769,5456037,14066431,efp,,,
+121934,8,2020,Akatore Creek,1121047,Akatore Creek,745,1416,Akatore Creek tributary, ,80,10,doco,I45,2287790,5456167,14066345,efp,,,
+121935,8,2020,Akatore Creek,1121047,Akatore Creek,745,1453,Akatore Creek tributary, ,80,10,doco,I45,2287740,5456283,14066345,efp,,,
+121936,8,2020,Akatore Creek,1121047,Akatore Creek,745,1456,Akatore Creek tributary, ,80,10,doco,I45,2287652,5456374,14066345,efp,,,
+121937,8,2020,Akatore Creek,1121047,Akatore Creek,745,1503,Akatore Creek tributary, ,91,11,doco,I45,2287627,5456495,14066235,efp,,,
+121938,8,2020,Akatore Creek,1121047,Akatore Creek,745,1500,Akatore Creek tributary, ,91,11,doco,I45,2287689,5456579,14066235,vbd,,,
+121939,8,2021,Akatore Creek,1121047,Akatore Creek,745,1529,Akatore Creek tributary, ,91,11,doco,I45,2287601,5456642,14066235,efp,,,
+121664,1,1993,Taieri River,1121035,Totara Creek,743.8,0,Totara Creek, ,938,216,uoo,H42,2260200,5535000,14043499,efp,,,
+121307,2,2021,Taieri River,1121027,Healy Creek,743.648,0,Healy Creek, ,693,191,doco,I41,2299106,5578853,14023553,efp,,,
+121311,2,2021,Taieri River,1121027,Healy Creek,743.648,1100,Healy Creek, ,693,191,doco,I41,2299081,5578913,14023553,vbd,,,
+121312,2,2021,Taieri River,1121027,Healy Creek,743.648,1000,Healy Creek, ,693,191,doco,I41,2299109,5578785,14023553,efp,,,
+121313,2,2021,Taieri River,1121027,Healy Creek,743.648,1322,Healy Creek, ,693,191,doco,I41,2299107,5578795,14023553,efp,,,
+121314,2,2021,Taieri River,1121027,Healy Creek,743.648,1329,Healy Creek, ,693,191,doco,I41,2299109,5578815,14023553,vbd,,,
+121315,2,2021,Taieri River,1121027,Healy Creek,743.648,1436,Healy Creek, ,693,191,doco,I41,2299090,5578920,14023553,efp,,,
+121316,2,2021,Taieri River,1121027,Healy Creek,743.648,1502,Healy Creek, ,693,191,doco,I41,2299062,5578903,14023553,efp,,,
+121317,2,2021,Taieri River,1121027,Healy Creek,743.648,1516,Healy Creek, ,693,191,doco,I41,2299009,5578893,14023553,efp,,,
+121318,2,2021,Taieri River,1121027,Healy Creek,743.648,1600,Healy Creek, ,693,191,doco,I41,2298971,5578991,14023553,efp,,,
+121319,2,2021,Taieri River,1121027,Healy Creek,743.648,1620,Healy Creek, ,693,191,doco,I41,2298990,5578921,14023553,efp,,,
+121320,2,2021,Taieri River,1121027,Healy Creek,743.648,1000,Healy Creek, ,693,191,doco,I41,2299313,5577956,14023553,efp,,,
+121321,2,2021,Taieri River,1121027,Healy Creek,743.648,1136,Healy Creek, ,693,191,doco,I41,2299307,5578013,14023553,efp,,,
+121322,2,2021,Taieri River,1121027,Healy Creek,743.648,1440,Healy Creek, ,693,191,doco,I41,2299367,5578167,14023553,efp,,,
+121419,3,2011,Taieri River,1121027,Healy Creek,743.648,0,Healy Creek, ,693,191,uoo, ,2299081,5578920,14023553,efp,1,,
+121866,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1000,Three O'clock Stream tributary, ,542,91,doco,I44,2307238,5511612,14051240,vbd,,,
+121867,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1041,Three O'clock Stream tributary, ,542,91,doco,I44,2307291,5511560,14051240,efp,,,
+121868,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1132,Three O'clock Stream tributary, ,542,91,doco,I44,2307439,5511526,14051240,efp,,,
+121869,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1202,Three O'clock Stream tributary, ,542,91,doco,I44,2307506,5511531,14051240,efp,,,
+121870,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1301,Three O'clock Stream tributary, ,542,91,doco,I44,2307540,5511531,14051240,efp,,,
+121871,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1303,Three O'clock Stream tributary, ,542,91,doco,I44,2307577,5511603,14051240,efp,,,
+121872,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1339,Three O'clock Stream tributary, ,542,91,doco,I44,2307602,5511618,14051240,efp,,,
+121873,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1408,Three O'clock Stream tributary, ,460,91,doco,I44,2307719,5511635,14051308,efp,,,
+121874,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1711,Three O'clock Stream tributary, ,460,91,doco,I44,2307726,5511634,14051308,efp,,,
+121875,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1447,Three O'clock Stream tributary, ,460,91,doco,I44,2307937,5511596,14051308,vbd,,,
+121876,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1500,Three O'clock Stream tributary, ,496,91,doco,I44,2307996,5511527,14051552,efp,,,
+121877,3,2020,Taieri River,1121020,Three O'Clock Stream,743.16,1452,Three O'clock Stream tributary, ,425,90,doco,I44,2308056,5511584,14051288,efp,,,
+121478,1,2021,Waikouaiti River,1121018,Back Creek,731.07,1003,Back Creek, ,609,51,doco,I43,2309941,5522439,14047972,efp,,,
+121554,1,2021,Waikouaiti River,1121018,Back Creek,731.07,1208,Back Creek tributary, ,590,51,doco,I43,2310509,5522194,14047896,efp,,,
+121555,1,2021,Waikouaiti River,1121018,Back Creek,731.07,1321,Back Creek, ,609,51,doco,I43,2310475,5522356,14047972,efp,,,
+121556,1,2021,Waikouaiti River,1121018,Back Creek,731.07,1320,Back Creek, ,609,51,doco,I43,2310277,5522499,14047972,efp,,,
+121557,1,2021,Waikouaiti River,1121018,Back Creek,731.07,1329,Back Creek tributary, ,495,46,doco,I43,2313624,5522641,14047928,efp,,,
+121558,5,2021,Waikouaiti River,1121018,Back Creek,731.07,1400,Back Creek tributary, ,495,46,doco,I43,2313852,5522636,14047928,efp,,,
+121559,1,2021,Waikouaiti River,1121018,Back Creek,731.07,1501,Back Creek tributary, ,402,45,doco,I43,2314170,5522531,14048002,efp,,,
+121560,1,2021,Waikouaiti River,1121018,Back Creek,731.07,1500,Back Creek tributary, ,402,45,doco,I43,2314256,5522502,14048002,efp,,,
+121561,1,2021,Waikouaiti River,1121018,Back Creek,731.07,1001,Back Creek, ,226,38,doco,I43,2319295,5521925,14048132,efp,,,
+121562,1,2021,Waikouaiti River,1121018,Back Creek,731.07,1155,Back Creek, ,262,39,doco,I43,2318619,5522120,14048044,vbd,,,
+121563,1,2021,Waikouaiti River,1121018,Back Creek,731.07,1441,Back Creek, ,262,39,doco,I43,2318544,5522150,14048044,efp,,,
+121861,5,2020,Waikouaiti River,1121017,Poley Creek,731.062,1008,Poley Creek, ,510,45,doco,I43,2308613,5515797,14050242,efp,,,
+121862,5,2020,Waikouaiti River,1121017,Poley Creek,731.062,1116,Poley Creek, ,569,47,doco,I43,2308602,5516332,14049752,efp,,,
+121863,5,2020,Waikouaiti River,1121017,Poley Creek,731.062,1319,Poley Creek, ,439,44,doco,I43,2310189,5514809,14050243,efp,,,
+121865,5,2020,Waikouaiti River,1121017,Poley Creek,731.062,1422,Poley Creek tributary, ,531,45,doco,I43,2309859,5515192,14049967,efp,,,
+121075,2,2005,Shag River,1121008,Green Valley Creek,726,0,Green Valley Creek, ,391,60,doco, ,2314502,5547099,14038175,efp,1,,
+122597,3,2021,Shag River,1121007,Deepdell Creek,726.171,0,Highlay Creek, ,335,59,rel,I42,2309335,5537418,14042496,efp,,,
+122600,3,2021,Shag River,1121007,Deepdell Creek,726.17,0,Deepdell Creek tributary, ,521,68,rel,I42,2305076,5536589,14042906,efp,,,
