@@ -109,7 +109,7 @@
 "tintin","tintin","string",,,
 "adundent","adundent","string",,,
 "focalSpecies","focalSpecies","number",,,
-"Year","Year","number",350,input,false
+"Year","Year","number",350,"input",
 "density","density","string",,,
 "densityRank","densityRank","string",,,
 "numberDensityRec","numberDensityRec","string",,,
