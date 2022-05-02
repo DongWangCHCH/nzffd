@@ -1,0 +1,873 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+50107,10,1936,Whites Bay,1141130,Pukatea Stream,600, ,Pukatea Stream, ,2,0,unk,p28,2598500,5979500,11014596,unk, , , 
+146,7,1961,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,day,Hutt River,,180,42,niwa,S26,2694300,6014500,9008631,ef,1,,
+55459,7,1961,Hutt River,1141046,Hutt River - Pakuratahi Forks,298.55, ,Pakuratahi River, ,180,42,niwa,s26,2694300,6014300,9008676,unk, , , 
+1082,5,1962,Wainuiomata River,1141041,Catchpool Stream,296.1,,Catchpool Stream,,50,14,unk,R27,2671400,5982500,9015713,unk,,,
+50032,8,1962,Waimea River,1141098,Wairoa River,575.02, ,Wairoa River, ,15,10,unk,n27,2519500,5982700,10013921,unk, , , 
+50034,8,1962,Waimea River,1141098,Wairoa River,575.02, ,Wairoa River, ,20,11,unk,n27,2520000,5981300,10013921,unk, , , 
+50036,2,1962,Waimea River,1141098,Wairoa River,575.02, ,Wairoa River, ,20,11,niwa,n27,2520000,5981300,10013921,unk, , , 
+50133,5,1962,Clarence River,1141172,Severn River,621.595,,Alma River,,890,213,unk,N30,2514600,5897100,13002635,unk,,,
+55441,9,1962,Waikanae River,1141050,Maungakotukutuku Stream,315,day,Maungakotukutuku Stream,,190,20,niwa,R26,2680200,6024900,9006129,ef,1,,
+147,11,1963,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,day,Hutt River,,180,42,niwa,S26,2694300,6014500,9008631,ef,1,,
+1083,4,1963,Wainuiomata River,1141041,Catchpool Stream,296.1,day,Catchpool Stream,,50,14,niwa,R27,2671400,5982500,9015713,ef,1,,
+50007,5,1963,D'Urville Island,1141103,Mill Arm Creek,585, ,Unnamed stream Mill Arm, ,60,2,unk,p25,2582600,6041500,11002259,unk, , , 
+55134,8,1963,Rangitaiki River,1141003,Horomanga River lower,154.2,day,Horomanga River,,155,76,niwa,V17,2839000,6308000,4020577,ef,1,,
+55308,10,1963,Ruamahanga River,1141039,Kiriwhakapapa Stream,292.35,day,Kiriwhakapapa Stream,,250,131,niwa,S25,2728500,6040600,9002324,ef,1,,
+50118,11,1964,Wairau River,1141162,Wairau River tributary 1,601,,Fish Lake,,1008,160,niwa,N30,2504400,5898400,11033245,ef,1,,
+50137,11,1964,Clarence River,1141178,Serpentine Creek,621.67,day,Serpentine Creek,,1130,230,niwa,N30,2491500,5890600,13003844,ef,1,,
+50143,11,1964,Clarence River,1141177,Clarence River,621,day,Clarence River,,990,228,niwa,M31,2488600,5888100,13004616,ef,1,,
+1098,5,1965,Motueka River,1141095,Motueka River tributary,570,day,Motueka River tributary,,270,76,niwa,N28,2499500,5964800,10019200,ef,1,,
+1100,5,1965,Motueka River,1141086,Clark River upper,570.163, ,Clark River, ,590,92,niwa,m28,2487800,5953600,10022054,ef,1, , 
+2608,5,1965,Pelorus River,1141108,Whakamarina River,589.05,,Wakamarina River,,50,19,niwa,o27,2561800,5982900,11013815,ef,1,,
+2609,5,1965,Pelorus River,1141107,Mountain Camp Creek,589.054,day,Mountain Camp Creek,,40,16,niwa,O27,2564300,5984400,11013379,ef,1,,
+50135,11,1965,Wairau River,1141162,Wairau River tributary 1,601,day,Wairau River tributary,,1000,159,niwa,N30,2503300,5898700,11033245,ef,1,,
+55756,2,1965,Tukituki River,1141010,Waipawa River - Waipawa,232.1,day,Waipawa River,,130,75,niwa,V22,2816300,6133500,8030565,ef,1,,
+95,3,1966,Motueka River,1141086,Clark River upper,570.163,day,Clark River,,590,93,niwa,M28,2487700,5953800,,ef,1,,
+382,,1966,Ruamahanga River,1141037,Mangatarere Stream,292.243,,Mangatarere Stream,,190,103,niwa,S26,2719300,6027400,9005733,ef,1,,
+687,7,1966,Waikanae River,1141050,Maungakotukutuku Stream,315,day,Maungakotukutuku Stream,,150,18,niwa,R26,2680900,6026200,9005874,ef,1,,
+55666,10,1966,Ruamahanga River,1141036,Enaki Stream tributary,292.243, ,Unnamed wetland, ,60,92,niwa,s26,2719786,6023095,0,spo, , , 
+55667,10,1966,Ruamahanga River,1141036,Enaki Stream tributary,292.243,day,Enaki Stream tributary,,80,94,niwa,S26,2719216,6023993,9006397,ef,1,,
+55670,11,1966,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,day,Hutt River tributary,,180,43,niwa,S26,2694500,6014700,9008588,ef,1,,
+55673,11,1966,Wainuiomata River,1141041,Catchpool Stream,296.1,day,Catchpool Stream,,30,11,niwa,R27,2669800,5981900,9015762,ef,1,,
+55675,12,1966,Rangitaiki River,1141004,Tukuhouhou Stream,154.2,day,Tukuhouhou Stream,,400,100,niwa,V17,2847700,6290200,4024250,ef,1,,
+55677,12,1966,Rangitaiki River,1141004,Tukuhouhou Stream,154.2,day,Kotuku uku Stream,,520,101,niwa,V17,2847300,6289900,4024257,ef,1,,
+55674,11,1967,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,day,Hutt River,,170,42,niwa,S26,2693800,6014200,9008696,efm,1,,
+55686,2,1967,Ruamahanga River,1141036,Enaki Stream tributary,292.243,day,Enaki Stream tributary,,140,92,niwa,S26,2720100,6022800,9006747,ef,1,,
+363,1,1970,Ruamahanga River,1141035,Kotukutuku Stream,292.068,,Kotukutuku Stream,,250,67,unk,S26,2703900,6017800,9007670,unk,,,
+50053,2,1972,Motueka River,1141096,Rough'ns Creek,570.19,,Rough'ns Creek,,270,80,niwa,N28,2499800,5960300,10020429,unk,,,
+50060,2,1972,Motueka River,1141092,Swampy Gully,570.164,,Swampy Gully,,410,98,niwa,N29,2493700,5947900,10023516,unk,,,
+50061,2,1972,Motueka River,1141093,Nestor Gully,570.164,,Nestor Gully,,430,100,niwa,N29,2493800,5946500,10023821,unk,,,
+5909,3,1974,Waikanae River,1141050,Maungakotukutuku Stream,315,,Maungakotukutuku Stream,,190,20,niwa,R26,2680100,6024700,9006129,han,,,1
+456,5,1975,Motueka River,1141097,Motueka River 1,570,1500,Motueka River, ,310,83,niwa,n28,2500900,5958900,10020730,ef,1, , 
+342,8,1976,Wainuiomata River,1141041,Catchpool Stream,296.1, ,Catchpool Stream, ,30,11,uoo,r27,2669600,5982100,9015762,ef,1, , 
+29,12,1977,Motueka River,1141096,Rough'ns Creek,570.19,,Rough'ns Creek,,270,80,niwa,N28,2499900,5960400,,efm,1,,
+30,12,1977,Motueka River,1141097,Motueka River 1,570,,Motueka River,,310,83,niwa,N28,2501000,5958300,,efm,1,,
+31,12,1977,Motueka River,1141096,Rough'ns Creek,570.19,900,Rough'ns Creek,,270,80,niwa,N28,2499800,5960300,,efm,1,,
+32,12,1977,Motueka River,1141096,Rough'ns Creek,570.19,1100,Gilbert Creek,,390,85,niwa,N28,2497600,5958000,,efm,1,,
+33,12,1977,Motueka River,1141096,Rough'ns Creek,570.19,,Gilbert Creek,,380,85,niwa,N28,2497600,5958000,,efm,1,,
+2401,12,1978,Wairau River,1141184,Enchanted Stream,601.361,1300,Enchanted Stream,,490,102,niwa,n29,2527600,5941100,11025219,ef,1,,
+2402,12,1978,Wairau River,1141149,Leatham River upper,601.361,1500,Leatham River,,530,108,niwa,N29,2526100,5934200,11026919,ef,1,,
+2403,12,1978,Wairau River,1141159,Rainbow River,601.49,1330,Rainbow River,,830,146,niwa,N30,2500600,5907900,11032208,ef,1,,
+2404,12,1978,Wairau River,1141159,Rainbow River,601.49,1430,Rainbow River, ,810,145,niwa,n30,2501200,5908700,11032121,ef,1, , 
+259,5,1979,Wainuiomata River,1141041,Catchpool Stream,296.105,1000,Graces Stream, ,90,14,wnfg,r27,2671600,5982700,9015561,ef,1, , 
+260,6,1979,Wainuiomata River,1141041,Catchpool Stream,296.1,1100,Catchpool Stream, ,50,14,wnfg,r27,2671500,5982400,9015713,ef,1, , 
+457,5,1979,Motueka River,1141097,Motueka River 1,570,1530,Motueka River tributary, ,310,83,niwa,n28,2500900,5958900,10020731,ef,1, , 
+1003,1,1979,Wainuiomata River,1141041,Catchpool Stream,296.105,1300,Graces Stream,,70,14,indl,R27,2671600,5983100,9015561,han,,,3
+1626,1,1979,Wainuiomata River,1141042,Wainuiomata River,296,900,Wainuiomata River,,150,31,unk,R27,2678200,5992400,9013597,han,,,3
+2809,8,1979,Waikanae River,1141051,Waikanae River,315,1130,Waikanae River tributary,,140,19,niwa,r26,2689800,6034400,9003931,ef,1,,
+2821,9,1979,Waikanae River,1141051,Waikanae River,315,1000,Waikanae River tributary,,140,20,niwa,s26,2690000,6034200,9003931,ef,1,,
+2965,11,1979,Wainuiomata River,1141041,Catchpool Stream,296.1,1335,Catchpool Stream, ,30,11,niwa,r27,2669800,5981900,9015762,ef,1, , 
+2966,11,1979,Wainuiomata River,1141041,Catchpool Stream,296.1,1405,Catchpool Stream, ,45,13,niwa,r27,2671200,5982500,9015678,ef,1, , 
+3101,1,1979,Wairau River,1141132,Waihopai River,601.12,2200,Waihopai River,,270,63,niwa,O29,2556400,5949500,11023045,pun,,,3
+4028,2,1980,Waikanae River,1141051,Waikanae River,315,1100,Waikanae River tributary,,140,20,niwa,s26,2690000,6034200,9003931,ef,1,,
+4035,5,1980,Waikanae River,1141051,Waikanae River,315,1030,Waikanae River tributary,,140,20,niwa,s26,2690000,6034200,9003931,ef,1,,
+953,3,1981,Hutt River,1141046,Hutt River - Pakuratahi Forks,298.55,1500,Pakuratahi River, ,180,42,wnfg,s26,2694300,6014300,9008676,obs, , ,1
+954,3,1981,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,1600,Hutt River, ,190,43,wnfg,s26,2694300,6014800,9008427,ef,1, ,120
+1852,11,1981,Wairau River,1141137,Top Valley Stream,601.211,1230,Armchair Stream,,240,64,niwa,O28,2545100,5963200,11019690,ef,1,,
+4624,9,1982,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,1050,Hutt River, ,180,42,niwa,s26,2694300,6014500,9008631,ef,1, , 
+4625,9,1982,Hutt River,1141046,Hutt River - Pakuratahi Forks,298.55,1150,Pakuratahi River,,190,44,niwa,s26,2694600,6013300,9008887,ef,1,,
+5257,11,1982,Waikanae River,1141051,Waikanae River,315,930,Waikanae River tributary,,140,19,niwa,r26,2689800,6034300,9003931,ef,1,,
+5258,11,1982,Waikanae River,1141051,Waikanae River,315,1145,Waikanae River, ,140,19,niwa,r26,2689800,6034500,9003697,ef,1, , 
+5262,12,1982,Waikanae River,1141051,Waikanae River,315,1300,Waikanae River,,140,19,niwa,r26,2689500,6034300,9003939,ef,1,,
+1504,4,1983,Tukituki River,1141021,Dutch Creek,232.102,1545,Dutch Creek,,430,126,niwa,U22,2790100,6157400,8026934,efp,1,,
+4024,10,1983,Hutt River,1141049,Pakuratahi River,298.55,1240,Pakuratahi River tributary,,270,55,niwa,S27,2694600,6007000,9010328,efp,1,,
+5264,2,1983,Waikanae River,1141051,Waikanae River,315,1230,Waikanae River,,140,19,niwa,r26,2689500,6034300,9003939,ef,1,,
+5271,2,1984,Waikanae River,1141051,Waikanae River,315,845,Waikanae River tributary,,140,20,niwa,s26,2690000,6034200,9003931,efp,1,,
+5273,2,1984,Waikanae River,1141050,Maungakotukutuku Stream,315,1025,Maungakotukutuku Stream,,190,20,niwa,R26,2679900,6024800,9006284,efp,1,,
+6944,3,1984,Tukituki River,1141030,Tukipo River lower,232.12,1020,Tukipo River, ,220,102,niwa,u22,2794700,6132400,8030706,efp,1, , 
+6945,3,1984,Tukituki River,1141033,Tukituki River upper,232.14,1140,Hylton Burn,,350,112,niwa,U22,2789100,6142200,8029268,efp,1,,
+6946,3,1984,Tukituki River,1141019,Makaroro River lower,232.102,1400,Makaroro River,,320,111,niwa,U22,2792900,6148900,8028042,efp,1,,
+6947,3,1984,Tukituki River,1141017,Waipawa River - Cadwell Road,232.1,1530,Waipawa River,,240,99,niwa,U22,2801000,6146000,8028555,efp,1,,
+6948,3,1984,Tukituki River,1141012,Mangaonuku Stream lower,232.101,825,Mangaonuku Stream,,150,84,niwa,V22,2811300,6138500,8029835,efp,1,,
+2464,2,1985,Manawatu River,1141065,Tapuata Stream,325.33,1030,Tapuata Stream,,235,168,hbfg,U23,2774200,6108400,7035626,han,,,3
+2467,2,1985,Tukituki River,1141012,Mangaonuku Stream lower,232.101,1030,Mangaonuku Stream,,170,89,hbfg,V22,2811600,6142200,8029212,ef,1,,
+7576,11,1985,Wairau River,1141161,Wairau River 4,601,1100,Wairau River,,930,153,ci,N30,2503300,5902600,11032826,ef,1,,
+7578,11,1985,Wairau River,1141160,Coldwater Creek,601.5,1230,Coldwater Creek, ,920,151,ci,n30,2503700,5905000,11032538,ef,1, , 
+7579,11,1985,Wairau River,1141159,Rainbow River,601,1330,Wairau River,,820,144,ci,n30,2501600,5909200,11032080,ef,1,,
+7580,11,1985,Wairau River,1141159,Rainbow River,601.49,900,Rainbow River,,840,147,ci,N30,2500100,5907400,11032297,ef,1,,
+7583,11,1985,Wairau River,1141158,Woolshed Stream,601,1630,Woolshed Stream, ,640,124,ci,n29,2503400,5926700,11028925,ef,1, , 
+7584,11,1985,Wairau River,1141158,Woolshed Stream,601,1700,Woolshed Stream,,640,124,ci,N29,2503600,5926700,11028925,ef,1,,
+7585,11,1985,Wairau River,1141158,Woolshed Stream,601,1800,Woolshed Stream, ,640,124,ci,n29,2503700,5926300,11028925,ef,1, , 
+7586,11,1985,Wairau River,1141157,Merry Stream,601,800,Merry Stream,,620,121,ci,N29,2504100,5928900,11028263,ef,1,,
+7588,11,1985,Wairau River,1141156,No Catchem Stream,601,1000,No Catchem Stream, ,600,118,ci,n29,2504500,5932600,11027423,ef,1, , 
+7589,11,1985,Wairau River,1141156,No Catchem Stream,601,1030,No Catchem Stream,,570,118,ci,N29,2504700,5932600,11027423,ef,1,,
+1858,6,1986,Wairau River,1141159,Rainbow River,601.49,1650,Rainbow River tributary,,835,152,niwa,N30,2499900,5907100,11032301,ef,1,,
+2413,11,1986,Pelorus River,1141106,Pelorus River tributary 1,589,1700,Pelorus River tributary,,20,8,niwa,O27,2567000,5992000,11011081,ef,1,,
+2414,11,1986,Wairau River,1141159,Rainbow River,601.49,1700,Rainbow River tributary,,840,147,niwa,N30,2499900,5907100,11032301,ef,1,,
+2416,11,1986,Wairau River,1141160,Coldwater Creek,601.5,1700,Coldwater Creek,,920,151,niwa,N30,2503700,5905000,11032538,ef,1,,
+4203,1,1986,Ngaruroro River,1141007,Poporangi Stream lower,231.142,1400,Mathews Stream, ,240,72,hbfg,u21,2800200,6171700,8024946,efp,1, , 
+4204,1,1986,Ngaruroro River,1141007,Poporangi Stream lower,231.142,1530,Ohara Stream, ,240,71,hbfg,u21,2800300,6171600,8024955,efp,1, , 
+4208,1,1986,Ngaruroro River,1141007,Poporangi Stream lower,231.14,1030,Poporangi Stream,,170,60,hbfg,U21,2806000,6174600,8024566,efm,1,,
+4209,1,1986,Ngaruroro River,1141008,Poporangi Stream upper,231.14,1315,Poporangi Stream, ,290,77,hbfg,u21,2801400,6165300,8025807,efp,1, , 
+4210,1,1986,Ngaruroro River,1141008,Poporangi Stream upper,231.14,1400,Poutaki Stream,,290,77,hbfg,U21,2801400,6165300,8025818,efp,1,,
+4213,1,1986,Ngaruroro River,1141006,Yarrow Stream,231.09,1540,Maraekakaho River, ,120,42,hbfg,v21,2815700,6165400,8025800,efm,1, , 
+4214,2,1986,Tukituki River,1141016,Mangaonuku Stream upper,232.101,1730,Mangaonuku Stream,,290,111,hbfg,U22,2808600,6157600,8026903,han,,,7
+4216,2,1986,Manawatu River,1141067,Manawatu River,325,1300,Manawatu River,,540,233,hbfg,U23,2777500,6126400,7032585,efp,1,,
+7370,1,1986,Hutt River,1141046,Hutt River - Pakuratahi Forks,298.55,945,Farm Creek,,190,44,niwa,s26,2694600,6013300,9008967,ef,1,,
+7447,1,1986,Wainuiomata River,1141041,Catchpool Stream,296.1,930,Catchpool Stream,,50,14,wnfg,R27,2671400,5982500,9015713,efm,1,,
+7448,1,1986,Wainuiomata River,1141041,Catchpool Stream,296.1,1200,Catchpool Stream, ,28,11,wnfg,r27,2669700,5981900,9015762,efm,1, , 
+7590,2,1986,Wairau River,1141137,Top Valley Stream,601.21,1400,Top Valley Stream,,200,60,ci,O28,2546300,5960400,11020506,ef,1,,
+8457,4,1986,Wainuiomata River,1141042,Wainuiomata River,296.7,1000,George Creek,,130,30,niwa,R27,2677400,5991700,9013758,efp,1,,
+8458,4,1986,Wainuiomata River,1141042,Wainuiomata River,296,1030,Wainuiomata River,,140,30,niwa,R27,2678100,5992100,9013597,efp,,,
+8459,4,1986,Wainuiomata River,1141042,Wainuiomata River,296,1120,Wainuiomata River,,150,31,niwa,R27,2678200,5992400,9013597,efp,,,
+12013,10,1986,Wainuiomata River,1141041,Catchpool Stream,296.1,1145,Catchpool Stream,,45,13,niwa,R27,2671200,5982400,9015678,efp,1,,336
+12015,10,1986,Wainuiomata River,1141041,Catchpool Stream,296.1,1100,Catchpool Stream,,50,14,niwa,R27,2671400,5982500,9015713,efp,1,,216
+12016,10,1986,Wainuiomata River,1141041,Catchpool Stream,296.105,945,Graces Stream,,70,14,niwa,R27,2671800,5983200,9015561,efp,1,,250
+1860,11,1987,Clarence River,1141172,Severn River,621.595,,Severn River,,890,213,nmfg,N30,2514600,5897300,13002584,ef,1,,
+2420,11,1987,Pelorus River,1141112,Rai River upper,589.13,1145,Rai River, ,50,31,niwa,o27,2559500,5998700,11009655,efm,1, , 
+2422,11,1987,Pelorus River,1141115,Tunakino River,589.138,1515,Tunakino River tributary,,120,45,niwa,O27,2565000,6005400,11008331,efm,1,,
+2423,11,1987,Pelorus River,1141119,Running Stream,589.139,1900,Running Stream,,110,50,niwa,O27,2569400,6004300,11008445,ef,1,,
+8373,2,1987,Manawatu River,1141062,Mangapuaka Stream,325.281,1330,Mangapuaka Stream, ,230,159,hbfg,t23,2766200,6105300,7036367,efp,1, , 
+8374,2,1987,Manawatu River,1141063,Rokaiwhania Stream,325.3,1530,Rokaiwhana Stream,,270,166,hbfg,T23,2768800,6110300,7035701,efp,1,,
+8381,12,1987,Tukituki River,1141027,Makaretu River middle,232.121,1000,Makaretu River,,240,105,hbfg,u23,2793600,6126900,8031515,efp,1,,
+8382,12,1987,Tukituki River,1141029,Mangatewai River,232.123,1045,Mangatewai River, ,225,103,hbfg,u23,2794200,6130000,8030994,efp,1, , 
+8383,12,1987,Tukituki River,1141031,Tangarewai Stream,232.124,1200,Tangarewai Stream,,320,114,hbfg,U22,2787200,6132600,8030690,efp,1,,
+8384,12,1987,Ngaruroro River,1141005,Ngaruroro River - Fernhill ,231,1320,Ngaruroro River tributary, ,55,28,hbfg,v21,2825500,6168900,8025364,efp,1, , 
+8385,12,1987,Ngaruroro River,1141005,Ngaruroro River - Fernhill ,231,1400,Ngaruroro River tributary, ,55,28,hbfg,v21,2825600,6169200,8025364,efp,1, , 
+8728,2,1987,Motueka River,1141082,Motupiko River lower,570.16,1130,Motupiko River, ,190,66,ci,n28,2494800,5972100,10016930,ef,1, , 
+1865,2,1988,Pelorus River,1141111,Brown River,589.136,1200,Brown River,,60,33,nmfg,o27,2558300,5999800,11009557,ef,1,,
+1866,2,1988,Pelorus River,1141114,Opouri River,589.139,1530,Opouri River,,70,41,nmfg,O27,2566500,5999500,11009603,ef,1,,
+3480,11,1988,Robin Hood Bay,1141129,Robin Hood Bay,600,1600,Unnamed stream Robin Hood Bay,,4,0,niwa,P27,2600100,5983000,11013640,ef,1,,
+3481,11,1988,Kenepuru Sound,1141122,Kenepuru Head,591,1000,Unnamed stream Kenepuru Head, ,1,1,niwa,p27,2604100,6004000,11008283,ef,1, , 
+3482,11,1988,Kenepuru Sound,1141122,Kenepuru Head,591,1100,Unnamed stream Kenepuru Head,,15,2,niwa,P27,2605200,6004600,11008448,ef,1,,
+5218,2,1988,Pelorus River,1141112,Rai River upper,589.13,1355,Rai River,,50,31,niwa,O27,2559600,5998800,11009655,efp,1,,
+5220,2,1988,Pelorus River,1141109,Pelorus River tributary 2,589,815,Pelorus River tributary,,10,11,niwa,O27,2565100,5993000,11010979,efp,1,,
+5222,2,1988,Pelorus River,1141108,Whakamarina River,589.05, ,Wakamarina River, ,30,17,niwa,o27,2563400,5984100,11013358,efp,1, , 
+5223,2,1988,Pelorus River,1141107,Mountain Camp Creek,589.054,1400,Mountain Camp Creek,,40,16,niwa,O27,2564300,5984300,11013379,efp,1,,
+5225,2,1988,Pelorus River,1141113,Ronga River 1,589.137,1415,Ronga River,,70,35,niwa,O27,2560300,6002100,11009048,efp,1,,
+8399,1,1988,Tukituki River,1141018,Mangataura Stream,232.1,940,Waipawa River,,310,110,hbfg,U22,2792800,6147900,8028295,efp,1,,
+8400,1,1988,Tukituki River,1141018,Mangataura Stream,232.103,1300,Triplex Creek, ,480,124,hbfg,u22,2786400,6151900,8027760,efp,1, , 
+8730,4,1988,Waimea River,1141098,Wairoa River,575.02,1100,Wairoa River,,15,9,ci,n27,2519400,5982900,10013819,ef,1,,
+8802,1,1988,Tukituki River,1141020,Makaroro River upper,232.102,1400,Gold Creek,,480,130,hbfg,U22,2786800,6157600,8026927,efp,1,,
+8803,1,1988,Tukituki River,1141020,Makaroro River upper,232.102,1430,Makaroro River, ,480,130,hbfg,u22,2786800,6157700,8026951,efp,1, , 
+8805,2,1988,Tukituki River,1141011,Waipawa River tributary,232.1,900,Waipawa River tributary, ,145,81,hbfg,v22,2811200,6135200,8030286,efm,1, , 
+8808,2,1988,Tukituki River,1141029,Mangatewai River,232.12,1000,Tukipo River,,190,96,hbfg,U22,2798700,6130500,8030995,efp,1,,
+8810,2,1988,Tukituki River,1141013,Mangaoho Stream,232.101,1330,Mangaoho Stream,,220,100,hbfg,U22,2805700,6147100,8028462,efp,1,,
+8811,3,1988,Tukituki River,1141018,Mangataura Stream,232.103,1050,Triplex Creek,,510,125,hbfg,U22,2785500,6151600,8027779,efp,1,,
+8812,3,1988,Tukituki River,1141018,Mangataura Stream,232.103,1230,Triplex Creek tributary,,510,125,hbfg,U22,2785500,6151400,8027823,efp,1,,
+8813,3,1988,Tukituki River,1141018,Mangataura Stream,232.103,1415,Liddles Creek,,440,122,hbfg,U22,2788100,6152600,8027651,efp,1,,
+8814,3,1988,Tukituki River,1141018,Mangataura Stream,232.103,1040,Mangataura Stream,,390,120,hbfg,U22,2789700,6152800,8027601,efp,1,,
+8815,3,1988,Tukituki River,1141014,Mangamauku Stream,232.101,1400,Upokororo Stream,,290,109,hbfg,U22,2802600,6152300,8027377,efp,1,,
+965,12,1989,Rangitikei River,1141068,Mangawharariki River,327.22,1400,Mangawharariki River,,490,137,wnfg,T22,2761600,6144400,7029001,ef,1,,
+9828,4,1989,Ngaruroro River,1141005,Ngaruroro River - Fernhill,231,day,Ngaruroro River,,30,21,hbfg,V21,2830300,6172500,8024860,obs,,,6
+10373,2,1989,Motueka River,1141091,Rainy River,570.164,930,Rainy River,,400,97,nmfg,N29,2493700,5948400,10023242,efp,3,,235
+10374,2,1989,Motueka River,1141091,Rainy River,570.164,1150,Rainy River,,400,97,nmfg,N29,2493700,5948400,10023379,efp,2,,
+10426,2,1989,Motueka River,1141087,Thompson Creek,570.16,1500,Thompson Creek,,350,90,nmfg,N28,2493400,5954500,10021811,efp,2,,123
+10427,2,1989,Motueka River,1141088,Motupiko River middle,570.16,1615,Thompson Creek, ,350,90,nmfg,n28,2493400,5954500,10021811,efp,1, ,60
+10428,2,1989,Motueka River,1141082,Motupiko River lower,570.16,1000,Motupiko River,,200,67,nmfg,N28,2494600,5971500,10016930,efp,2,,140
+10429,2,1989,Motueka River,1141082,Motupiko River lower,570.16,1200,Motupiko River,,200,67,nmfg,N28,2494600,5971500,10016930,efp,1,,140
+10430,2,1989,Motueka River,1141082,Motupiko River lower,570.16,1345,Motupiko River,,200,67,nmfg,N28,2494600,5971500,10016930,efp,2,,91
+10431,2,1989,Motueka River,1141082,Motupiko River lower,570.16,day,Motupiko River,,200,67,nmfg,N28,2494600,5971500,10016930,efp,2,,15
+10432,2,1989,Motueka River,1141081,Donald Creek,570.154,1200,Donald Creek,,390,88,nmfg,M28,2488000,5959200,10020728,efp,2,,90
+10433,2,1989,Motueka River,1141081,Donald Creek,570.154,1445,Donald Creek,,370,86,nmfg,M28,2487600,5960200,10020527,efp,2,,
+10462,10,1989,Motueka River,1141094,Motupiko River upper,570.16,1100,Motupiko River,,540,108,nmfg,N29,2500700,5942300,10024873,ef,3,,
+10463,10,1989,Motueka River,1141094,Motupiko River upper,570.16,day,Motupiko River,,540,108,nmfg,N29,2500700,5942300,10024873,ef,3,,
+11416,11,1989,Wairau River,1141143,Station Creek,601.361, ,Station Creek, ,480,102,nmfg,n29,2527200,5939600,11025631,ef,1, , 
+9559,10,1990,D'Urville Island,1141103,Mill Arm Creek,585,,Unnamed stream Mill Arm,,2,0,docn,p25,2581700,6040700,11002365,pun,,,7
+9759,1,1990,Rangitaiki River,1141003,Horomanga River lower,154.2,1030,Horomanga River, ,155,76,niwa,v17,2839100,6308000,4020577,efp,0, , 
+10662,2,1990,Waikanae River,1141050,Maungakotukutuku Stream,315,1100,Maungakotukutuku Stream, ,190,20,wnfg,r26,2680200,6024700,9006129,ef,1, ,200
+10663,2,1990,Waikanae River,1141050,Maungakotukutuku Stream,315,1230,Maungakotukutuku Stream,,150,17,wnfg,r26,2681600,6027000,9005788,ef,1,,250
+10664,2,1990,Waikanae River,1141051,Waikanae River,315,1430,Waikanae River, ,140,19,wnfg,r26,2689700,6034500,9003918,ef,1, ,150
+10674,2,1990,Otaki River,1141052,Pukeatua Stream,318,1530,Pukeatua Stream, ,90,22,wnfg,s26,2698300,6035800,9003565,ef,1, ,75
+11003,10,1990,Waihou River,1141001,Waihou River,92,1000,Waihou River spring,,120,166,awfg,T15,2759300,6347800,3023556,ef,1,,
+11004,10,1990,Waihou River,1141001,Waihou River,92.65,1000,Waihirere Stream, ,130,166,awfg,t15,2759400,6347800,3023579,ef,1, , 
+11176,1,1990,Motueka River,1141096,Rough'ns Creek,570.19,1400,Gilbert Creek,,410,85,niwa,N28,2497100,5958200,10021042,ef,1,,21
+11177,1,1990,Motueka River,1141083,Long Gully Stream,570.161,1100,Long Gully Stream,,450,79,niwa,N28,2497000,5962000,10019912,ef,1,,55
+11478,10,1990,Wairau River,1141154,Alan Stream,601.021,1100,Alan Stream,,540,106,nmfg,N29,2519700,5934600,11026955,ef,1,,25
+11479,10,1990,Wairau River,1141152,May Stream,601.36,1300,May Stream, ,480,103,nmfg,n29,2520500,5937200,11026256,ef,1, ,200
+11481,10,1990,Wairau River,1141184,Enchanted Stream,601.361,1200,Enchanted Stream,,460,101,nmfg,n29,2526900,5940300,11025301,ef,1,,150
+11482,10,1990,Wairau River,1141184,Enchanted Stream,601.361,1300,Enchanted Stream,,520,103,nmfg,n29,2528300,5941500,11025110,ef,1,,75
+11483,10,1990,Wairau River,1141185,Bobs Stream,601.361,1115,Bobs Stream,,620,115,nmfg,N29,2524600,5928200,11028517,ef,1,,30
+6241,12,1991,Kaituna River,1141120,Waikaihu Stream,590.02,day,Waikaihu Stream,,20,7,niwa,P27,2572900,5987300,11012561,pun,,,3
+6242,12,1991,Kaituna River,1141121,Atahaua Creek,590.05,day,Atahaua Creek,,70,17,niwa,P27,2570200,5981800,11014170,pun,,,2
+9566,10,1991,Wairau River,1141131,Pukaka Stream,601.04,1300,Pukaka Stream, ,60,12,docn,p28,2594900,5979800,11014742,ef,1, , 
+544,11,1992,Clarence River,1141186,Palmer Stream,621.49,1230,Palmer Stream,,560,134,docn,O31,2531100,5878800,13006651,efp,1,,91
+980,4,1992,Queen Charlotte Sound,1141124,Ship Cove,597,1140,Unnamed stream Ship Cove, ,0,0,docn,q26,2613700,6011800,11007085,efp,1, ,78
+981,4,1992,Queen Charlotte Sound,1141124,Ship Cove,597,1320,Unnamed stream Ship Cove, ,0,0,docn,q26,2613600,6011700,11007085,efp,1, ,11
+983,4,1992,Waimea River,1141098,Wairoa River,575.02,1530,Wairoa River, ,15,10,docn,n27,2519500,5982700,10013853,efp,1, , 
+8824,4,1992,Tukituki River,1141018,Mangataura Stream,232.103,1130,Mangataura Stream,,340,115,hbfg,U22,2791300,6150200,8028001,efp,1,,
+9851,2,1992,Rangitaiki River,1141002,Kopuriki Stream,154.17,1100,Kopuriki Stream,,160,67,niwa,V16,2841800,6313200,4019428,efp,1,,
+11144,1,1992,Wairau River,1141141,Branch River 1,601.36,1300,Branch River, ,400,95,nmfg,n29,2524000,5943200,11024535,ef,2, ,200
+11146,1,1992,Wairau River,1141184,Enchanted Stream,601.361,1530,Enchanted Stream,,480,102,nmfg,N29,2527400,5940800,11025301,ef,2,,60
+11501,12,1992,Otaki River,1141052,Pukeatua Stream,318,1300,Pukeatua Stream, ,240,24,wnfg,s26,2696400,6035700,9003618,ef,1, ,1800
+11502,12,1992,Otaki River,1141052,Pukeatua Stream,318,1500,Pukeatua Stream, ,100,22,wnfg,s26,2698300,6035800,9003565,ef,1, ,100
+11544,3,1992,Manawatu River,1141057,Tramway Creek,325.19,1100,Tramway Creek,,360,179,niwa,S25,2720200,6062800,7046245,efp,3,,71
+11545,3,1992,Manawatu River,1141059,Mangahao River lower,325.19,1500,Mangahao River,,380,182,niwa,S25,2718900,6060500,7046805,efm,2,,910
+11546,3,1992,Manawatu River,1141059,Mangahao River lower,325.19,day,Roaring Creek,,380,182,niwa,S25,2718800,6060700,7046786,efp,2,,285
+11550,3,1992,Manawatu River,1141060,Mangahao River upper,325.19,1100,Mangahao River tributary,,500,192,niwa,S25,2715100,6053200,7048562,efm,3,,132
+12502,3,1992,Manawatu River,1141060,Mangahao River upper,325.19,1400,Mangahao River,,500,192,niwa,S25,2714900,6053200,7048561,efp,1,,480
+978,2,1993,Queen Charlotte Sound,1141126,Graham River,597,1130,Graham River,,30,4,docn,p27,2601000,5990000,11011741,efp,1,,
+979,2,1993,Queen Charlotte Sound,1141126,Graham River,597,,Graham River,,10,1,docn,p27,2600100,5991600,11011033,efp,1,,14
+9857,1,1993,Pelorus River,1141110,Rai River lower,589.13,1230,Rai River,,25,23,niwa,O27,2558200,5992900,11010893,efp,1,,710
+9863,1,1993,Waimea River,1141098,Wairoa River,575.02,1300,Wairoa River,,20,11,niwa,N27,2519800,5981400,10013921,efp,1,,961
+11484,2,1993,Wairau River,1141159,Rainbow River,601.49,1400,Rainbow River tributary, ,835,147,nmfg,n30,2499900,5907400,11032284,ef,1, , 
+11515,12,1993,Hutt River,1141045,Benge Creek,298.43,930,Benge Creek, ,120,34,wnfg,s26,2690200,6011800,9009220,ef,1, ,250
+11516,12,1993,Hutt River,1141045,Benge Creek,298.43,1030,Benge Creek, ,130,34,wnfg,s26,2690300,6011800,9009220,ef,1, ,75
+11517,12,1993,Hutt River,1141045,Benge Creek,298.43,1130,Benge Creek, ,150,35,wnfg,s26,2690900,6012200,9009177,ef,1, ,100
+11518,12,1993,Hutt River,1141045,Benge Creek,298.43,1230,Benge Creek, ,150,35,wnfg,s26,2691100,6012200,9009177,ef,1, ,100
+11519,12,1993,Hutt River,1141045,Benge Creek,298.43,1330,Benge Creek, ,130,34,wnfg,s26,2690300,6012000,9009220,ef,1, ,150
+11520,12,1993,Hutt River,1141046,Hutt River - Pakuratahi Forks,298.55,1430,Farm Creek,,190,44,wnfg,s26,2694600,6013300,9008967,ef,1,,250
+12410,9,1993,Kenepuru Sound,1141122,Kenepuru Head,591,1600,Unnamed stream Kenepuru Head,,10,1,docn,P27,2604500,6003900,11008643,efp,1,,40
+12411,9,1993,Kenepuru Sound,1141122,Kenepuru Head,591,1230,Unnamed stream Kenepuru Head,,0,0,docn,P27,2604100,6003800,11008672,efp,1,,
+12477,1,1993,Wairau River,1141184,Enchanted Stream,601.361,1515,Enchanted Stream,,480,102,nmfg,n29,2527400,5940800,11025301,ef,2,,60
+12482,8,1993,Wairau River,1141141,Branch River 1,601.36,1315,Branch River,,400,95,nmfg,N29,2524000,5943200,11024535,ef,1,,100
+12483,8,1993,Wairau River,1141184,Enchanted Stream,601.361,1415,Enchanted Stream,,480,102,nmfg,n29,2527400,5940800,11025301,efp,1,,60
+12713,3,1993,Hutt River,1141045,Benge Creek,298,1330,Hutt River, ,105,34,niwa,s26,2690200,6011900,9009042,efp,1, , 
+12714,3,1993,Hutt River,1141045,Benge Creek,298.43,1630,Benge Creek, ,120,34,niwa,s26,2690200,6011800,9009220,efp,1, ,200
+12716,3,1993,Hutt River,1141047,Puffer Creek tributary,298.55,1000,Puffer Creek tributary,,220,46,niwa,S26,2696100,6012100,9009143,efp,1,,50
+12717,3,1993,Hutt River,1141046,Hutt River - Pakuratahi Forks,298.55,1100,Pakuratahi River, ,180,43,niwa,s26,2694500,6014300,9008676,efp,0, , 
+12718,3,1993,Hutt River,1141046,Hutt River - Pakuratahi Forks,298.55,1200,Farm Creek,,190,44,niwa,s26,2694600,6013300,9008967,efp,1,,200
+12719,3,1993,Hutt River,1141046,Hutt River - Pakuratahi Forks,298.55,1300,Pakuratahi River,,185,44,niwa,s26,2694500,6013300,9008887,efp,1,,10
+12720,3,1993,Hutt River,1141045,Benge Creek,298,1430,Hutt River, ,105,34,niwa,s26,2690100,6011900,9009042,efp,0, , 
+14353,8,1993,Wairau River,1141184,Enchanted Stream,601.361,1440,Enchanted Stream,,470,101,docn,n29,2526900,5940400,11025301,efp,1,,75
+14354,8,1993,Wairau River,1141141,Branch River 1,601.36,1330,Branch River,,410,95,docn,N29,2523800,5943100,11024725,efp,1,,110
+13471,7,1994,Tukituki River,1141020,Makaroro River upper,232.102,,Makaroro River,,520,133,doch,u22,2785600,6159400,8026548,obs,,,1
+13525,3,1994,Pelorus River,1141107,Mountain Camp Creek,589.054,1400,Mountain Camp Creek,,50,16,docn,O27,2564300,5984500,11013379,efp,1,,131
+14381,3,1994,Pelorus River,1141111,Brown River,589.136,1145,Brown River tributary,,120,33,docn,o27,2558100,6000200,11009431,efp,1,,22
+14383,3,1994,Pelorus River,1141111,Brown River,589.136,1000,Brown River, ,55,32,docn,o27,2558900,5999500,11009570,efp,1, ,270
+14384,3,1994,Pelorus River,1141111,Brown River,589.136,1100,Brown River,,60,33,docn,o27,2558300,5999800,11009580,efp,1,,120
+14385,3,1994,Pelorus River,1141111,Brown River,589.136,900,Brown River,,50,30,docn,O27,2559200,5998600,11009570,efp,1,,150
+14465,3,1994,Kenepuru Sound,1141122,Kenepuru Head,591,1300,Unnamed stream Kenepuru Head,,70,7,docn,P27,2604800,6008600,11007578,efp,1,,110
+14466,3,1994,Kenepuru Sound,1141122,Kenepuru Head,591,1130,Unnamed stream Kenepuru Head,,60,6,docn,P27,2605100,6008200,11007806,efp,1,,35
+14467,3,1994,Kenepuru Sound,1141122,Kenepuru Head,591,1030,Unnamed stream Kenepuru Head,,60,6,docn,P27,2605300,6008000,11007806,efp,1,,45
+14468,3,1994,Kenepuru Sound,1141122,Kenepuru Head,591,1530,Unnamed stream Kenepuru Head,,60,6,docn,P27,2605400,6007900,11007859,efp,1,,40
+14447,5,1995,Wairau River,1141137,Top Valley Stream,601.21,1130,Unnamed pond, ,240,66,docn,o28,2543200,5963300,11019671,efp,1, ,60
+14448,5,1995,Wairau River,1141137,Top Valley Stream,601.212,1300,Staircase Stream, ,270,66,docn,o28,2542500,5962400,11019963,efp,1, ,200
+14449,5,1995,Wairau River,1141137,Top Valley Stream,601.21,1330,Quartz Creek,,260,64,docn,O28,2544600,5960900,11020149,efp,1,,80
+14450,5,1995,Wairau River,1141135,Pine Valley Stream,601.19,1530,Pine Valley Stream, ,230,55,docn,o28,2552500,5967300,11018517,efp,1, ,100
+14451,5,1995,Wairau River,1141135,Pine Valley Stream,601.19,1500,Pine Valley Stream tributary, ,230,55,docn,o28,2552500,5967300,11018279,efp,1, ,50
+14452,5,1995,Wairau River,1141137,Top Valley Stream,601.21,1015,Top Valley Stream,,270,69,docn,O28,2541400,5965200,11019164,efp,1,,200
+14453,5,1995,Wairau River,1141137,Top Valley Stream,601.21,900,Top Valley Stream,,270,69,docn,O28,2541400,5965300,11019164,efp,1,,100
+14454,5,1995,Wairau River,1141135,Pine Valley Stream,601.19,1530,Pine Valley Stream tributary,,200,53,docn,o28,2553400,5965900,11018964,efp,1,,60
+14455,5,1995,Wairau River,1141134,Bartletts Creek,601.17,1400,Bartletts Creek, ,160,50,docn,o28,2560900,5969300,11017934,efp,1, ,150
+14456,5,1995,Wairau River,1141134,Bartletts Creek,601.173,1315,Quartz Creek, ,160,50,docn,o28,2560000,5969400,11017769,efp,1, ,150
+14457,5,1995,Wairau River,1141136,Timms Creek,601.2,900,Timms Creek, ,210,62,docn,o28,2548300,5965800,11018980,efp,1, ,200
+14458,5,1995,Wairau River,1141136,Timms Creek,601.2,1100,Timms Creek, ,190,59,docn,o28,2548500,5963700,11019368,efp,1, ,150
+14459,5,1995,Wairau River,1141182,Cat Creek (Wairau River),601.201,1145,Cat Creek,,230,58,docn,O28,2550600,5965800,11018899,efp,1,,130
+16101,8,1995,Wainuiomata River,1141041,Catchpool Stream,296.1,1100,Catchpool Stream, ,50,14,docg,r27,2671600,5982500,9015713,utt, , ,19
+16105,8,1995,Wainuiomata River,1141041,Catchpool Stream,296.1,1530,Catchpool Stream,,50,14,docg,R27,2671600,5982500,9015713,pun,,,250
+16106,8,1995,Wainuiomata River,1141041,Catchpool Stream,296.1,1645,Catchpool Stream, ,50,14,docg,r27,2671600,5982400,9015713,obs, , ,1
+16107,9,1995,Wainuiomata River,1141041,Catchpool Stream,296.1,2200,Catchpool Stream, ,30,11,docg,r27,2669800,5981800,9015762,spo, , ,800
+16108,9,1995,Wainuiomata River,1141041,Catchpool Stream,296.1,1410,Catchpool Stream, ,30,11,docg,r27,2669700,5981900,9015762,pun, , ,200
+16109,9,1995,Wainuiomata River,1141041,Catchpool Stream,296.1,900,Catchpool Stream, ,30,12,docg,r27,2670100,5981800,9015846,obs, , ,1
+16110,9,1995,Wainuiomata River,1141041,Catchpool Stream,296.1, ,Catchpool Stream, ,40,13,docg,r27,2671000,5982200,9015727,utt, , ,800
+16111,9,1995,Wainuiomata River,1141041,Catchpool Stream,296.1,1500,Catchpool Stream,,80,14,docg,R27,2672100,5982400,9015679,pun,,,150
+11486,8,1996,Port Underwood,1141128,Kakapo Bay,600,1020,Unnamed stream Kakapo Bay,,2,0,nmfg,P27,2602600,5986400,11012725,ef,1,,
+12431,1,1996,Motueka River,1141090,Big Gully,570.164,1500,Rainy River,,340,92,nmfg,N28,2492300,5952700,10022056,ef,3,,158
+12435,3,1996,Pelorus River,1141112,Rai River upper,589.13,1330,Rai River,,45,31,nmfg,O27,2559500,5998700,11009655,ef,1,,750
+14103,2,1996,Manawatu River,1141061,Oruakeretaki Stream,325.27,1030,Mangapukakakahu Stream,,220,158,doch,T23,2765300,6103700,7037153,ef,1,,50
+14104,2,1996,Manawatu River,1141061,Oruakeretaki Stream,325.26,1130,Oruakeretaki Stream tributary,,300,164,doch,T23,2763000,6107200,7036159,ef,1,,100
+14105,2,1996,Manawatu River,1141066,Mangatewainui River,325.42,1200,Mangatewainui River,,380,214,doch,U23,2779500,6121600,7033504,ef,1,,400
+14555,5,1996,Robin Hood Bay,1141129,Robin Hood Bay,600,1330,Unnamed stream Robin Hood Bay, ,5,0,docn,p27,2600100,5983200,11013640,efp,1, ,100
+14556,5,1996,Robin Hood Bay,1141129,Robin Hood Bay,600,1430,Unnamed stream Robin Hood Bay, ,15,1,docn,p27,2598900,5982600,11013872,efp,1, , 
+14557,5,1996,Robin Hood Bay,1141129,Robin Hood Bay,600,1445,Unnamed stream Robin Hood Bay, ,15,1,docn,p27,2599000,5982600,11013941,efp,1, ,200
+14580,1,1996,Motueka River,1141078,Brooklyn Stream,570.01,1300,Brooklyn Stream,,80,8,nmfg,n26,2504900,6011800,10007079,efp,1,,400
+14581,1,1996,Motueka River,1141078,Brooklyn Stream,570.01,1145,Brooklyn Stream, ,130,9,nmfg,n26,2503800,6011600,10007116,efp,1, ,240
+15928,4,1996,Motueka River,1141078,Brooklyn Stream,570.01,1200,Brooklyn Stream, ,140,9,docn,n26,2503700,6011600,10007116,ef,0, , 
+15929,4,1996,Motueka River,1141078,Brooklyn Stream,570.01,1220,Brooklyn Stream tributary, ,80,8,docn,n26,2505000,6011800,10006898,ef,0, , 
+15934,5,1996,Falls River,1141075,Falls River,560, ,Falls River, ,20,1,docn,n26,2513800,6030800,10003985,ntc, , ,7
+15935,5,1996,Falls River,1141075,Falls River,560, ,Falls River tributary, ,20,1,docn,n26,2513900,6030900,10003868,gmt, , ,5
+15936,5,1996,Bark Bay,1141074,Bark Bay,559, ,Huffam Stream, ,15,0,docn,n26,2513600,6032700,10003695,gmt, , ,5
+16026,5,1996,Wainuiomata River,1141041,Catchpool Stream,296.1,1100,Catchpool Stream, ,30,11,wnfg,r27,2669700,5981900,9015762,ef,1, ,150
+16027,5,1996,Wainuiomata River,1141041,Catchpool Stream,296.1,1148,Catchpool Stream,,50,13,wnfg,R27,2671000,5982300,9015727,ef,1,,200
+16028,5,1996,Wainuiomata River,1141041,Catchpool Stream,296.1,1300,Catchpool Stream,,50,13,wnfg,R27,2671200,5982300,9015727,ef,1,,600
+16029,5,1996,Wainuiomata River,1141041,Catchpool Stream,296.1,1414,Catchpool Stream,,70,14,wnfg,r27,2672100,5982500,9015679,ef,1,,400
+16033,12,1996,Hutt River,1141045,Benge Creek,298.43,1000,Benge Creek,,120,34,wnfg,S26,2690100,6011900,9009220,ef,1,,
+16034,12,1996,Hutt River,1141045,Benge Creek,298.43,1130,Benge Creek, ,120,34,wnfg,s26,2690100,6011900,9009220,ef,1, ,100
+16035,12,1996,Hutt River,1141045,Benge Creek,298.43,1200,Benge Creek, ,130,34,wnfg,s26,2690400,6012100,9009177,ef,1, ,150
+16036,12,1996,Hutt River,1141045,Benge Creek,298.43,1400,Benge Creek, ,150,35,wnfg,s26,2690900,6012200,9009177,ef,1, ,100
+16037,12,1996,Hutt River,1141045,Benge Creek,298.43,1530,Benge Creek, ,170,35,wnfg,s26,2691300,6012400,9009149,ef,1, ,90
+16112,1,1996,Wainuiomata River,1141041,Catchpool Stream,296.1,1015,Catchpool Stream, ,30,11,docg,r27,2669700,5981900,9015762,pun, , ,1
+15947,6,1997,Robin Hood Bay,1141129,Robin Hood Bay,600,1330,Unnamed stream Robin Hood Bay, ,20,1,docn,p27,2599000,5982600,11013941,ef,1, ,45
+15948,6,1997,Robin Hood Bay,1141129,Robin Hood Bay,600,1400,Unnamed stream Robin Hood Bay, ,30,1,docn,p27,2598700,5982400,11013960,ef,1, ,115
+15949,6,1997,Robin Hood Bay,1141129,Robin Hood Bay,600,1100,Unnamed stream Robin Hood Bay,,20,1,docn,P27,2599100,5982600,11013941,ef,1,,144
+15950,6,1997,Robin Hood Bay,1141129,Robin Hood Bay,600,1600,Unnamed stream Robin Hood Bay,,5,0,docn,p27,2599500,5982500,11013961,ef,1,,20
+16784,6,1997,Rangitaiki River,1141002,Kopuriki Stream,154.17,1500,Kopuriki Stream,,240,70,docb,V16,2844800,6312900,4019367,ef,1,,50
+5103,12,1998,Ruamahanga River,1141036,Enaki Stream tributary,292.243,1030,Enaki Stream tributary, ,140,92,niwa,s26,2720200,6022700,9006797,efm,1, ,80
+5107,12,1998,Wainuiomata River,1141042,Wainuiomata River,296,1330,Wainuiomata River,,130,29,niwa,R27,2677100,5991800,9013745,efm,1,,15
+5108,12,1998,Hutt River,1141044,Bull Stream,298.369,1430,Bull Stream,,260,47,niwa,R26,2688300,6023700,9006470,efm,1,,300
+5109,12,1998,Hutt River,1141048,Rimutaka Stream,298.55,1530,Rimutaka Stream,,220,46,niwa,S26,2695200,6012000,9009209,efm,1,,200
+5111,12,1998,Rangitikei River,1141068,Mangawharariki River,327.22,1000,Mangawharariki River,,490,137,niwa,T22,2761500,6144300,7029001,efm,1,,120
+5112,12,1998,Manawatu River,1141057,Tramway Creek,325.19,1030,Tramway Creek,,360,179,niwa,S25,2720100,6062800,7046245,efm,1,,250
+5113,12,1998,Manawatu River,1141065,Tapuata Stream,325.33, ,Tapuata Stream, ,230,168,niwa,u23,2774300,6108500,7035626,efm,1, ,20
+5115,12,1998,Tukituki River,1141031,Tangarewai Stream,232.124,1300,Tangarewai Stream,,320,114,niwa,U22,2787300,6132700,8030690,efm,1,,200
+5116,12,1998,Ngaruroro River,1141006,Yarrow Stream,231.091,1530,Yarrow Stream,,170,43,niwa,v21,2813100,6164300,8025923,efm,1,,75
+5117,5,1998,Ngaruroro River,1141006,Yarrow Stream,231.091,1400,Yarrow Stream,,140,42,niwa,V21,2815600,6165400,8025792,efm,1,,250
+11386,4,1998,Hutt River,1141049,Pakuratahi River,298.55,day,Pakuratahi River,,225,50,niwa,S27,2693900,6009800,9009698,efp,,,
+14566,4,1998,Robin Hood Bay,1141129,Robin Hood Bay,600,1230,Stace Creek tributary,,40,2,docn,p27,2599400,5984200,11013405,efp,1,,50
+14567,4,1998,Robin Hood Bay,1141129,Robin Hood Bay,600,1300,Stace Creek tributary,,60,2,docn,p27,2599300,5984500,11013234,efp,1,,80
+14568,4,1998,Robin Hood Bay,1141129,Robin Hood Bay,600,1400,Stace Creek tributary,,40,2,docn,p27,2599300,5984300,11013405,efp,1,,15
+14569,4,1998,Robin Hood Bay,1141129,Robin Hood Bay,600,1500,Stace Creek,,50,2,docn,P27,2598600,5984300,11013446,efp,1,,50
+14570,4,1998,Robin Hood Bay,1141129,Robin Hood Bay,600,1530,Stace Creek, ,110,3,docn,p27,2598400,5984700,11013298,efp,0, , 
+14571,4,1998,Whites Bay,1141130,Pukatea Stream,600,1000,Pukatea Stream, ,10,0,docn,p28,2598500,5979600,11014596,efp,1, ,35
+14572,4,1998,Robin Hood Bay,1141129,Robin Hood Bay,600,1130,Unnamed stream Robin Hood Bay,,15,1,docn,P27,2599100,5982600,11013941,efp,1,,144
+14573,4,1998,Robin Hood Bay,1141129,Robin Hood Bay,600,1200,Unnamed stream Robin Hood Bay, ,30,1,docn,p27,2598800,5982400,11013960,efp,0, , 
+14574,4,1998,Whites Bay,1141130,Pukatea Stream,600,1230,Pukatea Stream,,30,1,docn,P27,2598600,5980000,11014596,efp,1,,87
+14595,1,1998,Motueka River,1141080,Glen Rae Stream,570.14,day,Glen Rae Stream,,160,56,nmfg,N27,2492300,5980900,10014016,ef,1,,100
+14596,1,1998,Motueka River,1141096,Rough'ns Creek,570.19,day,Rough'ns Creek,,300,81,nmfg,N28,2499500,5960000,10020574,ef,1,,400
+17744,4,1998,Otaki River,1141053,Waiotauru River,318,1130,Waiotauru River tributary, ,150,27,niwa,s26,2696200,6032300,9004534,efp,0, , 
+17745,4,1998,Otaki River,1141053,Waiotauru River,318,1200,Waiotauru River tributary,,140,26,niwa,s26,2696500,6032800,9004295,efp,0,,
+17232,4,1999,Wairau River,1141143,Station Creek,601.361,1130,Station Creek,,530,103,docn,n29,2528100,5938900,11025771,efp,1,,111
+17233,4,1999,Wairau River,1141143,Station Creek,601.361,1420,Station Creek,,520,103,docn,N29,2527600,5939200,11025704,efp,1,,60
+17234,4,1999,Wairau River,1141145,Boulder Stream,601.361,1000,Boulder Stream tributary,,615,109,docn,O29,2531200,5935600,11026619,efp,1,,80
+17235,4,1999,Wairau River,1141145,Boulder Stream,601.361,1100,Boulder Stream,,615,109,docn,O29,2531200,5935500,11026640,efp,1,,50
+17236,4,1999,Wairau River,1141145,Boulder Stream,601.361,1300,Boulder Stream,,540,106,docn,N29,2528700,5936900,11026306,efp,1,,50
+17237,4,1999,Wairau River,1141147,Cave Stream,601.361,1500,Cave Stream tributary,,580,109,docn,n29,2527200,5933800,11027072,efp,0,,
+17238,4,1999,Wairau River,1141147,Cave Stream,601.361,1530,Cave Stream,,560,108,docn,N29,2527100,5934000,11027001,efp,1,,
+17239,4,1999,Wairau River,1141149,Leatham River upper,601.361,1000,Leatham River, ,540,109,docn,n29,2525700,5933700,11026919,efp,1, ,50
+17240,4,1999,Wairau River,1141149,Leatham River upper,601.361,1100,Leatham River tributary, ,540,109,docn,n29,2525800,5933600,11027174,efp,1, ,50
+17241,4,1999,Wairau River,1141146,Goosey Stream,601.361,1400,Goosey Stream,,520,107,docn,N29,2526600,5935400,11026683,efp,1,,20
+17242,4,1999,Wairau River,1141144,Leatham River,601.361,1500,Leatham River,,490,103,docn,N29,2526800,5938100,11025930,efp,1,,50
+17245,9,1999,Whites Bay,1141130,Pukatea Stream,600,900,Pukatea Stream, ,10,0,docn,p28,2598500,5979600,11014596,efp,1, , 
+18174,2,1999,Manawatu River,1141067,Manawatu River,325,1400,Manawatu River tributary,,520,232,uom,U23,2778000,6125800,7032723,efp,1,,75
+18175,2,1999,Manawatu River,1141067,Manawatu River,325,1400,Manawatu River, ,520,232,uom,u23,2778000,6126000,7032697,efp,1, ,100
+18176,2,1999,Manawatu River,1141067,Manawatu River,325,1600,Manawatu River, ,490,231,uom,u23,2778700,6125800,7032705,efp,1, ,100
+18626,2,1999,Motueka River,1141078,Brooklyn Stream,570.01,2200,Brooklyn Stream,,80,8,docn,N26,2504800,6011700,10007079,spo,,,
+18628,2,1999,Lesson Creek,1141077,Lesson Creek,564,1200,Lesson Creek,,10,0,docn,N26,2513500,6026100,10004620,efp,1,,100
+18631,2,1999,Tregidga Stream,1141076,Tregidga Creek,562,night,Tregidga Stream,,0,0,docn,N26,2513500,6028900,10004202,spo,,,
+18632,3,1999,Falls River,1141075,Falls River,560,night,Falls River,,5,1,docn,N26,2514000,6030800,10004010,spo,,,
+18633,3,1999,Bark Bay,1141074,Bark Bay,559,night,Huffam Stream,,5,0,docn,N26,2513600,6032400,10003695,spo,,,750
+18634,3,1999,Bark Bay,1141074,Bark Bay,559,night,Unnamed stream Bark Bay,,5,1,docn,N26,2513900,6032900,10003605,spo,,,
+18635,3,1999,Onetahuti Bay,1141073,Onetahuti Bay,556,night,Unnamed stream Onetahuti Bay,,0,0,docn,N26,2513800,6035600,10003167,spo,,,
+18637,3,1999,Venture Creek,1141072,Venture Creek,552,night,Venture Creek tributary,,10,1,docn,N26,2512800,6037700,10002934,spo,,,400
+18638,3,1999,Venture Creek,1141072,Venture Creek,552,2200,Venture Creek,,10,1,docn,N26,2512900,6037800,10002789,spo,,,
+18666,11,1999,Pelorus Sound,1141105,Omahakie Stream,588,1040,Unnamed stream Kaiuma Bay, ,5,1,docn,p27,2575600,5996400,11010162,efp,1, ,50
+19047,5,1999,Ruamahanga River,1141034,Waihora Stream,292.1,2000,Waihora Stream,,120,29,uom,s27,2700700,5982200,9015693,spo,,,2000
+5094,2,2000,Rangitikei River,1141069,Pourangaki River,327.244, ,Pourangaki River, ,430,140,uom,t22,2763600,6150700,7027697,spo, , ,815
+9667,2,2000,Rangitikei River,1141069,Pourangaki River,327.244,day,Pourangaki River,,430,140,uom,T22,2763600,6150700,7027697,ef,1,,815
+9669,2,2000,Rangitikei River,1141070,Hikurangi Stream,327.246,day,Hikurangi Stream,,490,145,uom,T22,2766100,6152900,7027290,ef,1,,444
+9689,2,2000,Manawatu River,1141181,Pohangina River,325.17,,Pohangina River,,170,130,uom,t23,2754800,6116200,7034519,ef,1,,1812
+9813,4,2000,Manawatu River,1141062,Mangapuaka Stream,325.281,day,Mangapuaka Stream,,380,166,uom,T23,2763700,6110700,7035602,ef,1,,370
+9814,4,2000,Manawatu River,1141064,Tamaki River,325.3,day,West Branch Tamaki River,,410,175,uom,T23,2768100,6116300,7034495,ef,1,,370
+9815,4,2000,Manawatu River,1141064,Tamaki River,325.3,day,East Branch Tamaki River,,420,177,uom,U23,2772000,6118600,7034038,ef,1,,406
+10200,5,2000,Manawatu River,1141066,Mangatewainui River,325.42,day,Mangatewainui River,,380,214,uom,U23,2779500,6121600,7033504,ef,1,,920
+18088,5,2000,Motueka River,1141080,Glen Rae Stream,570.14,1445,Glen Rae Stream,,160,56,nmfg,N27,2492300,5980800,10014016,efp,1,,75
+18110,5,2000,Motueka River,1141096,Rough'ns Creek,570.19,1130,Rough'ns Creek,,340,83,nmfg,N28,2498400,5958200,10021043,efp,1,,240
+18111,5,2000,Motueka River,1141096,Rough'ns Creek,570.19,1200,Rough'ns Creek,,295,80,nmfg,N28,2499800,5960400,10020429,efp,1,,250
+18116,5,2000,Motueka River,1141090,Big Gully,570.164,1540,Rainy River,,340,92,nmfg,N28,2492300,5952700,10022290,efp,1,,150
+18117,5,2000,Motueka River,1141090,Big Gully,570.164,1600,Big Gully,,340,92,nmfg,N28,2492300,5952600,10022289,efp,1,,100
+19781,3,2000,D'Urville Island,1141103,Mill Arm Creek,585,night,Unnamed stream Mill Arm,,20,1,docn,P25,2582100,6041300,11002291,spo,,,2120
+19782,3,2000,D'Urville Island,1141103,Mill Arm Creek,585,night,Unnamed stream Mill Arm,,40,2,docn,P25,2583100,6041700,11002232,spo,,,2480
+19783,3,2000,D'Urville Island,1141102,Wharairiki Bay,585,night,Unnamed stream Wharairiki Bay,,30,0,docn,P26,2581500,6037600,11002910,spo,,,480
+19784,3,2000,D'Urville Island,1141101,Punt Arm,585,night,Unnamed stream Punt Arm,,15,0,docn,P26,2580400,6037100,11002988,spo,,,820
+19785,3,2000,D'Urville Island,1141100,Smylies Arm,585,night,Unnamed stream Smylies Arm,,25,0,docn,P26,2579500,6036800,11003041,spo,,,670
+19786,3,2000,Waitata Rch,1141104,Waiona Bay,587,night,Unnamed stream Waiona Bay,,20,0,docn,P26,2583400,6022400,11005275,spo,,,1200
+19796,4,2000,Queen Charlotte Sound,1141124,Ship Cove,597,night,Unnamed stream Ship Cove,,5,0,docn,Q26,2613600,6011700,11007085,spo,,,1760
+19799,4,2000,Pelorus River,1141107,Mountain Camp Creek,589.054,night,Mountain Camp Creek,,60,16,docn,O27,2564400,5984500,11013379,spo,,,2520
+19803,2,2000,Queen Charlotte Sound,1141126,Graham River,597,night,Graham River,,50,4,docn,P27,2600800,5990400,11011574,spo,,,3200
+19804,2,2000,Robin Hood Bay,1141129,Robin Hood Bay,600,night,Stace Creek,,70,3,docn,P27,2598400,5984700,11013298,spo,,,1760
+19805,2,2000,Queen Charlotte Sound,1141125,Ahuriri Bay,597,night,Unnamed stream Ahuriri Bay,,15,1,docn,P27,2602000,5992500,11011041,spo,,,760
+19806,2,2000,Queen Charlotte Sound,1141127,Umungata Bay,597,night,Unnamed stream Umungata Bay,,10,1,docn,P27,2588800,5994600,11010522,spo,,,780
+19808,2,2000,Kenepuru Sound,1141122,Kenepuru Head,591,night,Unnamed stream Kenepuru Head,,10,1,docn,P27,2605000,6004200,11008537,spo,,,2600
+19809,2,2000,Kenepuru Sound,1141122,Kenepuru Head,591,night,Unnamed stream Kenepuru Head,,75,7,docn,P27,2604800,6008600,11007578,spo,,,2080
+19812,2,2000,Anakoha Bay,1141123,Anakoha Bay,593,night,Unnamed stream Anakoha Bay,,60,3,docn,P26,2605300,6014500,11006606,spo,,,2240
+19824,3,2000,D'Urville Island,1141099,Wells Bay,585,night,Unnamed stream Wells Bay,,15,0,docn,P25,2586200,6044500,11001820,spo,,,150
+19825,3,2000,D'Urville Island,1141099,Wells Bay,585,night,Unnamed stream Wells Bay,,10,0,docn,P25,2586400,6044400,11001833,spo,,,1040
+20301,4,2000,Wairau River,1141131,Pukaka Stream,601.04,night,Pukaka Stream,,90,13,docn,P27,2595400,5980700,11014491,spo,,,1280
+20302,4,2000,Whites Bay,1141130,Pukatea Stream,600,2000,Pukatea Stream, ,20,0,docn,p28,2598500,5979700,11014596,spo, , ,600
+14887,4,2001,Clarence River,1141178,Serpentine Creek,621,day,Serpentine Creek,,1110,229,niwa,N31,2491100,5890000,13003844,efp,1,,
+16968,5,2001,Motueka River,1141080,Glen Rae Stream,570.14,1200,Glen Rae Stream,,160,55,nmfg,N27,2492400,5980900,10014016,efp,1,,100
+18092,3,2001,Motueka River,1141082,Motupiko River lower,570.16,1700,Motupiko River, ,205,68,nmfg,n28,2494200,5970700,10017515,efp,1, ,400
+18094,10,2001,Pelorus River,1141117,Kaiuma Stream,589.139,1330,Kaiuna Stream,,100,44,nmfg,O27,2568400,5998800,11009749,efp,1,,220
+18226,6,2001,Motueka River,1141079,Stanley Brook,570.12,1700,Stanley Brook,,300,61,ci,N28,2500300,5975000,10016178,han,,,1
+18229,7,2001,Waimea River,1141098,Wairoa River,575.02,,Wairoa River,,15,9,ci,n27,2519600,5983100,10013345,ef,1,,50
+20405,1,2001,Ruamahanga River,1141034,Waihora Stream,292.1,day,Waihora Stream,,35,26,docg,S27,2701700,5985100,9015047,obs,,,1
+21376,7,2001,Motueka River,1141084,Brewerton Creek,570.162,1130,Brewerton Creek,,280,79,docn,N28,2494200,5963700,10019586,efm,1,,50
+21378,7,2001,Motueka River,1141083,Long Gully Stream,570.161,1400,Long Gully Stream,,280,71,docn,N28,2495100,5968200,10018250,efm,2,,50
+22055,11,2001,Wairau River,1141183,Boundary Creek,601.22,1145,Boundary Creek,,480,75,docn,O29,2542200,5947400,11023586,efp,1,,140
+22056,11,2001,Wairau River,1141183,Boundary Creek,601.222,1240,Little Haycock Stream,,400,73,docn,O29,2543500,5948400,11023372,efp,1,,160
+22057,11,2001,Wairau River,1141183,Boundary Creek,601.221,1400,Big Haycock Stream,,320,70,docn,o28,2544700,5950300,11022868,efp,1,,210
+22058,11,2001,Wairau River,1141183,Boundary Creek,601.22,1530,Boundary Creek,,280,68,docn,o28,2545300,5951900,11022400,efp,1,,
+22060,11,2001,Wairau River,1141138,Wye River,601.282,1215,Wye Hill Stream,,330,78,docn,o29,2537000,5948800,11023272,efp,1,,
+22061,11,2001,Wairau River,1141138,Wye River,601.28,1310,Wye River, ,390,82,docn,o29,2536100,5945600,11023874,efp,1, ,240
+22062,11,2001,Wairau River,1141138,Wye River,601.28,1350,Wye River tributary, ,395,82,docn,o29,2536000,5945600,11024086,efp,1, ,270
+22063,11,2001,Wairau River,1141138,Wye River,601.28,1430,Wye River,,320,78,docn,O29,2536800,5949400,11022976,efp,1,,400
+23933,10,2001,Tukituki River,1141032,Ongaonga Stream,232.13,1405,Ongaonga Stream,,260,102,hbrc,U22,2799200,6141500,8029224,obs,,,1
+23934,9,2001,Tukituki River,1141014,Mangamauku Stream,232.101,1450,Mangamauku Stream, ,270,107,hbrc,u22,2802900,6151400,8027838,obs, , ,1
+14646,1,2002,Otaki River,1141053,Waiotauru River,318,day,Waiotauru River,,140,28,uom,S26,2696200,6031900,9004535,efp,1,,654
+14833,2,2002,Otaki River,1141052,Pukeatua Stream,318,day,Pukeatua Stream,,110,22,uom,S26,2698100,6035600,9003565,efp,1,,1033
+14841,1,2002,Hutt River,1141043,Little Akatarawa River,298.361,day,Little Akatarawa River,,200,35,uom,R26,2685400,6014800,9008202,efp,1,,848
+14842,1,2002,Waikanae River,1141051,Waikanae River,315,day,Waikanae River,,180,21,uom,S26,2690100,6035500,9003617,efp,1,,1032
+14843,1,2002,Waikanae River,1141050,Maungakotukutuku Stream,315,day,Maungakotukutuku Stream,,210,21,uom,R26,2679500,6024200,9006283,efp,1,,584
+14946,2,2002,Wharepapa River,1141040,Wharepapa River,293,day,Wharepapa River,,115,5,uom,R27,2683700,5983100,9015449,efp,1,,960
+14947,2,2002,Wharepapa River,1141040,Wharepapa River,293,day,Papatahi Stream,,130,5,uom,R27,2682700,5982500,9015611,efp,1,,916
+14964,2,2002,Hutt River,1141044,Bull Stream,298.369,,Bull Stream,,340,49,uom,r26,2687800,6025300,9006152,efp,1,,426
+14967,2,2002,Wainuiomata River,1141041,Catchpool Stream,296.1,day,Catchpool Stream,,50,13,uom,R27,2671100,5982300,9015727,efp,1,,829
+15258,3,2002,Ruamahanga River,1141036,Enaki Stream tributary,292.243, ,Enaki Stream tributary, ,210,94,uom,s26,2718600,6024200,9006397,efp,1, ,564
+15259,3,2002,Wainuiomata River,1141042,Wainuiomata River,296,day,Wainuiomata River,,130,30,uom,R27,2677500,5991900,9013700,efp,1,,1176
+15260,3,2002,Wainuiomata River,1141042,Wainuiomata River,296,day,Wainuiomata River,,125,29,uom,R27,2677000,5991500,9013745,efp,1,,1341
+15261,3,2002,Wainuiomata River,1141042,Wainuiomata River,296, ,Wainuiomata River, ,110,27,uom,r27,2676200,5991000,9013876,efp,1, ,1488
+15263,3,2002,Hutt River,1141049,Pakuratahi River,298.55,,Pakuratahi River tributary,,260,53,uom,s27,2693300,6007000,9010305,efp,1,,450
+15264,3,2002,Hutt River,1141049,Pakuratahi River,298.55,day,Pakuratahi River,,250,53,uom,S27,2693300,6007300,9010191,efp,1,,639
+15424,4,2002,Wainuiomata River,1141041,Catchpool Stream,296.1,2100,Catchpool Stream,,30,11,docg,R27,2669700,5981800,9015762,ntc,,,10
+22015,10,2002,Wairau River,1141142,Leatham River tributary 1,601.361,930,Leatham River tributary,,445,99,docn,N29,2525200,5939800,11025576,efp,1,,75
+22017,10,2002,Wairau River,1141142,Leatham River tributary 1,601.361,1030,Leatham River tributary, ,450,99,docn,n29,2525300,5939700,11025576,efp,1, ,60
+22018,10,2002,Wairau River,1141142,Leatham River tributary 1,601.361,1100,Leatham River tributary,,460,99,docn,N29,2525300,5939500,11025576,efp,,,
+22019,10,2002,Wairau River,1141142,Leatham River tributary 1,601.361,1200,Leatham River tributary,,520,101,docn,N29,2525000,5938400,11025576,efp,1,,30
+22021,10,2002,Wairau River,1141149,Leatham River upper,601.361,1130,Leatham River, ,530,109,docn,n29,2525700,5933800,11026919,efp,1, ,400
+22022,10,2002,Wairau River,1141148,Leatham River tributary 2,601.361,1415,Leatham River tributary,,560,108,docn,N29,2525600,5934300,11026847,efp,1,,200
+22069,10,2002,Wairau River,1141153,Branch River 3,601.36,1030,Branch River,,480,103,docn,N29,2520400,5937100,11026237,efp,1,,200
+22070,10,2002,Wairau River,1141152,May Stream,601.36,1230,May Stream,,490,103,docn,N29,2520600,5937100,11026358,efp,1,,120
+22072,10,2002,Wairau River,1141150,Branch River 2,601.36, ,Branch River tributary, ,455,99,docn,n29,2521800,5939800,11025749,efp,1, ,50
+22073,10,2002,Wairau River,1141150,Branch River 2,601.36,1500,Branch River tributary, ,455,99,docn,n29,2521800,5939900,11025749,efp,1, ,60
+22074,10,2002,Wairau River,1141150,Branch River 2,601.36,1515,Branch River,,450,99,docn,N29,2521700,5939900,11025556,efp,1,,50
+22380,3,2002,Pelorus River,1141116,Rushy Stream,589.139,900,Rushy Stream,,75,38,mdc,O27,2564300,5999000,11009729,han,,,1
+22390,6,2002,Pelorus River,1141119,Running Stream,589.139,1030,Running Stream,,115,50,mdc,O27,2569500,6004300,11008445,ef,1,,50
+22391,6,2002,Pelorus River,1141118,Tunapai Stream,589.139,1115,Tunapai Stream,,85,44,mdc,O27,2568100,6001000,11009291,han,,,2
+22392,6,2002,Pelorus River,1141114,Opouri River,589.139,1130,Opouri River,,85,44,mdc,O27,2568100,6001100,11009192,ef,1,,30
+22393,6,2002,Pelorus River,1141116,Rushy Stream,589.139,1220,Rushy Stream,,75,38,mdc,O27,2564300,5999000,11009729,ef,1,,10
+22394,6,2002,Pelorus River,1141114,Opouri River,589.139,1240,Opouri River,,55,36,mdc,O27,2562300,5999100,11009660,han,,,4
+22395,6,2002,Pelorus River,1141114,Opouri River,589.138,1300,Tunakino River,,55,36,mdc,O27,2562200,5999200,11009581,han,,,4
+22396,6,2002,Pelorus River,1141115,Tunakino River,589.138,1355,Tunakino River,,130,45,mdc,O27,2564600,6005900,11008242,ef,1,,40
+22397,6,2002,Pelorus River,1141113,Ronga River 1,589.137,1535,Ronga River,,45,32,mdc,O27,2559900,5999700,11009511,han,,,5
+22398,6,2002,Pelorus River,1141111,Brown River,589.136,1555,Brown River,,42,30,mdc,O27,2559200,5998600,11009570,han,,,3
+22478,9,2002,Robin Hood Bay,1141129,Robin Hood Bay,600,1500,Stace Creek,,60,3,mdc,P27,2598600,5984700,11013098,ef,2,,100
+22479,9,2002,Robin Hood Bay,1141129,Robin Hood Bay,600,1400,Stace Creek,,50,2,mdc,P27,2598700,5984300,11013446,ef,2,,100
+22480,9,2002,Robin Hood Bay,1141129,Robin Hood Bay,600,1530,Stace Creek,,30,1,mdc,P27,2599200,5983700,11013548,ef,1,,100
+22481,9,2002,Robin Hood Bay,1141129,Robin Hood Bay,600,1600,Stace Creek,,2,0,mdc,P27,2599600,5983000,11013548,ef,1,,100
+22484,10,2002,Queen Charlotte Sound,1141126,Graham River,597,900,Graham River,,60,4,mdc,p27,2601000,5989900,11011741,ef,1,,200
+22485,11,2002,Whites Bay,1141130,Pukatea Stream,600,830,Pukatea Stream, ,1,0,mdc,p28,2598500,5979600,11014596,ef,1, ,100
+22487,10,2002,Queen Charlotte Sound,1141126,Graham River,597,1100,Graham River,,15,2,mdc,p27,2600600,5991600,11011362,ef,1,,50
+22488,10,2002,Queen Charlotte Sound,1141126,Graham River,597,1200,Graham River,,2,1,mdc,p27,2600000,5992300,11011033,ef,1,,50
+35084,12,2002,Wairau River,1141134,Bartletts Creek,601.17,1130,Bartletts Creek, ,160,50,nmfg,O28,2560900,5969400,11017842,efp,2, , 
+35085,12,2002,Wairau River,1141134,Bartletts Creek,601.17,1500,Bartletts Creek, ,150,49,nmfg,O28,2559900,5968800,11018038,efp,2, ,240
+18238,5,2003,Queen Charlotte Sound,1141127,Umungata Bay,597, ,Unnamed stream Umungata Bay, ,5,0,ci,p27,2588800,5994300,11010522,spo, , , 
+18541,12,2003,Manawatu River,1141061,Oruakeretaki Stream,325.26,1030,Oruakeretaki Stream, ,220,159,wnfg,t23,2764800,6103600,7037021,ef,1, ,820
+18542,12,2003,Manawatu River,1141061,Oruakeretaki Stream,325.26,1145,Oruakeretaki Stream,,260,162,wnfg,T23,2762900,6105600,7036584,ef,1,,1100
+20982,2,2003,Venture Creek,1141072,Venture Creek,552,2230,Venture Creek, ,20,1,docn,n26,2512900,6037500,10002789,spo, , ,180
+22023,5,2003,Wairau River,1141135,Pine Valley Stream,601.19,1100,Pine Valley Stream,,220,55,docn,O28,2552600,5967200,11018517,efp,1,,50
+22024,5,2003,Wairau River,1141135,Pine Valley Stream,601.19,1230,Pine Valley Stream tributary,,220,55,docn,O28,2552600,5967300,11018279,efp,1,,30
+22025,5,2003,Wairau River,1141135,Pine Valley Stream,601.19,1400,Pine Valley Stream,,210,54,docn,O28,2552900,5966600,11018607,efp,1,,50
+22088,2,2003,Awatere River,1141164,Colonel Gully Stream,602.081,1100,Colonel Gully Stream,,300,49,docn,P29,2584600,5933500,11027097,efp,1,,800
+22089,2,2003,Awatere River,1141164,Colonel Gully Stream,602.081,1330,Colonel Gully Stream,,240,46,docn,P29,2583600,5935700,11026587,efp,1,,800
+22092,9,2003,Wairau River,1141139,Wairau River 2,601,1100,Wairau River,,340,83,docn,N28,2528300,5950700,11022651,efp,1,,150
+22286,2,2003,Awatere River,1141164,Colonel Gully Stream,602.081,1300,Colonel Gully Stream, ,240,45,docn,p29,2583500,5935500,11026587,efm,1, ,500
+22287,2,2003,Awatere River,1141164,Colonel Gully Stream,602.081,1100,Colonel Gully Stream,,280,48,docn,P29,2584500,5934000,11026923,efp,1,,1100
+22491,3,2003,Pelorus River,1141108,Whakamarina River,589.05,2200,Wakamarina River,,20,17,mdc,O27,2563200,5984100,11013358,spo,,,
+22492,4,2003,Wairau River,1141133,Swamp Gully,601,1130,Swamp Gully,,125,46,mdc,O28,2566200,5968000,11018295,ef,1,,300
+22720,5,2003,Wairau River,1141142,Leatham River tributary 1,601.361,1500,Leatham River tributary,,460,99,nmfg,N29,2525300,5939500,11025576,efp,1,,140
+22721,5,2003,Wairau River,1141143,Station Creek,601.361,850,Station Creek,,470,102,nmfg,N29,2526900,5939600,11025631,efp,1,,180
+22722,5,2003,Wairau River,1141184,Enchanted Stream,601.361,1000,Enchanted Stream,,460,101,nmfg,n29,2526900,5940400,11025301,efp,1,,210
+22723,5,2003,Wairau River,1141155,Silverstream,601.363,1230,Silverstream,,515,106,nmfg,N29,2519300,5934200,11026949,efp,1,,250
+22724,5,2003,Wairau River,1141154,Alan Stream,601.021,1300,Alan Stream, ,510,106,nmfg,n29,2519600,5934500,11026955,efp,1, ,120
+22725,5,2003,Wairau River,1141151,Nesbits Creek,601.362,day,Nesbits Creek,,460,100,nmfg,N29,2521000,5939000,11025755,efp,1,,180
+32042,4,2003,Motueka River,1141089,Rainy River tributary,570.164,1100,Rainy River tributary,,360,80,docn,N28,2492900,5952750,10022225,obs,,,6
+35092,5,2003,Pelorus Sound,1141105,Omahakie Stream,588,1230,Omahakie Stream,,40,2,nmfg,P27,2574900,5997100,11009956,efp,1,,
+100023,5,2003,Wairau River,1141135,Pine Valley Stream,601.19,1500,Pine Valley Stream,,180,52,docn,O28,2554100,5965700,11019004,efp,,,
+100024,5,2003,Wairau River,1141136,Timms Creek,601.2,1015,Timms Creek,,220,62,docn,O28,2548300,5965500,11019062,efp,1,,
+100025,5,2003,Wairau River,1141136,Timms Creek,601.2,1030,Timms Creek,,180,59,docn,O28,2548600,5963600,11019625,efp,1,,30
+100026,5,2003,Wairau River,1141137,Top Valley Stream,601.21,1300,Top Valley Stream,,230,65,docn,O28,2543500,5963000,11019821,efp,1,,50
+100027,5,2003,Wairau River,1141137,Top Valley Stream,601.212,1200,Staircase Stream,,200,65,docn,O28,2543600,5962900,11019836,efp,1,,100
+100028,5,2003,Wairau River,1141140,Goulter River,601.35,1400,Goulter River,,310,83,docn,N28,2527600,5951300,11022621,efp,1,,40
+100029,5,2003,Wairau River,1141140,Goulter River,601.35,1500,Goulter River,,320,87,docn,N28,2525500,5951900,11022457,efp,,,
+18690,1,2004,Manawatu River,1141066,Mangatewainui River,325.42,1220,Mangatewainui River,,320,209,wnfg,U23,2781600,6119100,7033986,ef,1,,910
+18704,1,2004,Manawatu River,1141063,Rokaiwhania Stream,325.3,1145,Rokaiwhana Stream,,250,165,wnfg,T23,2769600,6109200,7035701,ef,1,,450
+18705,1,2004,Manawatu River,1141063,Rokaiwhania Stream,325.3,1300,Rokaiwhana Stream,,350,170,wnfg,T23,2766300,6111900,7035186,ef,1,,500
+18707,1,2004,Manawatu River,1141061,Oruakeretaki Stream,325.26,1200,Oruakeretaki Stream, ,180,155,wnfg,t23,2766800,6102100,7037335,ef,1, ,610
+18708,1,2004,Manawatu River,1141061,Oruakeretaki Stream,325.27,1250,Mangapukakakahu Stream, ,180,156,wnfg,t23,2766600,6102500,7037248,ef,1, ,280
+18709,1,2004,Manawatu River,1141064,Tamaki River,325.3,1420,West Branch Tamaki River,,340,172,wnfg,T23,2770000,6114500,7034821,ef,1,,500
+18710,1,2004,Manawatu River,1141064,Tamaki River,325.3,1510,East Branch Tamaki River,,155,174,wnfg,U23,2770100,6116000,7034398,ef,1,,690
+18711,1,2004,Manawatu River,1141061,Oruakeretaki Stream,325.27,1630,Mangapukakakahu Stream,,220,158,wnfg,T23,2765400,6103600,7037153,ef,1,,120
+22188,5,2004,Hutt River,1141049,Pakuratahi River,298.55, ,Pakuratahi River, ,240,52,wnrc,s27,2692970,6007710,9010191,efp,1, , 
+22189,5,2004,Hutt River,1141049,Pakuratahi River,298.55,day,Pakuratahi River,,265,54,wnrc,S27,2694470,6006936,9010347,efp,1,,
+22190,5,2004,Hutt River,1141046,Hutt River - Pakuratahi Forks,298, ,Hutt River, ,180,42,wnrc,s26,2694320,6014420,9008631,efp,1, , 
+23257,4,2004,Manawatu River,1141065,Tapuata Stream,325.33,1130,Tapuata Stream, ,230,168,doch,u23,2774300,6108500,7035626,efp,1, ,130
+23258,4,2004,Manawatu River,1141063,Rokaiwhania Stream,325.3,1330,Rokaiwhana Stream,,260,165,doch,T23,2769200,6109800,7035701,efp,1,,300
+23259,4,2004,Manawatu River,1141063,Rokaiwhania Stream,325.3,night,Rokaiwhana Stream,,270,166,doch,T23,2768900,6110200,7035701,spo,,,
+23260,4,2004,Tukituki River,1141029,Mangatewai River,232.12,915,Tukipo River,,190,96,doch,U22,2798800,6130500,8030995,efp,1,,200
+23261,4,2004,Tukituki River,1141033,Tukituki River upper,232.14,1015,Hylton Burn,,320,112,doch,U22,2789100,6142200,8029268,efp,1,,100
+23262,4,2004,Tukituki River,1141033,Tukituki River upper,232.14,1050,Hylton Burn,,340,112,doch,u22,2788800,6142100,8029306,efp,1,,60
+23263,4,2004,Tukituki River,1141017,Waipawa River - Cadwell Road,232.1,1200,Waipawa River,,270,99,doch,U22,2800500,6146400,8028555,efp,1,,175
+23264,4,2004,Tukituki River,1141018,Mangataura Stream,232.1,1400,Waipawa River,,315,111,doch,U22,2792700,6147800,8028365,efp,1,,360
+23265,4,2004,Tukituki River,1141019,Makaroro River lower,232.102,1500,Makaroro River,,315,111,doch,U22,2792800,6148800,8028042,efp,1,,90
+23266,4,2004,Tukituki River,1141020,Makaroro River upper,232.102,930,Gold Creek,,490,130,doch,U22,2786700,6157500,8026927,efp,1,,525
+23267,4,2004,Tukituki River,1141020,Makaroro River upper,232.102,1030,Makaroro River,,490,131,doch,U22,2786100,6158500,8026734,efp,1,,480
+23268,4,2004,Tukituki River,1141021,Dutch Creek,232.102,1230,Dutch Creek,,430,126,doch,U22,2790100,6157300,8026934,efp,1,,100
+23269,4,2004,Tukituki River,1141018,Mangataura Stream,232.103,1330,Mangataura Stream,,380,120,doch,U22,2789800,6152800,8027601,efp,1,,120
+23581,3,2004,Motueka River,1141079,Stanley Brook,570.12,1230,Stanley Brook tributary,,390,64,nmfg,N28,2501700,5972400,10017015,han,,,5
+23938,11,2004,Tukituki River,1141015,Mangamate Stream,232.101,1100,Mangamate Stream tributary,,280,108,hbrc,U22,2805590,6155240,8027261,efp,1,,200
+23939,11,2004,Tukituki River,1141015,Mangamate Stream,232.1,1255,Mangamate Stream,,240,103,hbrc,U22,2807425,6152168,8027550,efp,1,,200
+23940,11,2004,Tukituki River,1141014,Mangamauku Stream,232.101,1410,Mangamauku Stream,,230,101,hbrc,U22,2806849,6150518,8027940,efp,1,,200
+23941,11,2004,Tukituki River,1141014,Mangamauku Stream,232.101,1555,Mangaonuku Stream,,205,98,hbrc,U22,2809285,6149832,8028095,efp,1,,300
+23943,11,2004,Tukituki River,1141029,Mangatewai River,232.123,1340,Mangatewai River,,225,103,hbrc,U22,2794281,6130060,8030994,efp,1,,200
+23944,11,2004,Tukituki River,1141011,Waipawa River tributary,232.1,1520,Waipawa River tributary,,143,80,hbrc,V22,2811771,6134888,8030465,efp,1,,400
+23946,12,2004,Clive River,1141009,Poukawa Stream,231.532,910,Unnamed wetland,,15,33,hbrc,V22,2834180,6158737,8026699,efp,1,,200
+23947,12,2004,Tukituki River,1141027,Makaretu River middle,232.121,1116,Makaretu River,,220,100,hbrc,U23,2796595,6127408,8031409,efp,1,,200
+23948,12,2004,Tukituki River,1141028,Makaretu River upper,232.121,1340,Makaretu River,,380,120,hbrc,U23,2781649,6128369,8031308,efp,1,,200
+26368,4,2004,Clarence River,1141174,The Ribble,621,940,Clarence River tributary, ,720,175,docc,n31,2506973,5866921,13009131,efp,1, ,50
+26376,4,2004,Clarence River,1141175,Pass Stream,621.6,1115,Pass Stream tributary,,780,188,docc,N32,2500978,5859521,13011213,efp,1,,50
+26377,4,2004,Clarence River,1141175,Pass Stream,621.6,1200,Pass Stream tributary,,790,188,docc,N32,2501233,5859412,13011243,efp,1,,50
+26962,4,2004,Clarence River,1141174,The Ribble,621,930,Clarence River, ,695,174,docn,n31,2507100,5868300,13009117,efp,1, ,50
+100032,8,2004,Wairau River,1141134,Bartletts Creek,601.173,1100,Quartz Creek,,160,50,docn,O28,2560000,5969500,11017769,efp,1,,100
+100033,8,2004,Wairau River,1141134,Bartletts Creek,601.17,1300,Bartletts Creek,,180,51,docn,O28,2561200,5969700,11017674,efp,1,,100
+100034,8,2004,Wairau River,1141135,Pine Valley Stream,601.19,1430,Pine Valley Stream,,240,54,docn,O28,2552800,5966600,11018607,efp,1,,80
+100035,8,2004,Wairau River,1141135,Pine Valley Stream,601.19,1500,Pine Valley Stream tributary,,200,53,docn,O28,2553400,5965800,11018964,efp,1,,30
+100036,9,2004,Wairau River,1141134,Bartletts Creek,601.173,1430,Quartz Creek,,150,50,docn,O28,2560040,5969267,11017769,efp,1,,25
+100037,9,2004,Wairau River,1141134,Bartletts Creek,601.173,1500,Quartz Creek,,150,50,docn,O28,2560100,5969100,11017769,efp,1,,20
+100038,9,2004,Wairau River,1141134,Bartletts Creek,601.173,1330,Quartz Creek,,150,49,docn,O28,2560180,5969064,11017769,efp,1,,60
+7487,1,2005,Tukituki River,1141022,Tukituki River lower,232.001,1720,Tukituki River,,115,73,hbrc,V22,2817984,6130418,8031015,efp,1,,200
+7491,1,2005,Tukituki River,1141023,Tukituki River middle,232.001,350,Tukituki River,,135,82,hbrc,U23,2809791,6129659,8031138,efp,1,,200
+7493,1,2005,Tukituki River,1141012,Mangaonuku Stream lower,232.101,115,Mangaonuku Stream,,155,84,hbrc,V22,2811267,6138328,8029835,efp,1,,300
+7681,1,2005,Tukituki River,1141033,Tukituki River upper,232.001,1045,Tukituki River,,290,107,hbrc,U22,2792372,6139798,8029625,efp,1,,200
+19313,4,2005,Ngaruroro River,1141005,Ngaruroro River - Fernhill,231,920,Ngaruroro River,,55,28,doch,V21,2825328,6168341,8025365,ef,1,,80
+19314,4,2005,Ngaruroro River,1141005,Ngaruroro River - Fernhill,231,1055,Ngaruroro River,,65,33,doch,V21,2821473,6167044,8025553,ef,1,,25
+20753,5,2005,Tukituki River,1141017,Waipawa River - Cadwell Road,232.1,900,Waipawa River,,245,99,kal,U22,2800852,6145816,8028555,efm,1,,
+20754,5,2005,Tukituki River,1141017,Waipawa River - Cadwell Road,232.1,1100,Waipawa River,,245,99,kal,U22,2800852,6145816,8028555,efm,1,,
+20755,5,2005,Tukituki River,1141028,Makaretu River upper,232.121,1330,Makaretu River,,380,121,kal,U23,2781620,6128323,8031308,efm,1,,
+21313,11,2005,Wairau River,1141141,Branch River 1,601.36,1030,Branch River,,400,95,niwa,N29,2524043,5943002,11024725,efp,1,,55
+21314,11,2005,Wairau River,1141137,Top Valley Stream,601.21,900,Top Valley Stream,,170,56,niwa,O28,2549520,5960582,11020463,efp,1,,40
+21315,11,2005,Wairau River,1141136,Timms Creek,601.2,1400,Timms Creek,,200,60,niwa,O28,2548444,5964562,11019368,efp,1,,30
+22224,5,2005,Ruamahanga River,1141038,Tauweru River,292.3,day,Tauweru River,,140,163,wnrc,T26,2754360,6036160,9003399,efp,1,,
+23574,1,2005,Clarence River,1141178,Serpentine Creek,621,1500,Serpentine Creek,,1100,228,nmfg,n31,2490650,5889300,13004188,efp,1,,35
+23594,1,2005,Clarence River,1141176,Clarence River tributary 2,621,1300,Clarence River tributary,,955,215,nmfg,N31,2491500,5878200,13006826,efp,1,,90
+23598,1,2005,Wairau River,1141162,Wairau River tributary 1,601,1900,Wairau River tributary, ,1000,159,nmfg,n30,2503400,5898600,11033245,efp,1, ,150
+24005,1,2005,Wairau River,1141138,Wye River,601.28,day,Wye River tributary,,400,83,mdc,O29,2535737,5945505,11024086,efm,1,,100
+24006,1,2005,Wairau River,1141138,Wye River,601.28,day,Wye River,,360,80,mdc,O29,2536403,5947316,11023665,efm,1,,150
+24201,2,2005,Tukituki River,1141013,Mangaoho Stream,232.101,1030,Mangaoho Stream,,220,99,hbrc,U22,2805875,6147290,8028462,efp,1,,200
+24203,2,2005,Tukituki River,1141030,Tukipo River lower,232.12,1420,Tukipo River, ,225,102,hbrc,u22,2794854,6132319,8030706,efp,1, ,300
+24204,2,2005,Tukituki River,1141025,Maharakeke Stream,232.121,1525,Maharakeke Stream,,152,88,hbrc,U23,2806773,6129494,8031127,efp,1,,200
+24205,4,2005,Tukituki River,1141011,Waipawa River tributary,232.1,1200,Waipawa River tributary,,148,81,hbrc,V22,2811361,6135899,8030286,efp,1,,200
+24210,2,2005,Tukituki River,1141013,Mangaoho Stream,232.101,2300,Mangaoho Stream,,220,99,hbrc,U22,2805875,6147290,8028462,spo,1,,200
+24212,2,2005,Tukituki River,1141030,Tukipo River lower,232.12,2200,Tukipo River, ,225,102,hbrc,u22,2794854,6132319,8030706,spo,1, ,300
+24213,2,2005,Tukituki River,1141025,Maharakeke Stream,232.121,2100,Maharakeke Stream, ,152,88,hbrc,u23,2806773,6129494,8031127,spo,1, ,200
+24214,4,2005,Tukituki River,1141011,Waipawa River tributary,232.1,2100,Waipawa River tributary,,148,81,hbrc,v22,2811361,6135899,8030286,spo,1,,200
+24337,6,2005,Motueka River,1141086,Clark River upper,570.163,1000,Clark River,,500,93,tka,M28,2487700,5953800,10022054,efp,1,,
+24338,6,2005,Motueka River,1141086,Clark River upper,570.163,1100,Clark River tributary,,530,93,tka,M28,2487351,5953354,10022085,efp,1,,
+24339,6,2005,Motueka River,1141085,Clark River lower,570.163,1230,Clark River,,295,82,tka,N28,2491800,5960800,10020373,efp,1,,
+24560,4,2005,Ngaruroro River,1141005,Ngaruroro River - Fernhill,231,day,Ngaruroro River,,18,18,doch,V21,2833502,6172782,8024783,ef,1,,40
+24561,4,2005,Ngaruroro River,1141005,Ngaruroro River - Fernhill,231,1130,Ngaruroro River,,18,18,doch,V21,2833445,6172814,8024783,ef,1,,90
+24562,4,2005,Ngaruroro River,1141005,Ngaruroro River - Fernhill ,231,1245,Ngaruroro River,,15,16,doch,v21,2835053,6172952,8024768,ef,1,,98
+24564,4,2005,Ngaruroro River,1141005,Ngaruroro River - Fernhill,231,1500,Ngaruroro River,,25,20,doch,V21,2831634,6172765,8024785,ef,1,,80
+24565,4,2005,Ngaruroro River,1141005,Ngaruroro River - Fernhill,231,day,Ngaruroro River,,40,23,doch,V21,2829078,6170863,8024961,ef,1,,90
+24566,4,2005,Ngaruroro River,1141008,Poporangi Stream upper,231.14,1000,Poporangi Stream,,360,83,doch,U21,2799042,6161379,8026376,ef,1,,25
+24568,4,2005,Ngaruroro River,1141008,Poporangi Stream upper,231.14,1055,Poutaki Stream,,290,77,doch,U21,2801416,6165298,8025818,ef,1,,6
+24569,4,2005,Ngaruroro River,1141008,Poporangi Stream upper,231.14,1130,Poporangi Stream,,290,77,doch,U21,2801434,6165280,8025820,ef,1,,38
+24571,4,2005,Ngaruroro River,1141007,Poporangi Stream lower,231.142,1350,Ohara Stream,,250,71,doch,U21,2800329,6171522,8024955,ef,1,,160
+24572,4,2005,Ngaruroro River,1141007,Poporangi Stream lower,231.142,1415,Mathews Stream,,250,71,doch,U21,2800351,6171675,8024946,ef,1,,127
+24574,4,2005,Ngaruroro River,1141007,Poporangi Stream lower,231.142,1440,Gull Stream,,240,71,doch,U21,2800583,6172085,8024867,ef,1,,100
+26286,2,2005,Ruamahanga River,1141037,Mangatarere Stream,292.243,1240,Mangatarere Stream, ,190,103,niwa,s26,2719395,6027232,9005733,efm,1, ,70
+26973,4,2005,Clarence River,1141165,Alfred Stream,621.45,1130,Alfred Stream tributary,,800,133,docn,O31,2538767,5875732,13007487,efp,1,,
+26974,4,2005,Clarence River,1141165,Alfred Stream,621.45,1210,Alfred Stream,,800,133,docn,O31,2538852,5875774,13007421,efp,1,,
+26979,5,2005,Clarence River,1141171,Acheron River 1,621.59,900,Acheron River,,970,222,docn,N30,2525071,5902584,13001859,efp,1,,60
+22296,2,2006,Clarence River,1141167,Goat Valley Stream,621.47,1100,Goat Valley Stream,,790,135,docn,O30,2535700,5890900,13003830,efp,1,,200
+24042,11,2006,Ngaruroro River,1141008,Poporangi Stream upper,231.14,day,Poporangi Stream,,280,76,niwa,U21,2801800,6165700,8025608,efp,1,,255
+24043,11,2006,Ngaruroro River,1141008,Poporangi Stream upper,231.14,day,Poutaki Stream,,290,77,niwa,U21,2801100,6165200,8025818,efp,1,,66
+24044,11,2006,Ngaruroro River,1141005,Ngaruroro River - Fernhill,231,day,Ngaruroro River,,25,20,niwa,V21,2831500,6172500,8024785,efp,1,,357
+24045,11,2006,Ngaruroro River,1141005,Ngaruroro River - Fernhill,231,day,Ngaruroro River,,65,32,niwa,V21,2822000,6166800,8025560,efp,1,,240
+24195,1,2006,Tukituki River,1141024,Black Stream,232.11,1530,Black Stream,,145,89,hbrc,U22,2808700,6132600,8030488,efp,,,
+24317,1,2006,Clarence River,1141167,Goat Valley Stream,621.47,1430,Goat Valley Stream,,770,134,nmfg,o30,2535200,5890500,13003884,obs,,,30
+24318,2,2006,Clarence River,1141166,Elliot Stream,621.461,1030,St Bernard Stream,,670,126,nmfg,O30,2541500,5891600,13003382,efp,1,,100
+24319,2,2006,Clarence River,1141166,Elliot Stream,621.46,1700,Elliott Stream,,660,125,nmfg,o30,2541500,5890700,13003850,efp,1,,60
+24320,2,2006,Clarence River,1141166,Elliot Stream,621.46,1115,Elliott Stream, ,670,126,nmfg,o30,2541300,5891700,13003611,efp,1, ,60
+24321,2,2006,Clarence River,1141166,Elliot Stream,621.462,1230,Two Mile Stream,,680,127,nmfg,O30,2541200,5892000,13003277,efp,1,,100
+24324,10,2006,Motueka River,1141090,Big Gully,570.164,1145,Big Gully,,380,95,nmfg,N28,2490700,5951300,10022642,efp,1,,220
+26980,4,2006,Clarence River,1141170,Blinkers Stream,621,1330,Blinkers Stream, ,810,171,docn,n31,2514144,5872090,13008185,efp,1, , 
+26981,4,2006,Clarence River,1141170,Blinkers Stream,621,1345,Blinkers Stream tributary,,830,172,docn,N31,2514156,5872326,0,efp,1,,
+26987,4,2006,Clarence River,1141168,Winterburn Stream,621.5,1045,Winterburn Stream,,640,143,docn,N31,2526368,5873615,13007627,efp,1,,40
+26988,4,2006,Clarence River,1141168,Winterburn Stream,621.5,1120,Winterburn Stream tributary,,640,143,docn,N31,2526366,5873581,13007947,efp,1,,25
+26990,4,2006,Clarence River,1141173,Severn River tributary,621.595,1410,Severn River tributary,,1060,225,docn,N30,2512833,5904978,13001610,efp,1,,50
+26991,4,2006,Clarence River,1141173,Severn River tributary,621.595,1415,Severn River, ,1060,225,docn,n30,2512821,5904966,13001557,efp,1, ,35
+26992,4,2006,Clarence River,1141169,Dillion River,621.552,1515,Half Moon Stream,,950,187,docn,N31,2521406,5883587,13005554,efp,1,,50
+26993,4,2006,Clarence River,1141169,Dillion River,621.55,1600,Dillon River tributary, ,895,184,docn,n31,2523219,5882355,13005590,efp,1, ,20
+26994,4,2006,Clarence River,1141169,Dillion River,621.55,1615,Dillon River,,895,184,docn,N31,2523223,5882335,13005778,efp,1,,40
+23047,5,2007,Waihou River,1141001,Waihou River,92,day,Waihou River,,130,166,docw,T15,2759297,6347789,3023556,wbn,,,2
+23370,12,2007,Manawatu River,1141061,Oruakeretaki Stream,325.26,1600,Oruakeretaki Stream tributary, ,225,159,mwrc,t23,2764200,6103300,7037270,efp,1, , 
+27783,10,2007,Wairau River,1141134,Bartletts Creek,601.17,day,Bartletts Creek,,114,44,mdc,O28,2559760,5965220,11019102,han,2,,1
+28745,4,2007,Rangitaiki River,1141002,Kopuriki Stream,154.17,930,Kopuriki Stream, ,150,67,niwa,v16,2841936,6313156,4019428,efp,1, ,21
+28746,4,2007,Rangitaiki River,1141003,Horomanga River lower,154.2,1000,Horomanga River, ,155,76,niwa,v17,2838996,6307946,4020577,efp,1, ,60
+28798,3,2007,Wainuiomata River,1141042,Wainuiomata River,296,day,Wainuiomata River,,150,31,wnrc,R27,2678265,5992349,9013597,han,,,1
+100021,11,2007,Wairau River,1141132,Waihopai River,601.12,1300,Waihopai River,,280,62,docn,O29,2557626,5949415,11023053,efp,1,,
+27331,1,2008,Wairau River,1141159,Rainbow River,601.49,1330,Rainbow River tributary,,840,146,nmfg,n30,2500400,5907900,11032207,efp,1,,140
+27332,1,2008,Wairau River,1141159,Rainbow River,601.49,1500,Rainbow River,,840,148,nmfg,n30,2499500,5907300,11032297,efp,1,,200
+27476,1,2008,Kenepuru Sound,1141122,Kenepuru Head,591,day,Unnamed stream Kenepuru Head,,30,4,mdc,P27,2605265,6006090,11008113,efm,1,,300
+27477,1,2008,Kenepuru Sound,1141122,Kenepuru Head,591,day,Unnamed stream Kenepuru Head,,15,2,mdc,P27,2605140,6004751,11008448,efm,1,,
+27478,1,2008,Kenepuru Sound,1141122,Kenepuru Head,591,day,Unnamed stream Kenepuru Head,,80,3,mdc,P27,2604040,6005124,11008283,obs,,,1
+27479,1,2008,Kenepuru Sound,1141122,Kenepuru Head,591,day,Unnamed stream Kenepuru Head,,70,7,mdc,P27,2604887,6008441,11007710,efm,1,,
+27480,1,2008,Kenepuru Sound,1141122,Kenepuru Head,591,,Unnamed stream Kenepuru Head,,150,7,mdc,p27,2604030,6007890,11007805,efm,1,,
+27481,1,2008,Kenepuru Sound,1141122,Kenepuru Head,591,day,Unnamed stream Kenepuru Head,,80,7,mdc,P27,2604620,6008070,11007805,efm,1,,
+27493,3,2008,Wairau River,1141159,Rainbow River,601.49,day,Rainbow River,,825,145,mdc,N30,2501338,5908798,11032121,han,,,2
+29104,1,2008,Manawatu River,1141061,Oruakeretaki Stream,325.26,13,Oruakeretaki Stream tributary, ,225,159,mwrc,t23,2764200,6103300,7037270,efp,1, , 
+29105,1,2008,Manawatu River,1141061,Oruakeretaki Stream,325.26,1400,Oruakeretaki Stream tributary, ,225,159,mwrc,t23,2764200,6103300,7037270,efp,1, , 
+29106,2,2008,Manawatu River,1141061,Oruakeretaki Stream,325.26,1100,Oruakeretaki Stream tributary,,225,159,mwrc,T23,2764200,6103300,7037270,efp,1,,
+29628,4,2008,Rangitikei River,1141070,Hikurangi Stream,327.246,1430,Hikurangi Stream,,490,145,docz,T22,2766105,6152860,7027290,efm,1,,
+29629,4,2008,Rangitikei River,1141068,Mangawharariki River,327.22,930,Mangawharariki River,,490,129,docz,T22,2757455,6147715,7028343,efm,1,,
+29630,4,2008,Rangitikei River,1141068,Mangawharariki River,327.22,815,Mangawharariki River,,495,137,docz,T22,2761645,6144360,7029001,efm,1,,
+29631,4,2008,Rangitikei River,1141069,Pourangaki River,327.244,1230,Pourangaki River,,435,140,docz,T22,2763765,6150595,7027697,efm,1,,
+29632,4,2008,Rangitikei River,1141069,Pourangaki River,327.245,1130,Mangakukeke Stream,,438,140,docz,T22,2763725,6150840,7027562,efm,1,,
+29868,11,2008,Manawatu River,1141057,Tramway Creek,325.19,1400,Tramway Creek, ,350,179,docz,s25,2720100,6062800,7046245,efp,1, , 
+29869,11,2008,Manawatu River,1141059,Mangahao River lower,325.19,1630,Mangahao River,,370,182,docz,S25,2719100,6060700,7046758,efp,1,,100
+29870,11,2008,Manawatu River,1141059,Mangahao River lower,325.19,day,Roaring Creek,,380,182,docz,S25,2718800,6060700,7046786,efp,1,,100
+29871,11,2008,Manawatu River,1141059,Mangahao River lower,325.19,1500,Mangahao River tributary,,380,182,docz,S25,2719200,6061050,7046540,efp,1,,
+30014,12,2008,Rangitaiki River,1141003,Horomanga River lower,154.2,1100,Horomanga Stream, ,155,76,niwa,v17,2839025,6307890,4020577,efm,2, ,93
+30017,12,2008,Rangitaiki River,1141003,Horomanga River lower,154.2,1200,Horomanga Stream, ,155,75,niwa,v17,2838808,6308005,4020577,efm,2, ,160
+30025,12,2008,Rangitaiki River,1141003,Horomanga River lower,154.2,1130,Horomanga River,,155,75,niwa,v17,2838097,6308245,4020516,efm,2,,30
+30029,12,2008,Rangitaiki River,1141002,Kopuriki Stream,154.17, ,Kopuriki Stream, ,155,67,niwa,v16,2841900,6313131,4019428,efm, , , 
+110361,2,2008,Rangitikei River,1141068,Mangawharariki River,327.22,1100,Mangawharariki River unnamed tributary,,543,132,docz,T22,2761620,6144380,7029062,efp,,,240
+110362,11,2008,Rangitikei River,1141068,Mangawharariki River,327.22,1130,Mangawharariki River unnamed tributary,,543,132,docz,T22,2762250,6144110,7029062,efp,,,900
+110374,11,2008,Rangitikei River,1141069,Pourangaki River,327.245,1145,Mangakukeke Stream,,486,138,docz,T22,2763720,6150810,7027562,efp,,,900
+110379,2,2008,Rangitikei River,1141068,Mangawharariki River,327.22,1430,Mangawharariki River,,433,127,docz,T22,2757570,6147770,7028343,efp,,,1500
+110391,6,2008,Manawatu River,1141061,Oruakeretaki Stream,325.27,1315,Mangapukakakahu Stream,,313,159,mwrc,T23,2762997,6107068,7036159,efp,,,400
+110392,1,2008,Manawatu River,1141061,Oruakeretaki Stream,325.26,1215,Oruakeretaki Stream unnamed tributary,,289,159,mwrc,T23,2762497,6105414,7036716,efp,,,
+27789,12,2009,Wairau River,1141134,Bartletts Creek,601.171,day,Fabians Creek,,154,47,mdc,O28,2558202,5966932,11018803,obs,,,2
+27790,12,2009,Wairau River,1141134,Bartletts Creek,601.171,day,Fabians Creek,,136,46,mdc,O28,2559218,5966387,11018804,obs,,,4
+30589,4,2009,Ruamahanga River,1141034,Waihora Stream,292.1,day,Waihora Stream,,160,27,wnrc,S27,2701352,5984468,9015269,efp,1,,
+30892,5,2009,Manawatu River,1141063,Rokaiwhania Stream,325.3,1430,Rokaiwhana Stream,,270,166,hori,T23,2769000,6110200,7035701,efm,1,,
+30893,5,2009,Manawatu River,1141063,Rokaiwhania Stream,325.3,1400,Rokaiwhana Stream,,270,166,hori,T23,2769000,6110200,7035701,efm,1,,
+30897,5,2009,Manawatu River,1141064,Tamaki River,325.3,1000,Tamaki River tributary,,450,174,hori,T23,2768200,6115400,7034764,efm,1,,
+31072,12,2009,Tukituki River,1141018,Mangataura Stream,232,1032,Triplex Creek,,478,124,hbrc,U22,2786562,6151878,8027684,efp,1,,
+110352,12,2009,Manawatu River,1141058,Baber Creek,325.19,1100,Barber Creek,,562,179,docz,T24,2720303,6060458,7046827,efp,,,
+110353,12,2009,Manawatu River,1141058,Baber Creek,325.19,1000,College Creek,,475,179,docz,T24,2720345,6060556,7046741,efp,,,160
+110358,12,2009,Manawatu River,1141062,Mangapuaka Stream,325.281,1400,Mangapuaka Stream,,420,163,docz,T23,2763623,6110653,7035602,efp,,,22.5
+110363,2,2009,Manawatu River,1141063,Rokaiwhania Stream,325.3,1030,Tamaki River Tributary Rokiawhana Stream,,460,169,docz,S23,2766474,6114093,7034837,efp,,,160
+110364,12,2009,Manawatu River,1141063,Rokaiwhania Stream,325.3,1130,Tamaki River Tributary Rokaiwhana Stream,,460,169,docz,S23,2766674,6114458,7034837,efp,,,2.5
+110366,12,2009,Manawatu River,1141059,Mangahao River lower,325.19,1345,Roaring Creek,,436,179,docz,T24,2718977,6060678,7046786,efp,,,125
+110368,12,2009,Manawatu River,1141064,Tamaki River,325.3,1000,Tamaki River,,416,171,docz,S23,2768300,6116200,7034557,efp,,,
+110369,12,2009,Manawatu River,1141064,Tamaki River,325.3,1300,Tamaki River,,328,167,docz,S23,2770989,6113261,7034888,efp,,,
+110370,12,2009,Manawatu River,1141064,Tamaki River,325.3,1500,Tamaki River,,344,168,docz,S23,2769966,6114477,7034888,efp,,,400
+110372,12,2009,Manawatu River,1141059,Mangahao River lower,325.19,1400,Mangahao River unnamed tributary,,465,178,docz,T24,2719108,6060973,7046540,efp,,,20
+110373,12,2009,Manawatu River,1141064,Tamaki River,325.3,1130,Tamaki River West Branch unnamed tributa,,656,172,docz,S23,2768189,6116542,7034254,efp,,,20
+110383,12,2009,Manawatu River,1141063,Rokaiwhania Stream,325,1200,Rokaiwhana River unnamed tributary,,460,169,docz,S24,2766801,6114673,7034837,efp,,,3
+110384,12,2009,Manawatu River,1141064,Tamaki River,325.3,1230,Tamaki River West Branch unnamed tributa,,656,172,docz,S23,2768189,6116542,7034254,efp,,,20
+30916,3,2010,Rangitikei River,1141069,Pourangaki River,327.244,1630,Pourangaki River,,435,140,hori,T22,2763600,6150700,7027697,efm,1,,
+31102,3,2010,Clive River,1141009,Poukawa Stream,231.532,2035,Poukawa Stream,,11,31,mwh,V21,2835274,6160516,8026454,spo,,,
+34517,2,2010,Hutt River,1141046,Hutt River - Pakuratahi Forks,298, ,Hutt River, ,199,43,wnrc,S26,2694174,6014945,9008427,efp,1, , 
+101176,3,2010,Wairau River,1141138,Wye River,601.28,1100,Wye River,,480,81,doc,,2536077,5945734,11023826,efp,1,,50
+101177,3,2010,Wairau River,1141183,Boundary Creek,601.22,1430,Boundary Creek,,300,67,doc,,2545286,5951133,11022558,efp,1,,40
+101178,3,2010,Wairau River,1141183,Boundary Creek,601.213,1330,Boundary Creek,,520,72,doc,,2543128,5948091,11023371,efp,1,,50
+101223,2,2010,Clarence River,1141174,The Ribble,621.58,1000,The Ribble,,720,172,doc,N31,2506984,5867367,13009131,efp,,,70
+101227,2,2010,Wairau River,1141154,Alan Stream,601.021,1100,Alan Stream,,620,105,doc,N29,2519612,5934536,11026889,efp,,,
+110335,3,2010,Rangitikei River,1141069,Pourangaki River,327.24,,Kawhatau River,,463,138,docz,T22,2763483,6150902,7027554,efp,,,
+112339,3,2010,Rangitikei River,1141070,Hikurangi Stream,327.246, ,Hikurangi Stream, ,551,143,docz,T22,2766125,6152856,7027114,efp, , , 
+112344,4,2010,Manawatu River,1141066,Mangatewainui River,325.42,1020,Mangatewainui River, ,404,208,mwrc,U23,2779724,6121468,7033504,efp, , , 
+112348,3,2010,Rangitikei River,1141069,Pourangaki River,327.24,1500,Pourangaki Stream, ,482,138,mwrc,T22,2763571,6150725,7027697,efp, , , 
+114598,12,2010,Manawatu River,1141181,Pohangina River,325.17,1130,Pohangina River, ,159,125,mwrc,S24,2752993,6116756,7034430,efp, , , 
+33326,3,2011,Tukituki River,1141027,Makaretu River middle,232.121,12.2,Makaretu @ SH50,,250,106,hbrc,U23,2793598,6126917,8031515,efp,1,,900
+33328,2,2011,Clive River,1141009,Poukawa Stream,231.51,1058,Karamu Stream Pekapeka Swamp,,25,37,hbrc,V22,2832146,6157345,8027000,fyn,,,2
+33334,2,2011,Tukituki River,1141018,Mangataura Stream,232.103,1330,Mangataura Stream, ,345,114,hbrc,U22,2791397,6150117,8028001,efp,1, ,690
+33335,5,2011,Tukituki River,1141029,Mangatewai River,232.123,1100,Mangatewai River,,240,104,hbrc,U23,2794116,6129702,8031035,efp,1,,150
+33336,3,2011,Tukituki River,1141028,Makaretu River upper,232.121,1026,Makaretu River,,380,121,hbrc,U23,2781438,6128430,8031308,efp,1,,
+33337,12,2011,Tukituki River,1141033,Tukituki River upper,232,day,Tukituki River,,300,106,hbrc,U22,2792501,6139054,8029691,efp,1,,270
+33338,12,2011,Tukituki River,1141026,Makaretu River lower,232.121,day,Makaretu River,,160,90,hbrc,U23,2804279,6129098,8031157,efp,1,,270
+33340,12,2011,Tukituki River,1141023,Tukituki River middle,232.001,day,Tukituki River,,150,87,hbrc,U22,2807487,6132701,8030655,efp,,,270
+33341,12,2011,Tukituki River,1141029,Mangatewai River,232.12,day,Tukipo River,,150,88,hbrc,U22,2806299,6131084,8030909,efp,1,,270
+33343,12,2011,Tukituki River,1141011,Waipawa River tributary,232.1, ,Cochranes Creek, ,160,80,hbrc,V22,2812110,6134586,8030465,efp,1, ,270
+36198,2,2011,Manawatu River,1141054,Opawe Stream,325.177,2339,Opawe Stream tributary, ,305,134,hor,t23,2756800,6113431,7035103,spo, , , 
+101081,6,2011,Rangitikei River,1141070,Hikurangi Stream,327.24,13,Kawhatau River,,490,142,hor,T22,2766218,6152940,7027114,efm,,,800
+101082,7,2011,Manawatu River,1141054,Opawe Stream,325.177,13,Opawe Stream,,285,129,hor,T23,2756489,6113755,7034957,efm,,,555
+101083,6,2011,Rangitikei River,1141069,Pourangaki River,327.24,14,Mangakokeke Stream,,440,137,hor,T22,2763548,6150722,7027545,efm,1,,750
+101126,6,2011,Rangitikei River,1141070,Hikurangi Stream,327.246,10.2,Hikurangi Stream,,490,143,hor,T22,2766116,6152834,7027114,efm,1,,825
+102684,3,2011,Clarence River,1141169,Dillion River,621.55,1600,Dillon River Tributary,,1001,183,doco,N31,2524035,5882665,13005477,vbd,,,5
+102685,3,2011,Clarence River,1141169,Dillion River,621.55,1400,Dillon River,,986,187,doco,N31,2524980,5885481,13005008,vbd,,,6
+102686,3,2011,Clarence River,1141169,Dillion River,621.55,1500,Dillon River,,989,185,doco,N31,2525235,5884050,13005464,vbd,,,10
+102687,3,2011,Clarence River,1141169,Dillion River,621.552,1200,Half Moon Stream,,1128,190,doco,N31,2524330,5886455,13004778,vbd,,,
+102688,3,2011,Clarence River,1141169,Dillion River,621.552,1600,Half Moon Stream,,1064,182,doco,N31,2521225,5880940,13006159,vbd,,,
+102689,3,2011,Clarence River,1141169,Dillion River,621.552,1530,Half Moon Stream,,1093,183,doco,N31,2521240,5881920,13005770,vbd,,,
+102690,3,2011,Clarence River,1141169,Dillion River,621.552,1500,Half Moon Stream,,960,185,doco,N31,2521425,5883635,13005554,vbd,,,5
+105974,11,2011,Motueka River,1141078,Brooklyn Stream,570.01,1445,Brooklyn Stream,,113,8,tdc,N26,2504884,6011793,10006898,efp,,,
+112322,2,2011,Manawatu River,1141062,Mangapuaka Stream,325.4,1415,Mangapuaka Stream, ,420,163,mwrc,U23,2763593,6110669,7035602,efp, , , 
+112323,2,2011,Manawatu River,1141064,Tamaki River,325.3,757,Tamaki River, ,433,172,mwrc,S23,2770988,6117081,7034274,efp, , , 
+33331,2,2012,Tukituki River,1141033,Tukituki River upper,232.12,1100,Tukipo River,,245,100,eam,U22,2796308,6135723,8030251,efp,,,
+33332,2,2012,Tukituki River,1141030,Tukipo River lower,232.001,1300,Tukituki River (above Mangarara Stream),,225,102,eam,U22,2794766,6132380,8030706,efp,,,
+33886,12,2012,Motueka River,1141088,Motupiko River middle,570.16,1230,Motupiko River,,343,91,nmfg,N28,2494007,5954185,10021946,efp,1,,250
+101085,1,2012,Rangitikei River,1141071,Kawhatau River,327.24,22.15,Kawhatau River tributary, ,800,156,hor,U22,2774595,6155250,7026505,spo, , , 
+101086,1,2012,Rangitikei River,1141071,Kawhatau River,327.24,21.25,Kawhatau River,,880,157,hor,U22,2774987,6154910,7026796,spo,,,
+101087,1,2012,Rangitikei River,1141071,Kawhatau River,327.24,23.3,Kawhatau River,,790,156,hor,U22,2774350,6155250,7026722,spo,,,
+101088,1,2012,Rangitikei River,1141071,Kawhatau River,327.24,23,Kawhatau River, ,800,156,hor,U22,2774179,6155190,7026780,spo, , , 
+101100,4,2012,Manawatu River,1141062,Mangapuaka Stream,325.281,830,Mangapuaka Stream,,200,154,hor,T23,2766402,6105225,7036367,ef,1,,390
+101102,4,2012,Manawatu River,1141064,Tamaki River,325.3,,Tamaki River,,390,170,hor,T23,2768288,6116157,7034557,ef,1,,480
+101108,6,2012,Manawatu River,1141059,Mangahao River lower,325.19,12,Roaring Creek,,390,178,hor,S25,2718975,6060648,7046786,efm,1,,645
+101109,6,2012,Manawatu River,1141059,Mangahao River lower,325.19,13.4,Mangahao River,,390,178,hor,S25,2718950,6060550,7046786,efm,1,,
+101121,6,2012,Manawatu River,1141061,Oruakeretaki Stream,325,11.45,Oruakeretaki Stream,,290,161,hor,T23,2761625,6106746,7036385,efm,1,,540
+101122,5,2012,Manawatu River,1141055,Pohangina River tributary,325.17,13.3,Pohangina River tributary,,800,148,hor,T23,2768009,6121127,7033647,efm,1,,675
+101123,5,2012,Rangitikei River,1141070,Hikurangi Stream,327.246,14,Hikurangi Stream,,500,142,hor,T22,2766105,6152893,7027114,efm,1,,585
+101124,3,2012,Manawatu River,1141056,Manawatu River tributary,325,14.3,Manawatu River tributary,,160,111,hor,T24,2746699,6089205,7039942,efm,1,,495
+101125,3,2012,Manawatu River,1141056,Manawatu River tributary,325,20,Manawatu River tributary,,170,111,hor,T24,2746686,6089210,7039942,spo,,,495
+101208,5,2012,Whites Bay,1141130,Pukatea Stream,600,1030,Pukatea Stream, ,0,0,doc,P28,2598505,5979674,11014596,efp,1, ,50
+112353,11,2012,Manawatu River,1141067,Manawatu River,325,1114,Manawatu River, ,514,225,mwrc,S24,2778689,6125975,7032886,efp, , , 
+112358,12,2012,Manawatu River,1141061,Oruakeretaki Stream,325.27,1405,Mangapukakakahu Stream, ,313,159,mwrc,T23,2762984,6107016,7036159,efp, , , 
+112359,12,2012,Manawatu River,1141063,Rokaiwhania Stream,325.3,1146,Rokaiwhana Stream, ,269,162,mwrc,S23,2769125,6109949,7035920,efp, , , 
+112360,12,2012,Manawatu River,1141064,Tamaki River,325.3,930,Tamaki River, ,416,171,mwrc,S23,2768268,6116154,7034557,efp, , , 
+112365,12,2012,Manawatu River,1141062,Mangapuaka Stream,325.281,900,Mangapuaka Stream, ,243,154,mwrc,T23,2766401,6105230,7036367,efp, , , 
+114606,3,2012,Manawatu River,1141064,Tamaki River,325.3,0,Tamaki River, ,292,163,mwrc,S23,2770700,6110831,7035283,efp, , , 
+114607,4,2012,Manawatu River,1141064,Tamaki River,325.3,0,Tamaki River, ,292,163,mwrc,S23,2770669,6110763,7035283,efp, , , 
+114608,2,2012,Manawatu River,1141064,Tamaki River,325.3,0,Tamaki River, ,292,163,mwrc,S23,2770766,6110873,7035283,efp, , , 
+114610,11,2012,Manawatu River,1141064,Tamaki River,325.3,0,Tamaki River, ,292,163,mwrc,S23,2770703,6110818,7035283,efp, , , 
+34070,5,2013,Clarence River,1141177,Clarence River,621,1300,Clarence River,,1059,225,doc,n31,2490020,5886470,13004783,efp,0,,100
+104373,1,2013,Ngaruroro River,1141007,Poporangi Stream lower,231.142,1130,Ohara Stream,,241,63,hbrc,U21,2804311,6172305,8024900,efp,,,
+105027,12,2013,Manawatu River,1141062,Mangapuaka Stream,325.281,1235,Mangapuaka Stream,,314,159,unk,T23,2765225,6107188,7035787,efp,,,
+105035,12,2013,Manawatu River,1141067,Manawatu River,325,900,Manawatu River,,514,225,unk,S24,2778575,6125983,7032886,efp,,,
+105111,4,2013,Manawatu River,1141061,Oruakeretaki Stream,325.27,1000,Mangapukakakahu Stream tributary, ,289,159,unk,T23,2762617,6105273,7036716,efp, , , 
+112397,6,2013,Manawatu River,1141059,Mangahao River lower,325.19,1345,Roaring Creek, ,436,179,mwrc,T24,2718982,6060689,7046786,efp, , , 
+112398,6,2013,Manawatu River,1141058,Baber Creek,325.19,1115,Baber Creek, ,562,179,mwrc,T24,2720312,6060510,7046827,efp, , , 
+112399,6,2013,Manawatu River,1141058,Baber Creek,325.19,955,College Creek, ,475,179,mwrc,T24,2720347,6060547,7046741,efp, , , 
+112400,5,2013,Manawatu River,1141061,Oruakeretaki Stream,325.26,920,Oruateretaki Stream unnamed tributary, ,234,154,mwrc,T23,2765468,6103498,7037153,efp, , , 
+112401,5,2013,Rangitikei River,1141069,Pourangaki River,327.244,1357,Pourangaki River, ,473,138,mwrc,T22,2763412,6150788,7027620,efp, , , 
+112402,5,2013,Rangitikei River,1141068,Mangawharariki River,327.22,958,Mangawharariki River, ,543,132,mwrc,T22,2761621,6144334,7029062,efp, , , 
+112403,4,2013,Rangitikei River,1141069,Pourangaki River,327.245,1340,Mangakukeke Stream, ,486,138,mwrc,T22,2763545,6150730,7027562,efp, , , 
+112404,4,2013,Rangitikei River,1141070,Hikurangi Stream,327.246,1000,Hikurangi Stream, ,551,143,mwrc,T22,2766103,6152906,7027114,efp, , , 
+112405,2,2013,Manawatu River,1141057,Tramway Creek,325.19,1000,Tramway Creek, ,422,176,mwrc,T24,2720152,6062723,7046143,efp, , , 
+112406,1,2013,Manawatu River,1141066,Mangatewainui River,325.42,1400,Mangatewainui River, ,404,208,mwrc,U23,2779549,6121591,7033504,efp, , , 
+112408,1,2013,Manawatu River,1141061,Oruakeretaki Stream,325.26,1315,Oruakeretaki Stream unnamed tributary, ,289,159,mwrc,T23,2762569,6105303,7036716,efp, , , 
+112409,1,2013,Manawatu River,1141062,Mangapuaka Stream,325.281,930,Mangapuaka Stream, ,420,163,mwrc,T23,2763735,6110654,7035602,efp, , , 
+112411,1,2013,Manawatu River,1141061,Oruakeretaki Stream,325.26,1315,Oruakeretaki Stream, ,273,159,mwrc,T23,2762805,6105896,7036584,efp, , , 
+112419,12,2013,Manawatu River,1141062,Mangapuaka Stream,325.281,945,Mangapuaka Stream, ,243,154,mwrc,T23,2766400,6105223,7036367,efp, , , 
+112424,12,2013,Manawatu River,1141063,Rokaiwhania Stream,325.3,1205,Rokaiwhana Stream, ,269,162,mwrc,S23,2769124,6109954,7035920,efp, , , 
+114609,1,2013,Manawatu River,1141064,Tamaki River,325.3,0,Tamaki River, ,292,163,mwrc,S23,2770696,6110817,7035283,efp, , , 
+114611,2,2013,Manawatu River,1141064,Tamaki River,325.3,1045,Tamaki River, ,292,163,mwrc,S23,2770697,6110819,7035283,efp, , , 
+114612,12,2013,Manawatu River,1141064,Tamaki River,325.3,0,Tamaki River, ,292,163,mwrc,S23,2770694,6110769,7035283,efp, , , 
+105024,1,2014,Manawatu River,1141064,Tamaki River,325.3,1220,Tamaki River,,289,163,unk,S23,2770820,6110940,7035197,efp,,,
+105977,11,2014,Waihou River,1141001,Waihou River,92,840,Waihou River,,145,184,docb,T12,2759295,6347800,3023556,,,,1504.8
+110417,1,2014,Manawatu River,1141061,Oruakeretaki Stream,325.27,1200,Mangapukakakahu Stream,,313,159,mwrc,T23,2763004,6106896,7036159,efp,,,540
+110418,2,2014,Manawatu River,1141064,Tamaki River,325.3,1115,Tamaki River West Branch,,465,171,mwrc,S23,2768140,6116230,7034495,efp,,,735
+114613,1,2014,Manawatu River,1141064,Tamaki River,325.3,0,Tamaki River, ,292,163,mwrc,S23,2770698,6110940,7035283,efp, , , 
+105987,3,2015,Waihou River,1141001,Waihou River,92,1016,Waihou River, ,145,184,docb,T12,2759295,6347800,3023556, , , , 
+105988,3,2015,Waihou River,1141001,Waihou River,92,1312,Waihou River,,135,183,docb,T12,2758954,6347972,3023556,,,,1520.4
+110264,3,2015,Waihou River,1141001,Waihou River,92,1028,Waihou River, ,145,184,docb,T12,2759286,6347790,3023556,div, , , 
+110265,3,2015,Waihou River,1141001,Waihou River,92,1030,Waihou River, ,145,184,docb,T12,2759295,6347791,3023556,div, , , 
+110266,3,2015,Waihou River,1141001,Waihou River,92,1034,Waihou River, ,145,184,docb,T12,2759289,6347799,3023556,div, , , 
+110267,3,2015,Waihou River,1141001,Waihou River,92,1035,Waihou River, ,145,184,docb,T12,2759280,6347804,3023556,div, , , 
+110268,3,2015,Waihou River,1141001,Waihou River,92,1037,Waihou River, ,145,184,docb,T12,2759299,6347827,3023556,div, , , 
+110269,3,2015,Waihou River,1141001,Waihou River,92,1039,Waihou River, ,145,184,docc,T12,2759297,6347805,3023556,div, , , 
+110272,3,2015,Waihou River,1141001,Waihou River,92,1045,Waihou River, ,145,184,docb,T12,2759243,6347865,3023556,div, , , 
+110275,3,2015,Waihou River,1141001,Waihou River,92,1048,Waihou River, ,145,184,docb,T12,2759282,6347829,3023556,div, , , 
+110276,3,2015,Waihou River,1141001,Waihou River,92,1050,Waihou River, ,145,184,docb,T12,2759281,6347830,3023556,div, , , 
+110277,3,2015,Waihou River,1141001,Waihou River,92,1051,Waihou River, ,145,184,docb,T12,2759299,6347827,3023556,div, , , 
+110278,3,2015,Waihou River,1141001,Waihou River,92,1051,Waihou River, ,145,184,docb,T12,2759301,6347836,3023556,div, , , 
+110279,3,2015,Waihou River,1141001,Waihou River,92,1052,Waihou River, ,145,184,docb,T12,2759290,6347859,3023556,div, , , 
+110280,3,2015,Waihou River,1141001,Waihou River,92,1055,Waihou River, ,145,184,docb,T12,2759288,6347844,3023556,div, , , 
+110281,3,2015,Waihou River,1141001,Waihou River,92,1058,Waihou River, ,145,184,docb,T12,2759278,6347864,3023556,div, , , 
+110282,3,2015,Waihou River,1141001,Waihou River,92,1059,Waihou River, ,145,184,docb,T12,2759287,6347862,3023556,div, , , 
+110283,3,2015,Waihou River,1141001,Waihou River,92,1102,Waihou River, ,145,184,docb,T12,2759299,6347847,3023556,div, , , 
+110284,3,2015,Waihou River,1141001,Waihou River,92,1103,Waihou River, ,145,184,docb,T12,2759299,6347847,3023556,div, , , 
+110285,3,2015,Waihou River,1141001,Waihou River,92,1105,Waihou River, ,145,184,docb,T12,2759290,6347859,3023556,div, , , 
+110286,3,2015,Waihou River,1141001,Waihou River,92,1106,Waihou River, ,145,184,docb,T12,2759287,6347862,3023556,div, , , 
+110287,3,2015,Waihou River,1141001,Waihou River,92,1108,Waihou River, ,145,184,docb,T12,2759281,6347858,3023556,div, , , 
+110288,3,2015,Waihou River,1141001,Waihou River,92,1111,Waihou River, ,145,184,docb,T12,2759243,6347865,3023556,div, , , 
+110289,3,2015,Waihou River,1141001,Waihou River,92,1118,Waihou River, ,145,184,docb,T12,2759253,6347875,3023556,div, , , 
+110290,3,2015,Waihou River,1141001,Waihou River,92,1123,Waihou River, ,145,184,docb,T12,2759185,6347841,3023556,div, , , 
+110291,3,2015,Waihou River,1141001,Waihou River,92,1139,Waihou River, ,135,183,docb,T12,2759185,6347996,3023556,div, , , 
+110292,3,2015,Waihou River,1141001,Waihou River,92,1140,Waihou River, ,135,183,docb,T12,2759175,6348004,3023556,div, , , 
+110293,3,2015,Waihou River,1141001,Waihou River,92,1144,Waihou River, ,135,183,docb,T12,2759165,6347992,3023556,div, , , 
+110294,3,2015,Waihou River,1141001,Waihou River,92,1152,Waihou River, ,135,183,docb,T12,2759091,6347966,3023556,div, , , 
+112498,4,2015,Manawatu River,1141061,Oruakeretaki Stream,325.26,1000,Oruakeretaki unnamed tributary, ,289,159,mwrc,T23,2762617,6105273,7036716,efp, , , 
+116036,5,2015,Waikanae River,1141051,Waikanae River,315, ,Waikanae River, ,178,20,bml,R26,2690133,6035539,9003617,efp, , , 
+116037,5,2015,Otaki River,1141053,Waiotauru River,318,,Waiotauru River,,139,25,bml,R25,2696603,6033027,9004230,efp,,,
+110390,2,2017,Manawatu River,1141061,Oruakeretaki Stream,325.27,1430,Mangapukakakahu Stream,,313,159,mwrc,T23,2762994,6107166,7036159,efp,,,
+110798,5,2017,Manawatu River,1141062,Mangapuaka Stream,325.281,1015,Mangapuaka Stream,,243,154,mwrc,T23,2766433,6105184,7036367,efp,,,450
+110838,6,2017,Manawatu River,1141064,Tamaki River,325.3,1130,Tamaki River West Branch, ,416,171,mwrc,S23,2768319,6116200,7034557,efp, , , 
+114594,11,2017,Manawatu River,1141181,Pohangina River,325.17,1200,Pohangina River, ,159,125,mwrc,S24,2752997,6116637,7034430,fys, , ,8
+117094,11,2017,Wainuiomata River,1141042,Wainuiomata River,296,1200,Wainuiomata River, ,150,29,wnrc,R28,2678003,5992134,9013597,efp,,,
+112686,1,2018,Kaituna River,1141179,Kaituna River 1,590,945,Kaituna River, ,0,4,mdc,P27,2574808,5988059,11012188,vbd, , , 
+112876,1,2018,Wairau River,1141180,Wairau River 1,601,233,Wairau River, ,108,42,mdc,P28,2560111,5964292,11019274,vbd, , , 
+113658,4,2018,Manawatu River,1141064,Tamaki River,325.3,942,Tamaki River, ,416,171,mwrc,S23,2768360,6116143,7034557,efp, , , 
+113902,5,2018,Manawatu River,1141062,Mangapuaka Stream,325.281,1135,Mangapuaka Stream, ,243,154,mwrc,T23,2766443,6105158,7036367,efp, , , 
+114558,9,2018,Wainuiomata River,1141041,Catchpool Stream,296.1,1245,Catchpool Stream, ,67,13,mtsw,R27,2671436,5982506,9015561,han, , ,1
+114584,3,2018,Motueka River,1141094,Motupiko River upper,570.16,1100,Motupiko River, ,588,108,tdc,N28,2501226,5940120,10025271,efp, , , 
+114585,3,2018,Motueka River,1141094,Motupiko River upper,570.16,1200,5 Mile Creek, ,650,109,tdc,N28,2501376,5939854,10025525,efp, , , 
+114586,3,2018,Motueka River,1141094,Motupiko River upper,570.16,1300,Motupiko River, ,538,105,tdc,N28,2500679,5942909,10024747,efp, , , 
+115794,1,2018,Ngaruroro River,1141005,Ngaruroro River - Fernhill ,231,1100,Ngaruroro River, ,28,18,docw,V21,2832841,6172982,8024783,efp, , , 
+115795,1,2018,Ngaruroro River,1141005,Ngaruroro River - Fernhill ,231,1230,Ngaruroro River, ,81,33,docw,V21,2821250,6167208,8025553,efp, , , 
+116020,5,2018,Waikanae River,1141051,Waikanae River,315, ,Waikanae River, ,141,18,bml,R26,2689643,6034466,9003918,efp, , , 
+115688,3,2019,Manawatu River,1141064,Tamaki River,325.3,950,Tamaki River, ,393,171,mwrc,S23,2768295,6116189,7034557,efp, , , 
+115783,3,2019,Manawatu River,1141062,Mangapuaka Stream,325.281,1319,Mangapuaka Stream, ,240,154,mwrc,T23,2766467,6105150,7036367,efp, , , 
+119879,1,2010,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,0,Hutt River, ,181,41,wnfg,R27,2694274,6014350,9008703,div,,,
+119212,2,2016,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,0,Hutt River, ,181,41,wnfg,R27,2694274,6014350,9008703,div,,,
+119167,2,2017,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,0,Hutt River, ,181,41,wnfg,R27,2694274,6014350,9008703,div,,,
+119074,3,2018,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,0,Hutt River, ,181,41,wnfg,R27,2694274,6014350,9008703,div,,,
+118726,3,2019,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,0,Hutt River, ,181,41,wnfg,R27,2694274,6014350,9008703,div,,,
+118613,2,2020,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,0,Hutt River, ,181,41,wnfg,R27,2694274,6014350,9008703,div,,,
+118222,1,2013,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,0,Hutt River, ,191,42,wnfg,R27,2694378,6014434,9008631,div,,,
+117989,3,2009,Ruamahanga River,1141037,Mangatarere Stream,292.243,847,Mangatarere Stream, ,196,100,wnfg,S26,2720004,6027642,9005669,div,,,
+118290,1,2013,Ruamahanga River,1141037,Mangatarere Stream,292.243,0,Mangatarere Stream, ,196,100,wnfg,S26,2719973,6027697,9005669,div,,,
+119102,12,2018,Ruamahanga River,1141037,Mangatarere Stream,292.243,0,Mangatarere Stream, ,196,100,wnfg,S26,2719976,6027700,9005669,div,,,
+118575,2,2016,Ruamahanga River,1141037,Mangatarere Stream,292.243,0,Mangatarere Stream, ,196,100,wnfg,S26,2719980,6027704,9005669,div,,,
+120438,1,2015,Ruamahanga River,1141037,Mangatarere Stream,292.243,0,Mangatarere River, ,196,100,wnfg,S26,2720008,6027725,9005669,div,,,
+122866,3,2014,Rangitaiki River,1141214,Ohutu Stream,154.2,,Ohutu Stream, ,251,82,bprc,V17,2844827,6305337,4021130,efp,, ,
+122867,3,2014,Rangitaiki River,1141214,Ohutu Stream,154.2,,Ohutu Stream, ,236,81,bprc,V17,2844623,6305348,4021130,efp,, ,
+122882,3,2014,Rangitaiki River,1141213,Hikurangi Stream,154,,Hikurangi Stream, ,254,73,bprc,W15,2844887,6308567,4020467,efp,, ,
+121402,3,2007,Clarence River,1141212,Unnamed stream Leader Dale,621.64,,Leader Dale, ,866,201,docn, ,2495322,5867521,13009123,efp,1, ,
+119488,,2004,Clarence River,1141211,Clarence River tributary 1,621,,Clarence River tributary, ,822,193,uoo, ,2493999,5861900,13010619,efp,1, ,
+121141,4,2005,Clarence River,1141210,Stoat Creek,621.54,,Stoat Creek, ,798,162,docc, ,2518520,5870115,13008597,efp,1, ,
+121079,2,2005,Awatere River,1141209,Tone River,602.32,,Tone River, ,1189,125,docc, ,2540300,5896499,11033410,efp,1, ,
+121094,5,2005,Awatere River,1141209,Tone River,602.32,,Tone River, ,999,118,uoo, ,2544500,5900099,11033121,efp,1, ,
+121095,5,2005,Awatere River,1141209,Tone River,602.32,,Tone River, ,1040,119,uoo, ,2543800,5898800,11033121,efp,1, ,
+121096,5,2005,Awatere River,1141209,Tone River,602.32,,Tone River, ,999,118,uoo, ,2544500,5899599,11033121,efp,1, ,
+121144,4,2006,Awatere River,1141208,Ribble Stream,602.22,,Ribble Stream, ,662,77,docc, ,2561966,5925956,11028853,efp,1, ,
+121403,3,2009,Clarence River,1141215,Acheron River 2,621.59,,Acheron River, ,1121,233,docc, ,2531567,5910513,13000925,efp,1, ,
+121404,3,2009,Clarence River,1141207,Saxton River,621.596,,Saxton River, ,1264,236,docc, ,2527269,5917002,13000213,efp,1, ,
+121091,5,2005,Clarence River,1141206,Cat Creek (Clarence River),621.595,,Cat Creek, ,1002,225,uoo, ,2504499,5891500,13003676,efp,1, ,
+119494,,2004,Wairau River,1141205,Wairau River tributary 3,601,,Wairau River tributary, ,1026,160,uoo, ,2502500,5897000,11033393,efp,1, ,
+119491,,2004,Wairau River,1141204,Wairau River 7,601,,Wairau River, ,1123,167,uoo, ,2495400,5895699,11033452,efp,1, ,
+119492,,2004,Wairau River,1141203,Unnamed stream Rag and Famish Gully,601,,Rag and Famish Gully, ,1145,165,uoo, ,2497700,5895800,11033470,efp,1, ,
+121432,1,2015,Clarence River,1141202,Sandy Stream,621.701,,Sandy Stream, ,1119,224,nmfg, ,2488384,5887154,13004716,efp,1, ,
+122099,4,2021,Wairau River,1141201,Branch River 4,601.021,1215,Branch River, ,521,105,nmfg, ,2519390,5934128,11026954,efp,1, ,100
+120897,2,2021,Motueka River,1141200,Unnamed stream Hunters Gully,570.16,1117,Hunters Gully, ,463,99,f&ws,N28,2498782,5947852,10023488,efp,, ,
+121121,11,2005,Motueka River,1141199,Motueka River 2,570,,Motueka River, ,380,89,docn, ,2502699,5952699,10022270,efp,1, ,
+121072,,2004,Wairau River,1141198,Wairau River tributary 4,601,,Wairau River tributary, ,253,63,uoo, ,2544300,5958099,11020981,efp,1, ,
+121071,,2004,Wairau River,1141197,Wairau River 6,601,,Wairau River, ,150,50,uoo, ,2553699,5962500,11019973,efp,1, ,
+121116,,2005,Wairau River,1141196,Wairau River 5,601,,Wairau River, ,46,22,uoo, ,2576900,5969300,11017967,efp,1, ,
+121117,,2005,Kaituna River,1141195,Kaituna River 2,590,,Kaituna River, ,72,18,uoo, ,2574200,5977400,11015242,efp,1, ,
+121118,,2005,Kaituna River,1141195,Kaituna River 2,590.08,,Okaramio River, ,64,18,uoo, ,2574800,5978000,11015281,efp,1, ,
+121109,,2005,Pelorus River,1141194,Ronga River 2,589.137,,Ronga River, ,107,39,uoo, ,2561100,6005499,11008166,efp,1, ,
+121049,9,2020,Korokoro Stream,1141193,Korokoro Stream,297.2,1300,Korokoro Stream, ,131,7,mtsw,R27,2668589,6001242,9011711,vbd,, ,
+120952,2,2020,Duck Creek,1141192,Duck Creek,307,1644,Duck Creek, ,87,5,crdn,R27,2668719,6005470,9010612,fys,, ,
+122515,7,2021,Duck Creek,1141192,Duck Creek,307,200,Duck Creek, ,87,5,crdn,R27,2668779,6005513,9010612,tcb,, ,
+122637,8,2021,Duck Creek,1141192,Duck Creek,307,1000,Duck Creek, ,87,5,crdn,R27,2668779,6005513,9010612,efp,, ,
+121068,12,1998,Tukituki River,1141191,Waipawa River - Pendle Hill,232.1,,Waipawa River, ,329,110,niwa, ,2792392,6147050,8028413,efp,1, ,
+121754,6,2020,Ruamahanga River,1141190,Abbots Creek,292.067,922,Abbots Creek, ,110,45,wnfg,S27,2702459,6008650,9009966,efp,, ,
+122219,6,2020,Ruamahanga River,1141190,Abbots Creek,292.067,,Abbots Creek, ,110,45,wnfg,S27,2702452,6008643,9009966,efp,, ,
+122107,3,2021,Wairau River,1141185,Bobs Stream,601.361,,Bobs Stream, ,698,114,nmfg, ,2524600,5928009,11028517,efp,1, ,100
+121070,,2004,Wairau River,1141180,Wairau River 1,601,,Wairau River, ,109,40,uoo, ,2561999,5964999,11019313,efp,1, ,
+121111,,2005,Kaituna River,1141179,Kaituna River 1,590,,Kaituna River, ,20,4,uoo, ,2574899,5988100,11012276,efp,1, ,
+121113,,2005,Kaituna River,1141179,Kaituna River 1,590,,Kaituna River, ,20,7,uoo, ,2573900,5985400,11013049,efp,1, ,
+121146,4,2006,Clarence River,1141169,Dillion River,621.552,,Half Moon Stream, ,911,182,docc, ,2521301,5881069,13006087,efp,1, ,
+122100,4,2021,Wairau River,1141154,Alan Stream,601.36,1140,Alan Stream, ,556,105,nmfg, ,2519572,5934525,11026955,efp,1, ,120
+122111,3,2021,Wairau River,1141153,Branch River 3,621.02,1200,Branch River, ,481,102,nmfg, ,2520507,5937262,11026112,efp,1, ,200
+122109,3,2021,Wairau River,1141151,Nesbits Creek,601.362,930,Nesbits Creek, ,469,100,nmfg, ,2521001,5939014,11025755,efp,1, ,100
+122110,3,2021,Wairau River,1141151,Nesbits Creek,601.36,1030,Branch River, ,460,100,nmfg, ,2521068,5938968,11025616,efp,1, ,200
+122105,3,2021,Wairau River,1141149,Leatham River upper,601.361,1100,Leatham River, ,540,109,nmfg, ,2525698,5933732,11027147,efp,1, ,200
+122106,3,2021,Wairau River,1141149,Leatham River upper,601.361,930,Leatham River, ,540,107,nmfg, ,2525895,5934012,11027147,efp,1, ,200
+122113,4,2021,Wairau River,1141147,Cave Stream,601.361,,Cave Stream, ,544,106,nmfg, ,2526460,5935030,11026728,efp,1, ,100
+122104,4,2021,Wairau River,1141145,Boulder Stream,601.361,,Boulder Steam, ,503,104,nmfg, ,2527283,5937227,11026209,efp,1, ,200
+121089,5,2005,Wairau River,1141142,Leatham River tributary 1,601.361,,Leatham River, ,448,98,uoo, ,2525200,5940000,11025499,efp,1, ,
+122108,3,2021,Wairau River,1141141,Branch River 1,601.36,1500,Branch River, ,418,95,nmfg, ,2523646,5942919,11024773,efp,1, ,200
+121073,,2004,Wairau River,1141140,Goulter River,601.35,,Goulter River, ,340,86,uoo, ,2525399,5951900,11022457,efp,1, ,
+121112,,2005,Kaituna River,1141120,Waikaihu Stream,590.02,,Waikaihu Stream, ,29,7,uoo, ,2573100,5987099,11012562,efp,1, ,
+121552,1,2005,Kaituna River,1141120,Waikaihu Stream,590.02,,Waikaihu Stream, ,48,7,uoo,P27,2572600,5987200,11012560,efp,, ,
+121108,,2005,Pelorus River,1141113,Ronga River 1,589.137,,Ronga River, ,59,30,uoo, ,2559900,5999400,11009655,efp,1, ,
+121110,,2005,Pelorus River,1141110,Rai River lower,589.13,,Rai River, ,40,23,uoo, ,2558199,5993899,11010678,efp,1, ,
+121098,7,2005,Motueka River,1141086,Clark River upper,570.112,,Clark River, ,520,92,docn, ,2487400,5953500,10022085,efp,1, ,
+122615,5,2021,Rangitikei River,1141070,Hikurangi Stream,327.246,902,Hikurangi Stream, ,496,143,mwrc,T22,2766113,6152931,7027290,dna,, ,
+122264,7,2005,Rangitikei River,1141069,Pourangaki River,327.244,,Pourangaki River, ,440,138,wnfg,T22,2763525,6150777,7027620,vbd,, ,
+122330,3,2021,Manawatu River,1141067,Manawatu River,325,1000,Manawatu River, ,484,225,mwrc,S24,2778415,6125953,7032705,efp,, ,
+122378,3,2021,Manawatu River,1141067,Manawatu River,325,940,Manawatu River, ,484,225,mwrc,S24,2779407,6125165,7032705,efp,, ,
+122429,3,2021,Manawatu River,1141067,Manawatu River,325,1350,Manawatu River, ,456,224,mwrc,S24,2779517,6125047,7032897,efp,, ,
+120410,5,2011,Manawatu River,1141064,Tamaki River,325.3,1430,Tamaki River, ,413,171,mwrc,S23,2768178,6116223,7034495,efp,, ,
+122260,2,2021,Manawatu River,1141064,Tamaki River,325.3,1211,Tamaki River, ,393,171,mwrc,S23,2768299,6116200,7034557,dna,, ,
+122316,1,2021,Manawatu River,1141064,Tamaki River,325.3,1015,Tamaki River, ,413,171,mwrc,S23,2768093,6116357,7034495,efp,, ,
+122317,1,2021,Manawatu River,1141064,Tamaki River,325.3,923,Tamaki River, ,393,171,mwrc,S23,2768480,6116012,7034557,efp,, ,
+122318,1,2021,Manawatu River,1141064,Tamaki River,325.3,1055,Tamaki River, ,393,171,mwrc,S23,2768290,6116166,7034557,efp,, ,
+122319,1,2021,Manawatu River,1141064,Tamaki River,325.3,940,Tamaki River, ,340,168,mwrc,S23,2769981,6114522,7034888,efp,, ,
+121063,4,2021,Manawatu River,1141062,Mangapuaka Stream,325.281,942,Mangapuaka Stream, ,240,154,mwrc,T23,2766458,6105162,7036367,efp,, ,
+122322,2,2021,Manawatu River,1141061,Oruakeretaki Stream,325.27,1005,Mangapukakakahu Stream, ,300,159,mwrc,T23,2763003,6106953,7036159,efp,, ,
+122326,2,2021,Manawatu River,1141061,Oruakeretaki Stream,325.27,935,Mangapukakakahu Stream, ,337,162,mwrc,T23,2762522,6108109,7036128,efp,, ,
+122221,6,2020,Hutt River,1141046,Hutt River - Pakuratahi Forks,298,,Hutt River, ,181,41,wnfg,R27,2694269,6014291,9008703,efp,, ,
+122244,6,2020,Hutt River,1141046,Hutt River - Pakuratahi Forks,298.55,,Farm Creek, ,200,43,wnfg,S26,2694796,6013326,9008676,efp,, ,
+121066,12,1998,Tukituki River,1141031,Tangarewai Stream,232.124,,Tangarewai Stream, ,320,109,niwa, ,2787208,6132547,8030690,efp,1, ,
+121065,12,1998,Tukituki River,1141020,Makaroro River upper,232.102,,Makaroro River, ,438,124,niwa, ,2789512,6157227,8026952,efp,1, ,
+119483,12,1998,Tukituki River,1141016,Mangaonuku Stream upper,232.101,,Mangaonuku Stream, ,299,110,niwa, ,2808699,6157600,8026903,efp,1, ,
+119482,12,1998,Tukituki River,1141014,Mangamauku Stream,232.101,,Upokororo Stream, ,300,107,niwa, ,2802499,6152299,8027431,efp,1, ,
+119484,12,1998,Tukituki River,1141013,Mangaoho Stream,232.101,,Mangaoho Stream, ,290,104,niwa, ,2802300,6149200,8028014,efp,1, ,
+122274,1,2021,Ngaruroro River,1141008,Poporangi Stream upper,231.14,1130,Poporangi Stream, ,364,79,hbrc,U21,2799333,6161633,8026175,efp,, ,
+122888,3,2014,Rangitaiki River,1141004,Tukuhouhou Stream,154.2,,Horomanga River, ,405,98,bprc,V17,2847714,6290276,4024206,efp,, ,
+122889,3,2014,Rangitaiki River,1141004,Tukuhouhou Stream,154.2,,Kotuku uku Stream, ,421,98,bprc,V17,2847706,6290111,4024257,efp,, ,
+121067,8,1999,Rangitaiki River,1141002,Kopuriki Stream,154.17,,Kopuriki Stream, ,210,67,niwa, ,2844018,6313228,4019365,efp,1, ,
+122883,3,2014,Rangitaiki River,1141002,Kopuriki Stream,154.17,,Kopuriki Stream, ,210,67,bprc,V16,2843640,6313137,4019365,efp,, ,
+122908,3,2021,Wairau River,1141179,Kaituna River 1,590,0.333333333,Kaituna River,,20,7.47,fws,,2573917,5985459,11017220,efp,,40,
+122809,11,2017,Wairau River,1141131,Pukaka Stream,601.04,0.4375,Pukaka Stream,,74,10.86,nmfg,,2595077,5979510,11019417,efp,1,,200
+122769,9,2020,Wairau River,1141180,Wairau River 1,601,0.319444444,Wairau River,,116,43.75,ael,,2559495,5964407,11025629,efp,,500,
+119390,1,1999,Motueka River,1141187,Motupiko River tributary,570.16,,Motupiko River tributary,,826,114,uoo,,2503299,5936699,10026310,efp,1,,
+119393,1,1999,Wairau River,1141188,Stoney Stream,601.41,,Stoney Stream,,439,99,uoo,,2516600,5943599,11024557,efp,1,,
+119396,2,1999,Wairau River,1141189,Wairau River 3,601,,Wairau River,,817,141,uoo,,2501500,5911100,11031840,efp,1,,
+119232,6,2020,Ruamahanga River,1141190,Abbots Creek,292.067,,Abbots Creek,,110,45,wnfg,S27,2702455,6008640,9009966,efp,,,
+117970,11,2019,Ruamahanga River,1141190,Abbots Creek,292.067,2104,Abbots Creek,,110,45,mtsw,S27,2702407,6008646,9009966,spo,,,
