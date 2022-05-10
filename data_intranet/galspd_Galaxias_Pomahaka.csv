@@ -1,0 +1,342 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+4952,10,1982,Clutha River,1281020,Heriot Burn upper,752.143,day,Heriot Burn,,330,138,otfg,G44,2230900,5480600,14060775,ef,2,,
+4954,10,1982,Clutha River,1281020,Heriot Burn upper,752.143, ,Heriot Burn, ,270,135,otfg,g44,2228400,5480200,14060926,ef,2, , 
+4955,10,1982,Clutha River,1281020,Heriot Burn upper,752.143,day,Heriot Burn,,270,135,otfg,G44,2228300,5480200,14060926,ef,2,,
+4963,10,1982,Clutha River,1281016,Crookston Burn tributary 1,752.143, ,Black Gully, ,170,119,otfg,g44,2220900,5474500,14062452,ef,2, , 
+4901,2,1983,Clutha River,1281022,Leithen Burn,752.146,901,Leithen Burn tributary, ,240,132,otfg,f44,2204800,5479700,14061120,ef,2, ,50
+4905,2,1983,Clutha River,1281056,Waikokoi Creek lower,752.145,1542,Waikoikoi Creek, ,110,91,otfg,g45,2217000,5458500,14065917,ef,1, ,144
+4908,3,1983,Clutha River,1281036,Timber Creek,752.148,1245,Timber Creek,,370,165,otfg,G44,2212600,5499900,14054670,ef,2,,
+4909,3,1983,Clutha River,1281035,Valley Creek,752.148,1400,Valley Creek, ,470,162,otfg,g44,2213200,5497600,14055307,ef,2, , 
+4971,12,1984,Clutha River,1281002,Rankle Burn,752.141,940,Rankle Burn tributary,,180,73,otfg,g45,2226700,5459800,14065655,ef,1,,
+7833,11,1985,Clutha River,1281056,Waikokoi Creek lower,752.145, ,Waikoikoi Creek, ,110,91,otfg,g45,2217000,5458500,14065921,efp,1, , 
+7836,12,1985,Clutha River,1281022,Leithen Burn,752.146,,Leithen Burn tributary,,230,130,otfg,f44,2206100,5479000,14061305,efp,1,,
+7839,12,1985,Clutha River,1281027,Spylaw Burn lower,752.147, ,Spylaw Burn, ,230,141,otfg,g44,2212000,5485500,14059251,efp,1, , 
+7882,9,1991,Clutha River,1281024,Spylaw Burn tributary 1,752.147,day,Spylaw Burn,,230,137,otfg,G44,2210300,5485800,14059164,ef,2,,
+3022,9,1992,Clutha River,1281025,Thompsons Creek lower,752.147,day,Thompsons Creek tributary,,360,143,niwa,G44,2211300,5488800,14058207,ef,1,,
+14766,12,1995,Clutha River,1281020,Heriot Burn upper,752.143, ,Heriot Burn, ,230,131,indm,g44,2225500,5480800,14060760,fyn, , ,1
+14767,12,1995,Clutha River,1281019,Cameron Stream,752.143,,Cameron Stream,,220,129,indm,G44,2224100,5479200,14061184,pun,,,1
+14768,12,1995,Clutha River,1281017,Crookston Burn tributary 2,752.143,night,Crookston Burn tributary,,190,120,indm,G44,2222000,5475700,14062179,ncn,,,1
+14769,12,1995,Clutha River,1281016,Crookston Burn tributary 1,752.143,night,Black Gully tributary,,180,118,indm,G44,2220600,5474300,14062538,ncn,,,1
+14771,12,1995,Clutha River,1281021,Pomahaka River tributary 2,752.143,night,Unnamed pond,,150,122,indm,G44,2213500,5475900,14062031,ncn,,,3
+14795,12,1995,Clutha River,1281001,Pomahaka River tributary 1,752.14,night,Pomahaka River tributary,,30,56,indm,G45,2233200,5452600,14067074,ncn,,,
+14797,12,1995,Clutha River,1281002,Rankle Burn,752.141, ,Rankle Burn, ,70,68,indm,g45,2227500,5457000,14066210,fyn, , ,2
+5843,11,1996,Clutha River,1281020,Heriot Burn upper,752.143, ,Heriot Burn, ,240,131,orc,g44,2225500,5480900,14060760,han, , ,1
+24865,11,1998,Clutha River,1281033,Gorge Creek,752.146,1430,Gorge Creek,,510,162,doco,F44,2203900,5497800,14055484,efp,1,,50
+24866,11,1998,Clutha River,1281032,Camping Creek tributary,752.146,1415,Camping Creek tributary,,380,157,doco,F44,2207600,5495900,14055994,efp,1,,
+24867,11,1998,Clutha River,1281034,Archies Creek,752.146,1115,Archies Creek,,660,162,doco,F44,2202900,5495700,14056180,efp,1,,40
+24868,11,1998,Clutha River,1281033,Gorge Creek,752.146,1545,Gorge Creek,,420,160,doco,F44,2204700,5496600,14055884,efp,1,,90
+24870,11,1998,Clutha River,1281034,Archies Creek,752.146,1015,Archies Creek,,660,164,doco,f44,2201400,5496600,14055823,efp,1,,
+15203,11,2002,Clutha River,1281009,Waipahi River East Branch lower,752.144,1400,Waipahi River East Branch tributary, ,200,127,otfg,g46,2219900,5432600,14070631,ef,1, ,100
+15207,12,2002,Clutha River,1281020,Heriot Burn upper,752.143,900,Heriot Burn,,340,138,otfg,G44,2230800,5480500,14060901,ef,1,,40
+15211,10,2002,Clutha River,1281013,Waikokoi Creek tributary 2,752.145,1400,Waikoikoi Creek tributary, ,170,105,otfg,f45,2208800,5465700,14064241,ef,1, ,50
+15212,10,2002,Clutha River,1281014,Waikokoi Creek upper,752.145,1245,Waikoikoi Creek, ,150,106,otfg,g45,2211100,5467200,14064088,ef,1, ,40
+112127,12,2002,Clutha River,1281018,Heriot Burn lower,752.143,,Heriot Burn,,157,127,otfg,G44,2216700,5476800,14061854,efp,,,
+112128,12,2002,Clutha River,1281018,Heriot Burn lower,752.143,,Heriot Burn,,157,127,otfg,G44,2216600,5476700,14061854,efp,,,
+112129,12,2002,Clutha River,1281018,Heriot Burn lower,752.143, ,Heriot Burn, ,156,124,otfg,G44,2215800,5475100,14062378,efp, , , 
+112134,12,2002,Clutha River,1281010,Waipahi River East Branch middle,752.144, ,Waipahi River East Branch, ,235,140,otfg,G45,2219376,5429367,14071051,efp, , , 
+23601,4,2003,Clutha River,1281018,Heriot Burn lower,752.143,1000,Heriot Burn,,150,117,docs,G44,2215800,5475100,14062378,ef,3,,
+23602,4,2003,Clutha River,1281018,Heriot Burn lower,752.143,1045,Heriot Burn,,155,119,docs,g44,2216600,5476700,14061854,ef,3,,
+23603,4,2003,Clutha River,1281018,Heriot Burn lower,752.143,1100,Heriot Burn,,155,119,docs,g44,2216700,5476800,14061854,ef,3,,
+23611,4,2003,Clutha River,1281010,Waipahi River East Branch middle,752.144,1400,Waipahi River East Branch, ,230,133,docs,g46,2219400,5429400,14071052,ef,3, , 
+26543,11,2005,Clutha River,1281008,Waipahi River East Branch tributary 4,752.144,day,Waipahi River East Branch tributary,,260,129,doco,G46,2223911,5435845,14070119,efp,1,,
+26544,11,2005,Clutha River,1281008,Waipahi River East Branch tributary 4,752.144,1640,Waipahi River East Branch tributary,,250,128,doco,G46,2223244,5436627,14069981,efp,1,,
+26573,7,2005,Clutha River,1281035,Valley Creek,752.148,day,Valley Creek,,465,162,doco,G44,2213200,5497600,14055307,efp,1,,25
+26574,7,2005,Clutha River,1281025,Thompsons Creek lower,752.147,day,Thompsons Creek,,340,143,doco,G44,2211500,5488800,14058008,efp,1,,40
+26575,7,2005,Clutha River,1281025,Thompsons Creek lower,752.147,day,Thompsons Creek tributary,,360,143,doco,G44,2211200,5488700,14058207,efp,1,,50
+30452,12,2005,Clutha River,1281008,Waipahi River East Branch tributary 4,752.144,day,Waipahi River East Branch tributary,,202,125,uoo,G46,2222000,5435500,14070217,efp,,,
+30453,12,2005,Clutha River,1281009,Waipahi River East Branch lower,752.144,day,Waipahi River East Branch tributary,,200,127,uoo,G46,2219900,5432600,14070631,efp,,,
+30454,12,2005,Clutha River,1281010,Waipahi River East Branch middle,752.144,day,Waipahi River East Branch,,225,133,uoo,G46,2219300,5429300,14071052,efp,,,
+30455,12,2005,Clutha River,1281010,Waipahi River East Branch middle,752.144,day,Waipahi River East Branch tributary,,235,135,uoo,G46,2219500,5427900,14071243,efp,,,
+30456,12,2005,Clutha River,1281011,Waipahi River East Branch upper,752.144,day,Waipahi River East Branch tributary,,290,140,uoo,G46,2223200,5425700,14071392,efp,,,
+106446,4,2006,Clutha River,1281013,Waikokoi Creek tributary 2,752.145,1422,Waikoikoi Creek tributary,,149,110,unk,G45,2209548,5463183,14064968,efp,,,
+106447,4,2006,Clutha River,1281014,Waikokoi Creek upper,752.145,,Waikoikoi Creek,,155,114,unk,G45,2211041,5467540,14064047,efp,,,
+106449,4,2006,Clutha River,1281020,Heriot Burn upper,752.143,,Heriot Burn,,229,136,unk,G44,2225544,5480904,14060760,efp,,,
+29895,2,2007,Clutha River,1281013,Waikokoi Creek tributary 2,752.145,1200,Waikoikoi Creek tributary, ,150,106,ofg,f45,2208645,5466405,14064241,efm,1, , 
+31041,4,2007,Clutha River,1281015,Crookston Burn,752.143,1500,Crookston Burn,,210,119,orc,G44,2217822,5472126,14062956,ef,3,,70
+31042,4,2007,Clutha River,1281056,Waikokoi Creek lower,752.145,1030,Waikoikoi Creek, ,120,90,orc,G45,2217100,5458550,14065917,ef,3, ,100
+31043,4,2007,Clutha River,1281018,Heriot Burn lower,752.143,1630,Heriot Burn, ,155,117,orc,g44,2215829,5474966,14062378,ef,3, ,100
+31044,4,2007,Clutha River,1281010,Waipahi River East Branch middle,752.144,1430,Waipahi River, ,250,134,orc,g46,2219422,5428809,14071110,ef,3, ,30
+106386,7,2007,Clutha River,1281005,Waipahi River East Branch tributary 1,752.144,,Waipahi River tributary,,170,118,unk,G46,2211739,5439222,14069421,efp,1,,
+106388,7,2007,Clutha River,1281004,Kaiwera Stream tributary 1,752.144,,Kaiwera Stream tributary,,194,121,unk,F45,2208224,5440980,14069169,efp,1,,
+106389,7,2007,Clutha River,1281005,Waipahi River East Branch tributary 1,752.144,,Waipahi River tributary,,164,119,unk,G46,2212767,5438457,14069618,efp,1,,
+106390,7,2007,Clutha River,1281006,Waipahi River East Branch tributary 2,752.144,,Waipahi River tributary,,182,121,unk,G46,2213946,5436904,14069826,efp,1,,
+106391,7,2007,Clutha River,1281008,Waipahi River East Branch tributary 4,752.144,,Waipahi River tributary,,194,129,unk,G46,2219571,5436748,14070005,efp,1,,
+106392,7,2007,Clutha River,1281007,Waipahi River East Branch tributary 3,752.144,,Waipahi River tributary,,208,125,unk,G46,2217692,5439059,14069586,efp,1,,
+106394,5,2007,Clutha River,1281002,Rankle Burn,752.141,,Rankle Burn,,186,77,unk,G45,2226305,5458329,14065977,efp,1,,
+106397,6,2007,Clutha River,1281027,Spylaw Burn lower,752.147,,Spylaw Burn,,243,149,unk,G44,2212715,5485090,14059394,efp,1,,
+106398,6,2007,Clutha River,1281027,Spylaw Burn lower,752.147,,Spylaw Burn tributary,,286,153,unk,G44,2215687,5483838,14059826,efp,1,,
+106399,6,2007,Clutha River,1281029,Spylaw Burn middle,752.147,,Spylaw Burn,,286,163,unk,G44,2223134,5486122,14059017,efp,1,,
+106400,6,2007,Clutha River,1281030,Spylaw Burn tributary 2,752.147,,Spylaw Burn tributary,,277,166,unk,G44,2224160,5488341,14058332,efp,1,,
+106401,6,2007,Clutha River,1281026,Thompsons Creek upper,752.147,,Thompsons Creek,,460,155,unk,G44,2215320,5489904,14057854,efp,1,,
+106405,6,2007,Clutha River,1281031,Parasol Creek,752.14,,Parasol Creek,,739,163,unk,F44,2200098,5492859,14057047,efp,1,,
+106406,6,2007,Clutha River,1281031,Parasol Creek,752.14,,Parasol Creek,,627,161,unk,F44,2201688,5493272,14056959,efp,1,,
+106407,6,2007,Clutha River,1281031,Parasol Creek,752.14,,Parasol Creek,,517,159,unk,F44,2202974,5492975,14056982,efp,1,,
+106408,6,2007,Clutha River,1281031,Parasol Creek,752.14, ,Parasol Creek tributary, ,561,160,unk,F44,2203126,5493191,14056904,efp,1, , 
+106409,6,2007,Clutha River,1281031,Parasol Creek,752.14,,Parasol Creek,,471,158,unk,F44,2203349,5491430,14057389,efp,1,,
+106410,6,2007,Clutha River,1281031,Parasol Creek,752.14,,Parasol Creek,,453,156,unk,F44,2203435,5490025,14057753,efp,1,,
+106411,6,2007,Clutha River,1281031,Parasol Creek,752.14,,Parasol Creek,,338,151,unk,F44,2205716,5488063,14058476,efp,1,,
+106412,6,2007,Clutha River,1281031,Parasol Creek,752.14,,Parasol Creek,,308,149,unk,F44,2207194,5487736,14058501,efp,1,,
+27633,9,2008,Clutha River,1281009,Waipahi River East Branch lower,752.144,1235,Waipahi East Branch tributary,,210,126,docs,g46,2221310,5434660,14070301,efm,1,,50
+27634,9,2008,Clutha River,1281009,Waipahi River East Branch lower,752.144,1440,Waipahi East Branch tributary,,190,124,docs,G46,2219971,5434873,14070311,efm,1,,50
+29897,7,2008,Clutha River,1281014,Waikokoi Creek upper,752.145,1330,Waikoikoi Creek, ,145,104,ofg,g45,2210950,5465524,14064461,efm,2, ,150
+29898,7,2008,Clutha River,1281009,Waipahi River East Branch lower,752.144, ,Waipahi River East Branch tributary, ,195,124,ofg,g46,2219960,5434845,14070311,efm,1, ,3
+30867,5,2008,Clutha River,1281018,Heriot Burn lower,752.143, ,Heriot Burn, ,155,117,orc,g44,2215876,5475081,14062378,efm,3, ,45
+30679,9,2009,Clutha River,1281022,Leithen Burn,752.146,1400,Leithen Burn tributary, ,210,130,otfg,f44,2206134,5479049,14061305,efp,1, ,30
+30680,9,2009,Clutha River,1281056,Waikokoi Creek lower,752.145,1300,Waikoikoi Creek, ,115,91,otfg,g45,2217078,5458594,14065917,efp,2, , 
+34588,2,2010,Clutha River,1281010,Waipahi River East Branch middle,752.144,1130,Waipahi River East Branch, ,233,133,otfg,G46,2219366,5429344,14071052,efp,1, ,80
+34537,1,2011,Clutha River,1281010,Waipahi River East Branch middle,752.144,1131,Waipahi River East Branch, ,233,133,otfg,G46,2219360,5429351,14071052,ef,1, ,50
+34538,2,2011,Clutha River,1281010,Waipahi River East Branch middle,752.144,1430,Waipahi River East Branch, ,233,133,otfg,G46,2219363,5429337,14071052,ef,1, ,400
+103758,9,2011,Clutha River,1281035,Valley Creek,752.148,,Valley Creek,,501,169,uoo,G44,2213240,5497580,14055307,efp,1,,60
+103759,9,2011,Clutha River,1281032,Camping Creek tributary,752.146,,Gorge Creek tributary,,410,163,uoo,F44,2207630,5495700,14055994,efp,1,,30
+103909,9,2012,Clutha River,1281025,Thompsons Creek lower,752.147,,Thompsons Creek,,369,150,uoo,G44,2211525,5488975,14058008,efp,1,,100
+103910,9,2012,Clutha River,1281035,Valley Creek,752.148,,Valley Creek,,501,169,uoo,G44,2213250,5497600,14055307,efp,1,,80
+103911,9,2012,Clutha River,1281016,Crookston Burn tributary 1,752.14,,Pomahaka River tributary,,191,126,uoo,G44,2220560,5474175,14062587,efp,1,,60
+104636,1,2014,Clutha River,1281002,Rankle Burn,752.141,1200,Rankle Burn, ,129,77,doco,G45,2227374,5457238,14066172,vbd, , , 
+103321,1,2015,Clutha River,1281010,Waipahi River East Branch middle,752.144,900,Waipahi River East Branch, ,235,140,otfg,G45,2219403,5429320,14071051,efp, , , 
+103328,1,2015,Clutha River,1281005,Waipahi River East Branch tributary 1,752.144,1600,Waipahi River tributary, ,160,116,otfg,G45,2213195,5440714,14069235,efp, , , 
+104659,2,2015,Clutha River,1281022,Leithen Burn,752.146,1400,Leithen Burn, ,225,138,doco,F44,2205976,5479130,14061120,efp, , , 
+104663,2,2015,Clutha River,1281060,Pomahaka River tributary 8,752.14,1000,Pomahaka River tributary, ,170,110,doco,G45,2219982,5463315,14064938,efp, , , 
+104666,2,2015,Clutha River,1281029,Spylaw Burn middle,752.147,1500,Spylaw Burn, ,285,163,doco,G44,2223003,5486025,14059091,fys, , ,6
+104667,1,2015,Clutha River,1281056,Waikokoi Creek lower,752.145,1400,Waikoikoi Creek, ,115,99,doco,G45,2215913,5458664,14065883,spo, , , 
+104668,1,2015,Clutha River,1281056,Waikokoi Creek lower,752.145, ,Waikoikoi Creek, ,117,100,doco,G45,2215726,5458695,14065871,fys, , ,8
+104670,1,2015,Clutha River,1281006,Waipahi River East Branch tributary 2,752.144,1312,Waipahi River, ,159,119,doco,G45,2213956,5439425,14069521,vbd, , , 
+104671,1,2015,Clutha River,1281005,Waipahi River East Branch tributary 1,752.144,1440,Waipahi River tributary, ,160,116,doco,G45,2213200,5440592,14069235,efp, , , 
+104676,1,2015,Clutha River,1281005,Waipahi River East Branch tributary 1,752.144,1730,Waipahi River tributary, ,160,116,doco,G45,2213200,5440592,14069235,efp, , , 
+106306,8,2015,Clutha River,1281028,Wash Creek,752.147,1200,Spylaw Burn unnamed tributary,,314,159,doco,G44,2217801,5487030,14058598,efp,,,15
+106307,8,2015,Clutha River,1281028,Wash Creek,752.147,1419,Campbells Creek,,305,159,doco,G44,2218409,5486719,14058602,efp,,,65
+106308,8,2015,Clutha River,1281012,Waikokoi Creek tributary 1,752.145,1500,Waikoikoi Creek tributary,,213,105,doco,G45,2212412,5458076,14066245,efp,,,120
+106309,8,2015,Clutha River,1281028,Wash Creek,752.147,1354,Spylaw Burn tributary,,371,159,doco,G44,2217684,5486962,14058455,efp,,,75
+106846,9,2015,Clutha River,1281003,Waipahi River tributary 1,752.144,,Waipahi River tributary,,125,98,docs,G45,2217540,5447177,14067927,tfu,,,1
+104867,1,2016,Clutha River,1281023,Leithen Burn tributary,752.146,,Leithen Burn tributary,,323,140,doco,F44,2206774,5481280,14060476,efp,1,,90
+104868,1,2016,Clutha River,1281023,Leithen Burn tributary,752.146,,Leithen Burn tributary,,323,140,doco,F44,2206795,5481292,14060536,efp,1,,75
+104876,1,2016,Clutha River,1281022,Leithen Burn,752.146,,Leithen Burn,,219,138,doco,F44,2206094,5479052,14061306,efp,1,,300
+104877,1,2016,Clutha River,1281022,Leithen Burn,752.146,,Leithen Burn,,219,138,doco,F44,2206083,5479034,14061306,efp,1,,
+105978,2,2016,Clutha River,1281010,Waipahi River East Branch middle,752.144,1000,Waipahi River,,235,140,otfg,G45,2219401,5429313,14071051,efp,,,60
+106019,2,2016,Clutha River,1281028,Wash Creek,752.147,800,Spylaw Burn unnamed tributary, ,371,159,wwt,G44,2217823,5486507,14058455,tfb, , ,9
+106310,5,2016,Clutha River,1281028,Wash Creek,752.147,1356,Spylaw Burn tributary,,314,159,doco,G44,2217801,5487030,14058598,efp,,,50
+107085,2,2016,Clutha River,1281017,Crookston Burn tributary 2,752.143,1224,Crookston Burn, ,193,127,indm,G44,2222000,5475700,14062179,spo, , , 
+107147,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1000,Spylaw Burn tributary,,310,168,doco,G44,2223461,5488983,14058249,fys,,,4
+107148,4,2016,Clutha River,1281027,Spylaw Burn lower,752.147,1500,Spylaw Burn, ,305,151,doco,G44,2214315,5484733,14059518,efp, , , 
+107149,4,2016,Clutha River,1281028,Wash Creek,752.147,1030,Spylaw Burn tributary,,268,157,doco,G44,2218500,5485700,14059107,tfu,,,5
+107156,3,2016,Clutha River,1281002,Rankle Burn,752.141,1400,Rankle Burn, ,106,77,doco,G45,2227421,5457147,14066210,ssc, , , 
+107157,4,2016,Clutha River,1281027,Spylaw Burn lower,752.147,1000,Spylaw Burn, ,266,147,doco,G44,2211776,5485642,14059251,ssc, , , 
+107158,4,2016,Clutha River,1281022,Leithen Burn,752.146,915,Leithen Burn, ,217,137,doco,F44,2206136,5479068,14061306,ssc, , , 
+107174,3,2016,Clutha River,1281018,Heriot Burn lower,752.143, ,Heriot Burn, ,153,123,doco,G44,2215578,5473499,14062534,ssc, , , 
+114637,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek unnamed tributary, ,260,158,doco, ,2218316,5486121,14059090,efp, , , 
+114638,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,158,doco, ,2218398,5486141,14058990,efp, , , 
+114639,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218409,5486100,14059107,efp, , , 
+114640,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218399,5486098,14059107,efp, , , 
+114644,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,299,168,doco, ,2223597,5489000,14058089,efp, , , 
+114645,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,299,168,doco, ,2223576,5489015,14058089,efp, , , 
+114646,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,299,168,doco, ,2223531,5489056,14058089,efp, , , 
+114647,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,299,168,doco, ,2223511,5489102,14058089,efp, , , 
+114648,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,299,168,doco, ,2223479,5489119,14058089,efp, , , 
+114649,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223337,5488872,14058268,efp, , , 
+114650,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223291,5488902,14058268,efp, , , 
+114651,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223360,5488857,14058268,efp, , , 
+114652,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223385,5488865,14058268,efp, , , 
+114653,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223395,5488867,14058268,efp, , , 
+114654,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223407,5488880,14058268,efp, , , 
+114655,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223417,5488899,14058268,efp, , , 
+114656,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223422,5488908,14058268,efp, , , 
+114657,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223427,5488916,14058268,efp, , , 
+114658,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223429,5488928,14058268,efp, , , 
+114659,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223432,5488937,14058268,efp, , , 
+114660,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223441,5488942,14058268,efp, , , 
+114661,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223442,5488957,14058268,efp, , , 
+114662,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223444,5488965,14058268,efp, , , 
+114663,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223449,5488970,14058268,efp, , , 
+114664,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223455,5488976,14058268,efp, , , 
+114665,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223459,5488986,14058268,efp, , , 
+114666,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223464,5488977,14058268,efp, , , 
+114667,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223474,5488962,14058268,efp, , , 
+114668,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,342,168,doco, ,2222974,5489919,14057724,efp, , , 
+114669,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,342,168,doco, ,2222979,5489928,14057724,efp, , , 
+114670,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,342,168,doco, ,2222980,5489948,14057724,efp, , , 
+114671,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,342,168,doco, ,2222979,5489988,14057724,efp, , , 
+114672,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223462,5488983,14058268,gmt, , ,2
+114673,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223458,5488984,14058268,gmt, , ,1
+114674,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223454,5488977,14058268,gmt, , ,1
+114675,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223441,5488964,14058268,gmt, , ,2
+114676,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223439,5488949,14058268,gmt, , ,2
+114677,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223430,5488937,14058268,gmt, , ,1
+114678,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223426,5488934,14058268,gmt, , ,2
+114679,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223422,5488917,14058268,fyn, , ,3
+114680,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223438,5488954,14058268,fyn, , ,3
+114681,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223453,5488976,14058268,fyn, , ,3
+114682,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223468,5488967,14058268,fyn, , ,3
+114683,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223473,5488949,14058268,fyn, , ,3
+114684,4,2016,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn unnamed tributary, ,297,168,doco, ,2223430,5488937,14058268,fyn, , ,3
+114685,4,2016,Clutha River,1281027,Spylaw Burn lower,752.147, ,Spylaw Burn, ,240,147,doco, ,2211779,5485661,14059251,efp, , , 
+114686,4,2016,Clutha River,1281027,Spylaw Burn lower,752.147, ,Spylaw Burn, ,260,151,doco, ,2214327,5484760,14059518,efp, , , 
+114687,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218476,5485919,14059107,fyn, , ,1
+114688,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218498,5485851,14059107,fyn, , ,1
+114689,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218503,5485838,14059107,fyn, , ,1
+114690,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218503,5485816,14059107,fyn, , ,1
+114691,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218489,5485811,14059107,fyn, , ,2
+114692,4,2016,Clutha River,1281027,Spylaw Burn lower,752.147, ,Spylaw Burn, ,240,147,doco, ,2211727,5485883,14059251,fyn, , ,1
+114693,4,2016,Clutha River,1281027,Spylaw Burn lower,752.147, ,Spylaw Burn, ,240,147,doco, ,2211745,5485823,14059251,fyn, , ,2
+114694,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218502,5485785,14059107,fyn, , ,1
+114695,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218485,5485921,14059107,gmt, , ,1
+114696,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218493,5485906,14059107,gmt, , ,2
+114697,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218470,5485620,14059107,gmt, , ,1
+114698,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218498,5485805,14059107,gmt, , ,1
+114699,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218497,5485856,14059107,gmt, , ,2
+114700,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218502,5485841,14059107,gmt, , ,1
+114701,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218491,5485791,14059107,gmt, , ,1
+114702,4,2016,Clutha River,1281028,Wash Creek,752.147, ,Wash Creek, ,260,157,doco, ,2218487,5485778,14059107,gmt, , ,1
+110433,2,2017,Clutha River,1281037,Wairuna Stream tributary 1,752.142,1000,Wairuna Stream unnamed tributary,,130,94,doco,G45,2222331,5447047,14068050,vbd,,,
+112470,11,2017,Clutha River,1281042,Waipahi River tributary 4,752.144,1120,Waipahi River tributary, ,124,99,doco,G45,2216922,5448019,14067935,han, , ,3
+112576,12,2017,Clutha River,1281040,Waipahi River tributary 2,752.144,1200,Webb Creek, ,116,94,doco, ,2220092,5448609,14067817,efp,1, ,9
+112578,12,2017,Clutha River,1281043,Waipahi River tributary 5,752.144,1400,Waipahi River tributary, ,134,100,doco, ,2215707,5446578,14068000,obs,1, ,1
+112579,12,2017,Clutha River,1281043,Waipahi River tributary 5,752.144,1428,Waipahi River tributary, ,134,100,doco, ,2215812,5446585,14068000,han,1, ,2
+112580,12,2017,Clutha River,1281042,Waipahi River tributary 4,752.144,1445,Waipahi River tributary, ,148,100,doco, ,2216743,5446331,14067935,efp,1, ,3
+112581,12,2017,Clutha River,1281058,Pomahaka River tributary 6,752.14,1540,Pomahaka River tributary, ,126,99,doco, ,2218813,5458840,14065805,efp,1, ,9
+112609,12,2017,Clutha River,1281030,Spylaw Burn tributary 2,752.147,930,Spylaw Burn tributary, ,294,167,doco, ,2225167,5489165,14058132,efp,1, ,8
+112610,12,2017,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1035,Spylaw Burn tributary, ,310,169,doco, ,2226238,5489347,14058079,efp,1, , 
+112611,12,2017,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1300,Spylaw Burn tributary, ,331,168,doco, ,2224238,5490673,14057716,efp,1, , 
+112629,10,2017,Clutha River,1281065,Wairuna Stream tributary 3,752.142,1220,Wairuna Stream tributary, ,133,102,doco, ,2226421,5441502,14069155,efp,1, ,5
+112630,10,2017,Clutha River,1281039,Wairuna Stream tributary 2,752.142, ,Wairuna Stream tributary, ,225,99,doco, ,2224371,5443263,14068651,efp,1, , 
+112631,10,2017,Clutha River,1281039,Wairuna Stream tributary 2,752.142, ,Wairuna Stream tributary, ,132,99,doco, ,2224063,5443488,14068639,efp,1, , 
+112632,10,2017,Clutha River,1281039,Wairuna Stream tributary 2,752.142,,Wairuna Stream tributary,,132,99,doco,,2223924,5443625,14068639,efp,1,,
+112633,10,2017,Clutha River,1281039,Wairuna Stream tributary 2,752.142, ,Wairuna Stream tributary, ,125,100,doco, ,2223482,5444098,14068610,efp,1, ,4
+112634,10,2017,Clutha River,1281039,Wairuna Stream tributary 2,752.142, ,Wairuna Stream tributary, ,125,100,doco, ,2223470,5444112,14068610,efp,1, , 
+112635,10,2017,Clutha River,1281053,Pomahaka River tributary 4,752.14, ,Pomahaka River tributary, ,128,92,doco, ,2218746,5453690,14066861,efp,1, , 
+112637,10,2017,Clutha River,1281054,Pomahaka River tributary 5,752.14, ,Pomahaka River tributary, ,134,95,doco, ,2217640,5455894,14066463,efp,1, , 
+112640,10,2017,Clutha River,1281055,Waikokoi Creek tributary 3,752.14, ,Pomahaka River tributary, ,138,98,doco, ,2217015,5458122,14066016,efp,1, , 
+112641,10,2017,Clutha River,1281056,Waikokoi Creek lower,752.145, ,Waikoikoi Creek, ,115,98,doco, ,2217089,5458536,14065917,efp,1, ,10
+112642,10,2017,Clutha River,1281014,Waikokoi Creek upper,752.145, ,Waikoikoi Creek, ,152,112,doco, ,2210882,5465195,14064461,efp,1, ,12
+112643,10,2017,Clutha River,1281013,Waikokoi Creek tributary 2,752.145,,Waikoikoi Creek,,149,110,doco,,2209555,5463177,14064968,efp,1,,
+112644,10,2017,Clutha River,1281063,Pomahaka River tributary 11,752.14, ,Pomahaka River tributary, ,190,113,doco, ,2218636,5466570,14064247,efp,1, , 
+112645,10,2017,Clutha River,1281064,Pomahaka River tributary 12,752.14, ,Pomahaka River tributary, ,157,113,doco, ,2218670,5466785,14064153,efp,1, , 
+112648,10,2017,Clutha River,1281062,Pomahaka River tributary 10,752.14, ,Brandy Gully, ,296,109,doco, ,2220313,5465012,14064575,efp,1, , 
+112649,10,2017,Clutha River,1281061,Pomahaka River tributary 9,752.14, ,Pomahaka River tributary, ,170,108,doco, ,2220009,5464386,14064651,efp,1, ,6
+112650,10,2017,Clutha River,1281060,Pomahaka River tributary 8,752.14, ,Pomahaka River tributary, ,170,110,doco, ,2219919,5463413,14064938,vbd,1, ,13
+112651,10,2017,Clutha River,1281060,Pomahaka River tributary 8,752.14, ,Pomahaka River tributary, ,274,110,doco, ,2219787,5463300,14064929,efp,1, ,10
+112652,10,2017,Clutha River,1281060,Pomahaka River tributary 8,752.14, ,Pomahaka River tributary, ,274,110,doco, ,2219665,5463373,14064929,efp,1, ,10
+112655,10,2017,Clutha River,1281059,Pomahaka River tributary 7,752.14, ,Pomahaka River tributary, ,151,103,doco, ,2219937,5460641,14065494,efp,1, , 
+112656,10,2017,Clutha River,1281059,Pomahaka River tributary 7,752.14, ,Pomahaka River tributary, ,151,103,doco, ,2219958,5460646,14065494,efp,1, , 
+112657,10,2017,Clutha River,1281059,Pomahaka River tributary 7,752.14, ,Pomahaka River tributary, ,185,103,doco, ,2219959,5460030,14065597,efp,1, ,11
+112658,10,2017,Clutha River,1281058,Pomahaka River tributary 6,752.14, ,Pomahaka River tributary, ,159,101,doco, ,2219981,5459418,14065763,efp,1, ,4
+112662,10,2017,Clutha River,1281002,Rankle Burn,752.141, ,Rankle Burn, ,106,77,doco, ,2227416,5457128,14066210,efp,1, ,3
+112663,10,2017,Clutha River,1281002,Rankle Burn,752.141,,Rankle Burn tributary,,161,77,doco,,2227267,5457143,14066218,efp,1,,
+112664,10,2017,Clutha River,1281038,Pomahaka River tributary 3,752.14, ,Pomahaka River tributary, ,170,75,doco, ,2228386,5457729,14066067,efp,1, , 
+112666,10,2017,Clutha River,1281001,Pomahaka River tributary 1,752.14, ,Pomahaka River tributary, ,37,64,doco, ,2233166,5452587,14067074,efp,1, , 
+112667,10,2017,Clutha River,1281001,Pomahaka River tributary 1,752.14, ,Pomahaka River tributary, ,37,64,doco, ,2233137,5452579,14067074,efp,1, , 
+112682,12,2017,Clutha River,1281030,Spylaw Burn tributary 2,752.147,930,Spylaw Burn tributary, ,294,167,doco,G44,2225167,5489165,14058132,efp, , , 
+112683,12,2017,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1035,Spylaw Burn tributary, ,310,169,doco,G44,2226238,5489347,14058079,efp, , , 
+112684,12,2017,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1300,Spylaw Burn tributary, ,331,168,doco,G44,2224238,5490673,14057716,efp, , , 
+113188,11,2017,Clutha River,1281046,Kaiwera Stream tributary 4,752.144,1020,Kaiwera Stream, ,192,123,doco, ,2207704,5439116,14069628,efp,1, , 
+113189,11,2017,Clutha River,1281004,Kaiwera Stream tributary 1,752.144,1110,Kaiwera Stream, ,179,119,doco, ,2208212,5440983,14069169,efp,1, , 
+113190,11,2017,Clutha River,1281044,Kaiwera Stream tributary 2,752.144,1140,Kaiwera Stream, ,181,119,doco, ,2207864,5441482,14069106,efp,1, , 
+113191,11,2017,Clutha River,1281004,Kaiwera Stream tributary 1,752.144,1215,Kaiwera Stream, ,177,118,doco, ,2209466,5441285,14069107,efp,1, , 
+113192,11,2017,Clutha River,1281005,Waipahi River East Branch tributary 1,752.144,1245,Kaiwera Stream,,179,119,doco,,2211570,5439600,14069483,efp,1,,
+113193,11,2017,Clutha River,1281045,Kaiwera Stream tributary 3,752.144,1400,Kaiwera Stream, ,177,119,doco, ,2209832,5441085,14069170,efp,1, , 
+113194,11,2017,Clutha River,1281005,Waipahi River East Branch tributary 1,752.144,1415,Waipahi River tributary, ,170,118,doco, ,2211744,5439213,14069421,efp,1, , 
+113195,11,2017,Clutha River,1281005,Waipahi River East Branch tributary 1,752.144,1445,Waipahi River tributary, ,208,119,doco, ,2211835,5438708,14069370,efp,1, , 
+113196,11,2017,Clutha River,1281005,Waipahi River East Branch tributary 1,752.144,1500,Waipahi River tributary, ,164,119,doco, ,2212762,5438457,14069618,efp,1, , 
+113197,11,2017,Clutha River,1281006,Waipahi River East Branch tributary 2,752.144,1525,Waipahi River tributary, ,196,123,doco, ,2213965,5436900,14070010,efp,1, , 
+113198,11,2017,Clutha River,1281008,Waipahi River East Branch tributary 4,752.144,1550,Waipahi River East Branch, ,194,129,doco, ,2219586,5436718,14070005,efp,1, , 
+113199,11,2017,Clutha River,1281051,Waipahi River East Branch tributary 6,752.144,1600,Waipahi River tributary, ,196,127,doco, ,2219451,5437699,14069829,efp,1, , 
+113200,11,2017,Clutha River,1281007,Waipahi River East Branch tributary 3,752.144, ,Waipahi River tributary, ,208,125,doco, ,2217729,5439054,14069586,efp,1, , 
+113201,11,2017,Clutha River,1281050,Waipahi River East Branch tributary 5,752.144,1700,Waipahi River tributary, ,205,121,doco, ,2216398,5439976,14069417,efp,1, , 
+113202,11,2017,Clutha River,1281041,Waipahi River tributary 3,752.144,1740,Waipahi River tributary, ,316,103,doco, ,2217978,5442910,14068883,efp,1, , 
+113219,11,2017,Clutha River,1281009,Waipahi River East Branch lower,752.144,850,Waipahi River East Branch tributary, ,218,134,doco, ,2219793,5433127,14070596,efp,1, , 
+113220,11,2017,Clutha River,1281009,Waipahi River East Branch lower,752.144,920,Waipahi River East Branch, ,204,134,doco, ,2219908,5432495,14070597,efp,1, , 
+113221,11,2017,Clutha River,1281052,Waipahi River East Branch tributary 7,752.144,945,Waipahi River East Branch tributary, ,224,139,doco, ,2219902,5430309,14070832,efp,1, , 
+113222,11,2017,Clutha River,1281052,Waipahi River East Branch tributary 7,752.144,950,Waipahi River East Branch tributary, ,224,139,doco, ,2219888,5430330,14070832,efp,1, , 
+113223,11,2017,Clutha River,1281011,Waipahi River East Branch upper,752.144,1020,Waipahi River East Branch tributary, ,309,146,doco, ,2223184,5425673,14071392,efp,1, ,5
+113224,11,2017,Clutha River,1281010,Waipahi River East Branch middle,752.144,1045,Waipahi River East Branch, ,239,141,doco, ,2219433,5428782,14071110,efp,1, , 
+113225,11,2017,Clutha River,1281047,Kaiwera Stream tributary 5,752.144,1045,Kaiwera Stream tributary, ,194,125,doco, ,2208313,5437029,14069946,han,1, ,5
+113227,11,2017,Clutha River,1281048,Kaiwera Stream tributary 6,752.144,1150,Kaiwera Stream tributary, ,236,129,doco, ,2211144,5434787,14070259,efp,1, , 
+113228,11,2017,Clutha River,1281049,Kaiwera Stream West Branch tributary,752.144,1220,Kaiwera Stream tributary, ,291,132,doco, ,2211253,5433395,14070477,efp,1, ,5
+113241,11,2017,Clutha River,1281042,Waipahi River tributary 4,752.144,1120,Waipahi River tributary, ,124,99,doco, ,2216922,5448019,14067935,han,1, ,3
+113404,12,2017,Clutha River,1281057,Waikokoi Creek tributary 4,752.145, ,Waikoikoi Creek tributary, ,147,109,otfg,G45,2209296,5458927,14065815,efp, , , 
+114770,10,2017,Clutha River,1281066,Pomahaka River tributary 13,752.142, ,Wairuna Stream tributary, ,109,72,doco, ,2226409,5451543,14067220,efp,1, ,5
+114771,3,2018,Clutha River,1281068,Spylaw Burn tributary 3,752.147, ,Spylaw Burn tributary, ,297,161,doco, ,2221760,5484678,14059513,efp,1, ,10
+114772,3,2018,Clutha River,1281029,Spylaw Burn middle,752.147, ,Spylaw Burn, ,280,168,doco, ,2227252,5487348,14058707,obs, , ,1
+114773,3,2018,Clutha River,1281029,Spylaw Burn middle,752.147, ,Spylaw Burn, ,316,171,doco, ,2230314,5487849,14058542,efp,1, ,10
+114774,3,2018,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn tributary, ,299,169,doco, ,2225990,5489007,14058165,efp,1, ,10
+114775,3,2018,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn tributary, ,291,167,doco, ,2225165,5489193,14058152,efp,1, ,10
+114776,3,2018,Clutha River,1281030,Spylaw Burn tributary 2,752.147, ,Spylaw Burn tributary, ,291,167,doco, ,2225185,5489233,14058152,efp,1, ,10
+114777,5,2018,Clutha River,1281067,Wairuna Stream tributary 4,752.142, ,Wairuna Stream tributary, ,128,98,doco, ,2223748,5446200,14068295,efp,1, ,6
+116525,,2018,Clutha River,1281042,Waipahi River tributary 4,752.144,0,Waipahi River tributary, ,128,99,doco, ,2216839,5447976,14067935,efp,1, ,
+116571,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek, ,261,149,doco, ,2207489,5487950,14058521,efp,1, ,10
+116572,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,263,149,doco, ,2207453,5488018,14058500,efp,1, ,
+116573,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,380,149,doco, ,2207298,5488119,14058260,efp,1, ,1
+116574,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek, ,282,150,doco, ,2206647,5487929,14058492,efp,1, ,10
+116575,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,279,150,doco, ,2206694,5487917,14058528,efp,1, ,
+116576,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,437,150,doco, ,2206706,5487964,14058149,vbd,, ,
+116577,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,437,150,doco, ,2206693,5488023,14058149,efp,1, ,
+116578,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek, ,291,151,doco, ,2205990,5488017,14058476,efp,1, ,10
+116579,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,296,151,doco, ,2206068,5487936,14058513,efp,1, ,4
+116580,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,296,151,doco, ,2206057,5487913,14058513,vbd,, ,
+116581,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,296,151,doco, ,2206074,5487851,14058513,efp,1, ,
+116582,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,296,151,doco, ,2206064,5487798,14058513,efp,1, ,2
+116583,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,296,151,doco, ,2206057,5487792,14058513,efp,1, ,
+116584,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,296,151,doco, ,2206026,5487749,14058513,efp,1, ,5
+116585,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,360,154,doco, ,2203919,5488161,14058436,efp,1, ,
+116586,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek, ,371,154,doco, ,2203631,5488348,14058107,efp,1, ,5
+116587,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,423,154,doco, ,2203652,5488317,14058426,efp,1, ,
+116588,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,423,154,doco, ,2203645,5488309,14058426,efp,1, ,
+116589,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,582,160,doco, ,2202744,5493036,14056981,efp,1, ,2
+116590,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,582,160,doco, ,2202747,5493017,14056981,efp,1, ,
+116591,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,582,160,doco, ,2202709,5492937,14056981,efp,1, ,
+116592,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek tributary, ,582,160,doco, ,2202688,5492922,14056981,efp,1, ,1
+116593,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek, ,525,160,doco, ,2202764,5493054,14056937,efp,1, ,5
+116594,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek, ,525,160,doco, ,2202189,5493190,14056937,efp,1, ,
+116595,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek, ,525,160,doco, ,2202152,5493172,14056937,efp,1, ,
+116596,3,2019,Clutha River,1281031,Parasol Creek,752.146,0,Parasol Creek, ,503,160,doco, ,2202865,5493075,14056974,efp,1, ,2
+119425,,2000,Clutha River,1281070,Pomahaka River tributary 13,752.14,0,Pomahaka River tributary, ,136,98,uoo, ,2219799,5457400,14066156,han,1,,1
+119427,3,2000,Clutha River,1281039,Wairuna Stream tributary 2,752.142,0,Wairuna Stream tributary, ,139,101,uoo, ,2222300,5444200,14068616,han,1,,1
+119419,,2000,Clutha River,1281073,Flodden Creek tributary,752.143,0,Flodden Creek tributary, ,365,123,uoo, ,2223099,5470700,14063598,efp,1,,
+119420,,2000,Clutha River,1281020,Heriot Burn upper,752.143,0,Heriot Burn tributary, ,370,146,uoo, ,2231799,5481000,14060667,efp,1,,
+118335,6,2014,Clutha River,1281010,Waipahi River East Branch middle,752.144,1200,Waipahi River East Branch tributary, ,240,140,doco,G46,2218788,5429485,14071021,efp,1,,15
+118336,6,2014,Clutha River,1281009,Waipahi River East Branch lower,752.144,0,Waipahi River East Branch tributary, ,237,135,doco,G46,2219131,5431486,14070739,efp,,,10
+118337,6,2014,Clutha River,1281010,Waipahi River East Branch middle,752.144,0,Waipahi River East Branch tributary, ,306,140,doco,G46,2218312,5429643,14070928,efp,,,10
+118338,5,2019,Clutha River,1281069,Waipahi River East Branch tributary 7,752.144,0,Trumbles Creek, ,220,128,doco,G46,2216618,5434544,14070310,efp,1,,15
+120632,1,2021,Clutha River,1281010,Waipahi River East Branch middle,752.144,1200,Waipahi River East Branch tributary, ,226,139,otfg,G45,2219178,5430584,14070900,efp,,,
+120649,2,2021,Clutha River,1281002,Rankle Burn,752.141,1700,Rankle Burn, ,90,77,otfg,G45,2227075,5457491,14065977,efp,,,
+120650,2,2021,Clutha River,1281016,Crookston Burn tributary 1,752.14,830,Pomahaka River tributary, ,206,128,otfg,G45,2223491,5474592,14062476,efp,,,
+121428,2,2015,Clutha River,1281072,Thompsons Creek tributary,752.147,0,Thompsons Creek tributary, ,425,153,doco, ,2213783,5489948,14057979,efp,1,,
+121120,12,2005,Clutha River,1281071,Waipahi River East Branch tributary 8,752.144,0,Waipahi River East Branch tributary, ,251,140,uoo, ,2221999,5429300,14071062,efp,1,,
+121430,2,2015,Clutha River,1281041,Waipahi River tributary 3,752.144,0,Waipahi River tributary, ,293,103,doco, ,2217979,5442911,14068883,efp,1,,
+121429,2,2015,Clutha River,1281035,Valley Creek,752.148,0,Valley Creek, ,481,169,doco, ,2213245,5497675,14055307,efp,1,,
+121513,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1120,Spylaw Burn tributary, ,342,168,doco, ,2222923,5490498,14057724,vbd,1,,
+121514,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1204,Spylaw Burn tributary, ,342,168,doco, ,2222871,5490354,14057724,vbd,1,,9
+121515,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1211,Spylaw Burn tributary, ,342,168,doco, ,2222863,5490347,14057724,vbd,1,,1
+121516,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1216,Spylaw Burn tributary, ,342,168,doco, ,2222855,5490341,14057724,vbd,1,,4
+121517,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1218,Spylaw Burn tributary, ,342,168,doco, ,2222858,5490324,14057724,vbd,1,,1
+121518,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1225,Spylaw Burn tributary, ,342,168,doco, ,2222862,5490291,14057724,vbd,1,,4
+121519,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1231,Spylaw Burn tributary, ,342,168,doco, ,2222860,5490283,14057724,vbd,1,,10
+121520,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1236,Spylaw Burn tributary, ,342,168,doco, ,2222879,5490274,14057724,vbd,1,,5
+121521,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1243,Spylaw Burn tributary, ,342,168,doco, ,2222880,5490269,14057724,vbd,1,,12
+121522,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1247,Spylaw Burn tributary, ,342,168,doco, ,2222889,5490269,14057724,vbd,1,,1
+121523,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1257,Spylaw Burn tributary, ,342,168,doco, ,2222899,5490245,14057724,vbd,1,,6
+121524,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1303,Spylaw Burn tributary, ,342,168,doco, ,2222901,5490232,14057724,vbd,1,,5
+121525,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1306,Spylaw Burn tributary, ,342,168,doco, ,2222924,5490223,14057724,vbd,1,,5
+121526,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1314,Spylaw Burn tributary, ,342,168,doco, ,2222918,5490215,14057724,vbd,1,,4
+121527,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1317,Spylaw Burn tributary, ,342,168,doco, ,2222907,5490203,14057724,vbd,1,,4
+121528,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1327,Spylaw Burn tributary, ,342,168,doco, ,2222896,5490188,14057724,vbd,1,,8
+121529,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1328,Spylaw Burn tributary, ,342,168,doco, ,2222881,5490177,14057724,vbd,1,,3
+121530,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1333,Spylaw Burn tributary, ,342,168,doco, ,2222882,5490171,14057724,vbd,1,,2
+121531,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1337,Spylaw Burn tributary, ,342,168,doco, ,2222898,5490170,14057724,vbd,1,,4
+121532,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1343,Spylaw Burn tributary, ,342,168,doco, ,2222896,5490161,14057724,vbd,1,,1
+121533,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1346,Spylaw Burn tributary, ,342,168,doco, ,2222900,5490137,14057724,vbd,1,,1
+121534,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1354,Spylaw Burn tributary, ,342,168,doco, ,2222907,5490124,14057724,vbd,1,,2
+121535,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1357,Spylaw Burn tributary, ,342,168,doco, ,2222924,5490116,14057724,vbd,1,,2
+121536,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1400,Spylaw Burn tributary, ,342,168,doco, ,2222936,5490105,14057724,vbd,1,,5
+121537,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1404,Spylaw Burn tributary, ,342,168,doco, ,2222947,5490106,14057724,vbd,1,,2
+121538,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1410,Spylaw Burn tributary, ,342,168,doco, ,2222960,5490070,14057724,vbd,1,,3
+121539,12,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1417,Spylaw Burn tributary, ,342,168,doco, ,2222966,5490053,14057724,vbd,1,,6
+121542,9,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1132,Spylaw Burn tributary, ,342,168,doco, ,2222896,5490241,14057724,vbd,1,,5
+121543,9,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1153,Spylaw Burn tributary, ,342,168,doco, ,2222951,5490101,14057724,vbd,1,,5
+121544,9,2020,Clutha River,1281030,Spylaw Burn tributary 2,752.147,1224,Spylaw Burn tributary, ,342,168,doco, ,2222929,5490504,14057724,vbd,1,,5
+121540,12,2020,Clutha River,1281028,Wash Creek,752.147,1505,Wash Creek tributary, ,301,159,doco, ,2217804,5487024,14058598,vbd,1,,2
+121541,12,2020,Clutha River,1281028,Wash Creek,752.147,1509,Wash Creek tributary, ,342,159,doco, ,2217689,5486955,14058455,vbd,1,,5
+117961,1,2020,Clutha River,1281022,Leithen Burn,752.146,1200,Leithen Burn, ,218,137,otfg,F44,2206112,5479085,14061306,efp, ,,
+120899,2,2021,Clutha River,1281022,Leithen Burn,752.146,1345,Leithen Burn, ,218,137,otfg,F44,2206121,5479087,14061306,efp, ,,
+118226,3,2020,Clutha River,1281016,Crookston Burn tributary 1,752.143,1300,Black Gully Stream, ,206,128,otfg,G44,2223465,5474598,14062476,efp, ,,
+117960,2,2020,Clutha River,1281014,Waikokoi Creek upper,752.145,1300,Waikoikoi Creek, ,157,112,otfg,G45,2210867,5465273,14064461,efp, ,,
+120898,2,2021,Clutha River,1281014,Waikokoi Creek upper,752.145,1007,Waikoikoi Creek, ,157,112,otfg,G45,2210887,5465226,14064461,efp, ,,
+121431,6,2015,Clutha River,1281010,Waipahi River East Branch middle,752.144,0,Waipahi River, ,306,140,doco, ,2218331,5429668,14070928,efp,1,,
