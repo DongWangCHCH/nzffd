@@ -1,0 +1,143 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+1472,1,1984,Clutha River,1231004,Nevis Burn tributary,752.743,1700,Nevis Burn tributary,,760,238,doco,F42,2192400,5552500,14035656,ef,1,,
+1474,2,1984,Clutha River,1231025,Nevis River tributary 18,752.743,1130,Nevis River tributary,,840,268,doco,F43,2183700,5529000,14045673,ef,1,,
+11301,3,1991,Clutha River,1231003,Nevis River tributary 2,752.743,1600,Nevis River tributary,,630,233,doco,F42,2195200,5554100,14034833,ef,1,,25
+11302,3,1991,Clutha River,1231004,Nevis Burn tributary,752.743,1930,Nevis Burn tributary, ,750,238,doco,f42,2192400,5552500,14035656,ef,1, ,30
+11305,3,1991,Clutha River,1231016,Nevis River tributary 11,752.743,1630,Nevis River tributary,,700,246,doco,F42,2192100,5545100,14039041,ef,1,,10
+11309,3,1991,Clutha River,1231026,Nevis River tributary 19,752.743,1345,Nevis River tributary,,880,271,doco,F43,2182000,5526100,14046787,ef,1,,30
+11312,3,1991,Clutha River,1231005,Nevis River tributary 3,752.743,930,Nevis River tributary,,660,235,doco,F42,2196000,5553000,14035131,ef,1,,20
+8773,1,1992,Clutha River,1231023,Sproules Creek,752.743,930,Sproules Creek,,750,250,ci,F42,2190100,5540900,14040986,efm,1,,
+106684,3,1993,Clutha River,1231003,Nevis River tributary 2,752.743,,Nevis River tributary,,677,242,doco,F41,2195300,5554000,14034833,efp,,,
+106685,3,1993,Clutha River,1231007,Barn Creek,752.743,,Barn Creek,,1048,250,doco,F42,2201200,5551800,14035947,efp,,,
+106688,11,1998,Clutha River,1231002,Potters Creek,752.743,,Potters Creek,,1039,248,doco,F42,2200600,5556800,14033650,efp,,,
+25205,3,2001,Clutha River,1231011,Coal Creek,752.743,day,Coal Creek tributary,,1230,246,doco,F42,2198800,5545400,14039029,efp,1,,33
+25206,3,2001,Clutha River,1231011,Coal Creek,752.741, ,Carrick Range Water Race, ,1180,245,doco,f42,2198500,5545400,0,efp,1, ,36
+25209,3,2001,Clutha River,1231011,Coal Creek,752.743, ,Coal Creek tributary, ,1240,246,doco,f42,2199200,5546900,14038156,efp,1, ,6
+25210,3,2001,Clutha River,1231011,Coal Creek,752.741, ,Carrick Range Water Race, ,1190,246,doco,f42,2199000,5546800,0,efp,1, ,126
+19845,1,2004,Clutha River,1231012,Nevis River tributary 7,752.743,1040,Nevis River tributary,,710,243,docc,F42,2194300,5546200,14038483,efp,1,,200
+19846,1,2004,Clutha River,1231015,Nevis River tributary 10,752.743,1130,Nevis River tributary,,750,245,docc,F42,2193600,5545200,14038970,efp,1,,200
+19848,1,2004,Clutha River,1231017,Nevis River tributary 12,752.743,1300,Nevis River tributary,,720,246,docc,F42,2192700,5544200,14039509,efp,1,,200
+19849,1,2004,Clutha River,1231017,Nevis River tributary 12,752.743,1330,Nevis River tributary, ,760,246,docc,f42,2192900,5544100,14039508,obs, , ,120
+19850,1,2004,Clutha River,1231018,Nevis River tributary 13,752.743,1430,Nevis River tributary,,740,254,docc,F42,2192500,5543900,14039434,efp,1,,200
+20001,1,2004,Clutha River,1231019,Nevis River tributary 14,752.743,1450,Nevis River tributary,,715,247,docc,F42,2192100,5543500,14039566,efp,1,,200
+20002,1,2004,Clutha River,1231017,Nevis River tributary 12,752.743,1500,Nevis River tributary,,950,247,docc,f42,2193700,5544000,14039567,obs,1,,40
+20006,1,2004,Clutha River,1231015,Nevis River tributary 10,752.743,1550,Nevis River tributary,,1070,246,docc,f42,2194700,5544600,14038970,obs,,,40
+20007,1,2004,Clutha River,1231012,Nevis River tributary 7,752.743,1600,Nevis River tributary,,1060,245,docc,f42,2195100,5544900,14039083,obs,,,40
+20008,1,2004,Clutha River,1231012,Nevis River tributary 7,752.743,1610,Nevis River tributary,,1060,245,docc,f42,2195400,5545100,14039061,obs,,,40
+20011,1,2004,Clutha River,1231002,Potters Creek,752.743,,Potters Creek,,1020,238,docc,F42,2200300,5555400,14034035,efp,1,,100
+20014,1,2004,Clutha River,1231002,Potters Creek,752.743,1030,Potters Creek tributary,,1000,239,docc,F42,2200000,5553200,14034891,efp,1,,200
+20015,1,2004,Clutha River,1231022,Nevis River tributary 17,752.743,1200,Nevis River tributary,,710,249,docc,F42,2190900,5542400,14040396,obs,,,120
+20016,1,2004,Clutha River,1231021,Nevis River tributary 16,752.743,1230,Nevis River tributary,,700,248,docc,F42,2191200,5543000,14040097,obs,,,100
+20017,1,2004,Clutha River,1231016,Nevis River tributary 11,752.743,1300,Nevis River tributary,,690,246,docc,F42,2192100,5545000,14039041,obs,,,100
+20018,1,2004,Clutha River,1231019,Nevis River tributary 14,752.743,1415,Nevis River tributary,,880,248,docc,F42,2192500,5542900,14039566,han,,,100
+20019,1,2004,Clutha River,1231020,Nevis River tributary 15,752.743,1430,Nevis River tributary,,940,249,docc,F42,2192400,5542500,14039984,han,,,100
+20020,1,2004,Clutha River,1231021,Nevis River tributary 16,752.743,1500,Nevis River tributary,,1060,257,docc,F42,2191800,5542100,14040097,obs,,,40
+20186,1,2004,Clutha River,1231020,Nevis River tributary 15,752.743,1240,Nevis River tributary,,700,247,docc,F42,2191500,5543200,14039984,obs,,,100
+20187,1,2004,Clutha River,1231002,Potters Creek,752.743,1200,Potters Creek,,700,233,docc,F42,2195800,5554800,14034403,obs,,,40
+20188,1,2004,Clutha River,1231002,Potters Creek,752.743,,Potters Creek,,1240,240,docc,f42,2202100,5555800,14034035,obs,,,1
+20193,1,2004,Clutha River,1231012,Nevis River tributary 7,752.743,,Nevis River tributary,,1040,245,docc,f42,2195300,5545100,14039061,obs,,,1
+20194,1,2004,Clutha River,1231017,Nevis River tributary 12,752.743,,Nevis River tributary,,940,248,docc,f42,2193400,5543600,14039508,obs,,,1
+26477,3,2004,Clutha River,1231006,Nevis River tributary 4,752.743,945,Nevis River tributary, ,650,237,orc,f42,2195200,5551600,14036032,efp,3, , 
+26478,3,2004,Clutha River,1231006,Nevis River tributary 4,752.743,1045,Nevis River,,650,236,orc,F42,2195300,5551600,14035986,efp,3,,
+26482,3,2004,Clutha River,1231016,Nevis River tributary 11,752.743,1145,Nevis River tributary,,700,246,orc,F42,2191900,5545100,14039041,efp,1,,500
+26592,9,2005,Clutha River,1231004,Nevis Burn tributary,752.743,day,Nevis Burn tributary,,870,240,doco,F42,2191400,5552000,14035817,efp,4,,29
+31863,10,2005,Clutha River,1231005,Nevis River tributary 3,752.743,9.35,Nevis River tributary,,1018,239,doco,F42,2199094,5553205,14035255,efp,1,,40
+31864,10,2005,Clutha River,1231007,Barn Creek,752.743,1040,Barn Creek,,961,242,doco,F42,2199098,5550251,14036635,efp,1,,40
+31865,10,2005,Clutha River,1231007,Barn Creek,752.743,1100,Barn Creek tributary,,1115,243,doco,F42,2200130,5550682,14036272,efp,1,,40
+31866,10,2005,Clutha River,1231007,Barn Creek,752.743,1115,Barn Creek tributary,,1213,244,doco,F42,2200832,5550998,14036272,efp,1,,30
+31871,10,2005,Clutha River,1231009,Nevis River tributary 6,752.743,1345,Nevis River tributary,,942,244,doco,F42,2199368,5549011,14037244,efp,1,,40
+31873,10,2005,Clutha River,1231003,Nevis River tributary 2,752.743,1545,Nevis River tributary,,828,236,doco,F42,2193647,5554931,14034434,efp,1,,20
+31874,10,2005,Clutha River,1231001,Nevis River tributary 1,752.743,1615,Nevis River tributary,,892,232,doco,F42,2193541,5556407,14033849,efp,1,,10
+31875,10,2005,Clutha River,1231006,Nevis River tributary 4,752.743,935,Nevis River tributary,,663,238,doco,F42,2194460,5550935,14036322,efp,1,,40
+31876,10,2005,Clutha River,1231004,Nevis Burn tributary,752.743,1007,Nevis Burn  tributary, ,738,238,doco,F42,2192682,5552350,14035656,efp,1, ,30
+31878,10,2005,Clutha River,1231008,Nevis River tributary 5,752.743,1125,Nevis River tributary, ,715,241,doco,F42,2193414,5548635,14037167,efp,1, ,30
+31880,10,2005,Clutha River,1231013,Nevis River tributary 8,752.743,1215,Nevis River tributary, ,924,248,doco,F42,2190505,5546909,14038105,efp,1, ,30
+31881,10,2005,Clutha River,1231014,Nevis River tributary 9,752.743,1310,Nevis River tributary, ,828,247,doco,F42,2191130,5545917,14038517,efp,1, ,15
+31882,10,2005,Clutha River,1231013,Nevis River tributary 8,752.743,1250,Nevis River tributary,,1071,249,doco,F42,2190396,5546566,14038301,efp,1,,15
+31883,10,2005,Clutha River,1231014,Nevis River tributary 9,752.743,1318,Nevis River tributary,,803,246,doco,F42,2191148,5545796,14038795,efp,1,,15
+31884,10,2005,Clutha River,1231016,Nevis River tributary 11,752.743,1330,Nevis River tributary,,780,247,doco,F42,2191395,5545260,14039041,efp,1,,20
+28449,2,2007,Clutha River,1231023,Sproules Creek,752.743,1235,Sproules Creek,,795,252,doco,F42,2188904,5540846,14041001,efp,1,,50
+28450,2,2007,Clutha River,1231023,Sproules Creek,752.743,1400,Sproules Creek, ,730,250,doco,f42,2189977,5540947,14040986,efp,1, ,50
+28451,2,2007,Clutha River,1231024,Whittens Creek,752.743,1520,Whittens Creek,,775,255,doco,F42,2188765,5537067,14042637,efp,1,,50
+28452,2,2007,Clutha River,1231024,Whittens Creek,752.743,1640,Whittens Creek,,840,257,doco,F42,2186942,5537657,14042290,efp,1,,50
+28455,2,2007,Clutha River,1231023,Sproules Creek,752.743,940,Sproules Creek, ,795,252,doco,f42,2188851,5540852,14041001,efp,1, ,20
+28457,2,2007,Clutha River,1231024,Whittens Creek,752.743,1015,Whittens Creek, ,885,258,doco,f42,2186648,5538002,14042290,efp,1, ,20
+109179,11,2008,Clutha River,1231003,Nevis River tributary 2,752.743,,Nevis River tributary,,847,244,doco,F41,2193657,5554930,14034434,efp,,,73
+109180,11,2008,Clutha River,1231003,Nevis River tributary 2,752.743,,Nevis River tributary,,677,242,doco,F41,2195123,5553934,14034833,efp,,,63.5
+117073,2,2010,Clutha River,1231015,Nevis River tributary 10,752.743,1506,Nevis River tributary, ,832,253,doco, ,2193578,5545245,14038970,efp,1, ,
+117074,2,2010,Clutha River,1231017,Nevis River tributary 12,752.743,1600,Nevis River tributary, ,1001,255,doco, ,2192695,5544280,14039567,efp,1, ,23
+117075,3,2010,Clutha River,1231008,Nevis River tributary 5,752.743,1553,Nevis River tributary, ,702,248,doco, ,2193280,5548612,14037167,efp,1, ,
+117076,3,2010,Clutha River,1231028,Nevis River tributary 21,752.743,0,Nevis River tributary, ,720,249,doco, ,2192644,5548844,14037085,efp,4, ,24
+117077,2,2010,Clutha River,1231012,Nevis River tributary 7,752.743,1226,Nevis River tributary, ,805,252,doco, ,2194344,5546219,14038483,efp,3, ,31
+117078,2,2010,Clutha River,1231017,Nevis River tributary 12,752.743,1639,Nevis River tributary, ,727,255,doco, ,2192890,5544212,14039509,efp,3, ,24
+117079,2,2010,Clutha River,1231018,Nevis River tributary 13,752.743,1030,Nevis River tributary, ,784,255,doco, ,2192730,5543346,14039972,efp,3, ,50
+117083,3,2010,Clutha River,1231006,Nevis River tributary 4,752.743,0,Nevis River tributary, ,757,249,doco, ,2192993,5550808,14036271,efp,3, ,31
+117084,3,2010,Clutha River,1231006,Nevis River tributary 4,752.743,0,Nevis River tributary, ,727,248,doco, ,2193027,5550048,14036634,efp,3, ,18
+112078,2,2011,Clutha River,1231027,Nevis River tributary 20,752.743,,Nevis River tributary,,957,262,doco,F41,2189250,5538730,14041951,efp,,,
+112079,2,2011,Clutha River,1231024,Whittens Creek,752.743,,Whittens Creek tributary,,967,265,doco,F42,2187700,5536870,14042733,efp,,,
+112080,2,2011,Clutha River,1231024,Whittens Creek,752.743,,Whittens Creek,,844,264,doco,F42,2187713,5536964,14042734,efp,,,
+109153,2,2012,Clutha River,1231009,Nevis River tributary 6,752.743,,Nevis River tributary,,780,251,rdcl,F41,2197134,5549029,14037129,efp,,,38
+109154,3,2012,Clutha River,1231009,Nevis River tributary 6,752.743,,Nevis River tributary,,780,251,rdcl,F41,2197178,5549065,14037129,efp,,,55
+109156,3,2012,Clutha River,1231002,Potters Creek,752.743,,Potters Creek,,1033,246,rdcl,F42,2199678,5554747,14034497,efp,,,65.5
+109158,3,2012,Clutha River,1231002,Potters Creek,752.743,,Potters Creek,,1006,245,rdcl,F42,2198898,5554626,14034515,efp,,,88.5
+109159,3,2012,Clutha River,1231002,Potters Creek,752.743,,Potters Creek,,997,243,rdcl,F42,2197563,5554954,14034460,efp,,,169.5
+109165,3,2012,Clutha River,1231010,Schoolhouse Creek tributary,752.743,,Stewarts Creek tributary,,953,253,rdcl,F42,2191664,5548099,14037084,efp,,,41.5
+109166,3,2012,Clutha River,1231008,Nevis River tributary 5,752.743,,Nevis River tributary,,892,251,rdcl,F41,2192217,5548514,14036878,efp,,,18.5
+109182,3,2012,Clutha River,1231003,Nevis River tributary 2,752.743,,Nevis River tributary,,677,242,rdcl,F41,2195094,5553925,14034833,efp,,,66.5
+109183,3,2012,Clutha River,1231003,Nevis River tributary 2,752.743,,Nevis River tributary,,847,244,rdcl,F41,2193745,5554945,14034434,efp,,,65
+107602,12,2014,Clutha River,1231006,Nevis River tributary 4,752.743,1156,Nevis River, ,657,245,cft,F41,2195254,5551638,14035985,efp, , , 
+107603,12,2014,Clutha River,1231004,Nevis Burn tributary,752.743,1311,Nevis River tributary, , , ,cft,F41,2193033,5551637, ,efp, , , 
+109155,6,2014,Clutha River,1231009,Nevis River tributary 6,752.743,,Nevis River tributary,,780,251,rdcl,F41,2197178,5549065,14037129,efp,,,60.5
+109161,6,2014,Clutha River,1231002,Potters Creek,752.743,,Potters Creek,,1006,245,rdcl,F42,2198898,5554626,14034515,efp,,,95
+109167,6,2014,Clutha River,1231008,Nevis River tributary 5,752.743,,Nevis River tributary,,892,251,rdcl,F41,2192217,5548514,14036878,efp,,,18
+109168,6,2014,Clutha River,1231010,Schoolhouse Creek tributary,752.743,,Stewarts Creek tributary,,953,253,rdcl,F42,2191664,5548099,14037084,efp,,,44
+109184,6,2014,Clutha River,1231003,Nevis River tributary 2,752.743,,Nevis River tributary,,677,242,rdcl,F41,2195094,5553925,14034833,efp,,,70.5
+109185,6,2014,Clutha River,1231003,Nevis River tributary 2,752.743,,Nevis River tributary,,847,244,rdcl,F41,2193745,5554945,14034434,efp,,,94
+104197,5,2015,Clutha River,1231010,Schoolhouse Creek tributary,752.743,1230,Nevis River tributary,,953,253,doco,F42,2191649,5548096,14037084,efp,3,,36
+104198,5,2015,Clutha River,1231008,Nevis River tributary 5,752.743,1000,Nevis River tributary,,892,251,doco,F42,2192214,5548508,14036878,efp,3,,25
+104199,5,2015,Clutha River,1231009,Nevis River tributary 6,752.743,1435,Nevis River tributary,,780,251,doco,F42,2197188,5549067,14037129,efp,3,,50
+104200,5,2015,Clutha River,1231003,Nevis River tributary 2,752.743,1050,Nevis River tributary,,677,242,doco,F42,2195080,5553931,14034833,efp,3,,60
+104201,5,2015,Clutha River,1231003,Nevis River tributary 2,752.743,1230,Nevis River tributary,,847,244,doco,F42,2193703,5554921,14034434,efp,3,,70
+104210,5,2015,Clutha River,1231002,Potters Creek,752.743,1020,Potters Creek,,997,243,doco,F42,2197590,5554954,14034460,efp,3,,150
+104211,5,2015,Clutha River,1231002,Potters Creek,752.743,1600,Potters Creek,,1006,245,doco,F42,2198894,5554631,14034515,efp,3,,105
+104241,5,2015,Clutha River,1231013,Nevis River tributary 8,752.743,1440,Stewarts Creek tributary,,0,0,doco,F42,2191600,5547442,,efp,1,,56
+104242,5,2015,Clutha River,1231013,Nevis River tributary 8,752.743,,Stewarts Creek tributary,,834,256,doco,F42,2191503,5547268,14038105,efp,1,,20
+104243,5,2015,Clutha River,1231013,Nevis River tributary 8,752.743,,Stewarts Creek tributary,,834,256,doco,F42,2191474,5547248,14038105,efp,1,,16
+109163,5,2015,Clutha River,1231002,Potters Creek,752.743,,Potters Creek,,1033,246,doco,F42,2199678,5554747,14034497,efp,,,61.5
+110649,10,2016,Clutha River,1231002,Potters Creek,752.743,856,Potters Creek,,1006,245,docc,F42,2198942,5554591,14034515,efp,,,30
+110650,10,2016,Clutha River,1231005,Nevis River tributary 3,752.743,1109,Nevis River tributary,,1009,247,docc,F41,2199086,5553205,14035254,efp,,,3.5
+110651,10,2016,Clutha River,1231007,Barn Creek,752.743,1200,Carrick Water Race, , , ,docc,F41,2201504,5551761, ,efp, , , 
+110652,10,2016,Clutha River,1231007,Barn Creek,752.743,1249,Barn Creek, ,1048,250,docc,F42,2201309,5551889,14035947,efp, , , 
+110653,10,2016,Clutha River,1231007,Barn Creek,752.743,1304,Barn Creek,,1048,250,docc,F42,2201275,5551818,14035947,efp,,,
+113618,4,2018,Clutha River,1231024,Whittens Creek,752.743,1306,Whittens Creek, ,844,264,cft,F42,2188009,5536931,14042734,efp, , , 
+113620,4,2018,Clutha River,1231023,Sproules Creek,752.743,1417,Sproules Creek, ,800,259,cft,F42,2189994,5540936,14040986,efp, , , 
+113621,4,2018,Clutha River,1231004,Nevis Burn tributary,752.743,1530,Water Race tributary of the Nevis Burn, , , ,cft,F42,2193121,5551305, ,efp, , , 
+118431,3,2019,Clutha River,1231002,Potters Creek,752.743,1437,Potters Creek tributary, ,999,246,docc,F42,2198959,5554288,14034645,vbd, ,,
+119423,6,2000,Clutha River,1231002,Potters Creek,752.743,,Potters Creek, ,1039,248,uoo, ,2200600,5556799,14033688,efp,1,,
+121150,2,2002,Clutha River,1231031,Wrights Creek,752.743,0,Wrights Creek, ,839,272,cft, ,2185538,5531022,14044862,efp,1,,
+121415,2,2011,Clutha River,1231030,Drummond Creek,752.743,0,Drummond Creek, ,892,272,doco, ,2184724,5534320,14043658,efp,1,,
+121417,2,2011,Clutha River,1231029,Scotchmans Creek,752.743,0,Scotchmans Creek, ,907,261,doco, ,2190672,5538735,14041626,efp,1,,
+121416,2,2011,Clutha River,1231023,Sproules Creek,752.743,0,Sproules Creek, ,805,260,doco, ,2188925,5540851,14041001,efp,1,,
+121807,4,2009,Clutha River,1231021,Nevis River tributary 16,752.743,0,Nevis River tributary, ,893,257,doco, ,2191251,5542929,14040600,efp,1,,
+121808,2,2009,Clutha River,1231020,Nevis River tributary 15,752.743,0,Nevis River tributary, ,929,256,doco, ,2191568,5543231,14039984,efp,1,,
+121809,4,2009,Clutha River,1231019,Nevis River tributary 14,752.743,0,Nevis River tributary, ,1000,255,doco, ,2192117,5543417,14039566,efp,3,,
+121152,8,2007,Clutha River,1231016,Nevis River tributary 11,752.743,0,Nevis River tributary, ,728,254,cft, ,2192062,5545032,14039041,efp,1,,
+121810,10,2008,Clutha River,1231016,Nevis River tributary 11,752.743,0,Nevis River tributary, ,728,254,doco, ,2191688,5545207,14039041,efp,1,,
+121811,10,2008,Clutha River,1231016,Nevis River tributary 11,752.743,0,Nevis River tributary, ,871,255,doco, ,2191218,5545537,14038913,efp,1,,
+121812,10,2008,Clutha River,1231014,Nevis River tributary 9,752.743,0,Nevis River tributary, ,857,255,doco, ,2191129,5545782,14038813,efp,1,,
+121813,10,2008,Clutha River,1231014,Nevis River tributary 9,752.743,0,Nevis River tributary, ,968,255,doco, ,2191139,5545941,14038659,efp,1,,
+121414,2,2011,Clutha River,1231010,Schoolhouse Creek tributary,752.994,0,Stewarts Creek tributary, ,929,253,doco, ,2191687,5548067,14037084,efp,1,,
+121815,3,2010,Clutha River,1231010,Schoolhouse Creek tributary,752.743,0,Nevis River tributary, ,929,253,doco, ,2191665,5548139,14037084,efp,3,,27
+121818,11,2008,Clutha River,1231009,Nevis River tributary 6,752.743,0,Nevis River tributary, ,729,251,doco, ,2197185,5548946,14037279,efp,1,,
+121820,10,2008,Clutha River,1231006,Nevis River tributary 4,752.743,0,Nevis River tributary, ,660,246,doco, ,2194468,5550969,14036207,efp,1,,
+121825,11,2008,Clutha River,1231006,Nevis River tributary 4,752.743,0,Nevis River, ,659,245,doco, ,2195279,5551593,14035986,efp,1,,
+121830,4,2009,Clutha River,1231005,Nevis River tributary 3,752.743,0,Nevis River tributary, ,782,244,doco, ,2196039,5552925,14035131,efp,3,,
+121119,7,2005,Clutha River,1231004,Nevis Burn tributary,752.743,0,Nevis Burn tributary, ,819,247,docs, ,2191486,5552064,14035817,efp,1,,
+121655,11,2010,Clutha River,1231004,Nevis Burn tributary,752.743,1634,Nevis River water race tributary, ,0,0,doco,F41,2193341,5551354,0,efp, ,,
+121822,10,2008,Clutha River,1231004,Nevis Burn tributary,752.743,0,Nevis River tributary, ,680,246,doco, ,2193347,5551317,14036148,efp,1,,
+121823,11,2008,Clutha River,1231004,Nevis Burn tributary,752.743,0,Nevis River tributary, ,0,0,doco, ,2192540,5551524,0,efp,3,,
+121824,11,2008,Clutha River,1231004,Nevis Burn tributary,752.743,0,Nevis River tributary, ,0,0,doco, ,2193346,5551318,0,efp, ,,
+121827,11,2008,Clutha River,1231004,Nevis Burn tributary,752.743,0,Nevis Burn tributary, ,819,247,doco, ,2191502,5552065,14035817,efp,3,,
+121828,10,2008,Clutha River,1231004,Nevis Burn tributary,752.743,0,Nevis Burn tributary, ,747,247,doco, ,2192349,5552402,14035656,efp,1,,
+121833,2,2010,Clutha River,1231002,Potters Creek,752.743,1420,Potters Creek, ,947,243,doco, ,2197513,5554950,14034460,efp,3,,143
+121834,2,2010,Clutha River,1231002,Potters Creek,752.743,940,Potters Creek, ,1017,247,doco, ,2200268,5555302,14034335,efp,4,,24
