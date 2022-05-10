@@ -1,0 +1,341 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+816,6,1962,Rakaia River,1301012,Double Hill Stream,685.1,,Glenariffe Stream tributary,,440,117,niwa,k35,2375800,5764100,13039393,ef,1,,
+815,4,1965,Rakaia River,1301012,Double Hill Stream,685.1,,Glenariffe Stream tributary,,440,117,niwa,k35,2375800,5764100,13039393,efm,1,,
+2529,5,1965,Buller River,1301022,Maruia River,932.42, ,Maruia River, ,550,180,niwa,m31,2453300,5869500,12026371,ef,1, , 
+50178,8,1965,Buller River,1301022,Maruia River,932.42, ,Maruia River, ,570,181,niwa,m31,2454600,5869700,12026362,unk, , , 
+50179,3,1965,Buller River,1301022,Maruia River,932.42, ,Maruia River, ,550,179,niwa,m31,2453300,5869600,12026371,ef,2, , 
+50185,8,1965,Buller River,1301022,Maruia River,932.429, ,One Mile Creek, ,550,180,niwa,m31,2453400,5869500,12026392,unk, , , 
+246,10,1966,Rakaia River,1301010,Avoca River upper,685.081,day,Avoca River,,660,144,niwa,K34,2391100,5782000,13033772,ef,,,
+249,10,1966,Rakaia River,1301008,Harper River,685.081,day,Harper River,,550,134,niwa,K34,2387000,5776200,13035695,ef,1,,
+250,10,1966,Rakaia River,1301011,Wilberforce River upper,685.08,day,Wilberforce River,,560,136,niwa,K34,2378900,5781900,13033373,ef,1,,
+50388,11,1966,Rakaia River,1301012,Double Hill Stream,685.1, ,Double Hill Stream, ,380,114,unk,k35,2377900,5764800,13039079,unk, , , 
+50177,3,1967,Buller River,1301022,Maruia River,932.42,day,Maruia River,,570,181,niwa,M31,2454600,5869700,12026362,ef,1,,
+50175,8,1973,Buller River,1301022,Maruia River,932.42, ,Maruia River, ,580,182,niwa,m31,2455200,5869900,12026297,unk, , , 
+5913,3,1974,Buller River,1301022,Maruia River,932.42,,Maruia River,,550,180,niwa,M31,2453400,5869500,12026371,han,,,3
+5925,5,1974,Rakaia River,1301008,Harper River,685.081, ,Harper River, ,540,133,niwa,k34,2386300,5775600,13035773,han, , ,2
+1051,6,1976,Rakaia River,1301002,Rakaia River lower,685,1530,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, , 
+3205,3,1977,Hurunui River,1301001,Landslip Stream,651.26,1345,Landslip Stream,,590,138,niwa,L32,2431700,5834500,13017470,ef,1,,
+3051,10,1978,Rakaia River,1301005,Rakaia River tributary,685,1100,Rakaia River,,390,107,niwa,k35,2382400,5761600,13040091,ef,1,,
+501,9,1979,Rakaia River,1301002,Rakaia River lower,685,1030,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, , 
+502,9,1979,Rakaia River,1301002,Rakaia River lower,685,1400,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, , 
+510,10,1979,Rakaia River,1301002,Rakaia River lower,685,1030,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, , 
+511,10,1979,Rakaia River,1301002,Rakaia River lower,685,1400,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, , 
+515,11,1979,Rakaia River,1301002,Rakaia River lower,685,1200,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, , 
+522,12,1979,Rakaia River,1301002,Rakaia River lower,685,1100,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, ,2250
+1060,7,1979,Rakaia River,1301005,Rakaia River tributary,685,1430,Rakaia River,,390,108,niwa,K35,2382300,5761900,13040091,ef,1,,
+1061,7,1979,Rakaia River,1301005,Rakaia River tributary,685,1530,Rakaia River, ,390,108,niwa,k35,2382300,5761900,13040091,ef,1, , 
+1063,7,1979,Rakaia River,1301004,Rakaia River middle 2,685,1230,Rakaia River,,350,97,niwa,K35,2390700,5758300,13041377,ef,1,,
+1064,7,1979,Rakaia River,1301002,Rakaia River lower,685,1530,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, , 
+1072,8,1979,Rakaia River,1301002,Rakaia River lower,685,1145,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, , 
+3104,6,1979,Rakaia River,1301002,Rakaia River lower,685,1430,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, , 
+460,10,1980,Rakaia River,1301012,Double Hill Stream,685.1,1100,Double Hill Stream tributary,,430,116,niwa,k35,2377000,5764200,13039341,ef,1,,
+482,2,1980,Rakaia River,1301002,Rakaia River lower,685,1030,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, ,500
+483,2,1980,Rakaia River,1301002,Rakaia River lower,685,1330,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, , 
+491,3,1980,Rakaia River,1301002,Rakaia River lower,685,1045,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, ,100
+492,3,1980,Rakaia River,1301002,Rakaia River lower,685,1130,Rakaia River,,200,52,niwa,L36,2415000,5730900,13049623,ef,1,,450
+497,4,1980,Rakaia River,1301002,Rakaia River lower,685,1100,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, ,1500
+498,4,1980,Rakaia River,1301002,Rakaia River lower,685,1300,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, ,100
+499,4,1980,Rakaia River,1301002,Rakaia River lower,685,1500,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, ,80
+500,5,1980,Rakaia River,1301002,Rakaia River lower,685,1030,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, , 
+3526,4,1980,Rakaia River,1301004,Rakaia River middle 2,685,1100,Rakaia River tributary,,350,99,niwa,k35,2390600,5759200,13040886,ef,1,,
+3527,4,1980,Rakaia River,1301004,Rakaia River middle 2,685,1330,Unnamed wetland,,350,99,niwa,k35,2390600,5759200,0,ef,1,,
+3528,5,1980,Rakaia River,1301002,Rakaia River lower,685,1315,Rakaia River, ,200,52,niwa,l36,2415000,5730900,13049623,ef,1, ,2500
+5047,6,1982,Rakaia River,1301012,Double Hill Stream,685.1, ,Glenariffe Hatchery header race, ,420,114,niwa,k35,2377900,5764800,0,obs, , ,1
+3880,5,1983,Rangitata River,1301015,Rangitata River 1,693,1300,Rangitata River, ,430,84,niwa,j36,2351500,5720800,13052173,efp,1, , 
+3887,6,1983,Rangitata River,1301015,Rangitata River 1,693,900,Rangitata River, ,430,84,niwa,j36,2351500,5720800,13052173,efp,1, , 
+3888,8,1983,Rangitata River,1301015,Rangitata River 1,693,1200,Rangitata River,,430,84,niwa,J36,2351500,5720800,13052173,efp,1,,
+3892,10,1983,Rangitata River,1301015,Rangitata River 1,693,1030,Rangitata River,,430,84,niwa,J36,2351500,5720800,13052173,efp,1,,
+3896,12,1983,Rangitata River,1301015,Rangitata River 1,693,1030,Rangitata River,,430,84,niwa,J36,2351500,5720800,13052173,efp,1,,
+6531,2,1984,Rangitata River,1301015,Rangitata River 1,693,1030,Rangitata River,,430,84,niwa,J36,2351500,5720800,13052173,efp,1,,
+6532,2,1984,Rangitata River,1301015,Rangitata River 1,693,1300,Rangitata River,,450,91,niwa,J36,2345600,5724300,13051308,efm,1,,
+277,7,1985,Rakaia River,1301005,Rakaia River tributary,685,1100,Rakaia River tributary, ,390,109,niwa,k35,2380900,5762600,13039721,ef,1, , 
+279,7,1985,Rakaia River,1301012,Double Hill Stream,685,1400,Muddy Creek, ,420,114,niwa,k35,2377800,5765200,13039009,ef,1, , 
+6543,1,1986,Rakaia River,1301008,Harper River,685.081,1100,Harper River, ,530,132,niwa,k34,2385900,5775600,13035773,ef,1, , 
+6544,1,1986,Rakaia River,1301007,Wilberforce River middle,685.08,1300,Wilberforce River,,490,128,niwa,K34,2382200,5776000,13035711,ef,1,,
+6545,4,1986,Rangitata River,1301017,Caroline Stream upper,693.142,day,Caroline Stream,,520,108,niwa,J36,2340400,5738200,13047468,efp,1,,
+6546,8,1986,Rangitata River,1301017,Caroline Stream upper,693.142,1200,Caroline Stream,,520,108,niwa,J36,2340400,5738100,13047468,efp,1,,
+7381,10,1986,Rangitata River,1301017,Caroline Stream upper,693.142,1040,Caroline Stream,,520,108,niwa,J36,2340400,5738200,13047468,ef,1,,
+8274,3,1988,Rangitata River,1301017,Caroline Stream upper,693.142,day,Caroline Stream,,520,108,niwa,J36,2340400,5738200,13047468,efp,1,,
+3033,1,1991,Rakaia River,1301011,Wilberforce River upper,685.08,1100,Wilberforce River,,540,134,niwa,K34,2380300,5781000,13034153,efp,1,,
+12480,5,1993,Buller River,1301022,Maruia River,932.429,1030,One Mile Creek, ,560,180,nmfg,m31,2453400,5869500,12026392,ef,1, ,200
+13980,1,1995,Rakaia River,1301004,Rakaia River middle 2,685,,Rakaia River tributary,,350,100,indm,k35,2390100,5759700,13040667,obs,,,1
+13995,1,1995,Rakaia River,1301007,Wilberforce River middle,685.081, ,Harper River tributary, ,490,129,indm,k34,2382300,5776200,13035598,fyn, , ,4
+14000,1,1995,Rakaia River,1301004,Rakaia River middle 2,685,,Unnamed pond,,350,99,indm,k35,2390500,5759200,0,fyn,,,3
+11391,9,1998,Rangitata River,1301016,Caroline Stream lower,693.142,1000,Caroline Stream,,500,104,niwa,J36,2342200,5735200,13048270,efp,,,
+14881,12,2000,Rakaia River,1301012,Double Hill Stream,685.1,day,Double Hill Stream,,430,115,niwa,K35,2377600,5764700,13039079,efp,1,,
+14882,12,2000,Rakaia River,1301012,Double Hill Stream,685.1, ,Double Hill Stream tributary, ,430,115,niwa,k35,2377300,5764400,13039236,efp,1, , 
+17121,10,2000,Rakaia River,1301012,Double Hill Stream,685.1,day,Double Hill Stream tributary,,430,115,niwa,K35,2377600,5765600,13038900,efp,1,,200
+14886,4,2001,Buller River,1301022,Maruia River,932.429, ,One Mile Creek, ,560,180,niwa,m31,2453300,5869500,12026392,efp,1, , 
+17332,11,2002,Rangitata River,1301017,Caroline Stream upper,693.142,1050,Caroline Stream tributary, ,540,109,docc,j36,2339700,5738800,13046972,efp,1, ,70
+17338,11,2002,Rangitata River,1301017,Caroline Stream upper,693.142,1005,Caroline Stream tributary, ,530,109,docc,j36,2339600,5739000,13047167,efp,1, ,100
+21325,11,2005,Rangitata River,1301016,Caroline Stream lower,693.144,day,Powerhouse Stream,,605,104,niwa,J36,2342186,5735610,13048045,efp,1,,64
+21327,11,2005,Rangitata River,1301015,Rangitata River 1,693,day,Rangitata River,,435,85,niwa,J36,2350677,5721497,13052173,efp,1,,40
+26323,4,2005,Hurunui River,1301001,Landslip Stream,651,1445,Hurunui River, ,595,137,docc,l32,2432039,5834411,13017632,efp,1, ,60
+26324,4,2005,Hurunui River,1301001,Landslip Stream,651.26,1600,Landslip Stream tributary, ,595,137,docc,l32,2431942,5834502,0,efp,1, ,30
+26325,4,2005,Hurunui River,1301001,Landslip Stream,651.26,1650,Landslip Stream tributary, ,595,138,docc,l32,2431948,5834639,0,efp,1, ,60
+26326,4,2005,Hurunui River,1301001,Landslip Stream,651.26,920,Landslip Stream tributary, ,595,138,docc,l32,2431710,5834570,0,efp,1, ,70
+26329,4,2005,Hurunui River,1301001,Landslip Stream,651.26,1110,Landslip Stream tributary, ,595,138,docc,l32,2431620,5834548,0,efp,1, ,80
+26330,4,2005,Hurunui River,1301001,Landslip Stream,651.26,1615,Landslip Stream, ,605,139,docc,l32,2430613,5834838,13017507,efp,1, ,50
+26331,4,2005,Hurunui River,1301001,Landslip Stream,651.26,1655,Landslip Stream, ,610,140,docc,l32,2429972,5834399,13017542,efp,1, ,50
+26332,4,2005,Hurunui River,1301001,Landslip Stream,651.26,,Landslip Stream,,630,141,docc,l32,2428997,5834465,13017605,efp,1,,40
+26333,4,2005,Hurunui River,1301001,Landslip Stream,651.26,1035,Landslip Stream tributary,,615,141,docc,l32,2429379,5834465,13017466,efp,1,,16
+26334,4,2005,Hurunui River,1301001,Landslip Stream,651.26,1055,Landslip Stream tributary,,615,141,docc,l32,2429503,5834110,13017552,efp,1,,50
+100601,3,2006,Rakaia River,1301008,Harper River,685.081, ,Harper River, ,550,132,uoo,K34,2385847,5775475,13035891,efp,1, , 
+101629,9,2006,Rakaia River,1301003,Rakaia River middle 1,685,,Rakaia River,,275,73,doco,L37,2401477,5742177,13045701,han,,,1
+103594,4,2006,Rakaia River,1301010,Avoca River upper,685.081,1255,Centre Creek, ,737,144,docc,K34,2390433,5782716,13033221,efp, , , 
+103595,4,2006,Rakaia River,1301010,Avoca River upper,685.081,1039,Avoca River unnamed tributary, ,853,144,docc,K34,2389939,5783167,13033547,efp, , , 
+103596,4,2006,Rakaia River,1301010,Avoca River upper,685.081,1040,Avoca River,,982,144,docc,K34,2389899,5782776,13033687,efp,,,
+103598,4,2006,Rakaia River,1301010,Avoca River upper,685.081,1305,Avoca River, ,671,143,docc,K34,2391012,5781777,13033730,efp, , , 
+103599,4,2006,Rakaia River,1301010,Avoca River upper,685.081,1235,Avoca River, ,671,143,docc,K34,2390964,5782064,13033730,efp, , , 
+103600,4,2006,Rakaia River,1301010,Avoca River upper,685.081,1408,Avoca River, ,671,143,docc,K34,2390496,5782539,13033730,efp, , , 
+103601,4,2006,Rakaia River,1301010,Avoca River upper,685.081,1415,Avoca River,,671,143,docc,K34,2390806,5782283,13033730,efp,,,
+103602,4,2006,Rakaia River,1301010,Avoca River upper,685.081,945,Avoca River unnamed tributary,,703,144,docc,K34,2390338,5782769,13033560,efp,,,
+103603,4,2006,Rakaia River,1301010,Avoca River upper,685.081,1100,Avoca River unnamed tributary,,703,144,docc,K34,2390352,5782659,13033560,efp,,,
+23703,1,2007,Rakaia River,1301011,Wilberforce River upper,685.08,1100,Wilberforce River,,550,134,docn,K34,2379815,5781581,13034027,efm,1,,
+23704,1,2007,Rakaia River,1301011,Wilberforce River upper,685.08,1240,Wilberforce River,,540,134,docn,K34,2379961,5781331,13034027,efm,1,,
+24076,3,2007,Buller River,1301022,Maruia River,932.42,800,Maruia River, ,555,180,docy,m31,2453644,5869517,12026371,efp,1, ,500
+24077,3,2007,Buller River,1301022,Maruia River,932.42,959,Maruia River, ,555,180,docy,m31,2453644,5869517,12026371,efp, , , 
+24080,5,2007,Buller River,1301022,Maruia River,932.42,1030,One Mile Creek, ,550,180,docy,m31,2453376,5869488,12026392,efp,3, ,100
+24087,10,2007,Buller River,1301022,Maruia River,932.42, ,Maruia River, ,555,180,docy,m31,2453376,5869488,12026392,efm,1, ,50
+106325,12,2008,Rangitata River,1301016,Caroline Stream lower,693.142,1140,Caroline Stream tributary,,510,103,doco,J36,2341667,5734919,13048352,efp,,,
+106326,12,2008,Rangitata River,1301016,Caroline Stream lower,693.142,1040,Caroline Stream tributary,,510,103,doco,J36,2341682,5734953,13048352,efp,,,252
+106328,12,2008,Rangitata River,1301017,Caroline Stream upper,693.142,1443,Caroline Stream, ,523,107,docc,J36,2339590,5738670,13047343,efp, , , 
+106330,12,2008,Rangitata River,1301016,Caroline Stream lower,693.142,1002,Caroline Stream tributary,,510,103,doco,J36,2341740,5735012,13048352,efp,,,50
+106331,12,2008,Rangitata River,1301016,Caroline Stream lower,693.142,945,Caroline Stream tributary, ,510,103,doco,J36,2341711,5735043,13048352,efp, , , 
+106338,12,2008,Rangitata River,1301017,Caroline Stream upper,693.142,1635,Caroline Stream tributary,,526,108,doco,J36,2339599,5738860,13047278,efp,,,50
+106340,12,2008,Rangitata River,1301017,Caroline Stream upper,693.142,1400,Caroline Stream,,533,108,docc,J36,2339594,5738777,13047259,efp,,,52
+106342,12,2008,Rangitata River,1301017,Caroline Stream upper,693.142,1430,Caroline Stream tributary, ,509,106,doco,J36,2340179,5738019,13047468,efp, , , 
+106346,12,2008,Rangitata River,1301017,Caroline Stream upper,693.142,1136,Caroline Stream, ,517,107,docc,J36,2340285,5738040,13047472,efp, , , 
+31330,3,2010,Rangitata River,1301020,Havelock River 1,693.18,day,Havelock River,,570,115,docc,J35,2334246,5740258,13046597,ef,1,,
+31331,3,2010,Rangitata River,1301020,Havelock River 1,693.18,day,Havelock River,,570,115,docc,J35,2334276,5740262,13046597,ef,1,,
+31332,3,2010,Rangitata River,1301020,Havelock River 1,693.18, ,Havelock River, ,570,115,docc,J35,2334184,5740297,13046597,ef,1, , 
+31343,3,2010,Rangitata River,1301021,Havelock River 2,693.18,day,Havelock River,,709,120,docc,I35,2329909,5740916,13046607,ef,1,,
+31344,3,2010,Rangitata River,1301018,Clyde River,693.17, ,Clyde River, ,572,115,docc,J35,2335145,5740551,13046270,ef,1, , 
+31345,3,2010,Rangitata River,1301018,Clyde River,693.17,day,Clyde River,,574,115,docc,J35,2335093,5740716,13046270,ef,1,,
+31346,3,2010,Rangitata River,1301018,Clyde River,693.17,day,Clyde River,,572,115,docc,J35,2334964,5740981,13046414,ef,1,,
+31347,3,2010,Rangitata River,1301018,Clyde River,693.17,day,Clyde River,,572,115,docc,J35,2335071,5741256,13046414,ef,1,,
+31348,3,2010,Rangitata River,1301018,Clyde River,693.17,day,Clyde River,,575,116,docc,J35,2334885,5741232,13046414,ef,1,,
+31349,3,2010,Rangitata River,1301018,Clyde River,693.17,day,Clyde River,,575,116,docc,J35,2334857,5741242,13046414,ef,1,,
+31350,3,2010,Rangitata River,1301018,Clyde River,693.17,day,Clyde River,,600,116,docc,J35,2335823,5742042,13046270,ef,1,,
+31351,3,2010,Rangitata River,1301018,Clyde River,693.17, ,Clyde River, ,600,116,docc,J35,2336047,5742015,13046270,ef,1, , 
+31352,3,2010,Rangitata River,1301018,Clyde River,693.17, ,Clyde River, ,694,123,docc,J35,2334077,5747599,13044662,ef,1, , 
+31353,3,2010,Rangitata River,1301018,Clyde River,693.17,day,Clyde River,,693,123,docc,J35,2334254,5747817,13044662,ef,1,,
+31354,3,2010,Rangitata River,1301018,Clyde River,693.17, ,Clyde River, ,612,118,docc,J35,2336444,5743079,13045800,ef,1, , 
+31355,3,2010,Rangitata River,1301018,Clyde River,693.17,day,Clyde River,,632,119,docc,J35,2336767,5744540,13045386,ef,1,,
+31356,3,2010,Rangitata River,1301018,Clyde River,693.17,day,Clyde River,,643,121,docc,J35,2336888,5745660,13045134,ef,1,,
+31357,3,2010,Rangitata River,1301018,Clyde River,693.17,day,Clyde River,,643,121,docc,J35,2336888,5745656,13045134,ef,1,,
+34272,12,2010,Rangitata River,1301016,Caroline Stream lower,693.142,day,Caroline Stream tributary,,503,104,docc,J36,2341645,5735185,13048098,efp,1,,
+102696,6,2010,Rakaia River,1301006,Wilberforce River lower,685.08,1000,Wilberforce River,,430,118,ga,K35,2378567,5771204,13037054,efp,,,250
+102718,6,2010,Rakaia River,1301006,Wilberforce River lower,685.08,1130,Wilberforce River, ,452,119,ga,K35,2378247,5771084,13037076,efp, , , 
+102719,6,2010,Rakaia River,1301006,Wilberforce River lower,685.08,1220,Wilberforce River,,430,118,ga,K35,2378722,5771183,13037054,efp,,,
+102720,6,2010,Rakaia River,1301006,Wilberforce River lower,685.08,1400,Stable side braid of Wilberforce River,,452,119,ga,K35,2378697,5771207,13037076,efp,,,25
+102814,3,2010,Rakaia River,1301013,Mathias River,685.13,1600,Mathias River tributary,,986,137,ga,K35,2361315,5775281,13036149,efp,,,
+102815,3,2010,Rakaia River,1301013,Mathias River,685,1500,Rakaia River main braid,,621,138,ga,L37,2360597,5775416,13036032,efp,,,
+102981,9,2010,Rakaia River,1301013,Mathias River,685.13,1100,Mathias River tributary,,986,137,ga,K35,2361292,5775259,13036149,efp,,,
+102983,9,2010,Rakaia River,1301013,Mathias River,685.13,1200,Mathias River tributary,,986,137,ga,K35,2361330,5775330,13036149,efp,,,20
+102984,3,2010,Rakaia River,1301013,Mathias River,685.13,2159,Mathias River tributary,,990,137,ga,K35,2361571,5775093,13035762,efp,,,
+102985,9,2010,Rakaia River,1301013,Mathias River,685.13,930,Mathias River tributary,,632,139,ga,K35,2360665,5775658,13035920,efp,,,100
+102986,3,2010,Rakaia River,1301004,Rakaia River middle 2,685,1030,Rakaia River side braid,,339,95,ga,L37,2391723,5756088,13041724,efp,,,240
+102987,3,2010,Rakaia River,1301004,Rakaia River middle 2,685,1121,Rakaia River side braid,,362,98,ga,L37,2389358,5757300,13041473,efp,,,300
+106847,7,2010,Rakaia River,1301013,Mathias River,685.13,,Mathias River,,619,139,ga,J34,2360609,5775553,13035772,efp,,,50
+106848,7,2010,Rakaia River,1301013,Mathias River,685.13,,Mathias River,,619,139,ga,J34,2360593,5775489,13035772,efp,,,50
+106849,,2010,Rakaia River,1301013,Mathias River,685.13,,Mathias River tributary,,986,137,ga,J34,2361081,5775264,13036149,efp,,,15
+106850,,2010,Rakaia River,1301013,Mathias River,685.13,,Mathias River tributary,,618,136,ga,J34,2362014,5774894,13036125,efp,,,80
+106851,,2010,Rakaia River,1301013,Mathias River,685.13,,Mathias River tributary,,601,136,ga,J34,2362423,5774708,13036155,efp,,,30
+106852,,2010,Rakaia River,1301013,Mathias River,685.13,,Mathias River,,740,134,ga,J34,2363494,5774571,13036135,efp,,,100
+106873,,2010,Rakaia River,1301006,Wilberforce River lower,685.08,,Wilberforce River,,452,119,ga,K34,2378574,5771122,13037076,efp,,,250
+106874,7,2010,Rakaia River,1301006,Wilberforce River lower,685.08, ,Wilberforce River, ,452,119,ga,K34,2378574,5771122,13037076,efp, , ,125
+106875,,2010,Rakaia River,1301006,Wilberforce River lower,685.08,,Wilberforce River,,452,119,ga,K34,2378474,5771222,13037076,efp,,,50
+106876,,2010,Rakaia River,1301006,Wilberforce River lower,685.08,,Wilberforce River,,452,119,ga,K34,2378474,5771222,13037076,efp,,,60
+106880,7,2010,Rakaia River,1301014,Rakaia River upper,685, ,Rakaia River, ,677,145,ga,J35,2352646,5767145,13038535,efp, , , 
+106881,,2010,Rakaia River,1301014,Rakaia River upper,685,,Rakaia River,,677,145,ga,J35,2352606,5767145,13038535,efp,,,60
+106882,,2010,Rakaia River,1301014,Rakaia River upper,685,,Rakaia River,,677,145,ga,J35,2352700,5766989,13038535,efp,,,100
+106885,7,2010,Rakaia River,1301014,Rakaia River upper,685, ,Rakaia River, ,675,144,ga,J35,2353023,5766528,13038535,efp, , ,125
+106886,7,2010,Rakaia River,1301014,Rakaia River upper,685, ,Rakaia River, ,675,144,ga,J35,2353067,5766483,13038535,efp, , ,40
+106887,7,2010,Rakaia River,1301014,Rakaia River upper,685, ,Rakaia River, ,675,144,ga,J35,2353073,5766493,13038535,efp, , ,40
+106888,7,2010,Rakaia River,1301014,Rakaia River upper,685, ,Rakaia River, ,654,144,ga,J35,2354007,5765806,13038834,efp, , ,40
+106889,,2010,Rakaia River,1301014,Rakaia River upper,685,,Rakaia River,,639,143,ga,J35,2354135,5765625,13038887,efp,,,140
+106900,,2010,Rakaia River,1301013,Mathias River,685.13,,Mathias River,,621,138,ga,J34,2360510,5775047,13036032,efp,,,10
+106901,,2010,Rakaia River,1301013,Mathias River,685.13,,Mathias River tributary,,986,137,ga,J34,2361372,5775322,13036149,efp,,,
+106902,,2010,Rakaia River,1301013,Mathias River,685.13,,Mathias River tributary,,986,137,ga,J34,2361377,5775363,13036149,efp,,,12
+106923,,2010,Rakaia River,1301004,Rakaia River middle 2,685,,Rakaia River,,339,97,ga,K35,2389419,5757393,13041026,efp,,,40
+106924,7,2010,Rakaia River,1301004,Rakaia River middle 2,685, ,Rakaia River, ,339,97,ga,K35,2389429,5757397,13041026,efp, , ,50
+106925,7,2010,Rakaia River,1301004,Rakaia River middle 2,685, ,Rakaia River, ,339,95,ga,K35,2391858,5756374,13041724,efp, , ,30
+106926,7,2010,Rakaia River,1301004,Rakaia River middle 2,685, ,Rakaia River, ,339,97,ga,K35,2389562,5757510,13041026,efp, , ,20
+106927,7,2010,Rakaia River,1301004,Rakaia River middle 2,685, ,Rakaia River, ,339,97,ga,K35,2389615,5757504,13041026,efp, , ,30
+106928,7,2010,Rakaia River,1301004,Rakaia River middle 2,685, ,Rakaia River, ,339,97,ga,K35,2389681,5757608,13041026,efp, , ,25
+106929,7,2010,Rakaia River,1301005,Rakaia River tributary,685,,Rakaia River,,637,107,ga,K35,2382825,5761858,13040091,efp,,,100
+109964,3,2010,Rangitata River,1301020,Havelock River 1,693.18,1430,Havelock River,,617,114,doco,J35,2334245,5740254,13046534,efp,,,19.6
+109971,3,2010,Rangitata River,1301018,Clyde River,693.17,1104,Clyde River,,613,117,docc,J35,2336444,5743083,13045677,efp,,,
+109972,3,2010,Rangitata River,1301018,Clyde River,693.17,1144,Clyde River,,643,120,docc,J35,2336888,5745660,13045240,efp,,,
+109973,3,2010,Rangitata River,1301018,Clyde River,693.17,1100,Clyde River, ,632,119,docc,J35,2336767,5744544,13045341,efp, , , 
+109974,3,2010,Rangitata River,1301019,Lawrence River,693.171,1230,Lawrence River,,1065,126,docc,J35,2337951,5750816,13043639,efp,,,
+109980,3,2010,Rangitata River,1301023,Havelock River 3,693.18,1527,Havelock River tributary,,1088,125,doco,J35,2326529,5744883,13045193,efp,,,18
+109981,3,2010,Rangitata River,1301023,Havelock River 3,693.18,1508,Havelock River tributary, ,1088,125,doco,J35,2326493,5744846,13045193,efp, , , 
+109982,3,2010,Rangitata River,1301023,Havelock River 3,693.18, ,Havelock River tributary, ,723,125,doco,J35,2326542,5744764,13045450,efp, , , 
+109983,3,2010,Rangitata River,1301023,Havelock River 3,693.18,1330,Havelock River tributary,,723,125,doco,J35,2326701,5744672,13045450,,,,9
+109984,3,2010,Rangitata River,1301023,Havelock River 3,693.18,1250,Havelock River tributary, ,723,125,doco,J35,2326652,5744709,13045450,efp, , , 
+109985,3,2010,Rangitata River,1301023,Havelock River 3,693.18,1155,Havelock River tributary, ,729,125,doco,J35,2326972,5744408,13045468,efp, , , 
+109987,3,2010,Rangitata River,1301023,Havelock River 3,693.18,1147,Havelock River tributary, ,685,124,doco,J35,2326952,5744370,13045612,efp, , , 
+109988,3,2010,Rangitata River,1301023,Havelock River 3,693.18,1125,Havelock River tributary,,685,124,doco,J35,2326935,5744331,13045612,efp,,,20
+109990,3,2010,Rangitata River,1301021,Havelock River 2,693.18,1715,Havelock River,,588,119,doco,J35,2330155,5740802,13046552,efp,,,20
+109995,3,2010,Rangitata River,1301021,Havelock River 2,693.18,1428,Havelock River, ,588,119,doco,J35,2330161,5740867,13046552,efp, , , 
+110000,3,2010,Rangitata River,1301020,Havelock River 1,693.18,1545,Havelock River,,617,114,doco,J35,2334044,5740424,13046534,efp,,,31
+34061,4,2011,Rakaia River,1301010,Avoca River upper,685.081,1200,Avoca River tributary, ,676,145,doc,k34,2390167,5783101,13033547,efp,1, ,100
+34062,4,2011,Rakaia River,1301010,Avoca River upper,685.081,1230,Avoca River,,681,145,doc,k34,2390084,5782702,13033690,efp,1,,100
+34223,3,2011,Rangitata River,1301019,Lawrence River,693.171,day,Lawrence River,,677,124,docc,J35,2336661,5748363,13044443,efp,1,,
+34224,3,2011,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,677,124,docc,J35,2336667,5748375,13044443,efp,1, , 
+34225,3,2011,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,677,124,docc,J35,2336706,5748411,13044393,efp,1, , 
+34226,3,2011,Rangitata River,1301018,Clyde River,693.171, ,Lawrence River, ,650,121,docc,J35,2336761,5746123,13044988,efp,1, , 
+34227,3,2011,Rangitata River,1301018,Clyde River,693.171, ,Lawrence River, ,650,121,docc,J35,2336798,5746214,13044988,efp,1, , 
+34228,3,2011,Rangitata River,1301018,Clyde River,693.171, ,Lawrence River, ,649,121,docc,J35,2336808,5746247,13044988,efp,1, , 
+34229,3,2011,Rangitata River,1301018,Clyde River,693.171, ,Lawrence River, ,649,121,docc,J35,2336809,5746235,13044988,efp,1, , 
+34255,3,2011,Rangitata River,1301017,Caroline Stream upper,693.142, ,Caroline Stream tributary, ,521,109,docc,J36,2339590,5738633,13047228,efp,1, , 
+34256,3,2011,Rangitata River,1301017,Caroline Stream upper,693.142, ,Caroline Stream tributary, ,523,109,docc,J36,2339596,5738714,13047228,efp,1, , 
+34257,3,2011,Rangitata River,1301017,Caroline Stream upper,693.142,1430,Caroline Stream tributary, ,523,109,docc,J36,2339614,5738756,13047228,efp,1, , 
+34273,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,500,103,docc,J36,2341664,5734911,13048098,efp,1, , 
+34274,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,502,104,docc,J36,2341680,5735126,13048098,efp,1, , 
+34275,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,501,103,docc,J36,2341683,5734977,13048098,efp,1, , 
+34276,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142,day,Caroline Stream tributary,,500,103,docc,J36,2341684,5734942,13048098,efp,1,,
+34277,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,502,104,docc,J36,2341696,5735066,13048098,efp,1, , 
+34278,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,501,103,docc,J36,2341698,5734993,13048098,efp,1, , 
+34279,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142,day,Caroline Stream tributary,,501,103,docc,J36,2341703,5735001,13048098,efp,1,,
+34280,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142,day,Caroline Stream tributary,,501,103,docc,J36,2341703,5735008,13048098,efp,1,,
+34281,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,501,103,docc,J36,2341706,5735028,13048098,efp,1, , 
+34282,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142,1415,Caroline Stream tributary, ,500,104,docc,J36,2341894,5735044,13048230,efp,1, ,20
+34283,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142,1410,Caroline Stream tributary, ,500,104,docc,J36,2341896,5735085,13048230,efp,1, ,20
+34284,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142,1543,Caroline Stream tributary, ,500,104,docc,J36,2341984,5735271,13048230,efp,1, ,30
+34285,3,2011,Rangitata River,1301016,Caroline Stream lower,693.142,1510,Caroline Stream tributary, ,500,104,docc,J36,2342148,5735460,13048239,efp,1, ,10
+103276,7,2011,Rakaia River,1301002,Rakaia River lower,685,1400,Rakaia River, ,196,51,uoc,L37,2414926,5731178,13049623,efp, , , 
+106558,1,2011,Rakaia River,1301002,Rakaia River lower,685,1300,Rakaia River, ,198,53,unk,L37,2414262,5730854,13049376,efp, , , 
+106559,1,2011,Rakaia River,1301002,Rakaia River lower,685,1400,Rakaia River,,196,51,unk,L37,2415375,5730323,13049623,efp,,,
+106560,1,2011,Rakaia River,1301002,Rakaia River lower,685,1500,Rakaia River, ,196,51,unk,L37,2415440,5730234,13049623,efp, , , 
+106630,2,2011,Hurunui River,1301001,Landslip Stream,651.26, ,Hurunui River spring tributary, ,594,137,uoc,L32,2431591,5834621,13017470,efp, , , 
+106631,2,2011,Hurunui River,1301001,Landslip Stream,651.26, ,Landslip Stream, ,594,137,uoc,L32,2431647,5834693,13017470,efp, , , 
+106845,1,2011,Rakaia River,1301004,Rakaia River middle 2,685,,Rakaia River,,345,96,unk,L37,2390964,5756835,13041237,efp,,,
+107328,1,2011,Rakaia River,1301002,Rakaia River lower,685,815,Rakaia River, ,196,51,doco,L37,2414984,5730577,13049623,efp, , , 
+107334,1,2011,Rakaia River,1301004,Rakaia River middle 2,685,849,Rakaia River, ,326,93,rdcl,L37,2393125,5755936,13041848,efp, , , 
+107335,1,2011,Rakaia River,1301004,Rakaia River middle 2,685,855,Rakaia River,,322,92,rdcl,L37,2393405,5755752,13041874,efp,,,396
+107336,1,2011,Rakaia River,1301004,Rakaia River middle 2,685,900,Rakaia River, ,322,92,rdcl,L37,2393476,5755676,13041874,efp, , , 
+107337,1,2011,Rakaia River,1301004,Rakaia River middle 2,685,905,Rakaia River,,338,96,rdcl,L37,2390896,5756799,13041598,efp,,,442
+107338,1,2011,Rakaia River,1301004,Rakaia River middle 2,685,911,Rakaia River, ,338,96,rdcl,L37,2390868,5756846,13041598,efp, , , 
+107339,1,2011,Rakaia River,1301004,Rakaia River middle 2,685,917,Rakaia River,,338,96,rdcl,L37,2390982,5756804,13041598,efp,,,
+109484,3,2011,Rangitata River,1301019,Lawrence River,693.171,1054,Lawrence River,,1065,126,doco,J35,2337944,5750800,13043639,efp,,,
+103584,5,2012,Rakaia River,1301009,Avoca River lower,685.081,1350,Corner Creek, ,636,141,docc,K34,2392208,5780583,13034232,efp, , , 
+103586,5,2012,Rakaia River,1301009,Avoca River lower,685.081,1220,Corner Creek tributary,,655,142,docc,K34,2392301,5780940,13034095,efp,,,
+103587,5,2012,Rakaia River,1301009,Avoca River lower,685.081,1125,Avoca River unnamed tributary, ,655,142,docc,K34,2392344,5781314,13034095,efp, , , 
+103588,5,2012,Rakaia River,1301010,Avoca River upper,685.081,1020,Avoca River, ,858,143,docc,K34,2391241,5782177,13033511,efp, , , 
+102816,3,2015,Rakaia River,1301013,Mathias River,685.13,1430,Mathias River main braid,,621,138,ga,K35,2360541,5775158,13036032,efp,,,
+110023,4,2016,Rangitata River,1301019,Lawrence River,693.171,,Lawrence River,,1065,126,docc,J35,2338184,5750852,13043639,efp,,,
+110024,4,2016,Rangitata River,1301019,Lawrence River,693.171,,Lawrence River,,1065,126,docc,J35,2338201,5750866,13043639,efp,,,
+110025,4,2016,Rangitata River,1301019,Lawrence River,693.171,,Lawrence River,,1065,126,docc,J35,2338206,5750870,13043639,efp,,,
+110026,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1065,126,docc,J35,2338223,5750857,13043639,efp, , , 
+110027,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1065,126,doco,J35,2338223,5750855,13043639,efp, , , 
+110028,4,2016,Rangitata River,1301019,Lawrence River,693.171,,Lawrence River,,1065,126,docc,J35,2338236,5750848,13043639,efp,,,
+110029,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1065,126,docc,J35,2338254,5750858,13043639,efp, , , 
+110030,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1065,126,docc,J35,2338255,5750859,13043639,efp, , , 
+110031,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1065,126,docc,J35,2338254,5750862,13043639,efp, , , 
+110032,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1065,126,docc,J35,2338243,5750847,13043639,efp, , , 
+110033,4,2016,Rangitata River,1301019,Lawrence River,693.171,,Lawrence River,,712,127,docc,J35,2338306,5750845,13043647,efp,,,
+110034,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1014,127,docc,J35,2338723,5750912,13043585,efp, , , 
+110035,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1014,127,docc,J35,2338749,5750904,13043585,efp, , , 
+110036,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1014,127,docc,J35,2338751,5750893,13043585,efp, , , 
+110037,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1014,127,docc,J35,2338755,5750884,13043585,efp, , , 
+110038,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1014,127,docc,J35,2338813,5750906,13043585,efp, , , 
+110039,4,2016,Rangitata River,1301019,Lawrence River,693.171,,Lawrence River,,1065,126,docc,J35,2337954,5750804,13043639,efp,,,
+110062,4,2016,Rangitata River,1301019,Lawrence River,693.171,,Lawrence River,,1065,126,docc,J35,2337957,5750804,13043639,efp,,,
+110063,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1065,126,docc,J35,2337965,5750812,13043639,efp, , , 
+110064,4,2016,Rangitata River,1301019,Lawrence River,693.171, ,Lawrence River, ,1065,126,docc,J35,2337972,5750799,13043639,efp, , , 
+110065,4,2016,Rangitata River,1301019,Lawrence River,693.171,,Lawrence River,,1065,126,docc,J35,2338075,5750845,13043639,efp,,,
+110066,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341630,5734901,13048352,efp, , , 
+110067,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341614,5734725,13048352,efp, , , 
+110068,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341638,5734907,13048352,efp, , , 
+110071,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341647,5734918,13048352,efp, , , 
+110072,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341657,5734915,13048352,efp, , , 
+110073,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341686,5734937,13048352,efp, , , 
+110074,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341683,5734970,13048352,efp, , , 
+110075,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341651,5735210,13048352,efp, , , 
+110076,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341597,5734812,13048352,efp, , , 
+110077,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341608,5734860,13048352,efp, , , 
+110079,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341605,5734874,13048352,efp, , , 
+110080,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341612,5734882,13048352,efp, , , 
+110081,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142,,Caroline Stream tributary,,510,103,docc,J36,2341620,5734891,13048352,efp,,,
+110082,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341685,5735135,13048352,efp, , , 
+110083,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341603,5734753,13048352,efp, , , 
+110084,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341606,5734840,13048352,efp, , , 
+110085,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341688,5734952,13048352,efp, , , 
+110096,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341662,5734911,13048352,efp, , , 
+110097,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341663,5734910,13048352,efp, , , 
+110098,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341685,5734961,13048352,efp, , , 
+110099,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341690,5734983,13048352,efp, , , 
+110100,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341698,5734992,13048352,efp, , , 
+110101,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341709,5735000,13048352,efp, , , 
+110102,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142,,Caroline Stream tributary,,510,103,docc,J36,2341677,5734911,13048352,efp,,,
+110103,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341683,5734916,13048352,efp, , , 
+110104,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142,,Caroline Stream tributary,,510,103,docc,J36,2341690,5734926,13048352,efp,,,
+110105,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341714,5735020,13048352,efp, , , 
+110106,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341714,5735030,13048352,efp, , , 
+110107,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341713,5735044,13048352,efp, , , 
+110108,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341710,5735062,13048352,efp, , , 
+110109,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341705,5735074,13048352,efp, , , 
+110110,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341700,5735090,13048352,efp, , , 
+110111,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341649,5735257,13048352,efp, , , 
+110112,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341677,5735178,13048352,efp, , , 
+110113,3,2016,Rangitata River,1301016,Caroline Stream lower,693.142, ,Caroline Stream tributary, ,510,103,docc,J36,2341687,5734932,13048352,efp, , , 
+111709,6,2017,Buller River,1301022,Maruia River,932.42,1000,Maruia River, ,839,178,docy,L29,2453368,5869547,12026371,efp, , , 
+111710,6,2017,Buller River,1301022,Maruia River,932.429,1045,One Mile Creek, ,622,179,docy,M31,2453365,5869476,12026392,efp, , , 
+50181, , ,Buller River,1301022,Maruia River,932.42, ,Waterfall Creek, ,570,181,unk,m31,2454800,5869600,12026363,han, , ,1
+118041,3,2020,Rakaia River,1301013,Mathias River,685.13,900,Mathias River tributary,,614,137,wwcl,K35,2361383,5775336,13036149,efp,,,
+118042,3,2020,Rakaia River,1301013,Mathias River,685.13,1030,Mathias River tributary,,614,137,wwcl,K35,2361050,5775280,13036149,efp,,,
+118043,3,2020,Rakaia River,1301013,Mathias River,685.13,1130,Mathias River tributary,,614,137,wwcl,K35,2361558,5775141,13036149,efp,,,
+118044,3,2020,Rakaia River,1301013,Mathias River,685.13,1300,Mathias River tributary,,614,137,wwcl,K35,2361585,5775091,13036149,efp,,,
+118073,2,2020,Rangitata River,1301023,Havelock River 3,693.18,1603,Havelock River,,698,125,wwcl,J35,2326642,5744552,13045551,efp,,,
+118074,2,2020,Rangitata River,1301023,Havelock River 3,693.18,1700,Havelock River tributary,,699,125,wwcl,J35,2326630,5744739,13045450,efp,,,
+118075,2,2020,Rangitata River,1301024,Forest Creek,693.11,900,Forest Creek,,481,91,wwcl,J36,2344904,5722098,13052024,efp,,,
+118076,2,2020,Rangitata River,1301024,Forest Creek,693.11,1000,Forest Creek,,481,91,wwcl,J36,2344739,5722028,13052024,efp,,,
+118079,2,2020,Rangitata River,1301028,Rangitata River tributary 3,693,915,Rangitata River tributary,,470,95,wwcl,K38,2344777,5729823,13049828,efp,,,
+118080,2,2020,Rangitata River,1301028,Rangitata River tributary 3,693,1040,Rangitata River tributary,,480,97,wwcl,K38,2344626,5730146,13049720,efp,,,
+118082,2,2020,Rangitata River,1301028,Rangitata River tributary 3,693,1115,Rangitata River tributary,,479,97,wwcl,K38,2344259,5730210,13049703,efp,,,
+118083,2,2020,Rangitata River,1301028,Rangitata River tributary 3,693,1200,Rangitata River tributary,,479,97,wwcl,K38,2344033,5730262,13049358,efp,,,
+118084,2,2020,Rangitata River,1301028,Rangitata River tributary 3,693,1300,Rangitata River tributary,,479,97,wwcl,K38,2343722,5730473,13049358,efp,,,
+118085,2,2020,Rangitata River,1301028,Rangitata River tributary 3,693,1400,Rangitata River tributary,,478,97,wwcl,K38,2343764,5731124,13049446,efp,,,
+118134,1,2020,Rangitata River,1301024,Forest Creek,693.11,1400,Forest Creek,,453,89,wwcl,J36,2346898,5723971,13051744,efp,,,
+118135,1,2020,Rangitata River,1301024,Forest Creek,693.11,1500,Forest Creek,,453,89,wwcl,J36,2346724,5723770,13051744,efp,,,
+118141,1,2020,Rangitata River,1301024,Forest Creek,693.11,900,Forest Creek,,469,90,wwcl,J36,2345527,5722715,13051980,efp,,,
+118142,1,2020,Rangitata River,1301024,Forest Creek,693.11,1012,Forest Creek,,453,89,wwcl,J36,2346019,5723533,13051744,efp,,,
+118143,1,2020,Rangitata River,1301025,Rangitata River tributary 1,693.11,1130,Forest Creek,,453,89,wwcl,J36,2346419,5724018,13051744,efp,,,
+118144,1,2020,Rangitata River,1301025,Rangitata River tributary 1,693,1210,Rangitata River,,456,89,wwcl,K38,2346496,5724033,13051308,efp,,,
+118145,1,2020,Rangitata River,1301025,Rangitata River tributary 1,693.12,1330,Scour Stream,,456,89,wwcl,J36,2346696,5724045,13051488,efp,,,
+118150,1,2020,Rangitata River,1301026,Rangitata River tributary 2,693,826,Rangitata River tributary,,460,91,wwcl,K38,2344042,5726547,13050507,efp,,,
+118151,1,2020,Rangitata River,1301026,Rangitata River tributary 2,693,1040,Rangitata River tributary,,460,91,wwcl,K38,2343939,5726628,13050507,efp,,,
+118152,1,2020,Rangitata River,1301026,Rangitata River tributary 2,693,1200,Rangitata River tributary,,460,91,wwcl,K38,2343566,5727052,13050507,efp,,,
+118154,1,2020,Rangitata River,1301026,Rangitata River tributary 2,693,1300,Rangitata River tributary,,460,91,wwcl,K38,2343482,5727231,13050507,efp,,,
+118167,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693,1646,Rangitata River,,467,95,wwcl,K38,2342292,5729064,13049847,efp,,,
+118168,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693,1715,Rangitata River tributary,,474,96,wwcl,K38,2342359,5729111,13049788,efp,,,
+118170,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693.13,930,Bush Stream,,489,99,wwcl,J36,2341730,5729904,13049500,efp,,,
+118171,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693.13,1035,Bush Stream,,489,99,wwcl,J36,2341791,5729987,13049500,efp,,,
+118172,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693,1140,Rangitata River,,475,97,wwcl,K38,2342091,5730417,13049647,efp,,,
+118173,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693,1249,Rangitata River tributary,,495,97,wwcl,K38,2341648,5730416,13049673,efp,,,
+118174,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693,1400,Rangitata River,,475,97,wwcl,K38,2341494,5730437,13049647,efp,,,
+118175,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693,1525,Rangitata River tributary,,495,97,wwcl,K38,2341451,5730448,13049673,efp,,,
+118209,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693.13,1600,Bush Stream,,489,99,wwcl,J36,2340907,5730904,13049500,efp,,,
+118210,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693.13,1645,Bush Stream,,489,99,wwcl,J36,2340923,5730947,13049500,efp,,,
+118211,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693.13,1800,Bush Stream,,489,99,wwcl,J36,2340905,5730983,13049500,efp,,,
+118252,1,2020,Rangitata River,1301029,Rangitata River tributary 4,693,914,Rangitata River,,479,98,wwcl,K38,2340868,5731103,13049241,efp,,,
+118253,4,2020,Rangitata River,1301029,Rangitata River tributary 4,693.13,1015,Bush Stream,,489,99,wwcl,J36,2341121,5730848,13049500,efp,,,
+118254,4,2020,Rangitata River,1301026,Rangitata River tributary 2,693,1100,Rangitata River tributary,,460,91,wwcl,K38,2343749,5726703,13050507,efp,,,
+118255,1,2020,Rangitata River,1301027,Rangitata River 2,693,1107,Rangitata River,,459,93,wwcl,K38,2343618,5727573,13050257,efp,,,
+118256,1,2020,Rangitata River,1301027,Rangitata River 2,693,1230,Rangitata River,,459,93,wwcl,K38,2343558,5727627,13050257,efp,,,
+118257,1,2020,Rangitata River,1301027,Rangitata River 2,693,1307,Rangitata River,,459,93,wwcl,K38,2343566,5727678,13050257,efp,,,
+118258,1,2020,Rangitata River,1301027,Rangitata River 2,693,1420,Rangitata River,,459,93,wwcl,K38,2343851,5727446,13050257,efp,,,
+33950,6,2020,Buller River,1301022,Maruia River,932.42,1405,One Mile Creek, ,559,178,docy,L29,2453319,5869400,12026380,efp, ,,
+118737,6,2020,Buller River,1301022,Maruia River,932.42,1539,Maruia River, ,560,178,docy,L29,2453584,5869579,12026371,efp, ,,
+118738,6,2020,Buller River,1301022,Maruia River,932.42,1507,Maruia River, ,560,178,docy,L29,2453576,5869529,12026371,efp, ,,
+118739,6,2020,Buller River,1301022,Maruia River,932.42,1435,Maruia River, ,588,181,docy,L29,2455308,5869857,12026284,efp, ,,
+118740,6,2020,Buller River,1301022,Maruia River,932.42,1415,Maruia River, ,588,181,docy,L29,2455313,5869804,12026284,efp, ,,
+119384,1,1999,Buller River,1301022,Maruia River,932.42,,Maruia River, ,578,180,uoo, ,2454500,5869499,12026362,efp,1,,
+119385,1,1999,Buller River,1301022,Maruia River,932.42,,Maruia River, ,559,178,uoo, ,2453299,5869600,12026380,efp,1,,
+122010,1,1990,Rangitata River,1301030,Rangitata River 3,693,,Rangitata River, ,467,95,uoo,K38,2343602,5728905,13049847,efp,,,
+121077,,2004,Buller River,1301022,Maruia River,932.42,,Maruia River, ,560,178,docc, ,2453671,5869445,12026371,efp,1,,
+121078,,2004,Buller River,1301022,Maruia River,932.42,,Maruia River, ,560,178,unk, ,2453671,5869445,12026371,efp,1,,
+121619,5,2021,Buller River,1301022,Maruia River,932.42,1111,One Mile Creek, ,599,179,docy,L29,2453332,5869567,12026392,efp,,,
