@@ -1,0 +1,504 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+3173,10,1973,Taieri River,1321002,Waipori River tributary 2,743.05,,Waipori River tributary,,490,44,niwa,h44,2277800,5475900,14062182,ef,1,,
+6380,3,1984,Clutha River,1321033,Talla Burn,752.32,1335,Talla Burn, ,350,95,niwa,g44,2241100,5491400,14057428,ef,1, , 
+7912,2,1989,Clutha River,1321028,Beaumont River lower,752.29,1300,Beaumont River, ,280,89,otfg,g44,2244500,5485600,14059049,ef,4, , 
+3049,4,1991,Taieri River,1321002,Waipori River tributary 2,743.05,1300,Waipori River tributary,,470,43,niwa,H44,2277600,5475100,14062421,efp,1,,
+12372,9,1995,Taieri River,1321002,Waipori River tributary 2,743.05,1100,Waipori River tributary,,400,41,doco,H44,2276600,5475300,0,efp,1,,75
+12373,9,1995,Taieri River,1321002,Waipori River tributary 2,743.05,1430,Waipori River tributary,,440,42,doco,H44,2276900,5475200,14062291,efp,1,,45
+12375,9,1995,Taieri River,1321002,Waipori River tributary 2,743.05,1300,Waipori River tributary,,480,43,doco,h44,2277700,5475600,14062182,efp,1,,100
+12376,9,1995,Taieri River,1321002,Waipori River tributary 2,743.05,1430,Waipori River tributary,,470,43,doco,H44,2277700,5475300,14062246,efp,1,,40
+12377,9,1995,Taieri River,1321001,Waipori River tributary 1,743.05,1600,Waipori River tributary,,475,42,doco,H44,2278200,5474600,14062481,efp,1,,100
+12380,10,1995,Taieri River,1321002,Waipori River tributary 2,743.05,1345,Waipori River tributary,,570,46,doco,H44,2279800,5476400,0,efp,1,,20
+14765,12,1995,Clutha River,1321025,Tuapeka Creek,752.19,,Tuapeka Creek tributary,,110,84,indm,H44,2252786,5472113,14063097,pun,,,1
+15660,3,1996,Clutha River,1321024,Reedy Creek,752.12,1030,Waitahuna River,,390,103,doco,H44,2262400,5479000,14061350,efp,1,,30
+15665,3,1996,Taieri River,1321007,Waipori River tributary 5,743.05,1340,Waipori River tributary, ,480,70,doco,h44,2255400,5481500,14060559,efp,1, ,30
+15666,3,1996,Taieri River,1321007,Waipori River tributary 5,743.05,1400,Waipori River tributary,,490,70,doco,H44,2255300,5481400,14060559,efp,1,,50
+16378,10,1996,Taieri River,1321008,Waipori River tributary 6,743.05,1030,Waipori River tributary,,500,72,doco,H44,2254800,5482400,14060262,efp,1,,25
+16379,10,1996,Taieri River,1321008,Waipori River tributary 6,743.05,1045,Waipori River tributary, ,510,72,doco,h44,2254700,5482400,14060261,efp,1, ,30
+16380,10,1996,Taieri River,1321010,Waipori River tributary 8,743.05,1300,Waipori River tributary,,600,76,doco,H44,2253800,5483600,14059755,efp,1,,20
+16386,10,1996,Clutha River,1321023,Waitahuna River tributary 3,752.12,1300,Waitahuna River tributary, ,300,90,doco,h44,2268700,5471800,14063137,efp,1, ,10
+16388,10,1996,Clutha River,1321022,Waitahuna River tributary 2,752.12,1400,Waitahuna River tributary, ,280,89,doco,h44,2268600,5471200,14063263,efp,1, ,15
+16418,11,1996,Taieri River,1321004,Burnt Creek,743.05,1000,Burnt Creek,,700,69,doco,H44,2258100,5484900,14059275,efp,1,,40
+16419,11,1996,Taieri River,1321004,Burnt Creek,743.05,1130,Burnt Creek,,710,70,doco,H44,2258000,5485200,14059275,efp,1,,10
+16420,11,1996,Taieri River,1321003,Stony Creek,743.058,1300,Stony Creek,,720,70,doco,H44,2258300,5486000,14059076,efp,1,,50
+16901,3,1997,Taieri River,1321011,Deep Creek,743.059,1115,Deep Creek,,740,80,niwa,H44,2254800,5487800,14058607,efp,1,,25
+16902,3,1997,Taieri River,1321011,Deep Creek,743.059,1140,Deep Creek tributary,,760,81,niwa,H44,2255300,5488400,14058428,efp,1,,25
+16903,3,1997,Taieri River,1321011,Deep Creek,743.059,1200,Deep Creek tributary,,880,83,niwa,H44,2255200,5489800,14057914,efp,1,,25
+16904,3,1997,Taieri River,1321011,Deep Creek,743.059,1230,Deep Creek,,1050,86,niwa,H44,2256700,5491500,14057430,efp,1,,20
+16905,3,1997,Taieri River,1321014,Waipori River tributary 11,743.05,1300,Waipori River tributary,,830,85,niwa,H44,2253100,5490300,14057826,efp,1,,30
+16906,3,1997,Taieri River,1321014,Waipori River tributary 11,743.05,1330,Waipori River tributary,,900,87,niwa,H44,2254200,5491200,14057416,efp,1,,30
+16907,3,1997,Taieri River,1321014,Waipori River tributary 11,743.05,1400,Waipori River,,880,86,niwa,H44,2253400,5491200,14057393,efp,1,,40
+16908,3,1997,Taieri River,1321015,Waipori River,743.05,1430,Waipori River tributary,,930,89,niwa,H44,2252600,5492500,14057133,efp,1,,25
+16910,3,1997,Taieri River,1321004,Burnt Creek,743.05,1030,Burnt Creek, ,450,66,niwa,h44,2258400,5482400,14059969,efp,1, ,100
+16911,3,1997,Taieri River,1321004,Burnt Creek,743.05,1130,Burnt Creek, ,520,67,niwa,h44,2258500,5483100,14059855,efp,1, ,100
+16918,3,1997,Clutha River,1321027,Tuapeka Creek tributary,752.19,1200,Tuapeka River tributary,,610,96,niwa,H44,2252700,5481500,14060540,efp,1,,20
+16919,3,1997,Clutha River,1321027,Tuapeka Creek tributary,752.19,1300,Tuapeka River tributary,,620,97,niwa,H44,2252700,5482100,14060421,efp,1,,10
+16920,3,1997,Clutha River,1321027,Tuapeka Creek tributary,752.19,1330,Tuapeka River tributary,,610,97,niwa,H44,2252500,5482300,14060184,efp,1,,10
+106226,5,1999,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2257925,5485198,14059275,efp,4,,
+106227,4,1999,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258070,5484873,14059275,efp,3,,
+106228,4,1999,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258440,5483815,14059275,efp,3,,
+25000,4,2000,Clutha River,1321041,Armstrongs Creek tributary,752.479,1400,Armstrongs Creek tributary,,960,171,doco,G43,2247500,5502700,14054042,efp,1,,50
+25001,4,2000,Taieri River,1321018,Red Swamp Creek,743.94,1530,Red Swamp Creek,,910,274,doco,H43,2255200,5508500,14052131,efp,1,,10
+25002,4,2000,Taieri River,1321018,Red Swamp Creek,743.94,1640,Red Swamp Creek, ,920,275,doco,h43,2254700,5508600,14052131,efp,1, ,20
+106557,4,2000,Clutha River,1321031,Black Stream,752.29,1200,Black Stream,,648,105,doco,G44,2248000,5490000,14057815,efp,,,16
+108258,4,2000,Clutha River,1321030,Little Beaumont Stream,752.293,1300,Little Beaumont Stream, ,469,102,doco,G44,2245200,5488900,14058219,efp, , , 
+108266,4,2000,Taieri River,1321016,Bullocky Creek,743.93,1640,Red Swamp, ,959,262,doco,H43,2252700,5508500,14052206,efp, , , 
+24927,12,2002,Taieri River,1321011,Deep Creek,743.059,,Deep Creek tributary,,730,78,doco,h44,2255400,5486600,14058919,efp,1,,
+24947,12,2002,Taieri River,1321015,Waipori River,743.05,,Waipori River tributary,,740,86,doco,h44,2250400,5491200,0,efp,1,,
+24949,12,2002,Clutha River,1321032,Beaumont River upper,752.29,1530,Beaumont River tributary,,1080,108,doco,H44,2250700,5496800,14056020,efp,1,,
+24950,12,2002,Taieri River,1321015,Waipori River,743.05,day,Waipori River tributary,,800,85,doco,H44,2250700,5490600,0,efp,1,,
+24951,12,2002,Taieri River,1321015,Waipori River,743.05,1440,Unnamed pond, ,820,86,doco,h44,2250900,5491200,14057380,efp,1, , 
+24952,12,2002,Clutha River,1321032,Beaumont River upper,752.29,day,Beaumont River,,740,102,doco,G44,2249900,5492100,14057180,efp,1,,
+24961,12,2002,Clutha River,1321026,Medwins Creek,752.195,day,Medwins Creek,,590,97,doco,G44,2248000,5483200,14059264,efp,1,,
+24962,12,2002,Clutha River,1321031,Black Stream,752.29, ,Black Stream, ,660,97,doco,g44,2248000,5490000,14057815,efp,1, , 
+25320,1,2002,Clutha River,1321038,Pinelheugh Creek tributary,752.473,1041,Pinelheugh Creek tributary,,680,140,doco,G43,2235500,5514500,14050398,efp,1,,116
+25321,1,2002,Clutha River,1321038,Pinelheugh Creek tributary,752.473,1145,Pinelheugh Creek tributary,,700,141,doco,G43,2235600,5514900,0,efp,1,,22
+25355,3,2002,Clutha River,1321033,Talla Burn,752.32, ,Talla Burn, ,340,95,doco,g44,2240900,5490900,14057428,efp,1, ,248
+25363,3,2002,Clutha River,1321030,Little Beaumont Stream,752.293,day,Little Beaumont Stream,,410,94,doco,G44,2245200,5488900,14058219,efp,1,,72
+25364,3,2002,Clutha River,1321030,Little Beaumont Stream,752.293,day,Little Beaumont Stream tributary,,420,94,doco,G44,2245300,5489100,14058154,efp,1,,23
+25365,3,2002,Clutha River,1321030,Little Beaumont Stream,752.293,day,Little Beaumont Stream tributary,,420,94,doco,G44,2245500,5489200,14058154,efp,1,,91
+25366,3,2002,Clutha River,1321030,Little Beaumont Stream,752.293,day,Little Beaumont Stream tributary,,415,93,doco,G44,2245100,5488600,14058340,efp,1,,39
+26552,4,2002,Clutha River,1321038,Pinelheugh Creek tributary,752.473,day,Pinelheugh Creek tributary,,670,141,doco,G43,2235478,5515537,14049929,efp,1,,699
+26579,4,2002,Clutha River,1321039,Pinelheugh Creek,752.19,day,Pinelheugh Creek,,620,140,doco,G43,2233500,5516700,14049701,efp,1,,50
+26580,4,2002,Clutha River,1321037,Old Hut Creek,752.19, ,Old Hut Creek, ,500,134,doco,g43,2231200,5514700,14050352,efp,1, ,50
+26582,4,2002,Clutha River,1321037,Old Hut Creek,752.19,day,Old Hut Creek,,570,136,doco,G43,2232100,5515700,14050055,efp,1,,50
+26586,1,2002,Clutha River,1321038,Pinelheugh Creek tributary,752.19,1145,Pinelheugh Creek tributary,,680,140,doco,G43,2235600,5514900,14050398,efp,1,,25
+106229,6,2002,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2257925,5485198,14059275,efp,3,,
+106230,6,2002,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258070,5484873,14059275,efp,3,,
+106231,6,2002,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258440,5483815,14059275,efp,3,,
+106265,6,2002,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,2,,
+106293,6,2002,Taieri River,1321002,Waipori River tributary 2,743.05,,Shepherd Stream tributary,,471,41,doco,H44,2277560,5475114,14062246,efp,2,,82
+107351,12,2002,Clutha River,1321026,Medwins Creek,752.195,1344,Medwins Creek, ,643,105,doco,G44,2248030,5483262,14059264,efp, , , 
+107352,12,2002,Clutha River,1321032,Beaumont River upper,752.29,1358,Beaumont River, ,772,110,doco,G44,2249975,5491928,14057180,efp, , , 
+107354,12,2002,Taieri River,1321015,Waipori River,743.05,1411,Waipori River tributary,,827,84,doco,H45,2250720,5490637,14057700,efp,,,123
+107355,12,2002,Clutha River,1321026,Medwins Creek,752.195,1417,Medwins Creek, ,643,105,doco,G44,2248030,5483262,14059264,efp, , , 
+107509,4,2002,Clutha River,1321039,Pinelheugh Creek,752.473,924,Pinelheugh Creek,,758,150,rdcl,G43,2233478,5515537,14050057,efp,,,81
+107510,4,2002,Clutha River,1321038,Pinelheugh Creek tributary,752.473,931,Pinelheugh Creek tributary, ,718,149,rdcl,G43,2235181,5516203,14049739,efp, , , 
+106232,3,2003,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2257925,5485198,14059275,efp,3,,
+106233,3,2003,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258070,5484873,14059275,efp,3,,
+106234,4,2003,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258440,5483815,14059275,efp,2,,
+106266,3,2003,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,3,,
+106294,3,2003,Taieri River,1321002,Waipori River tributary 2,743.05,,Shepherd Stream tributary,,471,41,doco,H44,2277560,5475114,14062246,efp,1,,95
+26033,11,2004,Clutha River,1321022,Waitahuna River tributary 2,752.12,1245,Waitahuna River tributary,,280,89,doco,H44,2268600,5471200,14063263,efp,1,,
+26038,11,2004,Clutha River,1321023,Waitahuna River tributary 3,752.12,1125,Waitahuna River tributary,,300,90,doco,H44,2268700,5471800,14063137,efp,1,,5
+26039,11,2004,Clutha River,1321022,Waitahuna River tributary 2,752.12,1145,Waitahuna River tributary,,300,89,doco,H44,2268600,5471300,14063263,efp,1,,1
+26589,10,2004,Taieri River,1321013,Waipori River tributary 10,743.05,1230,Waipori River tributary,,660,82,doco,H44,2250700,5485500,14059197,efp,1,,20
+106235,4,2004,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2257925,5485198,14059275,efp,4,,
+106236,4,2004,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258070,5484873,14059275,efp,3,,
+106237,4,2004,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258440,5483815,14059275,efp,3,,
+106267,4,2004,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,3,,
+106295,4,2004,Taieri River,1321002,Waipori River tributary 2,743.05,,Shepherd Stream tributary,,471,41,doco,H44,2277560,5475114,14062246,efp,1,,40
+106971,12,2004,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek, ,532,143,doco,G43,2231218,5514693,14050352,efp, , , 
+25969,4,2005,Taieri River,1321007,Waipori River tributary 5,743.05, ,Waipori River tributary, ,510,71,doco,h44,2255048,5481120,14060559,efp,1, , 
+25970,4,2005,Taieri River,1321007,Waipori River tributary 5,743.05,1435,Waipori River tributary, ,530,71,doco,h44,2255105,5480893,14060709,efp,1, , 
+25971,4,2005,Taieri River,1321007,Waipori River tributary 5,743.05,1500,Waipori River tributary,,500,71,doco,H44,2255157,5481205,14060559,efp,1,,
+26014,10,2005,Taieri River,1321013,Waipori River tributary 10,743.05,1230,Waipori River tributary,,660,82,doco,H44,2250700,5485500,14059197,efp,1,,20
+26015,10,2005,Clutha River,1321027,Tuapeka Creek tributary,752.19,1300,Tuapeka River tributary,,600,96,doco,H44,2252500,5482300,14060184,efp,1,,15
+26016,10,2005,Clutha River,1321027,Tuapeka Creek tributary,752.19,day,Tuapeka River tributary,,600,96,doco,H44,2252700,5482000,14060421,efp,1,,30
+26017,10,2005,Clutha River,1321027,Tuapeka Creek tributary,752.19,day,Tuapeka River tributary,,600,96,doco,H44,2252800,5481500,14060540,efp,1,,20
+26514,3,2005,Taieri River,1321001,Waipori River tributary 1,743.05,1300,Waipori River tributary,,480,42,doco,H44,2278000,5474670,14062481,efp,3,,
+26520,4,2005,Taieri River,1321004,Burnt Creek,743.05,day,Burnt Creek,,700,69,doco,H44,2258000,5484800,14059275,efp,3,,
+26521,4,2005,Taieri River,1321004,Burnt Creek,743.05,day,Burnt Creek,,580,68,doco,H44,2258400,5483800,14059855,efp,3,,
+26522,4,2005,Taieri River,1321004,Burnt Creek,743.05,day,Burnt Creek,,580,68,doco,H44,2258400,5483800,14059855,efp,2,,
+26998,5,2005,Clutha River,1321042,Armstrongs Creek,752.479,day,Armstrongs Creek tributary,,800,171,doco,G43,2244720,5503023,14053914,efp,1,,
+26999,5,2005,Clutha River,1321042,Armstrongs Creek,752.479,day,Armstrongs Creek tributary,,870,171,doco,G43,2243902,5503456,14053749,efp,1,,
+27000,5,2005,Clutha River,1321042,Armstrongs Creek,752.479,day,Armstrongs Creek tributary,,900,171,doco,G43,2245816,5503171,14053636,efp,1,,
+106238,4,2005,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2257925,5485198,14059275,efp,3,,
+106239,4,2005,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258070,5484873,14059275,efp,3,,
+106240,5,2005,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258440,5483815,14059275,efp,2,,
+106268,3,2005,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,3,,
+106296,3,2005,Taieri River,1321002,Waipori River tributary 2,743.05,1420,Shepherd Stream tributary, ,471,41,doco,H44,2277560,5475114,14062246,efp,1, , 
+110040,11,2005,Taieri River,1321007,Waipori River tributary 5,743.05,1433,Waipori River tributary,,532,69,doco,H45,2255066,5481089,14060559,efp,,,51
+110047,11,2005,Taieri River,1321007,Waipori River tributary 5,743.05,1230,Waipori River tributary, ,532,69,doco,H45,2255240,5481259,14060559,efp, , , 
+110054,10,2005,Taieri River,1321007,Waipori River tributary 5,743.05,,Waipori River tributary,,532,69,doco,H45,2255325,5481430,14060559,efp,,,88.5
+26577,1,2006,Clutha River,1321025,Tuapeka Creek,752.196,1300,Tuapeka Creek,,95,82,doco,H44,2250500,5472000,14063085,efp,1,,10
+28265,5,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1400,Waipori River tributary,,460,43,doco,H44,2277560,5475114,14062421,obs,,,4
+28266,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1400,Waipori River tributary,,560,46,doco,H44,2279821,5476282,14062122,efp,1,,
+28273,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1120,Waipori River tributary, ,480,43,doco,h44,2277834,5475189,14062353,efp,1, , 
+28274,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1150,Waipori River tributary,,490,43,doco,h44,2278041,5475207,14062353,efp,1,,
+28275,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1245,Waipori River tributary,,495,44,doco,h44,2278266,5475081,14062255,efp,0,,
+28276,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1337,Waipori River tributary,,510,44,doco,H44,2278529,5475482,14062255,efp,1,,
+28277,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1435,Waipori River tributary,,500,44,doco,H44,2278275,5475507,14062255,efp,1,,
+28278,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1450,Waipori River tributary, ,495,44,doco,h44,2278187,5475499,14062255,efp,1, , 
+28287,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1130,Waipori River tributary, ,460,41,doco,h44,2276679,5475651,0,efp,1, , 
+28288,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1150,Waipori River tributary,,440,41,doco,H44,2276489,5475419,0,efp,1,,
+28289,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1215,Waipori River tributary,,420,41,doco,H44,2276606,5475305,0,efp,1,,
+28290,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1330,Waipori River tributary,,400,41,doco,H44,2276626,5475109,0,efp,1,,
+28291,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1438,Waipori River tributary,,435,42,doco,H44,2276850,5475120,14062325,efp,1,,
+28292,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1505,Waipori River tributary,,440,42,doco,H44,2276947,5475177,14062291,efp,1,,
+28293,7,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1533,Waipori River tributary,,445,42,doco,H44,2277019,5475232,14062291,efp,1,,
+106241,5,2006,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2257925,5485198,14059275,efp,4,,
+106242,5,2006,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258070,5484873,14059275,efp,5,,
+106243,5,2006,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258440,5483815,14059275,efp,3,,
+106244,5,2006,Taieri River,1321004,Burnt Creek,743.05, ,Burnt Creek, ,539,66,doco,H44,2258497,5482771,14059855,efp,3, , 
+106269,5,2006,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,552,42,doco,H44,2279349,5475126,14062339,efp,3,,
+106270,3,2006,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,4,,
+106271,5,2006,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,467,40,doco,H44,2277104,5474318,14062481,efp,4,,
+106297,4,2006,Taieri River,1321002,Waipori River tributary 2,743.05,1045,Shepherd Stream tributary, ,471,41,doco,H44,2277560,5475114,14062246,efp,1, , 
+110041,10,2006,Taieri River,1321007,Waipori River tributary 5,743.05,1220,Waipori River tributary,,532,69,doco,H45,2255066,5481089,14060559,efp,,,62
+110048,10,2006,Taieri River,1321007,Waipori River tributary 5,743.05,1319,Waipori River tributary, ,532,69,doco,H45,2255240,5481259,14060559,efp, , , 
+110055,10,2006,Taieri River,1321007,Waipori River tributary 5,743.05,1040,Waipori River tributary,,532,69,doco,H45,2255325,5481430,14060559,efp,,,88.5
+28727,8,2007,Clutha River,1321025,Tuapeka Creek,752.19,1420,Wetherson Creek, ,110,84,doco,h44,2252794,5472132,14063060,efp,1, ,50
+28728,8,2007,Clutha River,1321025,Tuapeka Creek,752.19,1450,Tuapeka Creek tributary,,110,84,doco,H44,2252786,5472113,14063097,efp,1,,50
+106245,2,2007,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2257925,5485198,14059275,efp,3,,
+106246,2,2007,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258070,5484873,14059275,efp,3,,
+106247,2,2007,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258440,5483815,14059275,efp,3,,
+106248,2,2007,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,539,66,doco,H44,2258497,5482771,14059855,efp,3,,
+106272,3,2007,Taieri River,1321001,Waipori River tributary 1,743.05,1130,Shepherd Stream tributary,,552,42,doco,H44,2279349,5475126,14062339,efp,3,,
+106273,3,2007,Taieri River,1321001,Waipori River tributary 1,743.05,1000,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,3,,
+106274,3,2007,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,467,40,doco,H44,2277104,5474318,14062481,efp,4,,
+106298,6,2007,Taieri River,1321002,Waipori River tributary 2,743.05,1040,Shepherd Stream tributary, ,471,41,doco,H44,2277560,5475114,14062246,efp,1, ,80
+106249,3,2008,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2257925,5485198,14059275,efp,4,,
+106250,3,2008,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258070,5484873,14059275,efp,3,,
+106251,3,2008,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258440,5483815,14059275,efp,3,,
+106252,5,2008,Taieri River,1321004,Burnt Creek,743.05,1200,Burnt Creek,,539,66,doco,H44,2258497,5482771,14059855,efp,3,,
+106275,5,2008,Taieri River,1321001,Waipori River tributary 1,743.05,1115,Shepherd Stream tributary,,552,42,doco,H44,2279349,5475126,14062339,efp,2,,
+106276,5,2008,Taieri River,1321001,Waipori River tributary 1,743.05,1100,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,4,,
+106277,5,2008,Taieri River,1321001,Waipori River tributary 1,743.05,1115,Shepherd Stream tributary,,467,40,doco,H44,2277104,5474318,14062481,efp,3,,
+106299,5,2008,Taieri River,1321002,Waipori River tributary 2,743.05,1120,Shepherd Stream tributary, ,471,41,doco,H44,2277560,5475114,14062246,efp,2, ,85
+110042,1,2008,Taieri River,1321007,Waipori River tributary 5,743.05,1234,Waipori River tributary,,532,69,doco,H45,2255066,5481089,14060559,efp,,,47
+110049,1,2008,Taieri River,1321007,Waipori River tributary 5,743.05,1426,Waipori River tributary, ,532,69,doco,H45,2255240,5481259,14060559,efp, , , 
+31756,10,2009,Taieri River,1321011,Deep Creek,743.059,day,Deep Creek,,582,77,doco,H44,2254699,5485813,14059236,efp,1,,
+31757,10,2009,Taieri River,1321011,Deep Creek,743.059,day,Deep Creek tributary,,595,77,doco,H44,2254770,5485776,14059236,efp,1,,
+31758,10,2009,Taieri River,1321011,Deep Creek,743.059,day,Deep Creek,,617,77,doco,H44,2254834,5486148,14058982,efp,1,,
+31759,10,2009,Taieri River,1321011,Deep Creek,743.059, ,Deep Creek, ,602,77,doco,H44,2254825,5486150,14059051,efp,1, , 
+31761,10,2009,Taieri River,1321011,Deep Creek,743.059,,Deep Creek,,617,77,doco,H44,2254758,5486394,14058982,efp,1,,
+31791,7,2009,Clutha River,1321022,Waitahuna River tributary 2,752.12,1450,Waitahuna River tributary,,286,89,doco,H44,2268630,5471255,14063263,efp,1,,
+31792,7,2009,Clutha River,1321022,Waitahuna River tributary 2,752.12,day,Waitahuna River tributary,,290,89,doco,H44,2268650,5471235,14063263,efp,1,,
+31793,7,2009,Clutha River,1321023,Waitahuna River tributary 3,752.12,1413,Waitahuna River tributary,,323,90,doco,H44,2268769,5471810,14063137,efp,1,,
+31886,12,2009,Taieri River,1321016,Bullocky Creek,743.93,4,Red Swamp,,955,267,doco,H43,2252716,5508452,14052206,efp,1,,30
+31890,12,2009,Clutha River,1321032,Beaumont River upper,752.29,1400,Beaumont River tributary, ,894,112,doco,H44,2251205,5493446,14056825,efp,1, ,30
+31892,12,2009,Taieri River,1321017,Taieri River tributary 1,743,945,Taieri River tributary,,788,267,doco,H43,2258382,5509349,14051934,efp,,,
+31896,12,2009,Clutha River,1321033,Talla Burn,752.32,945,Talla Burn,,367,96,doco,G44,2241705,5492113,14057279,efp,1,,15
+31897,12,2009,Clutha River,1321033,Talla Burn,752.32,1045,Talla Burn, ,371,97,doco,G44,2242072,5492023,14057279,efp,1, ,20
+31898,12,2009,Clutha River,1321033,Talla Burn,752.32,1330,Talla Burn,,539,103,doco,G44,2244585,5494692,14056507,efp,1,,10
+31899,12,2009,Clutha River,1321032,Beaumont River upper,752.293,1810,Little Beaumont Stream,,818,104,doco,G44,2249010,5493256,14056736,efp,1,,10
+31900,12,2009,Clutha River,1321034,Fruid Burn tributary,752.322,945,Fruid Burn tributary,,361,102,doco,G44,2241751,5495903,14055909,efp,1,,30
+31901,12,2009,Clutha River,1321033,Talla Burn,752.323,1905,Moffats Stream tributary,,699,106,doco,G44,2247592,5491886,14057314,efp,2,,2
+106253,3,2009,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2257925,5485198,14059275,efp,4,,61
+106254,3,2009,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258070,5484873,14059275,efp,4,,65
+106255,5,2009,Taieri River,1321004,Burnt Creek,743.05,1136,Burnt Creek,,690,67,doco,H44,2258440,5483815,14059275,efp,3,,91
+106256,5,2009,Taieri River,1321004,Burnt Creek,743.05,1140,Burnt Creek,,539,66,doco,H44,2258497,5482771,14059855,efp,3,,96
+106278,5,2009,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,552,42,doco,H44,2279349,5475126,14062339,efp,3,,37
+106279,5,2009,Taieri River,1321001,Waipori River tributary 1,743.05,1000,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,3,,94
+106280,5,2009,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,467,40,doco,H44,2277104,5474318,14062481,efp,4,,153
+106300,5,2009,Taieri River,1321002,Waipori River tributary 2,743.05,1430,Shepherd Stream tributary, ,471,41,doco,H44,2277560,5475114,14062246,efp,2, ,109
+110043,1,2009,Taieri River,1321007,Waipori River tributary 5,743.05,1300,Waipori River tributary,,532,69,doco,H45,2255066,5481089,14060559,efp,,,66.5
+110050,1,2009,Taieri River,1321007,Waipori River tributary 5,743.05,1105,Waipori River tributary, ,532,69,doco,H45,2255240,5481259,14060559,efp, , , 
+110056,11,2009,Taieri River,1321007,Waipori River tributary 5,743.05,1040,Waipori River tributary,,532,69,doco,H45,2255325,5481430,14060559,efp,,,64
+110057,1,2009,Taieri River,1321007,Waipori River tributary 5,743.05,1109,Waipori River tributary,,532,69,doco,H45,2255325,5481430,14060559,efp,,,98
+31907,1,2010,Taieri River,1321005,Waipori River tributary 3,743.05,1130,Waipori River,,450,67,doco,H44,2258255,5482170,14060345,efp,1,,10
+106257,2,2010,Taieri River,1321004,Burnt Creek,743.05,1045,Burnt Creek,,690,67,doco,H44,2257925,5485198,14059275,efp,4,,71
+106258,2,2010,Taieri River,1321004,Burnt Creek,743.05,1100,Burnt Creek,,690,67,doco,H44,2258070,5484873,14059275,efp,3,,80
+106259,3,2010,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258440,5483815,14059275,efp,3,,64
+106260,3,2010,Taieri River,1321004,Burnt Creek,743.05,1140,Burnt Creek, ,539,66,doco,H44,2258497,5482771,14059855,efp,3, ,96
+106281,4,2010,Taieri River,1321001,Waipori River tributary 1,743.05,1130,Shepherd Stream tributary,,552,42,doco,H44,2279349,5475126,14062339,efp,3,,25
+106282,4,2010,Taieri River,1321001,Waipori River tributary 1,743.05,1030,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,3,,79
+106283,4,2010,Taieri River,1321001,Waipori River tributary 1,743.05,1030,Shepherd Stream tributary,,467,40,doco,H44,2277104,5474318,14062481,efp,4,,129
+106301,5,2010,Taieri River,1321002,Waipori River tributary 2,743.05,1130,Shepherd Stream tributary, ,471,41,doco,H44,2277560,5475114,14062246,efp,2, ,87
+110044,1,2010,Taieri River,1321007,Waipori River tributary 5,743.05,1112,Waipori River tributary,,532,69,doco,H45,2255066,5481089,14060559,efp,,,55.5
+110051,1,2010,Taieri River,1321007,Waipori River tributary 5,743.05,1320,Waipori River tributary, ,532,69,doco,H45,2255240,5481259,14060559,efp, , , 
+110059,1,2010,Taieri River,1321007,Waipori River tributary 5,743.05,1030,Waipori River tributary,,532,69,doco,H45,2255325,5481430,14060559,efp,,,97
+102714,6,2011,Taieri River,1321020,Taieri River tributary 2,743,1500,Unnamed Tributary,,952,277,doco,I45,2254984,5499716,14054906,efp,,,54
+103413,4,2011,Taieri River,1321001,Waipori River tributary 1,743.05,1000,Crystal Creek,,467,40,uoo,H45,2277098,5474251,14062481,efp,,,75
+103430,9,2011,Taieri River,1321001,Waipori River tributary 1,743.05,940,Crystal Creek,,505,41,uoo,H45,2278119,5474636,14062481,efp,,,
+103431,9,2011,Taieri River,1321004,Burnt Creek,743.05,943,Burnt Creek,,690,67,uoo,H45,2258085,5484890,14059275,efp,,,
+103756,9,2011,Clutha River,1321037,Old Hut Creek,752.471,,Old Hut Creek,,571,143,uoo,G43,2232140,5515780,14050055,efp,1,,60
+103757,9,2011,Clutha River,1321039,Pinelheugh Creek,752.47,,Pinelheugh Creek,,644,147,uoo,G43,2233520,5516805,14049701,efp,1,,100
+106261,2,2011,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2257925,5485198,14059275,efp,4,,64
+106262,2,2011,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,doco,H44,2258070,5484873,14059275,efp,3,,82
+106263,2,2011,Taieri River,1321004,Burnt Creek,743.05,1230,Burnt Creek,,690,67,doco,H44,2258440,5483815,14059275,efp,3,,99
+106264,3,2011,Taieri River,1321004,Burnt Creek,743.05, ,Burnt Creek, ,539,66,doco,H44,2258497,5482771,14059855,efp,2, ,106
+106284,5,2011,Taieri River,1321001,Waipori River tributary 1,743.05,1100,Shepherd Stream tributary,,552,42,doco,H44,2279349,5475126,14062339,efp,3,,28
+106285,5,2011,Taieri River,1321001,Waipori River tributary 1,743.05,1030,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,3,,116
+106286,5,2011,Taieri River,1321001,Waipori River tributary 1,743.05,1100,Shepherd Stream tributary,,467,40,doco,H44,2277104,5474318,14062481,efp,4,,163
+110045,1,2011,Taieri River,1321007,Waipori River tributary 5,743.05,1300,Waipori River tributary,,532,69,doco,H45,2255066,5481089,14060559,efp,,,51
+110052,1,2011,Taieri River,1321007,Waipori River tributary 5,743.05,1230,Waipori River tributary, ,532,69,doco,H45,2255240,5481259,14060559,efp, , , 
+110060,1,2011,Taieri River,1321007,Waipori River tributary 5,743.05,1130,Waipori River tributary,,532,69,doco,H45,2255325,5481430,14060559,efp,,,82.5
+101404,9,2012,Clutha River,1321024,Reedy Creek,752.12,1000,Waitahuna River tributary,,404,110,doco,H45,2262341,5478994,14061355,efp,1,,100
+101405,9,2012,Clutha River,1321024,Reedy Creek,752.12,1120,Waitahuna River,,428,110,doco,H45,2261858,5479021,14061355,efp,1,,3
+101406,9,2012,Clutha River,1321024,Reedy Creek,752.12,1200,Waitahuna River tributary,,426,111,doco,H45,2261836,5479093,14061186,efp,1,,15
+101407,9,2012,Clutha River,1321024,Reedy Creek,752.12,1215,Waitahuna River tributary, ,414,111,doco,H45,2261856,5479133,14061186,efp,1, , 
+101408,9,2012,Clutha River,1321024,Reedy Creek,752.12,1245,Waitahuna River tributary,,406,111,doco,H45,2261877,5479145,14061186,efp,1,,50
+101409,9,2012,Clutha River,1321024,Reedy Creek,752.12,1330,Waitahuna River tributary,,444,112,doco,H45,2260984,5478787,14061371,efp,1,,180
+101410,9,2012,Clutha River,1321024,Reedy Creek,752.12,1330,Waitahuna River tributary,,456,112,doco,H45,2261097,5478487,14061371,efp,1,,2
+101411,9,2012,Clutha River,1321024,Reedy Creek,752.12,1100,Reedy Creek tributary,,526,112,doco,H45,2260711,5479715,14061215,efp,1,,
+101412,9,2012,Clutha River,1321024,Reedy Creek,752.12,1120,Reedy Creek tributary,,457,112,doco,H45,2260478,5479447,14061215,efp,1,,30
+101413,9,2012,Clutha River,1321024,Reedy Creek,752.12,1125,Reedy Creek tributary,,433,112,doco,H45,2260486,5479375,14061215,efp,1,,4
+101414,9,2012,Clutha River,1321024,Reedy Creek,752.12,1130,Reedy Creek tributary,,424,112,doco,H45,2260496,5479311,14061215,efp,1,,12
+101415,9,2012,Clutha River,1321024,Reedy Creek,752.12,1133,Reedy Creek tributary,,425,112,doco,H45,2260485,5479333,14061215,efp,1,,4
+101416,9,2012,Clutha River,1321024,Reedy Creek,752.12,1145,Reedy Creek tributary,,425,122,doco,H45,2260486,5479324,14061215,efp,1,,4
+101417,9,2012,Clutha River,1321024,Reedy Creek,752.12,1147,Reedy Creek tributary,,426,112,doco,H45,2260470,5479328,14061215,efp,1,,4
+101418,9,2012,Clutha River,1321024,Reedy Creek,752.12,1200,Reedy Creek,,453,113,doco,H45,2260358,5479281,14061254,efp,1,,40
+101419,9,2012,Clutha River,1321024,Reedy Creek,752.12,1230,Reedy Creek,,467,113,doco,H45,2260192,5479392,14061214,efp,1,,1.5
+101420,9,2012,Clutha River,1321024,Reedy Creek,752.12,1300,Reedy Creek,,493,113,doco,H45,2259881,5479389,14061223,efp,1,,3
+101421,9,2012,Clutha River,1321024,Reedy Creek,752.12,1310,Reedy Creek,,497,113,doco,H45,2259866,5479374,14061223,efp,1,,30
+101422,9,2012,Clutha River,1321024,Reedy Creek,752.12,1330,Reedy Creek, ,496,113,doco,H45,2259834,5479380,14061223,efp,1, , 
+101423,9,2012,Clutha River,1321024,Reedy Creek,752.12,1340,Reedy Creek,,497,113,doco,H45,2259876,5479373,14061223,efp,1,,2
+101424,9,2012,Clutha River,1321024,Reedy Creek,752.12,1449,Reedy Creek tributary,,484,113,doco,H45,2259868,5479420,14061033,efp,1,,12
+101425,9,2012,Clutha River,1321024,Reedy Creek,752.12,1455,Reedy Creek tributary, ,478,113,doco,H45,2259852,5479449,14061033,efp,1, , 
+101426,9,2012,Clutha River,1321024,Reedy Creek,752.12,1500,Reedy Creek tributary, ,478,113,doco,H45,2259836,5479450,14061033,efp,1, , 
+101427,9,2012,Clutha River,1321024,Reedy Creek,752.12,1510,Reedy Creek tributary,,468,113,doco,H45,2259773,5479496,14061033,efp,1,,3
+101428,9,2012,Clutha River,1321024,Reedy Creek,752.12,1530,Reedy Creek,,496,113,doco,H45,2259820,5479375,14061223,efp,1,,30
+101565,10,2012,Clutha River,1321025,Tuapeka Creek,752.19,1151,Boundary Creek, ,135,92,doco,h41,2252145,5471962,14063125,efp, , , 
+101566,10,2012,Clutha River,1321025,Tuapeka Creek,752.19,1208,Tuapeka Creek, ,116,90,doco,h41,2251778,5472027,14063087,efp, , , 
+101567,10,2012,Clutha River,1321025,Tuapeka Creek,752.19,1220,Tuapeka Creek, ,117,90,doco,h41,2251644,5472064,14063087,efp, , , 
+101568,10,2012,Clutha River,1321025,Tuapeka Creek,752.19,1257,Wetherson Creek,,118,93,doco,H41,2252978,5472070,14062985,efp,,,45
+101569,10,2012,Clutha River,1321025,Tuapeka Creek,752.19,1320,Tuapeka Creek tributary, ,130,93,doco,h41,2253106,5471457,14063097,efp, , , 
+103761,2,2012,Taieri River,1321001,Waipori River tributary 1,743.05,,Waipori River tributary,,316,39,uoo,H44,2276805,5474020,14062602,efp,1,,200
+103790,3,2012,Taieri River,1321004,Burnt Creek,743.05, ,Burnt Creek, ,539,66,uoo,h44,2258480,5482850,14059855,efp,1, ,100
+103791,3,2012,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,539,66,uoo,H44,2258385,5483315,14059855,efp,1,,100
+103792,3,2012,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,uoo,H44,2257925,5484955,14059275,efp,1,,100
+103795,4,2012,Taieri River,1321002,Waipori River tributary 2,743.05,,Waipori River tributary,,453,41,uoo,H44,2276775,5475260,14062325,efp,1,,100
+103796,4,2012,Taieri River,1321002,Waipori River tributary 2,743.05,,Waipori River tributary,,453,41,uoo,H44,2276930,5475170,14062325,efp,1,,100
+103880,9,2012,Taieri River,1321002,Waipori River tributary 2,743.05,,Waipori River tributary,,453,41,uoo,H44,2276790,5475250,14062325,efp,1,,100
+103881,9,2012,Taieri River,1321001,Waipori River tributary 1,743.05,,Waipori River tributary,,480,40,uoo,H44,2278030,5474570,14062481,efp,1,,60
+103882,9,2012,Clutha River,1321024,Reedy Creek,752.12,,Waitahuna River tributary,,412,110,uoo,H45,2262340,5478965,14061355,efp,1,,80
+103887,9,2012,Clutha River,1321023,Waitahuna River tributary 3,752.12, ,Waitahuna River tributary, ,339,97,uoo,H44,2268735,5471805,14063137,efp,1, ,60
+103888,9,2012,Clutha River,1321022,Waitahuna River tributary 2,752.12,,Waitahuna River tributary,,325,96,uoo,H44,2268615,5471230,14063263,efp,1,,60
+103890,9,2012,Taieri River,1321007,Waipori River tributary 5,743.05,,Waipori River tributary,,532,69,uoo,H44,2255380,5481420,14060559,efp,1,,100
+103892,9,2012,Taieri River,1321008,Waipori River tributary 6,743.05, ,Waipori River tributary, ,518,71,uoo,H44,2254720,5482400,14060261,efp,1, ,80
+103893,9,2012,Clutha River,1321027,Tuapeka Creek tributary,752.19, ,Tuapeka River tributary, ,620,103,uoo,H44,2252810,5481555,14060540,efp,1, ,40
+103894,9,2012,Clutha River,1321027,Tuapeka Creek tributary,752.19, ,Tuapeka River tributary, ,618,103,uoo,H44,2252725,5482065,14060421,efp,1, ,40
+103895,9,2012,Clutha River,1321027,Tuapeka Creek tributary,752.19,,Tuapeka River tributary,,610,103,uoo,H44,2252515,5482300,14060184,efp,1,,40
+103896,9,2012,Taieri River,1321010,Waipori River tributary 8,743.05, ,Waipori River tributary, ,570,75,uoo,H44,2253810,5483540,14059755,efp,1, ,60
+103898,9,2012,Clutha River,1321025,Tuapeka Creek,752.196,,Tuapeka Creek tributary,,141,92,uoo,H44,2252790,5472140,14063060,efp,1,,60
+103899,9,2012,Clutha River,1321025,Tuapeka Creek,752.196, ,Tuapeka Creek, ,109,90,uoo,H44,2250605,5472085,14063085,efp,1, ,80
+103912,10,2012,Taieri River,1321001,Waipori River tributary 1,743.05, ,Waipori River tributary, ,480,40,uoo,H44,2278095,5474610,14062481,efp,1, ,60
+103921,12,2012,Taieri River,1321003,Stony Creek,743.058,,Stony Creek,,693,67,uoo,H44,2259100,5484705,14059404,efp,1,,100
+103922,12,2012,Taieri River,1321002,Waipori River tributary 2,743.05,,Waipori River tributary,,453,41,uoo,H44,2276785,5475250,14062325,efp,1,,60
+106287,3,2012,Taieri River,1321001,Waipori River tributary 1,743.05,1130,Shepherd Stream tributary,,552,42,doco,H44,2279349,5475126,14062339,efp,5,,26
+106288,3,2012,Taieri River,1321001,Waipori River tributary 1,743.05,1130,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,3,,87
+106289,5,2012,Taieri River,1321001,Waipori River tributary 1,743.05,1030,Shepherd Stream tributary,,467,40,doco,H44,2277104,5474318,14062481,efp,4,,112
+110046,1,2012,Taieri River,1321007,Waipori River tributary 5,743.05,1200,Waipori River tributary,,532,69,doco,H45,2255066,5481089,14060559,efp,,,61
+110053,2,2012,Taieri River,1321007,Waipori River tributary 5,743.05,1140,Waipori River tributary, ,532,69,doco,H45,2255240,5481259,14060559,efp, , , 
+110061,1,2012,Taieri River,1321007,Waipori River tributary 5,743.05,1100,Waipori River tributary,,532,69,doco,H45,2255325,5481430,14060559,efp,,,86.5
+112562,4,2012,Clutha River,1321024,Reedy Creek,752.12, ,Waitahuna River, ,336,104,rcl,G45,2265304,5475731,14062163,efp, , , 
+112563,4,2012,Clutha River,1321024,Reedy Creek,752.12,,Waitahuna River,,347,105,rcl,G45,2265067,5476090,14062163,efp,,,
+103891,9,2013,Taieri River,1321007,Waipori River tributary 5,743.05, ,Waipori River tributary, ,532,69,uoo,H44,2255440,5481500,14060559,efp,1, ,80
+103939,2,2013,Taieri River,1321003,Stony Creek,743.058, ,Stony Creek, ,625,65,uoo,H44,2260530,5483930,14059809,efp,1, ,60
+103940,2,2013,Taieri River,1321003,Stony Creek,743.058,,Stony Creek tributary,,683,67,uoo,H44,2259090,5484550,14059404,efp,1,,40
+103941,2,2013,Taieri River,1321003,Stony Creek,743.058,,Stony Creek,,693,67,uoo,H44,2259130,5484675,14059404,efp,1,,60
+103942,2,2013,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,uoo,H44,2258010,5484965,14059275,efp,1,,60
+103943,2,2013,Taieri River,1321009,Waipori River tributary 7,743.05,,Waipori River tributary,,607,73,uoo,H44,2255980,5483780,14059877,efp,1,,100
+103944,2,2013,Taieri River,1321009,Waipori River tributary 7,743.05,,Waipori River tributary,,553,72,uoo,H44,2255870,5483620,14059877,efp,1,,100
+104015,11,2013,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,uoo,H45,2258075,5484885,14059275,efp,1,,30
+104016,11,2013,Taieri River,1321003,Stony Creek,743.058,,Stony Creek,,625,65,uoo,H45,2260530,5483935,14059809,efp,1,,30
+104017,11,2013,Taieri River,1321003,Stony Creek,743.058,,Stony Creek,,693,67,uoo,H45,2259130,5484725,14059404,efp,1,,30
+104024,11,2013,Taieri River,1321004,Burnt Creek,743.05, ,Burnt Creek tributary, ,539,66,uoo,H44,2258410,5482575,14059855,efp,1, ,30
+104025,11,2013,Taieri River,1321004,Burnt Creek,743.05, ,Burnt Creek, ,539,66,uoo,H45,2258470,5482630,14059855,efp,1, ,30
+104028,11,2013,Taieri River,1321006,Waipori River tributary 4,743.05,,Waipori River tributary,,560,67,uoo,H45,2256970,5482350,14060106,efp,1,,30
+104031,11,2013,Taieri River,1321007,Waipori River tributary 5,743.05,,Waipori River tributary,,532,69,uoo,H44,2255310,5481425,14060559,efp,1,,30
+104032,11,2013,Taieri River,1321007,Waipori River tributary 5,743.05, ,Waipori River, ,516,69,uoo,H44,2255530,5481465,14060527,efp,1, ,30
+104033,11,2013,Taieri River,1321008,Waipori River tributary 6,743.05, ,Waipori River tributary, ,518,71,uoo,H44,2254715,5482420,14060261,efp,1, ,30
+104038,11,2013,Taieri River,1321009,Waipori River tributary 7,743.05,,Waipori River tributary,,553,72,uoo,H44,2255915,5483670,14059877,efp,1,,30
+104039,11,2013,Taieri River,1321012,Waipori River tributary 9,743.05,,Waipori River tributary,,588,75,uoo,H44,2253215,5484345,14059578,efp,1,,30
+104040,11,2013,Taieri River,1321012,Waipori River tributary 9,743.05, ,Waipori River, ,590,75,uoo,H44,2253675,5484675,14059372,efp,1, ,30
+104041,12,2013,Taieri River,1321013,Waipori River tributary 10,743.05,,Waipori River tributary,,617,79,uoo,H44,2252005,5486605,14058829,efp,1,,30
+104043,12,2013,Taieri River,1321013,Waipori River tributary 10,743.05,,Waipori River tributary,,630,79,uoo,H44,2251735,5486130,14059074,efp,1,,30
+104044,12,2013,Taieri River,1321013,Waipori River tributary 10,743.05,,Waipori River tributary,,596,78,uoo,H44,2252190,5486755,14058887,efp,1,,30
+104046,12,2013,Taieri River,1321015,Waipori River,743.05,,Waipori River tributary,,827,84,uoo,H44,2250720,5490625,14057700,efp,1,,30
+104047,12,2013,Taieri River,1321011,Deep Creek,743.059, ,Deep Creek tributary, ,645,76,uoo,Hh4,2254675,5485810,14059236,efp,1, ,30
+104048,12,2013,Taieri River,1321011,Deep Creek,743.059,,Deep Creek tributary,,645,76,uoo,H44,2254975,5485670,14059236,efp,1,,30
+104049,12,2013,Taieri River,1321011,Deep Creek,743.059,,Deep Creek,,755,78,uoo,H44,2254790,5487400,14058607,efp,1,,30
+106290,3,2014,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,552,42,doco,H44,2279349,5475126,14062339,efp,3,,23
+106291,3,2014,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,505,41,doco,H44,2278079,5474640,14062481,efp,3,,89
+106292,3,2014,Taieri River,1321001,Waipori River tributary 1,743.05,,Shepherd Stream tributary,,467,40,doco,H44,2277104,5474318,14062481,efp,3,,141
+109975,3,2014,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,rdcl,H44,2257925,5485198,14059275,efp,,,61
+109986,3,2014,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,rdcl,H44,2258070,5484873,14059275,efp,,,62
+109997,3,2014,Taieri River,1321004,Burnt Creek,743.05,,Burnt Creek,,690,67,rdcl,H44,2258440,5483815,14059275,efp,,,117
+102662,7,2015,Clutha River,1321024,Reedy Creek,752.12,1315,Reedy Creek,,412,110,doco,G45,2262406,5478964,14061355,efp,,,37.5
+104202,4,2015,Clutha River,1321038,Pinelheugh Creek tributary,752.473,,Pinelheugh Creek,,626,146,doco,G43,2235106,5514370,14050457,efp,1,,10
+104203,4,2015,Clutha River,1321038,Pinelheugh Creek tributary,752.473,,Pinelheugh Creek,,626,146,doco,G43,2234661,5514307,14050457,efp,1,,10
+104204,4,2015,Clutha River,1321038,Pinelheugh Creek tributary,752.473,,Pinelheugh Creek,,722,150,doco,g43,2236659,5514524,14050364,efp,1,,10
+104205,4,2015,Clutha River,1321038,Pinelheugh Creek tributary,752.473,,Pinelheugh Creek,,724,150,doco,G43,2236816,5514941,14050249,efp,1,,10
+104206,4,2015,Clutha River,1321038,Pinelheugh Creek tributary,752.473,,Pinelheugh Creek,,724,150,doco,G43,2236800,5515078,14050249,efp,1,,10
+104207,4,2015,Clutha River,1321038,Pinelheugh Creek tributary,752.473,,Pinelheugh Creek,,722,150,doco,g43,2236805,5514622,14050364,efp,1,,10
+104208,4,2015,Clutha River,1321038,Pinelheugh Creek tributary,752.473,,Pinelheugh Creek,,722,150,doco,g43,2236874,5514654,14050364,efp,1,,10
+104209,4,2015,Clutha River,1321038,Pinelheugh Creek tributary,752.473,,Pinelheugh Creek,,722,150,doco,g43,2236948,5514632,14050364,efp,1,,10
+106339,6,2015,Taieri River,1321001,Waipori River tributary 1,743.05,1200,Crystal Creek,,480,40,doco,H45,2278042,5474564,14062481,efp,,,
+106311,1,2016,Clutha River,1321028,Beaumont River lower,752.29,1100,Beaumont River,,291,98,doco,G44,2244489,5485617,14059049,efp,,,66
+106320,1,2016,Clutha River,1321029,Beaumont River tributary,752.29,1430,Beaumont River tributary,,336,99,doco,G44,2244877,5486368,14058993,efp,,,20
+106565,4,2016,Clutha River,1321036,Minzion Burn,752.35,1302,Minzion Burn,,614,122,doco,G44,2237763,5504560,14053455,efp,,,
+106566,4,2016,Clutha River,1321036,Minzion Burn,752.35,1333,Minzion Burn,,614,122,doco,G44,2237772,5504584,14053455,efp,,,
+106567,4,2016,Clutha River,1321036,Minzion Burn,752.35,1418,Minzion Burn, ,627,123,doco,G44,2238292,5504482,14053232,efp, , , 
+106568,4,2016,Clutha River,1321036,Minzion Burn,752.35,1452,Minzion Burn tributary, ,666,123,doco,G44,2238342,5504409,14053484,efp, , , 
+106569,4,2016,Clutha River,1321036,Minzion Burn,752.35,1504,Minzion Burn,,627,123,doco,G44,2238341,5504409,14053232,efp,,,
+106570,4,2016,Clutha River,1321036,Minzion Burn,752.35,1543,Minzion Burn tributary,,666,123,doco,G44,2238532,5504351,14053484,efp,,,
+106571,4,2016,Clutha River,1321036,Minzion Burn,752.35,1555,Minzion Burn tributary,,666,123,doco,G44,2238526,5504416,14053484,efp,,,
+106572,4,2016,Clutha River,1321036,Minzion Burn,752.35,1606,Minzion Burn tributary,,666,123,doco,G44,2238657,5504449,14053484,efp,,,
+106573,4,2016,Clutha River,1321036,Minzion Burn,752.35,1614,Minzion Burn tributary,,666,123,doco,G44,2238673,5504456,14053484,efp,,,
+106574,4,2016,Clutha River,1321036,Minzion Burn,752.35,1628,Minzion Burn tributary,,666,123,doco,G44,2238758,5504486,14053484,efp,,,
+106575,4,2016,Clutha River,1321036,Minzion Burn,752.35,1655,Minzion Burn tributary,,666,123,doco,G44,2238895,5504590,14053484,efp,,,
+106576,4,2016,Clutha River,1321036,Minzion Burn,752.35,958,Minzion Burn,,807,125,doco,G44,2238616,5506842,14052719,efp,,,
+106577,4,2016,Clutha River,1321036,Minzion Burn,752.35,1019,Minzion Burn,,807,125,doco,G44,2238706,5506773,14052719,efp,,,
+106578,4,2016,Clutha River,1321036,Minzion Burn,752.35,1030,Minzion Burn,,807,125,doco,G44,2238789,5506751,14052719,efp,,,
+106579,4,2016,Clutha River,1321036,Minzion Burn,752.35,1051,Minzion Burn,,739,125,doco,G44,2238437,5506334,14052742,efp,,,
+106580,4,2016,Clutha River,1321036,Minzion Burn,752.35,1105,Minzion Burn,,739,125,doco,G44,2238448,5506371,14052742,efp,,,
+106581,4,2016,Clutha River,1321036,Minzion Burn,752.35,1109,Minzion Burn,,739,125,doco,G44,2238459,5506383,14052742,efp,,,
+106582,4,2016,Clutha River,1321036,Minzion Burn,752.35,1123,Minzion Burn,,739,125,doco,G44,2238565,5506574,14052742,efp,,,
+106583,4,2016,Clutha River,1321036,Minzion Burn,752.35,1126,Minzion Burn,,739,125,doco,G44,2238520,5506600,14052742,efp,,,
+106584,4,2016,Clutha River,1321036,Minzion Burn,752.35,1150,Minzion Burn,,739,125,doco,G44,2238580,5506788,14052742,efp,,,
+106585,4,2016,Clutha River,1321036,Minzion Burn,752.35,1154,Minzion Burn, ,739,125,doco,G44,2238614,5506850,14052742,efp, , , 
+106586,4,2016,Clutha River,1321036,Minzion Burn,752.35,1159,Minzion Burn,,798,125,doco,G44,2238552,5506937,14052567,efp,,,
+106587,4,2016,Clutha River,1321036,Minzion Burn,752.35,1218,Minzion Burn,,798,125,doco,G44,2238521,5506950,14052567,efp,,,
+106588,4,2016,Clutha River,1321036,Minzion Burn,752.35,1245,Minzion Burn,,798,125,doco,G44,2238696,5507009,14052567,efp,,,
+106589,4,2016,Clutha River,1321036,Minzion Burn,752.35,1259,Minzion Burn,,798,125,doco,G44,2238749,5507187,14052567,efp,,,
+106590,4,2016,Clutha River,1321036,Minzion Burn,752.35,1317,Minzion Burn,,798,125,doco,G44,2238889,5507223,14052567,efp,,,
+106591,4,2016,CLutha River,1321036,Minzion Burn,752.35,1332,Minzion Burn,,798,125,doco,G44,2238963,5507352,14052567,efp,,,
+106592,4,2016,Clutha River,1321036,Minzion Burn,752.35,1337,Minzion Burn,,798,125,doco,G44,2239014,5507366,14052567,efp,,,
+106593,4,2016,Clutha River,1321036,Minzion Burn,752.35,1344,Minzion Burn,,798,125,doco,G44,2239086,5507387,14052567,efp,,,
+106594,4,2016,Clutha River,1321036,Minzion Burn,752.35,1349,Minzion Burn,,798,125,doco,G44,2239123,5507425,14052567,efp,,,
+106595,4,2016,Clutha River,1321036,Minzion Burn,752.35,1356,Minzion Burn,,798,125,doco,G44,2239170,5507428,14052567,efp,,,
+106596,4,2016,Clutha River,1321036,Minzion Burn,752.35,1404,Minzion Burn,,798,125,doco,G44,2239131,5507505,14052567,efp,,,
+106597,4,2016,Clutha River,1321036,Minzion Burn,752.35,1407,Minzion Burn,,798,125,doco,G44,2239142,5507516,14052567,efp,,,
+106598,4,2016,Clutha River,1321036,Minzion Burn,752.35,1411,Minzion Burn,,798,125,doco,G44,2239242,5507566,14052567,efp,,,
+106599,4,2016,Clutha River,1321040,Luncheon Creek,752.47,1502,Luncheon Creek Right Branch,,777,155,doco,G43,2238594,5507609,14052270,efp,,,
+106600,4,2016,Clutha River,1321040,Luncheon Creek,752.47,1619,Luncheon Creek Right Branch,,781,155,doco,G43,2238505,5507926,14052270,efp,,,
+106601,4,2016,Clutha River,1321040,Luncheon Creek,752.47,1633,Luncheon Creek Right Branch,,781,155,doco,G43,2238497,5507942,14052270,efp,,,
+107136,1,2016,Clutha River,1321029,Beaumont River tributary,752.29,1500,Beaumont River tributary,,336,99,doco,G44,2244877,5486367,14058993,efp,,,28
+107139,1,2016,Clutha River,1321033,Talla Burn,752.32,1400,Talla Burn, ,369,104,doco,G44,2241503,5491908,14057279,vbd, , , 
+107145,1,2016,Clutha River,1321028,Beaumont River lower,752.29,1100,Beaumont River,,291,98,doco,G44,2244499,5485531,14059049,efp,,,1030
+107614,1,2016,Clutha River,1321028,Beaumont River lower,752.29,1100,Beaumont River,,291,98,doco,G44,2244499,5485531,14059049,vbd,,,1030
+109657,5,2016,Taieri River,1321001,Waipori River tributary 1,743.05,2025,Waipori River unnamed trbituary,,505,41,wwcl,H45,2278232,5474521,14062481,spo,,,100
+109658,5,2016,Taieri River,1321001,Waipori River tributary 1,743.05,2130,Waipori River unnamed tributary,,562,43,wwcl,H45,2279776,5473968,14062568,spo,,,75
+109660,5,2016,Taieri River,1321002,Waipori River tributary 2,743.05,2300,Munros Dam Stream,,0,0,wwcl,H45,2277919,5475058,,spo,,,15
+109661,5,2016,Taieri River,1321002,Waipori River tributary 2,743.05,2330,Munros Dam Stream, , , ,wwcl,H45,2277840,5475108, ,spo, , , 
+109663,5,2016,Taieri River,1321002,Waipori River tributary 2,743.05,2030,Munros Dam Stream,,488,43,wwcl,H45,2277792,5475661,14062182,spo,,,
+109665,11,2016,Taieri River,1321002,Waipori River tributary 2,743.05,2345,Munros Dam Stream,,544,44,wwcl,H45,2279742,5476157,14062122,spo,,,40
+109669,5,2016,Taieri River,1321002,Waipori River tributary 2,743.05,2030,Munros Dam Stream,,511,43,wwcl,H45,2278540,5475457,14062239,spo,,,350
+109672,5,2016,Taieri River,1321002,Waipori River tributary 2,743.05,1447,Munros Dam Stream, ,511,43,wwcl,H45,2278267,5475456,14062239,spo, , , 
+114627,1,2016,Clutha River,1321028,Beaumont River lower,752.29, ,Beaumount River, ,290,98,doco, ,2244478,5485557,14059049,efp, , , 
+110494,2,2017,Waipori River,1321005,Waipori River tributary 3,743.05,1030,Waipori River tributary,,0,0,doco,H45,2258267,5482148,,efp,,,7
+110497,2,2017,Clutha River,1321026,Medwins Creek,752.195,1240,Medwins Creek,,643,105,doco,G44,2248035,5483264,14059264,efp,,,50
+110498,2,2017,Clutha River,1321026,Medwins Creek,752.195,,Medwins Creek,,643,105,doco,G44,2248035,5483296,14059264,efp,,,
+110499,2,2017,Clutha River,1321026,Medwins Creek,752.195,1400,Medwins Creek,,643,105,doco,G44,2248014,5483349,14059264,efp,,,60
+110500,2,2017,Clutha River,1321026,Medwins Creek,752.195,,Medwins Creek,,643,105,doco,G44,2248016,5483233,14059264,vbd,,,
+110501,2,2017,Clutha River,1321026,Medwins Creek,752.195,1600,Medwins Creek,,643,105,doco,G44,2248408,5483736,14059264,efp,,,40
+110502,2,2017,Taieri River,1321007,Waipori River tributary 5,743.05,,Waipori River tributary,,562,70,doco,H45,2254854,5480935,14060698,efp,,,
+110503,2,2017,Taieri River,1321007,Waipori River tributary 5,743.05, ,Waipori River tributary, ,562,70,doco,H45,2254960,5481000,14060698,efp, , , 
+110504,2,2017,Taieri River,1321007,Waipori River tributary 5,743.05, ,Waipori River tributary, ,562,70,doco,H45,2254922,5480962,14060698,efp, , , 
+110505,2,2017,Taieri River,1321007,Waipori River tributary 5,743.05, ,Waipori River tributary, ,562,70,doco,H45,2254891,5480947,14060698,efp, , , 
+110506,2,2017,Taieri River,1321007,Waipori River tributary 5,743.05, ,Waipori River tributary, ,562,70,doco,H45,2254859,5480929,14060698,efp, , , 
+110507,2,2017,Taieri River,1321007,Waipori River tributary 5,743.05,,Waipori River tributary,,532,69,doco,H45,2255387,5481441,14060559,efp,,,
+110508,2,2017,Taieri River,1321007,Waipori River tributary 5,743.05, ,Waipori River tributary, ,532,69,doco,H45,2255377,5481436,14060559,efp, , , 
+110509,2,2017,Taieri River,1321007,Waipori River tributary 5,743.05,,Waipori River tributary,,532,69,doco,H45,2255347,5481426,14060559,efp,,,
+110510,2,2017,Taieri River,1321007,Waipori River tributary 5,743.05,,Waipori River tributary,,532,69,doco,H45,2255312,5481422,14060559,efp,,,
+110511,2,2017,Taieri River,1321007,Waipori River tributary 5,743.05,,Waipori River tributary,,532,69,doco,H45,2255297,5481392,14060559,efp,,,
+110512,2,2017,Taieri River,1321007,Waipori River tributary 5,743.05,,Waipori River tributary,,532,69,doco,H45,2255294,5481352,14060559,efp,,,
+110513,2,2017,Clutha River,1321026,Medwins Creek,752.195,,Medwins Creek,,643,105,doco,G44,2248383,5483746,14059264,efp,,,60
+110926,2,2017,Clutha River,1321032,Beaumont River upper,752.29, ,Beaumont River, ,811,110,doco,G44,2249987,5491982,14057180,efp, , , 
+110927,2,2017,Taieri River,1321043,Taieri River tributary 3,743,,Taieri River tributary,,1082,283,doco,I45,2251180,5496093,14056104,han,,,1
+110928,2,2017,Taieri River,1321043,Taieri River tributary 3,743,,Taieri River tributary,,1082,283,doco,I45,2251127,5496092,14056104,han,,,1
+111611,1,2017,Clutha River,1321023,Waitahuna River tributary 3,752.12,,Waitahuna River tributary,,339,97,doco,G45,2268787,5471785,14063137,tfu,,,1
+114356,1,2018,Clutha River,1321028,Beaumont River lower,752.29, ,Beaumont River, ,291,98,rel,G44,2244457,5486325,14059049,efp, , , 
+114357,1,2018,Clutha River,1321029,Beaumont River tributary,752.29, ,Beaumont River tributary, ,311,99,rel,G44,2244752,5486405,14058993,efp, , , 
+114358,1,2018,Clutha River,1321028,Beaumont River lower,752.29, ,Beaumont River, ,284,98,rel,G44,2244473,5485393,14059325,efp, , , 
+114852,10,2018,Clutha River,1321025,Tuapeka Creek,752.19,1500,Wetherston Creek tributary, ,129,93,doco, ,2253086,5471463,14063097,efp,1, ,9
+114853,10,2018,Clutha River,1321025,Tuapeka Creek,752.19,1600,Wetherston Creek tributary, ,129,93,doco, ,2252995,5471964,14063097,efp,1, , 
+114970,10,2018,Clutha River,1321028,Beaumont River lower,752.29,2348,Beaumont River, ,290,98,rel,G44,2244457,5486325,14059049,efp, , , 
+114971,10,2018,Clutha River,1321029,Beaumont River tributary,752.29, ,Beaumont River tributary, ,308,99,rel,G44,2244752,5486405,14058994,efp, , , 
+114972,10,2018,Clutha River,1321028,Beaumont River lower,752.29, ,Beaumont River, ,280,98,rel,G44,2244473,5485393,14059325,efp, , , 
+115180,11,2018,Clutha River,1321025,Tuapeka Creek,752.19, ,Wetherston Creek tributary, ,164,95,doco,G45,2254725,5470749,14063362,tfu, , ,1
+115271,12,2018,Clutha River,1321037,Old Hut Creek,752.471,1221,Old Hut Creek tributary,,633,144,doco,,2230996,5516921,14049647,efp,1,,60
+115272,12,2018,Clutha River,1321037,Old Hut Creek,752.471,,Old Hut Creek tributary,,633,144,doco,,2230946,5517034,14049647,tfu,,,1
+115273,12,2018,Clutha River,1321037,Old Hut Creek,752.471,,Old Hut Creek tributary,,633,144,doco,,2230962,5517004,14049647,tfu,,,1
+115274,12,2018,Clutha River,1321037,Old Hut Creek,752.471,,Old Hut Creek tributary,,633,144,doco,,2230984,5516980,14049647,tfu,,,1
+115275,12,2018,Clutha River,1321037,Old Hut Creek,752.471,,Old Hut Creek tributary,,633,144,doco,,2231011,5517002,14049647,tfu,,,1
+115276,12,2018,Clutha River,1321037,Old Hut Creek,752.471,,Old Hut Creek tributary,,633,144,doco,,2231019,5517024,14049647,tfu,,,1
+115277,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,582,145,doco, ,2232145,5515809,14050056,gmt, , ,1
+115278,12,2018,Clutha River,1321037,Old Hut Creek,752.471,,Old Hut Creek tributary,,582,145,doco,,2232166,5515786,14050056,gmt,,,1
+115279,12,2018,Clutha River,1321037,Old Hut Creek,752.471,,Old Hut Creek tributary,,582,145,doco,,2232178,5515764,14050056,gmt,,,1
+115280,12,2018,Clutha River,1321037,Old Hut Creek,752.471,,Old Hut Creek tributary,,582,145,doco,,2232199,5515763,14050056,gmt,,,1
+115281,12,2018,Clutha River,1321037,Old Hut Creek,752.471,,Old Hut Creek tributary,,582,145,doco,,2232227,5515755,14050056,gmt,,,1
+115284,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,633,144,doco, ,2231386,5515389,14049647,tfu, , ,2
+115285,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,607,144,doco, ,2231367,5515398,14049928,tfu, , ,2
+115286,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,633,144,doco, ,2231453,5515370,14049647,tcu, , ,2
+115287,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,633,144,doco, ,2231623,5516207,14049647,tfu, , ,1
+115288,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,633,144,doco, ,2231571,5516278,14049647,tfu, , ,2
+115289,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,633,144,doco, ,2231580,5516278,14049647,tfu, , ,1
+115290,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,633,144,doco, ,2231579,5516268,14049647,tfu, , ,1
+115291,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,678,146,doco, ,2231794,5517527,14049297,tfu, , ,1
+115292,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,678,146,doco, ,2231790,5517536,14049297,tfu, , ,1
+115293,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,678,146,doco, ,2231786,5517541,14049297,tfu, , ,1
+115294,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,678,146,doco, ,2231791,5517551,14049297,tfu, , ,2
+115295,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek, ,636,146,doco, ,2232036,5517303,14049543,tcu, , ,2
+115296,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek, ,636,146,doco, ,2232061,5517293,14049543,tcu, , ,2
+115297,12,2018,Clutha River,1321037,Old Hut Creek,752.471, ,Old Hut Creek tributary, ,521,143,doco, ,2231236,5514810,14050352,efp,1, , 
+116548,12,2018,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,573,70,doco, ,2254832,5480909,14060559,fyn,, ,1
+116549,12,2018,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,530,70,doco, ,2254944,5480991,14060559,fyn,, ,1
+116550,12,2018,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255007,5481080,14060559,fyn,, ,1
+116551,12,2018,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255082,5481172,14060559,fyn,, ,1
+116552,12,2018,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255378,5481465,14060559,efp,1, ,
+116166,4,2019,Clutha River,1321022,Waitahuna River tributary 2,752.12,1630,Waitahuna River tributary, ,312,96,wwcl,G45,2268625,5471242,14063263,efp, , , 
+116553,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255195,5481200,14060559,efp,1, ,
+116619,4,2019,Taieri River,1321004,Burnt Creek,743.05,0,Burnt Creek, ,676,67,doco, ,2258052,5484886,14059275,efp,3, ,
+116664,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255332,5481440,14060559,efp,1, ,
+116665,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255285,5481338,14060559,efp,1, ,
+116666,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255277,5481346,14060559,efp,1, ,
+116667,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255267,5481339,14060559,efp,1, ,
+116668,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255257,5481341,14060559,efp,1, ,
+116669,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255247,5481345,14060559,efp,1, ,
+116670,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255247,5481345,14060559,efp,1, ,
+116671,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255324,5481420,14060559,efp,1, ,
+116672,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255317,5481408,14060559,efp,1, ,
+116673,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255320,5481396,14060559,efp,1, ,
+116674,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255310,5481393,14060559,efp,1, ,
+116675,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255274,5481373,14060559,efp,1, ,
+116676,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255334,5481386,14060559,efp,1, ,
+116677,1,2019,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255314,5481374,14060559,efp,1, ,
+117393,11,2019,Clutha River,1321044,Bungtown Stream tributary,752.127,1503,Bungtown Stream tributary, ,389,96,wwcl,H45,2260790,5473035,14062790,efp,, ,
+119382,12,1998,Clutha River,1321045,Waitahuna River,752.12,0,Waitahuna River, ,292,100,uoo, ,2266200,5473500,14062734,efp,1,, 
+118870,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,459,41,rel,H45,2277429,5474890,14062246,tfb,,,1
+118869,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,459,41,rel,H45,2277440,5474932,14062246,tfb,,,1
+118867,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,459,41,rel,H45,2277487,5474932,14062246,tfb,,,1
+118868,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,459,41,rel,H45,2277456,5474955,14062246,tfb,,,1
+118873,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,0,0,rel,H45,2277923,5475095,0,tfb,,,1
+118876,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,0,0,rel,H45,2277783,5475173,0,tfb,,,1
+118866,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,459,41,rel,H45,2277687,5475215,14062246,tfb,,,1
+118865,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,459,41,rel,H45,2277682,5475250,14062246,tfb,,,1
+118864,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,459,41,rel,H45,2277680,5475281,14062246,tfb,,,1
+118855,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,485,43,rel,H45,2277926,5475446,14062239,tfb,,,1
+118854,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,485,43,rel,H45,2277950,5475447,14062239,tfb,,,1
+118856,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,485,43,rel,H45,2277882,5475468,14062239,tfb,,,1
+118853,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,485,43,rel,H45,2277968,5475468,14062239,tcb,,,1
+118857,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,485,43,rel,H45,2277847,5475521,14062239,tfb,,,1
+118858,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,485,43,rel,H45,2277830,5475541,14062239,tfb,,,1
+118861,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,483,43,rel,H45,2277795,5475626,14062182,tfb,,,1
+118871,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,459,41,rel,H45,2277390,5474851,14062246,tfb,,,1
+118874,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,0,0,rel,H45,2277898,5475098,0,tfb,,,1
+118875,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,0,0,rel,H45,2277868,5475109,0,tfb,,,1
+118872,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,0,0,rel,H45,2277921,5475115,0,tfb,,,1
+118863,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,459,41,rel,H45,2277685,5475380,14062246,tfb,,,1
+118862,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,459,41,rel,H45,2277680,5475401,14062246,tfb,,,1
+118852,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,485,43,rel,H45,2277975,5475481,14062239,tfb,,,1
+118860,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,483,43,rel,H45,2277813,5475672,14062182,tfu,,,2
+118859,12,2019,Taieri River,1321002,Waipori River tributary 2,743.05,0,Waipori River tributary, ,483,43,rel,H45,2277812,5475712,14062182,tfb,,,1
+121426,12,2013,Clutha River,1321046,Bungtown Stream,752.127,0,Bungtown Stream, ,339,98,wwcl, ,2261586,5474388,14062530,efp,1,,
+120934,3,2021,Clutha River,1321033,Talla Burn,752.32,1100,Talla Burn, ,351,103,otfg,G44,2240904,5490931,14057428,efp, ,,
+117952,2,2020,Clutha River,1321025,Tuapeka Creek,752.19,0,Wethers Creek, ,120,92,otfg,G45,2252887,5472128,14063060,efp, ,,
+121728,12,2020,Taieri River,1321011,Deep Creek,743.059,1425,Deep Creek tributary, ,761,78,doco,H44,2256153,5487305,14058615,efp, ,,
+121729,12,2020,Taieri River,1321011,Deep Creek,743.059,1031,Deep Creek tributary, ,761,78,doco,H44,2256153,5487305,14058615,efp, ,,
+121730,12,2020,Taieri River,1321011,Deep Creek,743.059,1135,Deep Creek tributary, ,761,78,doco,H44,2255583,5487591,14058615,efp, ,,
+121731,12,2020,Taieri River,1321011,Deep Creek,743.059,1157,Deep Creek, ,725,78,doco,H44,2254962,5487686,14058607,efp, ,,
+121732,12,2020,Taieri River,1321011,Deep Creek,743.059,1247,Deep Creek tributary, ,780,79,doco,H44,2255423,5488167,14058440,efp, ,,
+121733,12,2020,Taieri River,1321011,Deep Creek,743.059,1346,Deep Creek tributary, ,780,79,doco,H44,2255735,5487941,14058440,vbd, ,,
+121734,12,2020,Taieri River,1321011,Deep Creek,743.059,1359,Deep Creek tributary, ,761,78,doco,H44,2256119,5487357,14058615,vbd, ,,
+121735,12,2020,Taieri River,1321011,Deep Creek,743.059,1404,Deep Creek tributary, ,761,78,doco,H44,2256153,5487305,14058615,vbd, ,,
+121139,10,2006,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255453,5481467,14060559,efp,1,,
+121140,10,2006,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255324,5481430,14060559,efp,1,,
+121324,12,2020,Taieri River,1321007,Waipori River tributary 5,743.05,1000,Waipori River tributary, ,501,69,doco,H45,2255382,5481424,14060559,vbd, ,,
+121413,1,2011,Taieri River,1321007,Waipori River tributary 5,743.05,0,Waipori River tributary, ,501,69,doco, ,2255364,5481435,14060559,efp,1,,
+121330,4,2021,Taieri River,1321004,Burnt Creek,743.05,1100,Burnt Creek, ,676,67,doco,H45,2257959,5485202,14059275,efp, ,,
+121719,12,2020,Taieri River,1321003,Stony Creek,743.058,1020,Stony Creek, ,481,63,doco,H44,2260546,5483791,14059821,efp, ,,
+121721,12,2020,Taieri River,1321003,Stony Creek,743.058,1058,Stony Creek, ,764,70,doco,H44,2257530,5486538,14058961,efp, ,,
+121723,12,2020,Taieri River,1321003,Stony Creek,743.058,1136,Stony Creek, ,764,70,doco,H44,2257426,5486796,14058961,efp, ,,
+121724,12,2020,Taieri River,1321003,Stony Creek,743.058,1241,Stony Creek, ,849,71,doco,H44,2257143,5486904,14058419,efp, ,,
+121725,12,2020,Taieri River,1321003,Stony Creek,743.058,1235,Stony Creek, ,790,71,doco,H44,2257054,5486969,14058837,efp, ,,
+121727,12,2020,Taieri River,1321003,Stony Creek,743.058,1411,Stony Creek, ,790,71,doco,H44,2256938,5487043,14058837,efp, ,,
+121854,5,2020,Taieri River,1321003,Stony Creek,743.058,1000,Stony Creek, ,662,67,doco,H44,2259098,5484697,14059404,efp, ,,
+121855,5,2020,Taieri River,1321003,Stony Creek,743.058,1032,Stony Creek, ,662,67,doco,H44,2259040,5484964,14059404,efp, ,,
+121856,5,2020,Taieri River,1321003,Stony Creek,743.058,1047,Stony Creek, ,590,65,doco,H44,2260543,5483949,14059588,efp, ,,
+121857,5,2020,Taieri River,1321003,Stony Creek,743.058,1117,Stony Creek, ,481,63,doco,H44,2260479,5482765,14059821,efp, ,,
+121858,5,2020,Taieri River,1321003,Stony Creek,743.058,1302,Stony Creek, ,481,63,doco,H44,2260390,5482905,14059821,efp, ,,
+121860,5,2020,Taieri River,1321003,Stony Creek,743.058,1402,Stony Creek, ,481,63,doco,H44,2260303,5483132,14059821,efp, ,,
