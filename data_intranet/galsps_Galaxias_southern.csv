@@ -1,0 +1,569 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+50772,1,1940,Waiau River,1331085,Upukerora River,797.49,,Upukerora River,,210,146,unk,d43,2098500,5519900,15020897,unk,,,
+106,1,1962,Oreti River,1331028,Oreti River upper,786, ,Oreti River, ,290,138,niwa,e44,2139000,5494700,15031039,unk, , , 
+50768,2,1962,Waiau River,1331081,Dunton Creek,797.49,,Dunton Creek,,240,180,unk,d42,2108800,5548400,15012115,unk,,,
+835,3,1966,Mataura River,1331019,Eyre Creek,775.87, ,Eyre Creek, ,270,191,niwa,e43,2162900,5512900,15023830,ef,1, , 
+50822,5,1972,Waiau River,1331062,Dean Burn,797.31, ,Motu Stream, ,80,41,niwa,d45,2096500,5460400,15044936,ef,1, , 
+50823,5,1972,Waiau River,1331059,Moss Burn Waiau River,797.301,1545,Moss Burn tributary, ,80,40,niwa,d45,2093800,5454700,15047105,ef,1, , 
+50825,3,1972,Waiau River,1331059,Moss Burn Waiau River,797.301, ,Moss Burn, ,90,41,niwa,d45,2093000,5454500,15047064,ef,1, , 
+4371,4,1979,Waiau River,1331066,Excelsior Creek,797.4, ,Excelsior Creek, ,210,96,slfg,d44,2097000,5496000,15030605,ef,0, , 
+4373,4,1979,Aparima River,1331052,Hamilton Burn,789.6,1100,Hamilton Burn, ,370,127,slfg,d44,2127500,5495000,15031280,ef,1, , 
+4403,10,1979,Waiau River,1331065,Ligar Creek,797.361,1645,Ligar Creek, ,130,67,slfg,d44,2094000,5477400,15037818,ef,1, , 
+4406,4,1979,Aparima River,1331053,Braxton Burn,789.602,1500,Braxton Burn, ,310,120,slfg,d44,2129400,5489300,15033266,ef,1, , 
+4435,12,1980,Waiau River,1331076,Wash Creek,797.42,1545,Wash Creek,,410,141,slfg,d43,2123200,5513800,15023437,ef,1,,
+4445,12,1980,Oreti River,1331030,Weydon Burn,786.92,1130,Weydon Burn, ,430,161,slfg,d43,2124900,5504300,15027310,ef,0, , 
+108147,12,1980,Oreti River,1331030,Weydon Burn,786.92, ,Weydon Burn, ,389,153,slfg,D43,2128300,5503800,15027536,ef, , ,200
+3659,1,1981,Waiau River,1331066,Excelsior Creek,797.4,,Excelsior Creek tributary,,340,102,niwa,d44,2101300,5496900,15030145,han,,,1
+3660,1,1981,Waiau River,1331066,Excelsior Creek,797.4,,Excelsior Creek tributary,,390,105,niwa,d44,2103500,5497700,15029882,han,,,1
+4401,2,1981,Oreti River,1331033,Irthing Stream,786.9,1530,Irthing Stream, ,230,122,slfg,e44,2153300,5495900,15030612,ef,2, , 
+4429,3,1982,Aparima River,1331054,Kowhai Creek,789,1000,Kowhai Creek,,420,111,slfg,d44,2125100,5482500,15036073,ef,1,,
+4442,4,1982,Oreti River,1331028,Oreti River upper,786.96,1330,Hidden Burn, ,630,192,slfg,e42,2137200,5534600,15015689,efm,1, , 
+4443,4,1982,Oreti River,1331040,Gorge Burn,786.96,1445,Gorge Burn, ,650,193,slfg,e42,2138000,5534200,15015815,efm,1, , 
+108067,9,1982,Aparima River,1331057,North Etal Creek,789.65, ,North Etal Creek, ,389,110,slfg,D44,2123600,5484000,15035461,ef, , ,120
+108253,9,1982,Aparima River,1331054,Kowhai Creek,789,,Kowhai Creek,,452,110,slfg,D44,2125129,5482492,15035834,ef,,,60
+1588,1,1985,Aparima River,1331052,Hamilton Burn,789.6,1030,Hamilton Burn, ,350,124,slfg,d44,2129600,5493900,15031261,ef,2, , 
+1589,1,1985,Aparima River,1331052,Hamilton Burn,789.6,1600,Hamilton Burn, ,380,124,slfg,d44,2129600,5493900,15031261,ef,2, , 
+1591,3,1985,Oreti River,1331040,Gorge Burn,786.96,1400,Gorge Burn, ,650,193,slfg,e42,2138000,5534200,15015690,ef,0, , 
+3911,2,1985,Aparima River,1331052,Hamilton Burn,789.6,1030,Hamilton Burn, ,360,126,slfg,d44,2128700,5494400,15031280,ef,1, , 
+3912,2,1985,Aparima River,1331052,Hamilton Burn,789.6,1317,Hamilton Burn, ,350,124,slfg,d44,2129500,5494000,15031261,ef,1, , 
+3913,2,1985,Waiau River,1331078,Mararoa River upper,797.42,1208,Mararoa River, ,620,183,slfg,d42,2129700,5548300,15012152,ef,1, , 
+3915,2,1985,Waiau River,1331078,Mararoa River upper,797.42,940,Windon Burn, ,630,184,slfg,d42,2129600,5549200,15011750,ef,1, , 
+7228,2,1985,Mataura River,1331015,Dome Burn lower,775.674, ,Dome Burn, ,180,141,otfg,f44,2183700,5489600,15033006,ef,0, , 
+7353,2,1985,Waiau River,1331068,Mararoa River lower,797.42,1030,Mararoa River, ,190,99,niwa,d44,2097300,5499000,15029370,div, , , 
+108151,10,1986,Oreti River,1331030,Weydon Burn,786.92, ,Weydon Burn, ,389,153,slfg,D43,2128300,5503800,15027536,ef, , ,100
+73,8,1987,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River tributary, ,5,3,indm,d49,2120100,5346300, ,han, , ,1
+74,8,1987,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River tributary, ,20,5,indm,d49,2118900,5345500, ,han, , ,1
+75,8,1987,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River, ,80,14,indm,d49,2112400,5343400, ,han, , ,1
+4528,11,1987,Oreti River,1331030,Weydon Burn,786.92,1100,Weydon Burn, ,390,153,slfg,d43,2129300,5502800,15028054,ef,3, , 
+4531,11,1987,Oreti River,1331030,Weydon Burn,786.92,1515,Weydon Burn, ,390,155,slfg,d43,2128400,5503800,15027536,ef,3, , 
+4534,12,1987,Oreti River,1331030,Weydon Burn,786.92,1130,Weydon Burn, ,410,158,slfg,d43,2126700,5504600,15027197,ef,3, , 
+4537,11,1987,Aparima River,1331052,Hamilton Burn,789.6,1200,Hamilton Burn tributary, ,380,129,slfg,d44,2127700,5497000,15030216,ef,3, , 
+4543,11,1987,Aparima River,1331052,Hamilton Burn,789.6,1500,Hamilton Burn tributary, ,380,129,slfg,d44,2127500,5497200,15030216,ef,2, , 
+4540,3,1988,Aparima River,1331052,Hamilton Burn,789.6,1100,Hamilton Burn, ,310,119,slfg,e44,2130600,5490900,15031856,ef,3, , 
+4545,3,1988,Aparima River,1331052,Hamilton Burn,789.6,1230,Hamilton Burn, ,350,124,slfg,d44,2129600,5494200,15031261,ef,3, , 
+11203,1,1989,Aparima River,1331052,Hamilton Burn,789.6,800,Hamilton Burn,,390,128,uoo,d44,2126500,5495100,15030940,han,,,1500
+105176,11,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River tributary, ,25,8,uoc,D49,2116300,5344900,15066499,ntc, , , 
+105177,6,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River, ,-10,4,uoc,D49,2118700,5346100,15066451,ntc, , , 
+105178,2,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River tributary, ,-4,2,uoc,D49,2120500,5346200,15066405,ntc, , , 
+105179,2,1989,Stewart Island,1331042,Rakeahua River,787,,Rakeahua River,,-8,1,uoc,D49,2120900,5346200,15066423,ntc,,,
+105180,1,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River, ,-10,4,uoc,D49,2118700,5346000,15066451,ntc, , , 
+105184,9,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River tributary, ,68,13,uoc,D49,2113100,5343200,15066609,gmt, , ,1
+105192,9,1989,Stewart Island,1331042,Rakeahua River,787,,Rakeahua River tributary,,84,12,uoc,D49,2113800,5343400,15066593,ntc,,,
+105197,1,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River tributary, ,-4,2,uoc,D49,2120200,5346100,15066405,ntc, , , 
+105198,1,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River, ,8,7,uoc,D49,2117300,5345500,15066473,ntc, , , 
+105211,11,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River tributary, ,25,8,uoc,D49,2116300,5344800,15066499,ntc, , , 
+105212,11,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River, ,141,4,uoc,D49,2118900,5345600,15066464,ntc, , , 
+105213,11,1989,Stewart Island,1331042,Rakeahua River,787,,Rakeahua River tributary,,141,4,uoc,D49,2118800,5344000,15066464,ntc,,,
+105214,9,1989,Stewart Island,1331042,Rakeahua River,787,,Rakeahua River tributary,,216,16,uoc,D49,2112000,5347400,15066289,ntc,,,
+105215,8,1989,Stewart Island,1331042,Rakeahua River,787,,Rakeahua River tributary,,95,14,uoc,D49,2113000,5346800,15066319,ntc,,,
+105216,8,1989,Stewart Island,1331042,Rakeahua River,787,,Rakeahua River tributary,,68,13,uoc,D49,2112900,5346000,15066457,ntc,,,
+105218,8,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River tributary, ,25,8,uoc,D49,2115900,5344600,15066499,ntc, , , 
+105219,8,1989,Stewart Island,1331042,Rakeahua River,787,,Rakeahua River,,68,13,uoc,D49,2113100,5343300,15066599,ntc,,,
+105220,7,1989,Stewart Island,1331042,Rakeahua River,787,,Rakeahua River,,38,11,uoc,D49,2114300,5344100,15066545,ntc,,,
+105221,5,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River tributary, ,24,2,uoc,D49,2120400,5346500,15066356,ntc, , , 
+105222,1,1989,Stewart Island,1331042,Rakeahua River,787,,Rakeahua River tributary,,11,7,uoc,D49,2117500,5345300,15066473,ntc,,,
+105226,11,1989,Stewart Island,1331042,Rakeahua River,787, ,Rakeahua River tributary, ,-4,2,uoc,D49,2120300,5346300,15066405,spo, , , 
+107636,7,1989,Stewart Island,1331042,Rakeahua River,787,1335,Rakeahua River tributary, ,68,13,docs,D48,2113300,5345300,15066457,tfb, , ,3
+107637,12,1989,Stewart Island,1331042,Rakeahua River,787,1458,Rakeahua River tributary, ,9,4,docs,D48,2119200,5346800,15066322,tfu, , ,4
+7682,11,1990,Oreti River,1331028,Oreti River upper,786,1000,Oreti River, ,300,139,niwa,e44,2137300,5494700,15031091,ef,1, , 
+7683,11,1990,Oreti River,1331030,Weydon Burn,786.92,1115,Weydon Burn, ,335,148,niwa,e43,2131900,5500300,15028862,ef,1, , 
+7684,11,1990,Oreti River,1331028,Oreti River upper,786,1415,Oreti River, ,400,157,niwa,e43,2130500,5508000,15025704,ef,1, , 
+7685,11,1990,Oreti River,1331028,Oreti River upper,786,1600,Oreti River, ,450,165,niwa,d43,2128500,5514900,15022852,ef,1, , 
+11211,1,1990,Oreti River,1331040,Gorge Burn,786.96,1900,Gorge Burn, ,670,194,uoo,e42,2138900,5534000,15015951,wbn, , ,50
+108152,2,1990,Aparima River,1331047,Etal Stream,789.45, ,Etal Stream, ,206,81,slfg,E44,2131700,5472200,15040092,ef, , ,50
+5486,2,1991,Waiau River,1331080,Eglinton River upper,797.49, ,Eglinton River, ,270,191,slfg,d42,2114200,5555500,15010533,ef,1, , 
+5487,2,1991,Waiau River,1331080,Eglinton River upper,797.49, ,Walker Creek, ,275,190,slfg,d42,2113900,5555200,15010745,ef,1, , 
+5488,2,1991,Waiau River,1331081,Dunton Creek,797.49,,Dunton Creek,,350,180,slfg,d42,2108700,5548600,15012115,ef,1,,
+5497,2,1991,Waiau River,1331085,Upukerora River,797.49,,Upukerora River,,205,147,slfg,d43,2098500,5519600,15020897,ef,1,,
+5527,1,1991,Waiau River,1331080,Eglinton River upper,797.49, ,Eglinton River tributary, ,275,191,slfg,d42,2114000,5555300,15010699,ef,1, , 
+11218,9,1991,Stewart Island,1331042,Rakeahua River,787,1030,Rakeahua River tributary, ,60,13,uoo,d49,2113700,5343500,15066593,efp,2, , 
+11219,9,1991,Stewart Island,1331042,Rakeahua River,787,1030,Rakeahua River,,60,13,uoo,D49,2113700,5343600,15066563,efp,2,,
+11220,9,1991,Stewart Island,1331042,Rakeahua River,787,1430,Rakeahua River,,60,13,uoo,D49,2113700,5343600,15066563,efp,2,,
+11221,9,1991,Stewart Island,1331042,Rakeahua River,787,1330,Rakeahua River tributary, ,40,13,uoo,d49,2113700,5344500,15066496,efp,2, , 
+11222,9,1991,Stewart Island,1331042,Rakeahua River,787,1600,Rakeahua River,,30,12,uoo,D49,2114300,5344100,15066545,efp,2,,
+11223,9,1991,Stewart Island,1331042,Rakeahua River,787,1300,Rakeahua River tributary, ,5,3,uoo,d49,2120100,5346300,15066405,efp,0, , 
+3021,9,1992,Mataura River,1331019,Eyre Creek,775.87,day,Eyre Creek,,270,191,niwa,E43,2162900,5512900,15023830,ef,1,,
+11826,2,1992,Mataura River,1331013,Rob Roy Creek,775.673,,Rob Roy Creek,,195,139,slfg,f44,2180900,5489400,15033124,ef,,,
+11827,2,1992,Mataura River,1331010,Garvie Burn,775.673, ,Garvie Burn, ,190,138,slfg,f44,2180000,5488200,15033765,ef, , , 
+108083,7,1992,Mataura River,1331010,Garvie Burn,775.673, ,Garvie Burn, ,190,137,slfg,F44,2180000,5488200,15033765,ef, , ,23
+108085,7,1992,Mataura River,1331013,Rob Roy Creek,775.673,,Rob Roy Creek,,193,138,slfg,F44,2180900,5489400,15033124,ef,,,23
+108168,2,1992,Mataura River,1331015,Dome Burn lower,775.674, ,Dome Burn, ,166,137,slfg,F44,2184800,5488000,15033590,ef, , ,28
+11882,10,1993,Oreti River,1331024,Dipton Stream 1,786.58, ,Dipton Stream, ,140,93,slfg,e44,2143900,5473600,15039446,ef, , , 
+12901,11,1993,Waiau River,1331064,Waiau River lower,797,1030,Waiau River,,105,65,niwa,D44,2093600,5475300,15038749,efp,1,,75
+12902,11,1993,Waiau River,1331067,Waiau River tributary,797,1230,Waiau River tributary,,170,96,niwa,D44,2095600,5496700,15030302,efp,1,,50
+12917,12,1993,Oreti River,1331024,Dipton Stream 1,786.58,day,Dipton Stream,,140,93,niwa,E44,2144000,5473600,15039446,ef,1,,
+12918,12,1993,Aparima River,1331050,Moss Burn Aparima River lower,789.6, ,Hamilton Burn, ,240,95,niwa,e44,2136200,5480500,15036486,ef,1, ,80
+12920,12,1993,Waiau River,1331066,Excelsior Creek,797.4,1815,Excelsior Creek,,210,96,niwa,D44,2097000,5496000,15030605,efp,1,,100
+12922,12,1993,Waiau River,1331076,Wash Creek,797.42,1710,Wash Creek,,430,145,niwa,D43,2125200,5516600,15022047,efp,1,,20
+12923,12,1993,Aparima River,1331049,Aparima River middle,789,1500,Aparima River,,240,94,niwa,E44,2135000,5480700,15036396,efp,1,,50
+12929,12,1993,Waiau River,1331059,Moss Burn Waiau River,797.301,1120,Dell Burn, ,100,41,niwa,d45,2092600,5454500,15047258,efp,1, ,50
+12930,12,1993,Waiau River,1331059,Moss Burn Waiau River,797.301,1130,Moss Burn, ,80,39,niwa,d45,2094000,5454800,15047152,efp,1, ,50
+12933,12,1993,Waiau River,1331062,Dean Burn,797.31,1340,Dean Burn, ,75,41,niwa,d45,2096800,5460400,15044873,efp,1, ,40
+5501,12,1994,Waiau River,1331079,Retford Stream,797.49, ,Retford Stream, ,235,181,slfg,d42,2107600,5544800,15012854,ef,3, , 
+5504,12,1994,Waiau River,1331081,Dunton Creek,797.49,,Dunton Creek,,350,180,slfg,d42,2108600,5548400,15012115,ef,3,,
+11832,4,1994,Clutha River,1331002,Bush Creek,752.746,1300,Bush Creek,,700,305,doco,e42,2144200,5541800,14040597,efp,1,,30
+11883,2,1994,Aparima River,1331047,Etal Stream,789.45, ,Etal Stream, ,200,83,slfg,e44,2131700,5472200,15040092,ef, , , 
+13587,1,1994,Waiau River,1331085,Upukerora River,797.49,,Upukerora River,,210,146,indm,d43,2098300,5520300,15020756,obs,,,3
+13588,1,1994,Waiau River,1331072,Whitestone River upper,797.421, ,Whitestone River, ,370,150,indm,d43,2111100,5523300,15019395,pun, , ,2
+13787,1,1994,Waiau River,1331076,Wash Creek,797.424,1500,Wash Creek tributary, ,420,144,indm,d43,2124800,5514800,15023042,pun, , ,3
+13788,1,1994,Waiau River,1331075,Mararoa River tributary 1,797.42,1530,Mararoa River tributary, ,400,138,indm,d43,2121900,5512800,15024010,pun, , ,1
+108098,3,1994,Mataura River,1331010,Garvie Burn,775.673, ,Garvie Burn, ,190,137,slfg,F44,2180000,5488200,15033765,ef, , ,39
+108197,9,1994,Aparima River,1331047,Etal Stream,789.45, ,Etal Stream, ,206,81,slfg,E44,2131700,5472200,15040092,ef, , ,39
+108198,6,1994,Aparima River,1331054,Kowhai Creek,789, ,Kowhai Creek, ,378,108,slfg,D44,2125300,5484300,15035268,ef, , ,21
+108199,6,1994,Aparima River,1331057,North Etal Creek,789.65, ,North Etal Creek, ,389,110,slfg,D44,2123600,5484000,15035461,ef, , ,30
+5529,9,1995,Waiau River,1331080,Eglinton River upper,797.49, ,Walker Creek, ,275,190,slfg,d42,2113800,5555300,15010745,ef,2, , 
+108102,2,1995,Aparima River,1331047,Etal Stream,789.45, ,Etal Stream, ,206,81,slfg,E44,2131800,5472200,15040092,ef, , ,27
+108132,10,1996,Mataura River,1331010,Garvie Burn,775.673, ,Garvie Burn, ,190,137,slfg,F44,2180000,5488300,15033765,ef, , ,22
+108229,2,1996,Aparima River,1331047,Etal Stream,789.45, ,Etal Stream, ,206,81,slfg,E44,2131800,5472200,15040092,ef, , ,24
+108230,2,1996,Aparima River,1331054,Kowhai Creek,789, ,Kowhai Creek, ,378,108,slfg,D44,2125300,5484300,15035268,ef, , ,27
+108231,2,1996,Aparima River,1331057,North Etal Creek,789.65, ,North Etal Creek, ,389,110,slfg,D44,2123600,5484000,15035461,ef, , ,29
+108237,2,1996,Oreti River,1331030,Weydon Burn,786.92, ,Weydon Burn, ,389,153,slfg,D43,2128300,5503800,15027536,ef, , ,27
+5505,2,1997,Waiau River,1331081,Dunton Creek,797.49,,Dunton Creek,,350,180,slfg,d42,2108700,5548600,15012115,ef,3,,
+5506,2,1997,Waiau River,1331079,Retford Stream,797.49, ,Retford Stream, ,235,181,slfg,d42,2107700,5544800,15012854,ef,3, , 
+5510,3,1997,Waiau River,1331066,Excelsior Creek,797.4, ,Excelsior Creek, ,200,96,slfg,d44,2096900,5496000,15030605,ef,3, , 
+5513,3,1997,Waiau River,1331065,Ligar Creek,797.36, ,Waicoe Creek, ,120,67,slfg,d44,2094200,5477100,15038014,ef,3, , 
+5514,3,1997,Waiau River,1331065,Ligar Creek,797.361, ,Ligar Creek, ,120,67,slfg,d44,2094100,5477200,15037818,ef,3, , 
+13666,2,1997,Waiau River,1331056,Waiau River upper,797,1600,Waiau River,,125,71,niwa,D44,2090700,5479800,15037098,efm,1,,85
+13667,2,1997,Waiau River,1331056,Waiau River upper,797,1730,Waiau River,,125,71,niwa,D44,2090700,5479800,15037098,efm,1,,45
+13669,2,1997,Waiau River,1331068,Mararoa River lower,797.42,day,Mararoa River,,175,97,niwa,D44,2096300,5497300,15029992,efm,1,,150
+13670,2,1997,Waiau River,1331069,Whitestone River lower,797.421,day,Whitestone River,,230,111,niwa,D43,2100400,5506500,15026001,efm,1,,200
+13671,2,1997,Waiau River,1331069,Whitestone River lower,797.421, ,Flaxy Creek, ,230,111,niwa,d43,2100600,5506300,15026116,efm,1, ,500
+108141,10,1997,Oreti River,1331027,Stag Stream,786.68, ,Stag Stream, ,142,93,slfg,E44,2150200,5474700,15038771,ef, , ,19
+108143,6,1997,Mataura River,1331013,Rob Roy Creek,775.673,,Rob Roy Creek,,193,138,slfg,F44,2180900,5489400,15033124,ef,,,22
+108238,1,1997,Aparima River,1331053,Braxton Burn,789.602, ,Braxton Burn, ,311,118,slfg,D44,2129400,5489400,15033310,ef, , ,21
+108239,1,1997,Aparima River,1331052,Hamilton Burn,789.6, ,Hamilton Burn, ,375,123,slfg,D44,2127500,5494900,15031280,ef, , ,18
+108247,1,1997,Oreti River,1331030,Weydon Burn,786.92, ,Weydon Burn, ,389,153,slfg,D43,2128300,5503800,15027536,ef, , ,18
+116185,3,1997,Mataura River,1331018,Tomogalak Stream,775.72, ,Tomogalak Stream, ,339,154,docs, ,2162369,5494644,15031172,efp,1, , 
+116186,3,1997,Mataura River,1331018,Tomogalak Stream,775.72, ,Tomogalak Stream tributary, ,312,152,docs, ,2162915,5492591,15031905,efp,1, , 
+116187,3,1997,Mataura River,1331018,Tomogalak Stream,775.72, ,Tomogalak Stream, ,292,152,docs, ,2162915,5492761,15031870,efp,1, , 
+116188,3,1997,Mataura River,1331018,Tomogalak Stream,775.72, ,Tomogalak Stream tributary, ,371,153,docs, ,2164089,5492834,15031906,efp,1, , 
+116189,3,1997,Mataura River,1331018,Tomogalak Stream,775.72, ,Tomogalak Stream tributary, ,360,153,docs, ,2164200,5493478,15031640,efp,1, , 
+116190,3,1997,Mataura River,1331018,Tomogalak Stream,775.72, ,Tomogalak Stream tributary, ,360,153,docs, ,2164235,5493453,15031640,efp,1, , 
+116191,3,1997,Mataura River,1331018,Tomogalak Stream,775.72, ,Tomogalak Stream tributary, ,438,155,docs, ,2164829,5493841,15031522,efp,1, , 
+116192,3,1997,Mataura River,1331018,Tomogalak Stream,775.72, ,Tomogalak Stream tributary, ,494,155,docs, ,2165334,5493651,15031594,efp,1, , 
+117566,3,1997,Aparima River,1331084,Waterloo Burn,789.75,0,Waterloo Burn, ,499,123,doco, ,2120000,5491700,15032145,efp,1, ,
+5535,3,1998,Waiau River,1331066,Excelsior Creek,797.4, ,Excelsior Creek, ,205,96,slfg,d44,2096900,5496000,15030605,ef,3, ,26
+5539,3,1998,Waiau River,1331065,Ligar Creek,797.36, ,Waicoe Creek, ,150,67,slfg,d44,2094300,5477200,15038014,ef,3, , 
+5540,3,1998,Waiau River,1331065,Ligar Creek,797.361, ,Ligar Creek, ,150,67,slfg,d44,2094100,5477300,15037818,ef,3, , 
+12643,11,1998,Waiau River,1331080,Eglinton River upper,797.49, ,Eglinton River tributary, ,280,191,niwa,d42,2114300,5555500,15010652,efp,1, , 
+12644,11,1998,Waiau River,1331080,Eglinton River upper,797.49, ,Walker Creek, ,280,191,niwa,d42,2113900,5555100,15010745,efp,0, , 
+12645,11,1998,Waiau River,1331081,Dunton Creek,797.49,,Dunton Creek,,250,180,niwa,d42,2108800,5548400,15012115,efp,0,,
+105146,5,1998,Stewart Island,1331041,Freshwater River tributary,787,,Freshwater River tributary,,68,21,docs,D48,2124400,5365000,15065531,efp,,,
+105147,5,1998,Stewart Island,1331041,Freshwater River tributary,787,,Freshwater River tributary,,54,21,docs,D48,2124000,5364800,15065499,efp,,,
+5550,3,1999,Waiau River,1331066,Excelsior Creek,797.4, ,Excelsior Creek, ,205,96,slfg,d44,2096900,5496000,15030605,ef,3, , 
+5804,4,1999,Waiau River,1331065,Ligar Creek,797.36, ,Waicoe Creek, ,150,67,slfg,d44,2094300,5477200,15038014,ef,3, , 
+5805,4,1999,Waiau River,1331065,Ligar Creek,797.361, ,Ligar Creek, ,150,67,slfg,d44,2094100,5477300,15037818,ef,3, , 
+9611,2,2001,Aparima River,1331043,Aparima River lower,789,1500,Aparima River, ,70,50,niwa,d45,2128200,5445900,15050479,efm,1, ,180
+9612,2,2001,Aparima River,1331043,Aparima River lower,789,1630,Aparima River, ,70,50,niwa,d45,2127900,5445800,15050479,efm,1, ,50
+9619,2,2001,Aparima River,1331043,Aparima River lower,789,915,Aparima River, ,105,60,niwa,e45,2131600,5452800,15047179,efm,1, ,240
+9626,2,2001,Aparima River,1331043,Aparima River lower,789,930,Aparima River, ,55,44,niwa,d45,2123900,5442400,15051591,efm,1, ,254
+9633,2,2001,Aparima River,1331049,Aparima River middle,789,930,Aparima River, ,240,94,niwa,e44,2135100,5480600,15036396,efm,1, ,195
+9634,2,2001,Aparima River,1331050,Moss Burn Aparima River lower,789.6,1030,Hamilton Burn, ,240,95,niwa,e44,2136200,5480500,15036486,efm,1, ,660
+9641,2,2001,Aparima River,1331053,Braxton Burn,789.602,1100,Braxton Burn, ,310,120,niwa,d44,2129400,5489300,15033266,efm,1, ,420
+9642,2,2001,Aparima River,1331052,Hamilton Burn,789.6,1230,Hamilton Burn, ,375,127,niwa,d44,2127500,5494900,15031280,efm,1, ,440
+9643,2,2001,Aparima River,1331052,Hamilton Burn,789.6,1400,Hamilton Burn tributary, ,380,129,niwa,d44,2127400,5497100,15030216,efm,1, ,320
+9646,2,2001,Aparima River,1331057,North Etal Creek,789.65,1730,North Etal Creek, ,380,111,niwa,d44,2123500,5483900,15035470,ef,1, ,275
+114393,11,2001,Waiau River,1331071,Whitestone River tributary,797.421, ,Whitestone River tributary, ,491,137,slfg,D43,2112500,5521300,15020242,efp, , , 
+114394,11,2001,Waiau River,1331070,Moat Creek,797.421,2306,Moat Creek, ,394,134,slfg,D43,2111200,5519500,15021179,efp, , , 
+12088,2,2002,Aparima River,1331043,Aparima River lower,789,1445,Aparima River,,45,38,niwa,D46,2125100,5438100,15053168,efm,1,,240
+12089,2,2002,Aparima River,1331043,Aparima River lower,789,930,Aparima River,,65,48,niwa,D45,2126600,5445100,15050479,efm,1,,320
+12092,2,2002,Aparima River,1331044,Aparima River tributary,789,day,Aparima River tributary,,120,64,niwa,E45,2131600,5456000,15046226,efm,1,,180
+12093,2,2002,Aparima River,1331046,Kenny Creek,789.3,1630,Kenny Creek, ,140,70,niwa,e45,2131000,5460400,15044902,efm,1, ,119
+12094,2,2002,Aparima River,1331057,North Etal Creek,789.65,1150,North Etal Creek,,380,111,niwa,D44,2123500,5483900,15035470,efm,1,,180
+12096,2,2002,Aparima River,1331054,Kowhai Creek,789,1015,Kowhai Creek,,360,109,niwa,D44,2125300,5484100,15035315,efm,1,,210
+12099,2,2002,Aparima River,1331043,Aparima River lower,789,930,Aparima River, ,70,49,niwa,d45,2127300,5445600,15050479,efm,1, ,342
+12100,2,2002,Aparima River,1331043,Aparima River lower,789, ,Aparima River, ,85,55,niwa,e45,2131200,5448500,15048868,efm,1, ,216
+12126,2,2002,Aparima River,1331048,Flaxy Creek,789, ,Aparima River, ,215,89,niwa,e44,2132700,5477000,15037638,efm,1, ,100
+26186,1,2002,Waiau River,1331070,Moat Creek,797.421, ,Moat Creek, ,480,138,docs,d43,2113205,5518184,15021733,ef,1, , 
+26187,1,2002,Waiau River,1331070,Moat Creek,797.421, ,Moat Creek, ,360,134,docs,d43,2111192,5519561,15021178,ef,1, , 
+26188,1,2002,Waiau River,1331071,Whitestone River tributary,797.421, ,Whitestone River tributary, ,440,138,docs,d43,2112515,5521347,15020242,ef,1, , 
+26189,1,2002,Waiau River,1331070,Moat Creek,797.421, ,Moat Creek, ,430,137,docs,d43,2112060,5518345,15021692,ef,1, , 
+26190,1,2002,Waiau River,1331070,Moat Creek,797.421, ,Moat Creek, ,355,134,docs,d43,2111019,5519505,15021178,ef,1, , 
+114390,1,2002,Waiau River,1331074,Thomas Burn tributary,797.422, ,Thomas Burn tributary, ,515,138,docs,D43,2114000,5516900,15022277,efp, , , 
+15962,1,2003,Waiau River,1331063,Wairaki River,797.32,1015,Wairaki River, ,80,43,niwa,d45,2099600,5461500,15044419,efp,1, ,60
+15963,1,2003,Waiau River,1331063,Wairaki River,797,1130,Waiau River, ,70,42,niwa,d45,2098200,5461500,15044397,efp,1, ,30
+15964,1,2003,Waiau River,1331063,Wairaki River,797.32,1230,Wairaki River, ,70,41,niwa,d45,2098000,5461300,15044418,efp,1, ,60
+15965,1,2003,Waiau River,1331065,Ligar Creek,797.361,1330,Ligar Creek, ,145,67,niwa,d44,2094000,5477400,15037818,efp,1, ,60
+15966,1,2003,Waiau River,1331065,Ligar Creek,797.36,1500,Waicoe Creek, ,140,67,niwa,d44,2094300,5477200,15038014,efp,1, ,50
+15974,1,2003,Waiau River,1331066,Excelsior Creek,797.4,1045,Excelsior Creek, ,205,96,niwa,d44,2096900,5496000,15030605,efp,1, ,60
+15978,2,2003,Waiau River,1331085,Upukerora River,797.49,930,Upukerora River,,205,146,niwa,d43,2098400,5519800,15020897,efp,1,,60
+15979,1,2003,Waiau River,1331068,Mararoa River lower,797.42,1530,Mararoa River, ,190,98,niwa,d44,2096900,5498100,15029370,efp,1, ,50
+15980,1,2003,Waiau River,1331069,Whitestone River lower,797.421,1645,Whitestone River, ,235,112,niwa,d43,2100400,5506900,15026001,efp,1, ,60
+15981,1,2003,Waiau River,1331075,Mararoa River tributary 1,797.42, ,Mararoa River, ,390,137,niwa,d43,2121700,5512800,15023115,efp,1, ,30
+15982,1,2003,Waiau River,1331068,Mararoa River lower,797.42,1800,Mararoa River tributary, ,545,158,niwa,d43,2128300,5528500,15017663,efp,1, ,30
+15983,1,2003,Waiau River,1331068,Mararoa River lower,797.425, ,South Mavora Lake, ,613,166,niwa,e42,2132100,5532700,15016464,fyn, , ,8
+26160,2,2003,Mataura River,1331017,Dome Burn upper,775.679, ,Dome Burn, ,650,177,docs,f43,2182500,5512300,15023915,ef,1, , 
+26166,2,2003,Mataura River,1331016,Dome Burn middle,775.679, ,Dome Burn, ,280,154,docs,f44,2179100,5496900,15030231,ef,1, , 
+24860,2,2004,Clutha River,1331003,Black Spur Creek,752.746,,Black Spur Creek tributary,,800,309,doco,e42,2144200,5538700,14041695,efp,1,,15
+24861,2,2004,Clutha River,1331003,Black Spur Creek,752.746,,Black Spur Creek,,860,310,doco,e42,2145600,5540000,14041306,efp,1,,20
+24862,2,2004,Clutha River,1331003,Black Spur Creek,752.746,day,Black Spur Creek,,830,307,doco,E42,2143000,5539100,14041771,efp,1,,15
+24969,2,2004,Clutha River,1331001,White Burn,752.746,1005,White Burn,,680,303,doco,E42,2144300,5543600,14039782,efp,1,,160
+26508,7,2004,Mataura River,1331021,Bushy Creek,775.9,1030,Bushy Creek,,380,222,doco,E43,2169100,5529100,15017402,efp,1,,50
+26509,7,2004,Mataura River,1331021,Bushy Creek,775.9,945,Bushy Creek,,370,222,doco,E43,2169200,5528900,15017560,efp,1,,50
+26633,5,2004,Oreti River,1331027,Stag Stream,786.63,day,Stag Stream,,145,96,doco,E44,2149977,5475870,15038374,efp,1,,390
+106420,6,2004,Mataura River,1331017,Dome Burn upper,775.674,,Dome Burn,,708,175,unk,F43,2182483,5512426,15023915,efp,,,718
+106423,6,2004,Mataura River,1331016,Dome Burn middle,775.674,,Dome Burn,,405,153,unk,F44,2179122,5496931,15030171,efp,,,585
+106424,6,2004,Mataura River,1331015,Dome Burn lower,775.674, ,Dome Burn, ,166,137,unk,F44,2185009,5487956,15033590,efp, , ,1086
+23305,9,2005,Aparima River,1331046,Kenny Creek,789.3,1100,Kenny Creek,,160,72,uoo,E45,2130300,5462500,15043409,efp,1,,
+23306,8,2005,Waiau River,1331065,Ligar Creek,797.361,1830,Ligar Creek,,160,67,uoo,D44,2094100,5477300,15037818,efp,1,,300
+23308,8,2005,Waiau River,1331059,Moss Burn Waiau River,797.301,1700,Moss Burn,,85,39,uoo,D45,2094000,5454800,15047152,efp,1,,60
+23309,10,2005,Waiau River,1331078,Mararoa River upper,797.426,1200,Windon Burn, ,630,183,uoo,e42,2130000,5548600,15011750,efp,1, ,240
+23310,10,2005,Waiau River,1331078,Mararoa River upper,797.42,800,Mararoa River,,655,192,uoo,E42,2133300,5553800,15011034,efp,1,,200
+23311,10,2005,Waiau River,1331078,Mararoa River upper,797.42,1900,Mararoa River,,630,188,uoo,E42,2131100,5552300,15011348,efp,1,,200
+23318,8,2005,Oreti River,1331028,Oreti River upper,786,1845,Oreti River tributary,,590,188,uoo,e42,2134800,5531500,15016726,efp,1,,30
+23319,8,2005,Oreti River,1331040,Gorge Burn,786.96,1830,Gorge Burn,,650,193,uoo,E42,2138000,5534300,15015690,efp,1,,300
+23320,8,2005,Clutha River,1331001,White Burn,752.746,1330,White Burn,,700,302,uoo,E42,2143600,5543600,14039782,efp,1,,400
+23321,8,2005,Clutha River,1331002,Bush Creek,752.746,1230,Bush Creek,,710,304,uoo,E42,2144200,5542000,14040558,efp,1,,30
+23322,8,2005,Clutha River,1331003,Black Spur Creek,752.746,1100,Black Spur Creek,,690,305,uoo,E42,2141800,5539600,14041228,efp,1,,200
+23323,8,2005,Waiau River,1331075,Mararoa River tributary 1,797.42,900,Mararoa River tributary,,400,137,uoo,D43,2121900,5512800,15024010,efp,1,,200
+23324,9,2005,Oreti River,1331033,Irthing Stream,786.9,830,Irthing Stream,,260,128,uoo,E43,2153700,5500800,15028713,efp,1,,400
+23325,10,2005,Oreti River,1331028,Oreti River upper,786,day,Oreti River,,405,158,uoo,E43,2130300,5508500,15025495,efp,1,,300
+23326,8,2005,Oreti River,1331030,Weydon Burn,786.92,1930,Weydon Burn,,145,158,uoo,D43,2126700,5504600,15027141,efp,1,,100
+23327,8,2005,Oreti River,1331024,Dipton Stream 1,786.58,1100,Dipton Stream, ,145,93,uoo,e44,2144000,5473600,15039446,efp,1, ,400
+23328,8,2005,Mataura River,1331010,Garvie Burn,775.673,930,Garvie Burn,,190,138,uoo,F44,2180000,5488200,15033765,efp,1,,80
+23329,8,2005,Aparima River,1331047,Etal Stream,789.45,1200,Etal Stream,,200,83,uoo,E44,2131700,5472200,15040092,efp,1,,100
+23330,8,2005,Aparima River,1331050,Moss Burn Aparima River lower,789.6,1300,Hamilton Burn tributary,,240,95,uoo,E44,2136100,5480500,0,efp,1,,60
+23334,12,2005,Mataura River,1331023,Mataura River lower,775,day,Mataura River,,250,222,uoo,E43,2164200,5525600,15018753,efp,1,,
+23335,12,2005,Mataura River,1331020,Eyre Creek tributary 1,775.87,day,Eyre Creek tributary,,380,201,uoo,E43,2155400,5513300,15023616,efp,1,,
+23336,12,2005,Oreti River,1331028,Oreti River upper,786,day,Oreti River,,285,136,uoo,E44,2139900,5494600,15031039,efp,1,,
+23342,12,2005,Aparima River,1331048,Flaxy Creek,789,day,Flaxy Creek,,245,90,uoo,E44,2132900,5478200,15037637,efp,1,,
+23343,12,2005,Oreti River,1331037,Oreti River tributary 2,786,day,Oreti River tributary,,515,175,uoo,E43,2131300,5522200,15019787,efp,1,,
+23344,12,2005,Oreti River,1331037,Oreti River tributary 2,786, ,Oreti River tributary, ,520,176,uoo,e43,2131500,5522800,15019787,efp,1, , 
+23349,12,2005,Aparima River,1331052,Hamilton Burn,789.6, ,Hamilton Burn tributary, ,380,129,uoo,d44,2127500,5497100,15030216,efp,1, , 
+26604,5,2005,Oreti River,1331028,Oreti River upper,786,1300,Oreti River,,590,186,doco,E42,2134679,5530581,15017022,efp,1,,
+26605,5,2005,Oreti River,1331028,Oreti River upper,786,day,Oreti River,,570,183,doco,E43,2134916,5527940,15017911,efp,1,,
+26606,5,2005,Oreti River,1331039,Ashton Burn,786.96,day,Ashton Burn,,580,184,doco,E43,2136106,5527184,15018090,efp,1,,
+26607,5,2005,Oreti River,1331028,Oreti River upper,786,1013,Oreti River, ,490,171,doco,d43,2129232,5519241,15020813,efp,1, , 
+26608,5,2005,Oreti River,1331028,Oreti River upper,786,day,Oreti River,,475,169,doco,D43,2129798,5517643,15021776,efp,1,,
+26609,5,2005,Oreti River,1331032,Windley River,786.94,day,Windley River,,405,157,doco,E43,2132433,5507407,15026004,efp,1,,
+26610,5,2005,Oreti River,1331032,Windley River,786.94,day,Windley River,,395,156,doco,E43,2131695,5507108,15026030,efp,1,,
+26611,5,2005,Oreti River,1331030,Weydon Burn,786.92,1419,Weydon Burn,,425,160,doco,D43,2125111,5504188,15027310,efp,1,,
+26612,5,2005,Oreti River,1331030,Weydon Burn,786.92,day,Weydon Burn,,370,153,doco,D43,2129566,5502616,15028054,efp,1,,
+26613,4,2005,Oreti River,1331029,Acton Stream,786.902,1600,Acton Stream,,305,139,doco,E43,2140864,5500526,15028635,efp,1,,
+26614,4,2005,Oreti River,1331031,Cromel Stream,786.901,1720,Cromel Stream,,315,133,doco,E43,2149013,5503890,15027427,efp,1,,
+26615,4,2005,Aparima River,1331053,Braxton Burn,789.602,1403,Braxton Burn,,310,120,doco,D44,2129399,5489377,15033266,efp,1,,
+26616,4,2005,Aparima River,1331052,Hamilton Burn,789.6,1245,Hamilton Burn,,295,116,doco,E44,2131436,5489613,15032991,efp,1,,
+26622,4,2005,Oreti River,1331033,Irthing Stream,786.9,day,Irthing Stream,,235,125,doco,E44,2153575,5497893,15029638,efp,1,,251
+26623,4,2005,Oreti River,1331035,Oswald Stream,786.902, ,Oswald Stream, ,250,129,doco,e44,2147026,5497775,15029934,efp,1, ,115
+30466,12,2005,Mataura River,1331007,Mokoreta River,775.13,day,Mokoreta River,,160,100,uoo,G46,2216700,5424000,15057561,efp,,,
+100614,6,2006,Aparima River,1331052,Hamilton Burn,789.6,,Hamilton Burn tributary,,380,128,uoo,D44,2127601,5496417,15030286,efp,1,,
+106440,5,2006,Oreti River,1331028,Oreti River upper,786,,Oreti River,,290,134,unk,E47,2139875,5494685,15031016,efp,,,
+106441,5,2006,Oreti River,1331036,Oreti River tributary 1,786,,Oreti River tributary,,157,98,unk,E47,2151030,5479390,15036846,efp,,,
+106442,5,2006,Oreti River,1331026,Oreti River lower,786,,Oreti River,,103,79,unk,E47,2147620,5462590,15043359,efp,,,
+22827,9,2007,Oreti River,1331031,Cromel Stream,786.901,1030,Cromel Stream,,230,123,docs,E44,2152315,5496462,15029282,ef,1,,500
+23354,9,2007,Oreti River,1331031,Cromel Stream,786.901,1145,Cromel Stream,,230,122,docs,E44,2152794,5495678,15030546,ef,1,,240
+28560,4,2007,Oreti River,1331032,Windley River,786.94,1005,Windley River,,400,157,doco,E43,2132205,5507330,15026004,efp,1,,25
+28561,4,2007,Oreti River,1331032,Windley River,786.94,1030,Windley River tributary, ,420,158,doco,e43,2133516,5507872,15025881,efp,1, ,10
+28562,4,2007,Oreti River,1331028,Oreti River upper,786,1130,Oreti River,,360,150,doco,E43,2131875,5502081,15028150,efp,1,,50
+28563,4,2007,Oreti River,1331028,Oreti River upper,786,day,Oreti River,,480,170,doco,D43,2129188,5518619,15021452,efp,1,,50
+28564,4,2007,Oreti River,1331028,Oreti River upper,786,1330,Oreti River tributary,,480,170,doco,D43,2129181,5518686,15021371,efp,1,,10
+28565,4,2007,Oreti River,1331037,Oreti River tributary 2,786,1410,Oreti River tributary, ,515,175,doco,e43,2131461,5522294,15019787,efp,1, ,20
+28566,4,2007,Oreti River,1331038,Oreti River tributary 3,786,1415,Oreti River tributary, ,515,175,doco,e43,2131721,5522161,15019863,efp,1, ,5
+28567,4,2007,Oreti River,1331028,Oreti River upper,786,1430,Oreti River,,515,175,doco,E43,2131809,5522131,15020009,efp,1,,50
+28568,4,2007,Oreti River,1331028,Oreti River upper,786,1600,Oreti River,,595,187,doco,E42,2134567,5531440,15016693,efp,1,,40
+28569,4,2007,Oreti River,1331040,Gorge Burn,786.96,1630,Gorge Burn tributary,,650,193,doco,E42,2138053,5534234,15015828,efp,1,,40
+28570,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1710,Mararoa River, ,545,158,doco,d43,2128377,5528580,15017572,efp,1, ,20
+28571,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1730,Mararoa River, ,545,158,doco,d43,2128391,5528832,15017572,efp,1, ,20
+28572,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1745,Mararoa River, ,545,158,doco,d43,2128584,5529007,15017446,efp,1, ,10
+28573,4,2007,Waiau River,1331077,Mararoa River tributary 2,797.42,1815,Mararoa River tributary,,540,156,doco,D43,2127398,5527071,15018161,efp,1,,50
+28574,4,2007,Waiau River,1331068,Mararoa River lower,797.42,845,Mararoa River,,355,132,doco,D43,2117694,5510796,15024665,efp,1,,50
+28575,4,2007,Waiau River,1331075,Mararoa River tributary 1,797.42,1010,Mararoa River tributary, ,400,137,doco,d43,2121731,5512809,15023874,efp,1, ,30
+28576,4,2007,Waiau River,1331075,Mararoa River tributary 1,797.42,1030,Mararoa River,,395,137,doco,D43,2121700,5512929,15023115,efp,1,,50
+28577,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1110,Mararoa River,,455,147,doco,D43,2124480,5520716,15020122,efp,1,,50
+28578,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1138,Mararoa River,,460,147,doco,D43,2124548,5520889,15020122,efp,1,,50
+28579,4,2007,Waiau River,1331076,Wash Creek,797.42,1214,Wash Creek, ,475,150,doco,d43,2125505,5520476,15019585,efp,1, ,25
+28580,4,2007,Oreti River,1331039,Ashton Burn,786.96,1344,Ashton Burn,,575,183,doco,E43,2135693,5527375,15018090,efp,1,,50
+28581,4,2007,Oreti River,1331039,Ashton Burn,786.96,1407,Ashton Burn,,575,183,doco,E43,2135476,5527497,15018090,efp,1,,50
+28582,4,2007,Oreti River,1331039,Ashton Burn,786.96,1422,Ashton Burn tributary,,570,183,doco,E43,2135274,5527650,15016966,efp,1,,20
+28584,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1549,Mararoa River,,540,155,doco,D43,2126569,5526854,15018230,efp,1,,50
+28586,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1740,Mararoa River,,355,132,doco,D43,2117436,5510745,15024665,efp,1,,50
+28587,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1815,Mararoa River,,355,132,doco,D43,2117788,5510829,15024591,efp,1,,50
+28588,4,2007,Waiau River,1331068,Mararoa River lower,797.42,900,Mararoa River,,280,120,doco,D43,2109263,5505152,15026865,efp,1,,50
+28589,4,2007,Waiau River,1331068,Mararoa River lower,797.42,940,Mararoa River,,280,120,doco,D43,2109042,5505255,15026840,efp,1,,50
+28590,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1004,Mararoa River,,285,120,doco,D43,2109514,5505325,15026822,efp,1,,50
+28591,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1030,Mararoa River, ,285,120,doco,d43,2109445,5505261,15026822,efp,1, ,10
+28592,4,2007,Waiau River,1331073,Princhester Creek,797.422,1106,Princhester Creek,,320,127,doco,D43,2114278,5506710,15026230,efp,1,,20
+28593,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1118,Mararoa River,,320,126,doco,D43,2114282,5507101,15026128,efp,1,,50
+28594,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1140,Mararoa River,,320,126,doco,D43,2114391,5507126,15026128,efp,1,,50
+28595,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1150,Mararoa River,,320,126,doco,D43,2114417,5507090,15026128,efp,1,,50
+28596,4,2007,Waiau River,1331073,Princhester Creek,797.422,1202,Princhester Creek tributary, ,320,126,doco,d43,2114251,5507011,15026213,efp,1, ,50
+28597,4,2007,Waiau River,1331073,Princhester Creek,797.422,1217,Princhester Creek tributary,,320,126,doco,D43,2114369,5506947,15026214,efp,1,,50
+28598,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1427,Mararoa River,,400,139,doco,D43,2122865,5513723,15023115,efp,1,,50
+28599,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1420,Mararoa River,,400,139,doco,D43,2122804,5513749,15023115,efp,1,,50
+28600,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1352,Mararoa River,,400,139,doco,D43,2122818,5513894,15023115,efp,1,,50
+28601,4,2007,Waiau River,1331068,Mararoa River lower,797.42,1324,Mararoa River,,400,139,doco,D43,2122879,5513839,15023115,efp,1,,50
+28602,4,2007,Oreti River,1331028,Oreti River upper,786,1544,Oreti River,,290,136,doco,E44,2139906,5494707,15031039,efp,1,,50
+27632,5,2008,Mataura River,1331023,Mataura River lower,775.93,1100,Robert Creek,,395,224,docs,E43,2163333,5527048,15018092,efm,1,,50
+29484,2,2008,Oreti River,1331028,Oreti River upper,786,1215,Oreti River,,595,187,envs,e42,2134516,5531255,15016693,nfc,3,,105
+29489,2,2008,Oreti River,1331031,Cromel Stream,786.901,800,Cromel Stream,,315,133,envs,E43,2148986,5503858,15027427,nfc,3,,4
+103400,12,2008,Aparima River,1331054,Kowhai Creek,789,1650,Kowhai Creek,,378,108,doco,D46,2125353,5484166,15035268,efp,,,120
+103402,12,2008,Mataura River,1331005,Caddon Burn,775.13,1010,Mokoreta River tributary,,88,67,doco,F46,2205844,5413359,15059799,efp,,,50
+103404,12,2008,Mataura River,1331006,Mokoreta River tributary,775.13,1145,Mokoreta River tributary,,98,77,doco,F46,2211729,5414319,15059618,efp,,,49
+103405,12,2008,Mataura River,1331007,Mokoreta River,775.13,1300,Mokoreta River tributary, ,154,93,docs,F46,2214934,5421197,15057971,efp, , , 
+103406,12,2008,Mataura River,1331007,Mokoreta River,775.13,1332,Mokoreta River tributary,,178,98,doco,F46,2216791,5424063,15057410,efp,,,48
+116256,2,2008,Waiau River,1331063,Wairaki River,797.32,1610,Wairaki River, ,79,41,niwa,D45,2099500,5461622,15044418,efp, , , 
+116257,2,2008,Waiau River,1331063,Wairaki River,797.32,1640,Wairaki River, ,79,41,niwa,D45,2099500,5461622,15044418,efp, , , 
+116258,2,2008,Waiau River,1331065,Ligar Creek,797.361,1500,Ligar Creek, ,147,66,niwa,D44,2093998,5477432,15037444,efp, , , 
+116259,2,2008,Waiau River,1331065,Ligar Creek,797.361,1530,Ligar Creek, ,147,66,niwa,D44,2093998,5477432,15037444,efp, , , 
+116267,2,2008,Waiau River,1331066,Excelsior Creek,797.4,1200,Excelsior Creek, ,219,96,niwa,D44,2096982,5496026,15030607,efp, , , 
+116269,2,2008,Waiau River,1331068,Mararoa River lower,797.42,1100,Mararoa River, ,200,97,niwa,D44,2096879,5497872,15029354,efp, , , 
+116270,2,2008,Waiau River,1331068,Mararoa River lower,797.42,1130,Mararoa River, ,200,97,niwa,D44,2096879,5497872,15029354,efp, , , 
+116271,2,2008,Waiau River,1331069,Whitestone River lower,797.421,1600,Flaxy Creek, ,245,110,niwa,D43,2100561,5506158,15026116,efp, , , 
+116272,2,2008,Waiau River,1331069,Whitestone River lower,797.421,1630,Flaxy Creek, ,245,110,niwa,D43,2100561,5506158,15026116,efp, , , 
+116273,2,2008,Waiau River,1331069,Whitestone River lower,797.421,1630,Whitestone River, ,240,110,niwa,D43,2100392,5506259,15026001,efp, , , 
+116274,2,2008,Waiau River,1331069,Whitestone River lower,797.421,1700,Whitestone River, ,240,110,niwa,D43,2100392,5506259,15026001,efp, , , 
+116275,2,2008,Waiau River,1331068,Mararoa River lower,797.42,1430,Mararoa River, ,299,122,niwa,D44,2110969,5506068,15026532,efp, , , 
+116276,2,2008,Waiau River,1331068,Mararoa River lower,797.42,1500,Mararoa River, ,299,122,niwa,D44,2110969,5506068,15026532,efp, , , 
+116277,2,2008,Waiau River,1331068,Mararoa River lower,797.42,1130,Mararoa River,,398,134,niwa,D44,2123029,5513791,15023115,efp,,,
+116278,2,2008,Waiau River,1331068,Mararoa River lower,797.42,1200,Mararoa River,,398,134,niwa,D44,2123029,5513791,15023115,efp,,,
+116279,2,2008,Waiau River,1331085,Upukerora River,797.49,900,Upukerora River,,217,145,niwa,D43,2098351,5520071,15020897,efp,,,
+116280,2,2008,Waiau River,1331085,Upukerora River,797.49,930,Upukerora River,,217,145,niwa,D43,2098354,5520071,15020897,efp,,,
+116281,2,2008,Waiau River,1331068,Mararoa River lower,797.42,945,Mararoa River, ,557,157,niwa,D44,2128276,5528496,15017572,efp, , , 
+116282,2,2008,Waiau River,1331068,Mararoa River lower,797.42,1015,Mararoa River, ,557,157,niwa,D44,2128276,5528496,15017572,efp, , , 
+30196,4,2009,Oreti River,1331031,Cromel Stream,786.901,1115,Cromel Stream,,310,133,envs,E43,2148900,5503700,15027427,efp,3,,
+30200,3,2009,Waiau River,1331058,Boundary Creek,797.12,1320,Boundary Creek, ,30,12,envs,d46,2099800,5439600,15052637,efp, , , 
+109529,10,2009,Waiau River,1331076,Wash Creek,797.42,,Wash Creek,,610,148,doco,D44,2125520,5520500,15019586,efp,,,
+31023,2,2010,Oreti River,1331028,Oreti River upper,786,713,Oreti River,,590,187,envs,e42,2134516,5531255,15016693,efp,3,,
+32239,3,2011,Oreti River,1331028,Oreti River upper,786,1200,Oreti River,,595,188,envs,E42,2134516,5531255,15016693,efp,3,,
+32243,3,2011,Oreti River,1331031,Cromel Stream,786.901,1530,Cromel Stream, ,315,133,envs,E43,2148900,5503700,15027427,efp,3, , 
+34606,12,2011,Oreti River,1331026,Oreti River lower,786,0,Oreti River,,100,79,slfg,E47,2147556,5461257,15044444,fys,,,2
+34612,12,2011,Aparima River,1331045,Hillpoint Stream,789.25,0,Hillpoint Stream, ,137,68,slfg,E45,2132285,5459872,15044455,efp, , , 
+34614,12,2011,Aparima River,1331057,North Etal Creek,789.65,0,North Etal Creek, ,380,111,slfg,D44,2123640,5483951,15035470,efp, , , 
+34615,12,2011,Aparima River,1331054,Kowhai Creek,789,0,Kowhai Creek, ,360,109,slfg,D46,2125423,5484374,15035315,efp, , , 
+103268,6,2011,Oreti River,1331028,Oreti River upper,786,900,Oreti River, ,419,156,uoc,E47,2130464,5508263,15025495,efp, , , 
+103269,6,2011,Waiau River,1331068,Mararoa River lower,797.42,1145,Mararoa River, ,360,131,uoc,D44,2117658,5510802,15024665,efp, , , 
+103421,9,2011,Aparima River,1331048,Flaxy Creek,789,1212,Aparima River tributary,,223,87,uoo,D46,2132872,5478178,15037637,efp,,,
+103422,9,2011,Aparima River,1331047,Etal Stream,789.45,1200,Etal Stream,,206,81,uoo,E44,2131749,5472086,15040092,efp,,,
+103423,9,2011,Oreti River,1331028,Oreti River upper,786,1222,Oreti River,,290,134,uoo,E47,2139954,5494643,15031016,efp,,,
+103424,9,2011,Waiau River,1331068,Mararoa River lower,797.42,1226,Mararoa River,,468,146,uoo,D44,2124474,5520952,15020122,efp,,,
+103426,9,2011,Oreti River,1331031,Cromel Stream,786.901,1237,Cromel Stream,,242,120,uoo,E44,2152314,5496441,15029282,efp,,,
+103427,9,2011,Mataura River,1331023,Mataura River lower,775.93,1241,Robert Creek,,400,222,uoo,E43,2163298,5527080,15018092,efp,,,
+104851,9,2011,Waiau River,1331063,Wairaki River,797, ,Waiau River, ,73,41,uoo,d45,2098200,5461500,15044397,efp, , , 
+104852,4,2011,Waiau River,1331063,Wairaki River,797, ,Waiau River, ,73,41,uoo,d45,2098200,5461500,15044397,efp, , , 
+109530,2,2011,Waiau River,1331076,Wash Creek,797.42,,Wash Creek,,610,148,doco,D44,2125500,5520450,15019586,efp,,,
+34593,2,2012,Mataura River,1331015,Dome Burn lower,775.674,1200,Dome Burn, ,159,139,slfg,F44,2184594,5488298,15033833,efp, , , 
+34605,1,2012,Aparima River,1331052,Hamilton Burn,789.6,1030,Hamilton Burn, ,376,127,slfg,E44,2127451,5494929,15031280,efp, , , 
+103839,8,2012,Oreti River,1331035,Oswald Stream,786.902, ,Oswald Stream, ,256,128,uoo,e44,2146980,5497750,15029795,efp,1, ,100
+104853,8,2012,Waiau River,1331063,Wairaki River,797, ,Waiau River, ,73,41,uoo,d45,2098200,5461500,15044397,efp, , , 
+104854,4,2012,Waiau River,1331063,Wairaki River,797, ,Waiau River, ,73,41,uoo,d45,2098200,5461500,15044397,efp, , , 
+108477,4,2012,Waiau River,1331058,Boundary Creek,797.12,,Boundary Creek,,20,11,envs,D46,2099429,5439155,15052637,efp,,,762
+108487,2,2013,Waiau River,1331058,Boundary Creek,797.12,,Boundary Creek,,20,11,envs,D46,2099395,5439161,15052637,efp,,,663
+108490,3,2013,Oreti River,1331028,Oreti River upper,786,,Oreti River,,594,185,envs,E47,2134522,5531135,15016693,efp,,,1176
+108492,3,2013,Oreti River,1331028,Oreti River upper,786, ,Murray Creek tributary, , , ,envs,E47,2153677,5482229, ,efp, , , 
+108497,4,2013,Waiau River,1331066,Excelsior Creek,797.4,,Excelsior Creek,,213,95,envs,D44,2097015,5496045,15030605,efp,,,507
+108501,5,2013,Waiau River,1331058,Boundary Creek,797.12, ,Boundary Creek, ,20,11,envs,D46,2099429,5439155,15052637,efp, , , 
+108507,12,2013,Oreti River,1331024,Dipton Stream 1,786.58, ,Dipton Stream, ,122,89,envs,E45,2144384,5471588,15040463,efp, , , 
+108508,2,2013,Waikawa Harbour,1331004,Waikawa Harbour tributary,766.5,,Unnamed stream,,39,0,envs,G47,2215853,5392694,15062645,efp,,,225.9
+108509,12,2013,Oreti River,1331034,Irthing Stream tributary,786.9,,Irthing Stream tributary,,329,130,envs,E44,2157411,5499319,15029039,efp,,,432
+100967,5,2014,Mataura River,1331023,Mataura River lower,775,1030,Mataura River,,381,220,doc,E43,2164091,5525622,15018753,efp,1,,40
+100968,5,2014,Oreti River,1331028,Oreti River upper,786,1500,Oreti River,,300,134,doc,E44,2139157,5494531,15031016,efp,1,,50
+100982,6,2014,Waiau River,1331068,Mararoa River lower,797.42,924,Mararoa River,,369,131,doc,D43,2117926,5510836,15024607,efp,1,,45
+100984,6,2014,Waiau River,1331075,Mararoa River tributary 1,797.42,1214,Mararoa River tributary, ,415,137,doc,D43,2121827,5512717,15023827,han, , ,8
+100985,6,2014,Waiau River,1331076,Wash Creek,797.42,1256,Wash Creek tributary,,440,143,doc,D43,2125423,5516194,15022510,efp,1,,65
+100986,6,2014,Waiau River,1331076,Wash Creek,797.42,1348,Wash Creek tributary, ,443,143,doc,D43,2125435,5516283,15022510,han, , ,4
+100993,6,2014,Waiau River,1331077,Mararoa River tributary 2,797.42,1515,Mararoa River tributary, ,554,154,doc,D43,2127401,5527066,15018161,efp,1, ,30
+100994,6,2014,Waiau River,1331077,Mararoa River tributary 2,797.42,1542,Mararoa River tributary, ,553,154,doc,D43,2127440,5527073,15018161,efp,1, ,10
+101015,6,2014,Waiau River,1331068,Mararoa River lower,797.42,924,Mararoa River,,369,131,docc,D44,2117680,5510799,15024607,efp,,,45
+102492,11,2014,Waiau River,1331076,Wash Creek,797.42,1430,Wash Creek,,434,143,docc,D44,2125253,5516738,15022047,efp,,,144
+104185,10,2014,Mataura River,1331007,Mokoreta River,775.13,1700,Mokoreta River, ,170,97,doco,f46,2216777,5424052,15057494,efp,1, ,20
+104186,10,2014,Mataura River,1331007,Mokoreta River,775.13,1730,Mokoreta River,,164,94,doco,F46,2215738,5422552,15057763,efp,1,,15
+104193,10,2014,Mataura River,1331007,Mokoreta River,775.13,1400,Mokoreta River tributary,,154,93,doco,F46,2214927,5421190,15057971,efp,1,,60
+104194,10,2014,Mataura River,1331007,Mokoreta River,775.13,1400,Mokoreta River tributary, ,154,93,doco,f46,2214908,5421185,15057971,efp,1, ,0
+108513,1,2014,Oreti River,1331025,Dipton Stream 2,786.58,,Dipton Stream tributary,,272,99,envs,E45,2140758,5476825,15038226,efp,,,340.5
+108515,1,2014,Waiau River,1331058,Boundary Creek,797, ,Waiau River, ,20,11,envs,D46,2099402,5439176,15052637,efp, , , 
+108521,3,2014,Waiau River,1331066,Excelsior Creek,797.4,,Excelsior Creek,,213,95,envs,D44,2097008,5496036,15030605,efp,,,694.5
+108524,2,2014,Waiau River,1331058,Boundary Creek,797.12, ,Boundary Creek, ,20,11,envs,D46,2099429,5439155,15052637,efp, , , 
+102461,3,2015,Mataura River,1331020,Eyre Creek tributary 1,775.87,1030,Eyre Creek tributary,,399,199,docc,E43,2155450,5513188,15023703,efp,,,5
+102462,3,2015,Mataura River,1331020,Eyre Creek tributary 1,775.87,1400,Eyre Creek tributary,,408,199,docc,E43,2155455,5513316,15023494,efp,3,,4
+103679,10,2015,Mataura River,1331008,Mataura River tributary,775,1159,Mataura River tributary,,113,109,docc,F45,2185204,5469033,15041362,efp,1,,100
+103681,10,2015,Mataura River,1331008,Mataura River tributary,775,1235,Mataura River tributary, ,162,109,docc,F45,2185232,5469105,15041385,efp,1, ,25
+103684,10,2015,Mataura River,1331010,Garvie Burn,775.673,1349,Garvie Burn,,190,137,docc,F44,2180051,5488206,15033765,efp,1,,50
+103685,10,2015,Mataura River,1331012,Garvie Burn tributary,775.673,1417,Garvie Burn tributary,,196,137,docc,F44,2180724,5489176,15032995,efp,1,,50
+103686,10,2015,Mataura River,1331013,Rob Roy Creek,775.673,1530,Rob Roy Creek,,193,138,docc,F44,2180945,5489370,15033124,efp,1,,90
+103688,10,2015,Mataura River,1331011,Washpool Creek,775.673,1633,Washpool Creek,,204,139,docc,F44,2181994,5491058,15032384,efp,1,,30
+103689,10,2015,Mataura River,1331013,Rob Roy Creek,775.673,1719,Rob Roy Creek,,216,138,docc,F44,2181307,5490834,15032449,efp,1,,100
+103690,10,2015,Mataura River,1331015,Dome Burn lower,775.674,1743,Dome Burn tributary,,177,140,docc,F44,2183559,5489386,15033068,efp,1,,5
+103691,10,2015,Mataura River,1331015,Dome Burn lower,775.674,1829,Dome Burn, ,183,140,docc,F44,2183717,5489662,15033006,efp,1, ,2
+103692,10,2015,Mataura River,1331015,Dome Burn lower,775.674,1833,Dome Burn,,183,140,docc,F44,2183727,5489685,15033006,efp,1,,10
+103693,10,2015,Mataura River,1331015,Dome Burn lower,775.674,1842,Dome Burn,,183,140,docc,F44,2183733,5489700,15033006,efp,1,,5
+103694,10,2015,Clutha River,1331001,White Burn,752.746,1037,White Burn, ,730,311,docc,E42,2143733,5543728,14039782,efp,1, ,140
+103695,10,2015,Clutha River,1331001,White Burn,752.746,1117,White Burn, ,730,311,docc,E42,2143836,5543751,14039782,efp,1, ,2
+103696,10,2015,Clutha River,1331001,White Burn,752.746,1128,White Burn tributary, ,730,311,docc,E42,2143866,5543764,14039782,efp,1, ,2
+103697,10,2015,Clutha River,1331001,White Burn,752.746,1130,White Burn tributary, ,730,311,docc,E42,2143888,5543762,14039782,efp,1, ,2
+103698,10,2015,Clutha River,1331001,White Burn,752.746,1133,White Burn tributary, ,730,311,docc,E42,2143864,5543747,14039782,efp,1, ,4
+103699,10,2015,Clutha River,1331001,White Burn,752.746,1139,White Burn tributary, ,730,311,docc,E42,2143881,5543747,14039782,efp,1, ,2
+103700,10,2015,Clutha River,1331001,White Burn,752.746,1143,White Burn tributary, ,730,311,docc,E42,2143868,5543774,14039782,efp,1, ,2
+103701,10,2015,Clutha River,1331001,White Burn,752.746,1153,White Burn tributary, ,730,311,docc,E42,2143921,5543718,14039782,efp,1, ,5
+103702,10,2015,Clutha River,1331001,White Burn,752.746,1206,White Burn,,730,311,docc,E42,2144034,5543621,14039782,efp,1,,10
+103703,10,2015,Clutha River,1331001,White Burn,752.746,1222,White Burn,,730,311,docc,E42,2144331,5543545,14039782,efp,1,,15
+103704,10,2015,Clutha River,1331001,White Burn,752.746,1235,White Burn, ,730,311,docc,E42,2144324,5543552,14039782,efp,1, ,4
+103706,10,2015,Clutha River,1331002,Bush Creek,752.746,1412,Bush Creek, ,732,314,docc,E42,2144185,5542006,14040473,efp,1, ,100
+103707,10,2015,Clutha River,1331002,Bush Creek,752.746,1440,Bush Creek tributary, ,732,314,docc,E42,2144187,5541938,14040473,efp,1, ,4
+103708,10,2015,Clutha River,1331002,Bush Creek,752.746,1443,Bush Creek tributary, ,795,314,docc,E42,2144127,5541894,14040597,efp,1, ,4
+103709,10,2015,Clutha River,1331002,Bush Creek,752.746,1452,Bush Creek tributary,,795,314,docc,E42,2144205,5541793,14040597,efp,1,,2
+103710,10,2015,Clutha River,1331002,Bush Creek,752.746,1504,Bush Creek tributary, ,732,314,docc,E42,2144109,5541953,14040473,efp,1, ,4
+103712,10,2015,Clutha River,1331003,Black Spur Creek,752.746,1607,Black Spur Creek, ,715,314,docc,E42,2141819,5539709,14041228,efp,1, ,50
+103713,10,2015,Oreti River,1331040,Gorge Burn,786.96,1647,Gorge Burn,,648,191,docc,E42,2138041,5534270,15015690,efp,1,,10
+103714,10,2015,Oreti River,1331040,Gorge Burn,786.96,1708,Gorge Burn tributary,,648,191,docc,E42,2138044,5534215,15015690,efp,1,,20
+103715,10,2015,Waiau River,1331072,Whitestone River upper,797.421,849,Whitestone River,,358,135,docc,D43,2111194,5523414,15019395,efp,1,,10
+103721,10,2015,Aparima River,1331055,Aparima River upper,789,1244,Aparima River,,370,109,docc,D44,2124304,5484078,15035443,efp,1,,10
+103723,10,2015,Oreti River,1331024,Dipton Stream 1,786.58,1420,Dipton Stream, ,142,91,docc,E44,2143964,5473556,15039446,efp,1, ,8
+103724,10,2015,Oreti River,1331027,Stag Stream,786,1550,Stag Stream, ,142,93,docc,E44,2150105,5474732,15038771,efp,1, ,10
+108526,3,2015,Oreti River,1331031,Cromel Stream,786.901,,Cromel Stream,,321,131,envs,E44,2149000,5503860,15027427,efp,,,2235
+108529,3,2015,Aparima River,1331050,Moss Burn Aparima River lower,789.6,,Hamilton Burn,,244,94,envs,E44,2136190,5480450,15036486,efp,,,1689
+108532,3,2015,Mataura River,1331009,Waikaka Stream,775.42,,Waikaka Stream,,97,78,envs,F45,2197114,5447912,15049464,efp,,,1672.5
+108540,3,2015,Oreti River,1331028,Oreti River upper,786,,Oreti River,,594,185,envs,E47,2134484,5531094,15016693,efp,,,1368
+108542,3,2015,Waiau River,1331063,Wairaki River,797.32,,Wairaki River,,101,41,envs,D45,2099027,5461573,15044418,efp,,,3661.5
+112056,5,2017,Waiau River,1331059,Moss Burn Waiau River,797.301,,Moss Burn,,97,39,doco,D45,2093988,5454847,15047064,efp,,,40
+112057,5,2017,Waiau River,1331060,Weka Burn,797.3,,Weka Burn,,104,43,doco,D45,2092088,5455637,15046746,efp,,,
+112058,5,2017,Waiau River,1331061,Lill Burn,797.3,1100,Lill Burn,,85,44,doco,D45,2091756,5456083,15046495,efp,,,
+112059,5,2017,Waiau River,1331062,Dean Burn,797.31,,Dean Burn,,75,40,doco,D45,2096778,5460361,15044909,efp,,,
+112063,5,2017,Waiau River,1331065,Ligar Creek,797.361,,Ligar Creek,,150,66,doco,D44,2094008,5477424,15037444,efp,,,250
+112065,5,2017,Waiau River,1331066,Excelsior Creek,797.4,1700,Excelsior Creek, ,213,95,doco,D44,2097022,5496053,15030605,efp, , , 
+112970,3,2017,Mataura River,1331014,Waikaia River,775.67, ,Waikaia River, ,142,133,rcl,F44,2183749,5485508,15034724,efp, , , 
+112971,3,2017,Mataura River,1331014,Waikaia River,775.67, ,Waikaia River, ,149,135,rcl,F44,2184985,5486734,15034331,efp, , , 
+113203,11,2017,Oreti River,1331028,Oreti River upper,786,900,Oreti River, ,155,98,doco, ,2151659,5480046,15037043,efp,1, ,15
+113204,11,2017,Oreti River,1331028,Oreti River upper,786,920,Oreti River, ,155,98,doco, ,2151626,5480082,15037043,efp,1, ,10
+113205,11,2017,Oreti River,1331028,Oreti River upper,786,930,Oreti River, ,163,100,doco, ,2151856,5480189,15036529,efp,1, ,10
+113206,11,2017,Oreti River,1331028,Oreti River upper,786.78,950,Ram Hill Stream,,233,106,doco,,2152386,5479907,15035557,efp,1,,
+113207,11,2017,Oreti River,1331028,Oreti River upper,786,1030,Oreti River, ,180,105,doco, ,2154760,5484641,15035070,efp,1, ,15
+113208,11,2017,Oreti River,1331028,Oreti River upper,786,1045,Oreti River, ,180,105,doco, ,2154732,5484709,15035070,efp,1, ,15
+113209,11,2017,Oreti River,1331028,Oreti River upper,786,1055,Oreti River, ,180,105,doco, ,2154801,5484821,15035070,efp,1, ,15
+113210,11,2017,Oreti River,1331028,Oreti River upper,786,1105,Oreti River, ,180,105,doco, ,2154829,5484828,15035070,efp,1, ,15
+113211,11,2017,Oreti River,1331028,Oreti River upper,786,1200,Oreti River, ,197,110,doco, ,2154252,5489033,15033525,efp,1, ,15
+113212,11,2017,Oreti River,1331028,Oreti River upper,786,1215,Oreti River, ,206,111,doco, ,2154119,5489240,15033079,efp,1, ,15
+113213,11,2017,Oreti River,1331028,Oreti River upper,786,1240,Oreti River, ,206,111,doco, ,2154122,5489276,15033079,efp,1, ,15
+113214,11,2017,Oreti River,1331028,Oreti River upper,786,1350,Oreti River, ,290,134,doco, ,2140188,5494664,15031016,efp,1, ,15
+113215,11,2017,Aparima River,1331051,Moss Burn Aparima River upper,789.601,1440,Moss Burn, ,294,109,doco, ,2136644,5491347,15033156,efp,1, ,15
+113243,11,2017,Waiau River,1331078,Mararoa River upper,797.42,1130,Mararoa River, ,615,183,doco, ,2130209,5549209,15011905,efp,1, ,30
+113244,11,2017,Waiau River,1331078,Mararoa River upper,797.42, ,Mararoa River, ,688,187,doco, ,2131458,5552197,15011339,efp,1, ,20
+113245,11,2017,Waiau River,1331078,Mararoa River upper,797.42, ,Mararoa River, ,625,188,doco, ,2131577,5552256,15011240,efp,1, ,20
+113246,11,2017,Waiau River,1331078,Mararoa River upper,797.42, ,Mararoa River, ,625,188,doco, ,2131385,5552407,15011240,efp,1, ,20
+113247,11,2017,Waiau River,1331078,Mararoa River upper,797.42, ,Mararoa River, ,625,188,doco, ,2131701,5552786,15011240,efp,1, ,20
+113249,11,2017,Oreti River,1331039,Ashton Burn,786.96, ,Ashton Burn, ,596,181,doco, ,2135635,5527414,15018068,efp,1, ,20
+113250,11,2017,Oreti River,1331039,Ashton Burn,786.96, ,Ashton Burn, ,596,181,doco, ,2135600,5527444,15018068,efp,1, ,20
+113251,11,2017,Waiau River,1331073,Princhester Creek,797.422,1030,Princhester Creek East Branch, ,402,130,doco, ,2115836,5503449,15027661,efp,1, ,10
+113252,11,2017,Waiau River,1331073,Princhester Creek,797.422,1115,Bog Burn, ,439,132,doco, ,2116028,5501231,15028218,efp,1, ,10
+113253,11,2017,Waiau River,1331073,Princhester Creek,797.422,1155,Bog Burn, ,471,133,doco, ,2116214,5500682,15028218,efp,1, ,10
+113254,11,2017,Waiau River,1331073,Princhester Creek,797.422,1300,Princhester Creek, ,335,126,doco, ,2114199,5506936,15026213,efp,1, ,15
+113259,11,2017,Waiau River,1331079,Retford Stream,797.49,930,Retford Stream, ,236,179,doco, ,2107393,5545447,15012446,efp,1, ,20
+113260,11,2017,Waiau River,1331080,Eglinton River upper,797.49,1020,Walker Creek tributary, ,273,190,doco, ,2114220,5555418,15010652,efp,1, ,5
+113261,11,2017,Waiau River,1331080,Eglinton River upper,797.49,1030,Eglinton River, ,265,190,doco, ,2114008,5555276,15010699,efp,1, ,20
+113262,11,2017,Waiau River,1331080,Eglinton River upper,797.49,1045,Eglinton River, ,265,190,doco, ,2113920,5555254,15010699,efp,1, ,20
+113946,5,2018,Waiau River,1331070,Moat Creek,797.421,915,Moat Creek, ,394,134,doco,d43,2111407,5519586,15021179,efp,1, ,12
+113947,5,2018,Waiau River,1331070,Moat Creek,797.421,1032,Moat Creek tributary, ,387,134,doco,d43,2111118,5519573,15020829,efp,1, ,2
+113948,5,2018,Waiau River,1331070,Moat Creek,797.421,1118,Moat Creek, ,350,132,doco,d43,2110697,5519377,15021178,efp,1, ,5
+113951,5,2018,Waiau River,1331070,Moat Creek,797.421,1346,Moat Creek, ,434,135,doco,d43,2111999,5518355,15021692,efp,1, ,6
+113953,5,2018,Waiau River,1331071,Whitestone River tributary,797.421,1434,Whitestone River tributary, ,372,134,doco,d43,2111041,5520831,15020512,efp,1, ,14
+113971,5,2018,Oreti River,1331030,Weydon Burn,786.92,1039,Weydon Burn, ,443,158,doco,d43,2125012,5504271,15027310,efp,1, ,16
+113972,5,2018,Oreti River,1331030,Weydon Burn,786.92,1102,Weydon Burn, ,426,156,doco,d43,2126506,5504592,15026534,efp,1, ,8
+113975,5,2018,Mataura River,1331019,Eyre Creek,775.87,1410,Eyre Creek, ,437,207,doco,e43,2153770,5521167,15020176,efp,1, ,22
+113976,5,2018,Mataura River,1331019,Eyre Creek,775.87,1457,Eyre Creek tributary, ,538,206,doco,e43,2153724,5519975,15020796,efp,1, ,22
+113977,5,2018,Mataura River,1331019,Eyre Creek,775.87,1518,Eyre Creek, ,414,205,doco,e43,2153903,5519609,15021137,efp,1, ,4
+113978,5,2018,Mataura River,1331019,Eyre Creek,775.87,1545,Sandfly Creek, ,497,203,doco,e43,2154819,5518154,15021736,efp,1, ,4
+113979,5,2018,Mataura River,1331019,Eyre Creek,775.87,1554,Sandfly Creek, ,497,203,doco,e43,2154850,5518178,15021736,efp,1, ,8
+113980,5,2018,Mataura River,1331019,Eyre Creek,775.87,1620,Ross Creek, ,511,201,doco,e43,2156064,5516664,15022345,efp,1, ,6
+113981,5,2018,Mataura River,1331019,Eyre Creek,775.87,1635,Eyre Creek tributary, ,430,200,doco,e43,2156011,5515860,15022658,efp,1, ,7
+113982,5,2018,Mataura River,1331019,Eyre Creek,775.87,1653,Eyre Creek tributary, ,360,200,doco,e43,2155962,5515408,15022920,efp,1, ,4
+113986,5,2018,Mataura River,1331022,Mataura River lower,775,1001,Mataura River, ,339,212,doco,f43,2170532,5523820,15019218,efp,1, ,60
+113987,5,2018,Mataura River,1331023,Mataura River upper,775, ,Mataura River, ,379,219,doco,e43,2164645,5525551,15018795,efp,1, ,36
+113988,5,2018,Mataura River,1331023,Mataura River upper,775, ,Mataura River, ,380,219,doco,e43,2164316,5525644,15018763,efp,1, ,18
+113989,5,2018,Mataura River,1331019,Eyre Creek,775.87, ,Eyre Creek, ,280,190,doco,e43,2162532,5513118,15023765,efp,1, ,10
+113996,5,2018,Aparima River,1331046,Kenny Creek,789.3, ,Kenny Creek, ,166,71,doco, ,2130395,5462486,15043894,efp,1, ,20
+113998,5,2018,Aparima River,1331043,Aparima River lower,789,1330,Aparima River, ,108,60,doco, ,2131845,5452734,15047179,efp,1, ,20
+113999,5,2018,Aparima River,1331045,Hillpoint Stream,789.25,1400,Hillpoint Stream, ,143,65,doco, ,2132275,5459866,15044455,efp,1, ,30
+114389,7,2018,Mataura River,1331023,Mataura River upper,775,2221,Mataura River, ,522,221,doco,F47,2163573,5526076,15018411,efp, , , 
+115621,1,2019,Oreti River,1331032,Windley River,786.94,1041,Windley River tributary, ,430,153,doco, ,2133849,5508408,15025661,efp,1, ,16
+115622,1,2019,Oreti River,1331032,Windley River,786.94,1153,Windley River, ,429,153,doco, ,2133747,5508459,15025232,efp,1, ,25
+115623,1,2019,Oreti River,1331032,Windley River,786.94,1221,Windley River tributary, ,443,153,doco, ,2133506,5507866,15025881,efp,1, ,5
+115624,1,2019,Oreti River,1331032,Windley River,786.94,1237,Windley River tributary, ,443,153,doco, ,2133545,5507842,15025881,efp,1, ,5
+115625,1,2019,Oreti River,1331032,Windley River,786.94,1252,Windley River tributary, ,443,153,doco, ,2133661,5507829,15025881,efp,1, ,5
+115626,1,2019,Oreti River,1331032,Windley River,786.94,1310,Windley River tributary, ,439,152,doco, ,2133189,5507514,15026016,efp,1, ,5
+115627,1,2019,Oreti River,1331032,Windley River,786.94,1408,Windley River, ,417,152,doco, ,2132611,5507534,15025991,efp,1, ,10
+115628,1,2019,Oreti River,1331032,Windley River,786.94,1547,Windley River, ,402,150,doco, ,2131706,5507280,15026030,efp,1, ,20
+115629,1,2019,Oreti River,1331032,Windley River,786.94,1457,Windley River, ,402,150,doco, ,2131751,5507310,15026030,efp,1, ,10
+115632,1,2019,Oreti River,1331036,Oreti River tributary 1,786,1000,Oreti River tributary, ,345,140,doco, ,2133072,5499715,15028977,efp,1, ,10
+115637,1,2019,Oreti River,1331035,Oswald Stream,786.902,1403,Oswald Stream, ,269,132,doco, ,2142867,5497268,15030055,efp,1, ,10
+115638,1,2019,Oreti River,1331035,Oswald Stream,786.902,1517,Oswald Stream, ,248,128,doco, ,2147153,5497843,15029934,efp,1, ,10
+115639,1,2019,Oreti River,1331029,Acton Stream,786.902,1543,Acton Stream, ,251,128,doco, ,2147147,5497915,15029723,efp,1, ,10
+115642,1,2019,Aparima River,1331052,Hamilton Burn,789.6,1137,Hamilton Burn tributary, ,383,127,doco, ,2127429,5497092,15030216,efp,1, ,20
+115643,1,2019,Aparima River,1331052,Hamilton Burn,789.6,1255,Hamilton Burn tributary,,382,126,doco,,2127724,5496372,15030583,han,1,,5
+115644,1,2019,Aparima River,1331052,Hamilton Burn,789.6,1323,Hamilton Burn tributary,,387,125,doco,,2127817,5495666,15030583,han,1,,5
+115645,1,2019,Aparima River,1331052,Hamilton Burn,789.6,1337,Hamilton Burn tributary,,387,125,doco,,2127742,5495531,15030583,han,1,,5
+115646,1,2019,Aparima River,1331052,Hamilton Burn,789.6,1410,Hamilton Burn, ,375,123,doco, ,2127554,5494997,15031280,efp,1, ,20
+115925,4,2019,Waiau River,1331068,Mararoa River lower,797.42,1230,Mararoa River, ,274,117,doco, ,2106662,5506168,15026565,efp,1, , 
+115926,4,2019,Oreti River,1331040,Gorge Burn,786,1722,Gorge Creek, ,651,187,doco, ,2138070,5534245,15015815,efp,1, ,10
+115927,4,2019,Oreti River,1331040,Gorge Burn,786,1747,Gorge Creek tributary, ,657,187,doco, ,2138048,5534208,15015690,efp,1, ,10
+115932,5,2019,Oreti River,1331037,Oreti River tributary 2,786,1036,Oreti River tributary, ,544,168,doco, ,2130417,5521599,15020359,efp,1, ,10
+115933,5,2019,Oreti River,1331037,Oreti River tributary 2,786,1122,Oreti River tributary, ,544,168,doco, ,2130394,5521517,15020359,efp,1, ,10
+115934,5,2019,Oreti River,1331037,Oreti River tributary 2,786,1141,Oreti River tributary,,563,168,doco,,2130480,5521814,15019740,efp,1,,10
+115935,5,2019,Oreti River,1331037,Oreti River tributary 2,786,1157,Oreti River tributary,,563,168,doco,,2130602,5522042,15019740,efp,1,,10
+115936,5,2019,Oreti River,1331037,Oreti River tributary 2,786,1214,Oreti River tributary,,563,168,doco,,2130446,5522168,15019740,efp,1,,10
+115937,5,2019,Oreti River,1331037,Oreti River tributary 2,786,1332,Oreti River tributary, ,524,168,doco, ,2131467,5522283,15019786,efp,1, ,10
+115938,5,2019,Oreti River,1331037,Oreti River tributary 2,786, ,Oreti River tributary, ,524,168,doco, ,2131486,5522723,15019786,efp,1, ,10
+115939,5,2019,Oreti River,1331037,Oreti River tributary 2,786,1435,Oreti River tributary, ,619,170,doco, ,2131181,5522795,15019823,efp,1, ,10
+115940,5,2019,Oreti River,1331038,Oreti River tributary 3,786,1655,Oreti River tributary, ,519,169,doco, ,2131878,5522544,15019863,efp,1, ,10
+115943,4,2019,Clutha River,1331003,Black Spur Creek,752.746,1005,Black Spur Creek, ,707,314,doco, ,2141858,5539691,14041228,efp,1, ,6
+115944,4,2019,Clutha River,1331003,Black Spur Creek,752.746,1030,Black Spur Creek, ,707,314,doco, ,2141903,5539612,14041228,efp,1, ,8
+115945,4,2019,Clutha River,1331003,Black Spur Creek,752.746,1047,Black Spur Creek, ,707,314,doco, ,2141955,5539567,14041228,efp,1, ,3
+115946,4,2019,Clutha River,1331003,Black Spur Creek,752.746,1113,Black Spur Creek, ,707,314,doco, ,2142060,5539455,14041228,efp,1, , 
+115947,4,2019,Clutha River,1331003,Black Spur Creek,752.746,1152,Black Spur Creek, ,707,314,doco, ,2142325,5539233,14041228,efp,1, ,7
+115948,4,2019,Clutha River,1331001,White Burn,752.746,1405,White Burn, ,719,311,doco, ,2144363,5543527,14039782,efp,1, , 
+115949,4,2019,Clutha River,1331002,Bush Creek,752.987,1338,Bushy Creek,,707,313,doco,,2144030,5541967,14040558,efp,1,,7
+115950,4,2019,Clutha River,1331001,White Burn,752.746,1426,White Burn, ,719,311,doco, ,2144399,5543561,14039782,efp,1, , 
+117456,11,2019,Clutha River,1331001,White Burn,752.746,1045,White Burn, ,719,311,doco, ,2144541,5543578,14039782,efp,1, ,105
+117457,11,2019,Clutha River,1331001,White Burn,752.746,1130,White Burn tributary, ,719,311,doco, ,2144646,5543718,14039782,efp,1, ,5
+117458,11,2019,Clutha River,1331001,White Burn,752.746,1145,White Burn tributary, ,719,311,doco, ,2144652,5543752,14039782,efp,1, ,5
+117459,11,2019,Clutha River,1331001,White Burn,752.746,1152,White Burn tributary, ,719,311,doco, ,2144620,5543795,14039782,efp,1, ,5
+117460,11,2019,Clutha River,1331001,White Burn,752.746,1213,White Burn tributary, ,719,311,doco, ,2144737,5543860,14039782,efp,1, ,123
+117461,11,2019,Clutha River,1331001,White Burn,752.746,1221,White Burn tributary, ,760,313,doco, ,2144801,5543896,14039782,efp,1, ,15
+117462,11,2019,Clutha River,1331001,White Burn,752.746,1251,White Burn tributary, ,760,313,doco, ,2144841,5543942,14039782,efp,1, ,
+117463,11,2019,Clutha River,1331001,White Burn,752.746,1402,White Burn tributary, ,760,313,doco, ,2144916,5543957,14039782,efp,1, ,30
+117464,11,2019,Clutha River,1331001,White Burn,752.746,1415,White Burn tributary, ,760,313,doco, ,2144939,5543945,14039782,efp,1, ,3
+117470,11,2019,Waiau River,1331085,Upukerora River,797,900,Upukerora River, ,217,145,doco, ,2098346,5520119,15020897,efp,1, ,20
+117471,11,2019,Waiau River,1331085,Upukerora River,797,1011,Upukerora River, ,239,148,doco, ,2099815,5519553,15021056,efp,1, ,20
+117472,11,2019,Waiau River,1331085,Upukerora River,797,1054,Upukerora River, ,239,148,doco, ,2099830,5519541,15021056,efp,1, ,40
+117473,11,2019,Waiau River,1331081,Dunton Creek,797.49,1250,Dunton Creek, ,248,179,doco, ,2108773,5548437,15012115,efp,1, ,20
+117474,11,2019,Waiau River,1331081,Dunton Creek,797.49,1332,Dunton Creek, ,248,179,doco, ,2108725,5548495,15012115,efp,1, ,10
+117477,11,2019,Waiau River,1331083,Eglinton River tributary 2,797.49,1746,Eglinton River, ,379,212,doco, ,2117291,5573649,15007409,han,1, ,40
+117490,11,2019,Waiau River,1331069,Whitestone River lower,797.421,1312,Whitestone River, ,240,110,doco, ,2100472,5507223,15026001,efp,1, ,30
+117527,12,2019,Waiau R,1331082,Eglinton River lower,797.49,1401,Eglinton River, ,239,179,doco,D43,2108258,5548622,15011902,efp,, ,
+119409,6,1999,Mataura River,1331088,Allen Creek,775.9,0,Allen Creek, ,360,220,uoo, ,2170799,5529699,15016889,efp,1,,
+119440,2,2003,Mataura River,1331007,Mokoreta River,775.13,0,Mokoreta River tributary, ,169,98,doco, ,2216700,5424200,15057410,efp,1,,
+119428,8,2000,Mataura River,1331087,Nokomai River 2,775.78,0,Nokomai River, ,341,183,uoo, ,2175500,5513000,15023608,efp,1,,
+119410,6,1999,Mataura River,1331021,Bushy Creek,775.9,0,Bushy Creek, ,367,219,uoo, ,2169600,5528700,15017560,efp,1,,
+119457,,2004,Mataura River,1331021,Bushy Creek,775.9,0,Bushy Creek, ,367,219,uoo, ,2169600,5528700,15017560,efp,1,,
+119342,4,1991,Mataura River,1331086,Nokomai River 1,775.78,0,Nokomai River, ,247,173,uoo, ,2170299,5507599,15025711,efp,1,,
+119458,,2004,Oreti River,1331089,Oreti River tributary 4,786,0,Oreti River tributary, ,494,148,uoo, ,2135037,5502970,15027823,efp,1,,
+120499,10,1999,Mataura River,1331021,Bushy Creek,775.9,0,Bushy Creek, ,367,219,uoo,E43,2169500,5528700,15017560,efp,,,
+120502,10,1999,Mataura River,1331021,Bushy Creek,775.9,0,Bushy Creek, ,367,219,uoo,E43,2169300,5528800,15017560,efp,,,
+120500,10,1999,Mataura River,1331021,Bushy Creek,775.9,0,Bushy Creek, ,367,219,uoo,E43,2169400,5528700,15017560,efp,,,
+120501,10,1999,Mataura River,1331021,Bushy Creek,775.9,0,Bushy Creek, ,367,219,uoo,E43,2169400,5528800,15017560,efp,,,
+119407,6,1999,Mataura River,1331023,Mataura River upper,775,0,Mataura River, ,380,220,uoo, ,2164199,5525599,15018753,efp,1,,
+118435,3,2019,Oreti River,1331028,Oreti River upper,786,1434,Oreti River, ,289,130,docc,E44,2140251,5494688,15031149,efp,1,,80
+118434,3,2019,Waiau R,1331068,Mararoa River lower,797.42,1123,Mararoa River, ,360,131,docc,D43,2117702,5510811,15024591,efp,1,,20
+119414,10,1999,Mataura River,1331021,Bushy Creek,775.9,0,Bushy Creek, ,367,219,uoo, ,2169600,5528700,15017560,efp,1,,
+118433,3,2019,Mataura River,1331023,Mataura River upper,775,1537,Mataura River, ,380,220,docc,E43,2164104,5525635,15018753,efp,1,,80
+119402,2,1999,Mataura River,1331021,Bushy Creek,775.9,0,Bushy Creek, ,367,219,doco, ,2169600,5528700,15017560,efp,1,,
+119411,6,1999,Mataura River,1331021,Bushy Creek,775.9,0,Bushy Creek, ,367,219,uoo, ,2169299,5528799,15017560,efp,1,,
+119415,10,1999,Mataura River,1331088,Allen Creek,775.9,0,Allen Creek, ,380,222,uoo, ,2171799,5531399,15016605,efp,1,,
+117214,3,2019,Mataura River,1331016,Dome Burn middle,775.674,0,Dome Burn, ,251,148,rel,F44,2182588,5496168,15030428,efp,,,
+117215,3,2019,Mataura River,1331016,Dome Burn middle,775.674,0,Dome Burn, ,251,148,rel,F44,2182598,5495960,15030428,efp,,,
+117216,3,2019,Mataura River,1331016,Dome Burn middle,775.674,0,Dome Burn, ,240,148,rel,F44,2182464,5495766,15030746,efp,,,
+121127,12,2005,Mataura River,1331091,Waikaia River tributary,775.67,0,Waikaia River tributary, ,200,166,uoo, ,2195016,5504851,15027025,efp,1,,
+121126,12,2005,Mataura River,1331090,Gow Burn tributary,775.679,0,Knobby Creek, ,230,166,uoo, ,2190242,5503990,15027470,efp,1,,
+121135,10,2006,Waiau River,1331078,Mararoa River upper,797.42,0,Mararoa River, ,638,187,uoo, ,2131499,5552199,15011339,efp,1,,
+121136,10,2006,Waiau River,1331068,Mararoa River lower,797.42,0,Mararoa River, ,398,134,uoo, ,2120600,5512099,15023115,efp,1,,
+121137,10,2006,Waiau River,1331068,Mararoa River lower,797.42,0,Mararoa River, ,359,131,uoo, ,2117400,5510700,15024665,efp,1,,
+121405,4,2009,Oreti River,1331031,Cromel Stream,786.901,0,Cromel Stream, ,319,131,docs, ,2148999,5503800,15027427,efp,1,,
+121420,3,2011,Oreti River,1331031,Cromel Stream,786.901,0,Cromel Stream, ,286,126,uoo, ,2150324,5500154,15027923,efp,1,,
+121101,8,2005,Oreti River,1331026,Oreti River lower,786,0,Oreti River, ,102,78,uoo, ,2147500,5462499,15044107,efp,1,,
+121148,,2006,Mataura River,1331023,Mataura River upper,775,0,Mataura River, ,379,219,uoo, ,2164800,5525500,15018795,efp,1,,
+122619,3,2021,Mataura River,1331016,Dome Burn middle,775.674,0,Dome Burn, ,302,155,rel,F44,2177342,5497432,15029937,efp, ,,
+122620,3,2021,Mataura River,1331016,Dome Burn middle,775.674,0,Dome Burn, ,302,155,rel,F44,2177553,5497297,15029937,efp, ,,
+122621,3,2021,Mataura River,1331016,Dome Burn middle,775.674,0,Dome Burn, ,301,155,rel,F44,2177635,5497229,15030185,efp, ,,
+122622,3,2021,Mataura River,1331016,Dome Burn middle,775.674,0,Dome Burn, ,301,155,rel,F44,2177646,5497203,15030185,efp, ,,
+122623,3,2021,Mataura River,1331016,Dome Burn middle,775.674,0,Dome Burn, ,300,154,rel,F44,2177714,5497176,15030185,efp, ,,
+121440,2,2016,Mataura River,1331013,Rob Roy Creek,775.673,0,Rob Roy Creek, ,214,138,docc, ,2181184,5490163,15032449,efp,1,,
+121421,3,2011,Mataura River,1331010,Garvie Burn,775.673,0,Garvie Burn, ,187,137,uoo, ,2179984,5488231,15033765,efp,1,,
+122792,1,2019,Mataura River,1331092,Eyre Creek tributary 2,775.87,,Eyre Creek tributary,,338,194.3,slfg,,2159507,5515759,15256561,efp,1,,
