@@ -1,0 +1,1077 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+1436,2,1980,Clutha River,1341048,Cardrona River tributary 2,752.97, ,Cardrona River, ,720,296,otfg,f41,2191600,5577200,14023772,ef,1, , 
+1437,2,1980,Clutha River,1341043,Branch Burn,752.973,845,Branch Burn,,460,281,docs,F40,2197400,5590300,14018775,ef,1,,
+1438,2,1980,Clutha River,1341045,Boundary Creek,752.975,1120,Boundary Creek,,500,284,otfg,F41,2196100,5587600,14019698,ef,1,,
+1439,2,1980,Clutha River,1341041,Spotts Creek,752.971,1420,Spotts Creek, ,400,280,docs,f40,2200600,5596400,14016794,ef,1, , 
+1440,2,1980,Clutha River,1341039,Timber Creek,752.971,1530,Timber Creek,,400,270,docs,F40,2201200,5598700,14016003,ef,1,,
+1450,2,1980,Clutha River,1341020,Cluden Stream lower,752.883,1400,Cluden Stream,,460,252,doco,G40,2241400,5597000,14016527,ef,1,,
+6736,12,1988,Clutha River,1341041,Spotts Creek,752.971,900,Spotts Creek, ,400,280,niwa,f40,2200700,5596300,14016794,efp,1, ,150
+11204,8,1989,Clutha River,1341038,Cardrona River upper,752.973,1000,Coes Gully Stream, ,430,276,uoo,f40,2199300,5592800,14017933,han, , ,30
+10388,12,1990,Clutha River,1341043,Branch Burn,752.973,1600,Branch Burn,,450,279,niwa,F41,2198400,5589900,14018921,efm,1,,300
+10390,12,1990,Clutha River,1341041,Spotts Creek,752.971,1715,Spotts Creek,,400,280,niwa,F40,2200700,5596300,14016794,efm,1,,200
+7921,3,1991,Clutha River,1341038,Cardrona River upper,752.97,1400,Cardrona River,,460,280,otfg,f41,2198200,5589300,14019038,ef,2,,
+11380,2,1992,Clutha River,1341007,Maori Creek lower,752.636,day,Maori Creek,,440,230,niwa,H42,2251400,5550700,14036386,ef,1,,
+11432,3,1992,Clutha River,1341038,Cardrona River upper,752.97,1100,Cardrona River, ,350,267,niwa,f40,2203000,5599400,14015751,efm,1, ,1000
+11433,3,1992,Clutha River,1341038,Cardrona River upper,752.97,1400,Cardrona River, ,410,273,niwa,f40,2200000,5594900,14017150,efm,1, ,1600
+11434,3,1992,Clutha River,1341041,Spotts Creek,752.971,1200,Spotts Creek, ,400,272,niwa,f40,2200700,5596300,14016794,efm,1, ,450
+11435,3,1992,Clutha River,1341038,Cardrona River upper,752.97,1600,Cardrona River, ,450,279,niwa,f41,2198700,5589900,14018888,efm,1, ,1000
+11768,3,1994,Clutha River,1341009,Pool Burn tributary,752.636,1330,Pool Burn tributary, ,980,254,otfg,h42,2257800,5537200,14042555,ef,1, , 
+9451,10,1995,Clutha River,1341034,Schoolhouse Creek,752.89,1100,Schoolhouse Creek,,400,224,doco,G41,2218400,5589300,14019164,efp,1,,
+9454,11,1995,Clutha River,1341035,Sheepskin Creek,752.93,930,Sheepskin Creek,,380,242,doco,G40,2216400,5597600,14016309,efp,1,,
+9455,11,1995,Clutha River,1341035,Sheepskin Creek,752.93,1015,Sheepskin Creek,,270,241,doco,G40,2216700,5598900,14015872,efp,1,,
+15652,3,1995,Clutha River,1341050,Unnamed stream Roadmans Gully,752.97,1120,Cardrona River, ,970,301,doco,f41,2190200,5572700,14025926,efp,1, ,10
+15654,3,1995,Clutha River,1341049,Unnamed stream Wrights Gully,752.974,1340,Wrights Gully, ,820,299,doco,f41,2191300,5574400,14025357,efp,1, ,10
+15656,3,1995,Clutha River,1341047,Unnamed stream Maori Gully,752.975,1600,Maori Gully,,720,303,doco,f41,2191500,5578700,14023310,efp,1,,10
+16432,11,1995,Clutha River,1341025,Tim Burn,752.884,1500,Tim Burn Left Branch tributary,,520,259,doco,g40,2240600,5604300,14014101,efp,1,,10
+15339,1,1996,Clutha River,1341005,Manor Burn tributary 2,752.631, ,Manor Burn tributary, ,730,198,indm,g42,2245000,5534900,14043646,pun, , ,20
+15392,1,1996,Clutha River,1341028,Lindis River,752.887, ,Middle Creek, ,435,264,indm,g40,2231700,5610700,14011726,pun, , ,10
+15473,1,1996,Clutha River,1341050,Unnamed stream Roadmans Gully,752.974,1250,Roadmans Gully, ,940,301,doco,f41,2190300,5572900,14025927,efp,1, ,6
+15475,1,1996,Clutha River,1341049,Unnamed stream Wrights Gully,752.974,1445,Wrights Gully,,830,299,doco,F41,2191400,5574200,14025357,efp,1,,80
+15479,2,1996,Clutha River,1341047,Unnamed stream Maori Gully,752.975,1410,Maori Gully, ,680,294,doco,f41,2191800,5578900,14023183,efp,1, ,35
+15480,2,1996,Clutha River,1341047,Unnamed stream Maori Gully,752.975,1500,Maori Gully,,710,303,doco,F41,2191600,5578800,14023183,efp,1,,100
+16434,11,1996,Clutha River,1341026,Short Spur Creek,752.886,1600,Short Spur Creek,,600,266,doco,G40,2240600,5607000,14013049,efp,1,,10
+16435,11,1996,Clutha River,1341026,Short Spur Creek,752.886,1630,Short Spur Creek, ,560,265,doco,g40,2240200,5606800,14013306,efp,1, ,40
+16438,11,1996,Clutha River,1341026,Short Spur Creek,752.886,1030,Short Spur Creek,,700,268,doco,G40,2242100,5607800,14012953,efp,1,,10
+16442,11,1996,Clutha River,1341025,Tim Burn,752.884,1430,Tim Burn Left Branch tributary,,600,262,doco,G40,2242700,5605300,14013607,efp,1,,20
+16443,11,1996,Clutha River,1341025,Tim Burn,752.884,1500,Tim Burn tributary,,550,261,doco,g40,2241900,5604800,14013978,efp,1,,40
+16454,11,1996,Clutha River,1341023,Coal Creek lower,752.884,1000,Coal Creek water race, ,400,253,doco,g40,2237800,5599900,14015535,efp,1, ,20
+16458,11,1996,Clutha River,1341024,Coal Creek upper,752.884,1200,Coal Creek,,540,262,doco,g40,2245500,5600200,14015447,efp,1,,30
+16459,11,1996,Clutha River,1341024,Coal Creek upper,752.884,1230,Coal Creek tributary,,740,263,doco,G40,2246300,5601300,14015068,efp,1,,10
+16461,11,1996,Clutha River,1341024,Coal Creek upper,752.884,1100,Coal Creek,,740,264,doco,G40,2247400,5600300,14015051,efp,1,,20
+16462,11,1996,Clutha River,1341024,Coal Creek upper,752.884,1300,Coal Creek,,700,263,doco,G40,2246700,5600000,14015457,efp,1,,10
+16463,11,1996,Clutha River,1341024,Coal Creek upper,752.884,1330,Coal Creek,,680,262,doco,G40,2246200,5600000,14015457,efp,1,,20
+16464,11,1996,Clutha River,1341024,Coal Creek upper,752.884,1430,Coal Creek tributary, ,660,262,doco,g40,2245600,5600500,14015068,efp,1, ,10
+16465,11,1996,Clutha River,1341024,Coal Creek upper,752.884,1445,Coal Creek tributary, ,690,263,doco,g40,2245800,5600900,14015068,efp,1, ,10
+16466,11,1996,Clutha River,1341025,Tim Burn,752.884,1600,Tim Burn Left Branch tributary,,680,264,doco,G40,2243800,5607100,14013171,efp,1,,30
+17550,1,1998,Clutha River,1341008,Maori Creek upper,752.636,1600,Maori Creek tributary, ,800,242,niwa,h42,2260000,5545200,14039085,efp,1, ,20
+106691,11,1998,Clutha River,1341010,Shepherds Creek,752.741,,Shepherds Creek,,399,215,doco,F42,2206900,5556800,14033651,efp,,,
+17974,12,1999,Clutha River,1341008,Maori Creek upper,752.636,1140,Maori Creek,,680,240,doco,H42,2259000,5546700,14038416,ef,1,,20
+25111,1,2000,Clutha River,1341015,Wainui Creek,752.881,1050,Wainui Creek,,320,229,doco,G41,2229200,5585600,14020386,efp,1,,171
+25112,1,2000,Clutha River,1341015,Wainui Creek,752.881,1201,Wainui Creek,,400,232,doco,G41,2231200,5584700,14020730,efp,1,,140
+25423,12,2000,Clutha River,1341007,Maori Creek lower,752.636,1317,Maori Creek, ,440,230,doco,h42,2251400,5550600,14036386,efp,1, ,72
+106686,6,2000,Clutha River,1341010,Shepherds Creek,752.741,,Shepherds Creek,,464,215,uoo,F42,2206300,5555800,14033652,efp,,,
+25118,1,2001,Clutha River,1341017,Big Spur Creek,752.883,1000,Big Spur Creek tributary,,640,253,doco,G40,2238500,5591000,14018571,efp,1,,55
+25126,1,2001,Clutha River,1341023,Coal Creek lower,752.884,1721,Coal Creek, ,405,253,doco,g40,2237900,5599900,14015483,efp,1, ,42
+25128,1,2001,Clutha River,1341026,Short Spur Creek,752.886,933,Short Spur Creek,,560,265,doco,G40,2240100,5606800,14013306,efp,1,,55
+25129,1,2001,Clutha River,1341026,Short Spur Creek,752.886,1030,Short Spur Creek,,690,267,doco,G40,2241800,5607700,14012953,efp,1,,34
+25131,1,2001,Clutha River,1341025,Tim Burn,752.884,1250,Tim Burn Left Branch tributary, ,680,264,doco,g40,2243900,5607100,14013171,obs, , ,1
+25135,1,2001,Clutha River,1341025,Tim Burn,752.884,1435,Tim Burn Left Branch tributary,,590,262,doco,G40,2242600,5605300,14013607,efp,1,,10
+25183,3,2001,Clutha River,1341003,Hopes Creek,752.631,,Hopes Creek tributary,,710,192,doco,g42,2241500,5534400,14043743,efp,1,,30
+25184,3,2001,Clutha River,1341003,Hopes Creek,752.631, ,Hopes Creek tributary, ,680,190,doco,g42,2240700,5534800,14043530,obs, , ,1
+25188,3,2001,Clutha River,1341005,Manor Burn tributary 2,752.631, ,Manor Burn tributary, ,730,198,doco,g42,2245100,5534900,14043646,efp,1, ,39
+25216,3,2001,Clutha River,1341034,Schoolhouse Creek,752.89, ,Schoolhouse Creek, ,380,224,doco,g41,2218400,5589200,14019164,efp,1, ,64
+25217,3,2001,Clutha River,1341034,Schoolhouse Creek,752.89, ,Schoolhouse Creek, ,280,223,doco,g41,2219100,5588900,14019164,obs, , ,1
+25220,3,2001,Clutha River,1341033,Kidd Creek,752,day,Kidd Creek,,290,219,doco,G41,2217700,5586900,14019950,efp,1,,40
+101734,1,2001,Clutha River,1341037,Cardrona River lower,752.97,,Cardrona River,,299,266,doco,F40,2208275,5606450,14013373,efp,1,,
+104437,12,2001,Clutha River,1341008,Maori Creek upper,752.63,1040,Maori Creek Tributary,,837,253,ind,G42,2260821,5543077,14039929,efp,,,77.5
+104451,12,2001,Clutha River,1341008,Maori Creek upper,752.63,1350,Maori Creek Tributary,,832,251,ind,G42,2259979,5545111,14039332,efp,,,89.91
+106175,12,2001,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek tributary,,832,251,doco,H42,2259979,5545111,14039332,efp,,,
+106176,12,2001,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek tributary,,837,253,doco,,2260821,5543077,14039929,efp,,,
+106177,12,2001,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek tributary,,940,258,doco,H42,2258672,5538818,14041684,efp,,,
+10156,1,2002,Clutha River,1341036,Lagoon Creek,752.18,,Unnamed pond,,370,249,doco,g40,2217200,5609200,14012305,ntc,,,9
+24842,3,2002,Clutha River,1341031,Breast Creek,752.887,1200,Breast Creek tributary,,1030,290,doco,G40,2222367,5619276,14009516,efp,1,,38
+24955,11,2002,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,400,232,doco,g41,2231200,5584700,14020730,efp,1, , 
+24956,11,2002,Clutha River,1341015,Wainui Creek,752.881,day,Wainui Creek tributary,,400,232,doco,G41,2231300,5584500,14020820,efp,1,,
+24957,11,2002,Clutha River,1341015,Wainui Creek,752.881,day,Wainui Creek,,380,231,doco,G41,2230700,5584900,14020416,efp,1,,
+26581,5,2002,Clutha River,1341001,Benger Burn,752.4,day,Benger Burn,,180,117,doco,G43,2221900,5500300,14054552,efp,1,,50
+107396,12,2002,Clutha River,1341031,Breast Creek,752.887,1118,Breast Creek tributary,,1213,299,doco,G40,2221070,5618864,14009516,efp,,,
+107543,5,2002,Clutha River,1341001,Benger Burn,752.4,1341,Benger Burn, ,336,128,rdcl,G43,2220806,5501762,14054332,efp, , , 
+16772,1,2003,Clutha River,1341043,Branch Burn,752.973,,Branch Burn,,1120,290,doco,f40,2191100,5595200,14017140,ef,1,,40
+16773,1,2003,Clutha River,1341043,Branch Burn,752.973,,Branch Burn tributary,,1100,291,doco,f40,2189600,5593300,14017729,ef,1,,40
+16774,1,2003,Clutha River,1341043,Branch Burn,752.973,,Branch Burn tributary,,740,289,doco,f40,2191300,5591500,14018285,ef,1,,100
+24843,3,2003,Clutha River,1341003,Hopes Creek,752.631,1830,Hopes Creek tributary,,610,187,doco,G42,2239150,5536876,14042721,efp,1,,31
+24901,1,2003,Clutha River,1341043,Branch Burn,752.973,1300,Macdonalds Creek,,540,283,doco,F40,2195300,5590300,14018752,efp,1,,80
+24902,1,2003,Clutha River,1341043,Branch Burn,752.973,1500,Branch Burn tributary,,780,288,doco,F40,2192100,5592500,14018054,efp,1,,50
+24903,1,2003,Clutha River,1341043,Branch Burn,752.973,1530,Branch Burn tributary,,600,286,doco,F40,2193400,5592700,14017960,efp,1,,
+24904,1,2003,Clutha River,1341043,Branch Burn,752.973,1600,Branch Burn,,540,284,doco,F40,2194800,5591900,14018255,efp,2,,
+24905,1,2003,Clutha River,1341043,Branch Burn,752.973,1640,Branch Burn,,510,283,doco,F40,2195500,5591200,14018552,efp,1,,80
+24906,1,2003,Clutha River,1341043,Branch Burn,752.973,1130,Macdonalds Creek,,740,287,doco,f40,2191600,5590000,14018904,efp,1,,20
+24907,1,2003,Clutha River,1341045,Boundary Creek,752.975,day,Boundary Creek,,580,286,doco,F41,2194300,5587000,14019658,efp,1,,100
+24908,1,2003,Clutha River,1341045,Boundary Creek,752.975,,Boundary Creek,,700,288,doco,f41,2192800,5586800,14019865,efp,2,,20
+24909,1,2003,Clutha River,1341045,Boundary Creek,752.975,,Boundary Creek tributary,,700,288,doco,f41,2192700,5586800,14019997,efp,1,,10
+24910,1,2003,Clutha River,1341043,Branch Burn,752.973,1300,Branch Burn tributary,,550,283,doco,F41,2195000,5589200,14019068,efp,1,,8
+24911,1,2003,Clutha River,1341043,Branch Burn,752.973,1330,Branch Burn tributary,,520,283,doco,F41,2195400,5589500,14019068,efp,1,,15
+24912,1,2003,Clutha River,1341045,Boundary Creek,752.975,1350,Boundary Creek, ,490,283,doco,f41,2196300,5587300,14019698,efp,1, ,100
+24913,1,2003,Clutha River,1341045,Boundary Creek,752.975,1430,Boundary Creek, ,500,284,doco,f41,2196000,5587600,14019698,efp,1, ,150
+24914,1,2003,Clutha River,1341043,Branch Burn,752.973,1500,Branch Burn,,470,280,doco,F41,2198000,5590000,14018921,efp,1,,300
+25481,10,2003,Clutha River,1341032,Smiths Creek,752.889,1220,Smiths Creek,,590,280,docc,G39,2237500,5622700,14008519,efp,1,,130
+25618,12,2003,Clutha River,1341021,Cluden Stream tributary 3,752.883,1145,Cluden Stream,,755,262,doco,G40,2248000,5597800,14016271,efm,1,,30
+25620,12,2003,Clutha River,1341019,Cluden Stream tributary 2,752.883,1530,Cluden Stream tributary,,850,255,doco,g40,2243500,5595700,14016972,efm,1,,40
+25621,12,2003,Clutha River,1341019,Cluden Stream tributary 2,752.883,1500,Cluden Stream tributary,,870,255,doco,g40,2243700,5595700,14016972,efm,1,,52
+25622,12,2003,Clutha River,1341019,Cluden Stream tributary 2,752.883,1200,Cluden Stream tributary,,610,254,doco,G40,2242500,5595800,14016939,efm,1,,50
+25623,12,2003,Clutha River,1341019,Cluden Stream tributary 2,752.883,1140,Cluden Stream tributary,,600,254,doco,G40,2242500,5595800,14016939,efm,1,,80
+25624,12,2003,Clutha River,1341019,Cluden Stream tributary 2,752.883,1100,Cluden Stream tributary,,560,253,doco,g40,2242200,5596000,14016806,efm,1,,45
+25625,12,2003,Clutha River,1341019,Cluden Stream tributary 2,752.883,1800,Cluden Stream tributary,,880,255,doco,g40,2241700,5594800,14017209,obs,,,2
+25630,12,2003,Clutha River,1341019,Cluden Stream tributary 2,752.883,1320,Cluden Stream tributary,,660,254,doco,G40,2242300,5595600,14016938,efm,1,,25
+25633,12,2003,Clutha River,1341020,Cluden Stream lower,752.883,1055,Cluden Stream, ,450,252,doco,g40,2240800,5596700,14016656,efm,1, ,40
+25637,12,2003,Clutha River,1341017,Big Spur Creek,752.883,915,Big Spur Creek tributary, ,640,252,doco,g40,2238500,5591900,0,obs, , ,2
+25646,12,2003,Clutha River,1341022,Cluden Stream upper,752.883,1545,Cluden Stream,,915,265,doco,G40,2248200,5594500,14017379,efm,1,,40
+25647,12,2003,Clutha River,1341022,Cluden Stream upper,752.883,1500,Cluden Stream tributary,,900,265,doco,G40,2248100,5594900,0,efm,1,,40
+25650,12,2003,Clutha River,1341021,Cluden Stream tributary 3,752.883,1300,Cluden Stream tributary, ,800,262,doco,g40,2248300,5597900,14016265,obs, , ,2
+25653,12,2003,Clutha River,1341017,Big Spur Creek,752.883,1152,Big Spur Creek,,480,250,doco,G40,2238600,5593500,14017554,efm,1,,10
+25659,12,2003,Clutha River,1341017,Big Spur Creek,752.883,1519,Big Spur Creek tributary,,640,253,doco,G40,2238500,5590500,0,efm,1,,50
+25662,12,2003,Clutha River,1341018,Cluden Stream tributary 1,752.883,1145,Cluden Stream tributary, ,670,255,doco,g40,2240081,5592862,14017906,efm,1, ,50
+25663,12,2003,Clutha River,1341018,Cluden Stream tributary 1,752.883,1112,Cluden Stream tributary,,670,255,doco,G40,2240000,5592700,14017944,efm,1,,100
+25666,12,2003,Clutha River,1341052,Cluden Stream,752.883,1351,Cluden Stream,,695,259,doco,G40,2246600,5599300,14015707,efm,1,,25
+25668,12,2003,Clutha River,1341022,Cluden Stream upper,752.883,1446,Cluden Stream tributary,,880,265,doco,g40,2248400,5595000,14017201,efm,1,,10
+25669,12,2003,Clutha River,1341022,Cluden Stream upper,752.883,1521,Cluden Stream tributary,,890,265,doco,G40,2248600,5594900,14017202,efm,1,,25
+26235,3,2003,Clutha River,1341028,Lindis River,752.88,950,Lindis River,,425,264,orc,G40,2231700,5610300,14012018,efp,4,,
+26245,12,2003,Clutha River,1341020,Cluden Stream lower,752.883,1349,Cluden Stream, ,465,252,orc,g40,2240800,5596700,14016656,efp,4, , 
+26550,3,2003,Clutha River,1341003,Hopes Creek,752.631,1605,Hopes Creek tributary,,660,188,doco,G42,2240273,5536289,14042851,efp,1,,
+26551,3,2003,Clutha River,1341003,Hopes Creek,752.631,1715,Hopes Creek tributary,,710,194,doco,G42,2240934,5532095,14044600,efp,1,,
+26564,3,2003,Clutha River,1341052,Cluden Stream,752.883,day,Cluden Stream,,690,259,doco,G40,2246600,5599300,14015707,efp,1,,
+107403,3,2003,Clutha River,1341003,Hopes Creek,752.631,1210,Hopes Creek,,623,196,doco,G42,2238850,5536436,14042721,efp,,,
+107404,3,2003,Clutha River,1341003,Hopes Creek,752.631,1234,Hopes Creek,,645,197,doco,G42,2238890,5535381,14043207,efp,,,
+107405,3,2003,Clutha River,1341003,Hopes Creek,752.631,1245,Hopes Creek,,643,197,doco,G42,2239730,5535715,14043136,vbd,,,
+107407,3,2003,Clutha River,1341003,Hopes Creek,752.631,1254,Hopes Creek tributary, ,608,193,doco,G42,2240171,5538598,14041487,vbd, , , 
+107412,3,2003,Clutha River,1341003,Hopes Creek,752.631,1323,Hopes Creek tributary, ,694,199,doco,G42,2240729,5534849,14043530,vbd, , , 
+107413,2,2003,Clutha River,1341003,Hopes Creek,752.631,1328,Hopes Creek tributary,,759,200,doco,G42,2241753,5534373,14043760,vbd,,,
+107416,3,2003,Clutha River,1341003,Hopes Creek,752.631,1341,Hopes Creek tributary,,829,212,doco,G42,2242497,5526922,14046327,efp,,,
+107421,3,2003,Clutha River,1341003,Hopes Creek,752.631,1411,Hopes Creek tributary,,769,203,doco,G42,2241729,5531912,14044611,vbd,,,
+107422,3,2003,Clutha River,1341003,Hopes Creek,752.631,1414,Hopes Creek tributary,,781,203,doco,G42,2241975,5532346,14044532,efp,,,
+107689,3,2003,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,485,242,otfg,G41,2227200,5597000,14016120,efp,,,
+108267,8,2003,Clutha River,1341010,Shepherds Creek,752.741,1130,Shepherds Creek, ,464,215,doco,F42,2206300,5555900,14033652,efp, , , 
+108268,8,2003,Clutha River,1341010,Shepherds Creek,752.741, ,Shepherds Creek, ,399,215,doco,F42,2206900,5556500,14033651,efp, , , 
+108269,8,2003,Clutha River,1341010,Shepherds Creek,752.741, ,Shepherds Creek, ,370,214,doco,F42,2207300,5557100,14033503,efp, , , 
+117301,1,2003,Clutha River,1341043,Branch Burn,752.973,0,Branch Burn tributary, ,684,291,doco,F41,2195099,5589922,14018931,efp,, ,
+20010,1,2004,Clutha River,1341010,Shepherds Creek,752.741,830,Shepherds Creek, ,360,206,docc,f42,2207000,5556800,14033652,efp,1, ,100
+20012,1,2004,Clutha River,1341010,Shepherds Creek,752.741,1500,Shepherds Creek, ,460,207,docc,f42,2206100,5555700,14034107,efp,1, ,100
+20013,1,2004,Clutha River,1341010,Shepherds Creek,752.741,1510,Shepherds Creek, ,450,207,docc,f42,2206200,5555800,14034107,efp,1, ,100
+20185,1,2004,Clutha River,1341010,Shepherds Creek,752.741,1600,Shepherds Creek,,780,210,docc,f42,2204200,5554800,14034550,obs,,,150
+25552,1,2004,Clutha River,1341030,Dip Creek,752.888,day,Dip Creek,,1000,285,doco,G40,2245200,5618000,14009862,efm,1,,45
+25553,1,2004,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek tributary, ,1000,284,doco,g40,2245000,5617600,14009925,efm,1, ,10
+25555,1,2004,Clutha River,1341030,Dip Creek,752.888,1315,Dip Creek tributary, ,1020,285,doco,g40,2245100,5617400,14009925,efm,1, ,22
+25559,1,2004,Clutha River,1341029,Dip Creek tributary,752.888,1525,Dip Creek tributary,,880,282,doco,G40,2243200,5614200,14011027,efm,1,,
+25566,1,2004,Clutha River,1341030,Dip Creek,752.888,1315,Dip Creek tributary, ,965,284,doco,g40,2244900,5617800,14009925,efm,1, ,50
+25583,1,2004,Clutha River,1341029,Dip Creek tributary,752.888,,Dip Creek tributary,,1060,283,doco,g40,2244300,5613800,14011157,efm,1,,50
+25586,1,2004,Clutha River,1341029,Dip Creek tributary,752.888,,Dip Creek tributary,,1080,283,doco,g40,2244400,5613600,14011200,efm,1,,200
+25706,4,2004,Clutha River,1341024,Coal Creek upper,752.884,1305,Coal Creek,,660,262,doco,g40,2245800,5600100,14015457,efm,1,,
+25707,4,2004,Clutha River,1341024,Coal Creek upper,752.884,1420,Coal Creek,,760,264,doco,G40,2247400,5600300,14015051,efm,1,,20
+25708,4,2004,Clutha River,1341024,Coal Creek upper,752.884,1530,Coal Creek, ,680,263,doco,g40,2246200,5600000,14015457,efm,1, , 
+26563,8,2004,Clutha River,1341006,Manor Burn tributary 3,752.631,day,Manor Burn,,730,200,doco,G42,2244200,5533200,14044197,efp,1,,60
+29548,6,2004,Clutha River,1341006,Manor Burn tributary 3,752.631,day,Manor Burn,,740,200,doco,G42,2244227,5533195,14044197,efp,1,,
+103458,12,2004,Clutha River,1341008,Maori Creek upper,752.636, ,Maori Creek Tributary, ,940,258,doco,G41,2258557,5538116,14041684,efp, , , 
+104428,6,2004,Clutha River,1341008,Maori Creek upper,752.63, ,Maori Creek Tributary, ,940,258,ind,G42,2258687,5538870,14041684,efp, , , 
+106178,6,2004,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek tributary,,940,258,doco,H42,2258500,5538400,14041684,efp,,,
+106179,12,2004,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek tributary,,940,258,doco,H42,2258672,5538818,14041684,efp,,,
+7452,1,2005,Clutha River,1341022,Cluden Stream upper,752.883,1330,Cluden Stream tributary,,1040,267,doco,g40,2248611,5593438,14017616,efp,1,,30
+20723,2,2005,Clutha River,1341036,Lagoon Creek,752.95,1100,Lagoon Creek,,420,251,doco,G40,2218000,5608400,14012829,ef,1,,
+20724,2,2005,Clutha River,1341036,Lagoon Creek,752.95,915,Lagoon Creek,,580,253,doco,G40,2219500,5609500,14012480,ef,1,,
+20725,2,2005,Clutha River,1341036,Lagoon Creek,752.95,1100,Lagoon Creek tributary,,650,253,doco,g40,2219400,5609800,14012265,ef,1,,
+20729,2,2005,Clutha River,1341036,Lagoon Creek,752.95,1040,Lagoon Creek,,800,255,doco,g40,2220600,5609500,14012481,ef,1,,
+20730,2,2005,Clutha River,1341027,Camp Stream,752.885,1100,Camp Creek,,980,275,doco,G40,2222100,5610500,14011946,ef,1,,
+25972,4,2005,Clutha River,1341050,Unnamed stream Roadmans Gully,752.974,1000,Roadmans Gully,,940,301,doco,F41,2190100,5573000,14025927,efp,1,,30
+25974,4,2005,Clutha River,1341038,Cardrona River upper,752.97,1300,Cardrona River,,415,274,doco,F40,2199500,5593900,14017523,efp,1,,
+26513,6,2005,Clutha River,1341034,Schoolhouse Creek,752.89,1045,Schoolhouse Creek,,660,225,doco,G41,2217286,5588765,14019186,efp,3,,50
+26517,4,2005,Clutha River,1341008,Maori Creek upper,752.636,1625,Maori Creek tributary,,910,251,doco,H42,2258600,5538400,14041684,efp,3,,
+26518,5,2005,Clutha River,1341008,Maori Creek upper,752.636,1615,Maori Creek,,675,240,doco,H42,2258700,5546700,14038236,efp,3,,42
+26519,5,2005,Clutha River,1341008,Maori Creek upper,752.636,day,Maori Creek,,560,236,doco,H42,2256200,5548700,14037289,efp,3,,50
+26524,4,2005,Clutha River,1341024,Coal Creek upper,752.884,1200,Coal Creek,,700,263,doco,G40,2246600,5600000,14015457,efp,3,,40
+26525,4,2005,Clutha River,1341024,Coal Creek upper,752.884,1240,Coal Creek,,735,264,doco,G40,2247300,5600100,14015457,efp,3,,50
+26526,4,2005,Clutha River,1341024,Coal Creek upper,752.884,1425,Coal Creek, ,700,263,doco,g40,2246600,5600000,14015457,efp,2, ,30
+26556,12,2005,Clutha River,1341014,Unnamed stream Duffers Gully,752.741,day,Duffers Gully,,730,217,doco,F42,2204359,5552371,14035568,efp,1,,100
+26587,12,2005,Clutha River,1341013,Bannock Burn tributary 3,752.741,day,Bannock Burn tributary,,740,217,doco,F42,2204400,5551900,14035678,efp,1,,80
+26588,12,2005,Clutha River,1341011,Bannock Burn tributary 1,752.741,day,Bannock Burn tributary,,720,216,doco,F42,2205400,5551200,14035969,efp,1,,10
+26809,12,2005,Clutha River,1341014,Unnamed stream Duffers Gully,752.741,,Bannock Burn tributary,,600,216,doco,f42,2205310,5552661,14035537,efp,1,,20
+26812,12,2005,Clutha River,1341011,Bannock Burn tributary 1,752.741,,Bannock Burn tributary,,600,216,doco,f42,2205596,5551968,14035847,efp,1,,80
+26813,12,2005,Clutha River,1341011,Bannock Burn tributary 1,752.741,,Bannock Burn tributary,,630,216,doco,f42,2205627,5551564,14035969,efp,1,,100
+26814,12,2005,Clutha River,1341013,Bannock Burn tributary 3,752.741,,Bannock Burn tributary,,600,216,doco,f42,2205495,5552385,14035678,efp,1,,40
+26815,12,2005,Clutha River,1341011,Bannock Burn tributary 1,752.741,,Bannock Burn tributary,,590,215,doco,f42,2205813,5551954,14035847,efp,1,,10
+26816,12,2005,Clutha River,1341012,Bannock Burn tributary 2,752.741,,Bannock Burn tributary,,600,215,doco,f42,2205665,5552173,14035758,efp,1,,20
+26868,6,2005,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek,,520,235,doco,h42,2255387,5548961,14037231,efp,1,,
+26869,6,2005,Clutha River,1341008,Maori Creek upper,752.636, ,Maori Creek, ,520,235,doco,h42,2255708,5548930,14037289,efp,1, ,60
+26870,6,2005,Clutha River,1341008,Maori Creek upper,752.636, ,Maori Creek, ,520,235,doco,h42,2255793,5548805,14037289,efp,1, , 
+103459,4,2005,Clutha River,1341008,Maori Creek upper,752.636,1600,Maori Creek Tributary, ,940,258,doco,G41,2258570,5538132,14041684,efp, , , 
+104453,3,2005,Clutha River,1341008,Maori Creek upper,752.63,,Maori Creek,,578,244,ind,G42,2256032,5548778,14037289,efp,,,130.5
+106180,4,2005,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek tributary,,940,258,doco,,2258500,5538400,14041684,efp,,,
+106181,5,2005,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek,,690,247,doco,H42,2258767,5546770,14038236,efp,,,
+106182,5,2005,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek,,578,244,doco,H42,2256032,5548778,14037289,efp,,,
+106192,6,2005,Clutha River,1341034,Schoolhouse Creek,752.89,1400,Schoolhouse Creek, ,403,231,doco,G41,2218511,5589119,14019186,efp,2, ,80
+106206,4,2005,Clutha River,1341024,Coal Creek upper,752.884,1240,Coal Creek,,829,271,doco,G40,2247350,5600159,14015457,efp,3,,17
+106207,4,2005,Clutha River,1341024,Coal Creek upper,752.884,1200,Coal Creek,,829,271,doco,G41,2246630,5600015,14015457,efp,3,,38
+106208,4,2005,Clutha River,1341024,Coal Creek upper,752.884,1425,Coal Creek, ,829,271,doco,G42,2246630,5600015,14015457,efp,2, ,35
+26819,1,2006,Clutha River,1341044,Welshes Creek,752.97,800,Welshes Creek,,1110,285,doco,f41,2199402,5586451,14019933,efp,3,,
+103461,5,2006,Clutha River,1341008,Maori Creek upper,752.636,1230,Maori Creek Tributary, ,940,258,doco,G41,2258570,5538132,14041684,efp, , , 
+104429,5,2006,Clutha River,1341008,Maori Creek upper,752.63,1000,Maori Creek Tributary,,940,258,doco,G42,2258665,5538809,14041684,efp,,,76
+104434,3,2006,Clutha River,1341008,Maori Creek upper,752.63,1010,Maori Creek,,690,247,doco,G42,2258773,5546776,14038236,efp,,,116
+104457,5,2006,Clutha River,1341008,Maori Creek upper,752.63,1300,Maori Creek,,578,244,doco,G42,2256020,5548978,14037289,efp,,,116.5
+106183,5,2006,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek tributary,,940,258,doco,H42,2258672,5538818,14041684,efp,,,
+106184,5,2006,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek,,690,247,doco,H42,2258773,5546776,14038236,efp,,,
+106185,5,2006,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek tributary,,940,258,doco,H42,2258665,5538809,14041684,efp,,,
+106193,3,2006,Clutha River,1341034,Schoolhouse Creek,752.89,,Schoolhouse Creek,,609,234,doco,G41,2217286,5588765,14019241,efp,3,,86
+106194,3,2006,Clutha River,1341034,Schoolhouse Creek,752.89,950,Schoolhouse Creek,,403,231,doco,G41,2218327,5589266,14019186,efp,3,,70
+106195,3,2006,Clutha River,1341034,Schoolhouse Creek,752.89,855,Schoolhouse Creek, ,403,231,doco,G41,2218511,5589119,14019186,efp,1, ,65
+106209,3,2006,Clutha River,1341024,Coal Creek upper,752.884,1326,Coal Creek,,829,271,doco,G43,2247350,5600184,14015457,efp,3,,18
+106210,3,2006,Clutha River,1341024,Coal Creek upper,752.884,1000,Coal Creek, ,829,271,doco,G44,2246642,5600025,14015457,efp,2, ,11
+106211,3,2006,Clutha River,1341024,Coal Creek upper,752.884,1520,Coal Creek,,671,271,doco,G45,2245869,5600069,14015457,efp,,,
+110114,3,2006,Clutha River,1341026,Short Spur Creek,752.886,1220,Short Spur Creek,,710,275,doco,G40,2242007,5607816,14012953,efp,,,25
+110119,3,2006,Clutha River,1341026,Short Spur Creek,752.886,1425,Short Spur Creek,,710,275,doco,G40,2241860,5607771,14012953,efp,,,22.5
+103462,4,2007,Clutha River,1341008,Maori Creek upper,752.636,1000,Maori Creek Tributary, ,940,258,doco,G41,2258570,5538132,14041684,efp, , , 
+104430,4,2007,Clutha River,1341008,Maori Creek upper,752.63,1245,Maori Creek Tributary,,940,258,doco,G42,2258665,5538809,14041684,efp,,,56.5
+106186,4,2007,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek tributary,,940,258,doco,H42,2258665,5538809,14041684,efp,,,
+106187,4,2007,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek tributary,,940,258,doco,H42,2258570,5538132,14041684,efp,,,
+106196,4,2007,Clutha River,1341034,Schoolhouse Creek,752.89,1030,Schoolhouse Creek,,609,234,doco,G41,2217289,5588766,14019241,efp,4,,66
+106197,4,2007,Clutha River,1341034,Schoolhouse Creek,752.89,1530,Schoolhouse Creek,,403,231,doco,G41,2218327,5589266,14019186,efp,2,,90
+106198,4,2007,Clutha River,1341034,Schoolhouse Creek,752.89,1400,Schoolhouse Creek, ,403,231,doco,G41,2218511,5589119,14019186,efp,1, ,69
+106212,4,2007,Clutha River,1341024,Coal Creek upper,752.884,1105,Coal Creek,,829,271,doco,G46,2247312,5600165,14015457,efp,3,,15
+106213,4,2007,Clutha River,1341024,Coal Creek upper,752.884, ,Coal Creek, ,829,271,doco,G47,2246619,5600037,14015457,efp,1, ,23
+106214,4,2007,Clutha River,1341024,Coal Creek upper,752.884,1645,Coal Creek,,671,271,doco,G48,2245871,5600071,14015457,efp,1,,
+108303,3,2007,Clutha River,1341008,Maori Creek upper,752.63,,Maori Creek tributary,,940,258,doco,G42,2258673,5538843,14041684,efp,,,
+110115,4,2007,Clutha River,1341026,Short Spur Creek,752.886,,Short Spur Creek,,710,275,doco,G40,2242007,5607816,14012953,efp,,,30
+110120,4,2007,Clutha River,1341026,Short Spur Creek,752.886,,Short Spur Creek,,710,275,doco,G40,2241860,5607771,14012953,efp,,,1000
+30871,4,2008,Clutha River,1341038,Cardrona River upper,752.97, ,Cardrona River, ,355,267,orc,f40,2202630,5599100,14015751,efm,3, ,60
+31839,12,2008,Clutha River,1341004,Manor Burn tributary 1,752.631,1600,Manor Burn tributary, ,637,193,doco,G42,2242711,5538366,14041865,efp,1, ,20
+103502,4,2008,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek Tributary,,940,258,doco,G41,2258570,5538132,14041684,efp,,,23.5
+104432,4,2008,Clutha River,1341008,Maori Creek upper,752.63,1030,Maori Creek Tributary,,940,258,doco,G42,2258673,5538843,14041684,han,,,1
+106188,4,2008,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek tributary,,940,258,doco,H42,2258673,5538843,14041684,efp,,,
+106199,4,2008,Clutha River,1341034,Schoolhouse Creek,752.89,1345,Schoolhouse Creek,,609,234,doco,G41,2217289,5588766,14019241,efp,3,,91
+106200,4,2008,Clutha River,1341034,Schoolhouse Creek,752.89,,Schoolhouse Creek,,403,231,doco,G41,2218327,5589266,14019186,efp,3,,65
+106201,4,2008,Clutha River,1341034,Schoolhouse Creek,752.89, ,Schoolhouse Creek, ,403,231,doco,G41,2218511,5589119,14019186,efp,3, ,76
+106215,4,2008,Clutha River,1341024,Coal Creek upper,752.884,,Coal Creek,,829,271,doco,G49,2247312,5600165,14015457,efp,3,,22
+106216,4,2008,Clutha River,1341024,Coal Creek upper,752.884, ,Coal Creek, ,829,271,doco,G50,2246619,5600037,14015457,efp,1, ,27
+106217,4,2008,Clutha River,1341024,Coal Creek upper,752.884,,Coal Creek,,671,271,doco,G51,2245871,5600071,14015457,efp,,,
+108304,4,2008,Clutha River,1341008,Maori Creek upper,752.63, ,Maori Creek Tributary, ,940,258,doco,G42,2258687,5538870,14041684,efp, , , 
+110116,4,2008,Clutha River,1341026,Short Spur Creek,752.886,,Short Spur Creek,,710,275,doco,G40,2242007,5607816,14012953,efp,,,22.5
+110121,4,2008,Clutha River,1341026,Short Spur Creek,752.886,,Short Spur Creek,,710,275,doco,G40,2241860,5607771,14012953,efp,,,21.5
+106202,4,2009,Clutha River,1341034,Schoolhouse Creek,752.89,915,Schoolhouse Creek,,609,234,doco,G41,2217289,5588766,14019241,efp,3,,
+106203,4,2009,Clutha River,1341034,Schoolhouse Creek,752.89,1425,Schoolhouse Creek,,403,231,doco,G41,2218327,5589266,14019186,efp,3,,
+106218,4,2009,Clutha River,1341024,Coal Creek upper,752.884,1040,Coal Creek,,829,271,doco,G52,2247312,5600165,14015457,efp,3,,
+106219,4,2009,Clutha River,1341024,Coal Creek upper,752.884,1500,Coal Creek,,829,271,doco,G53,2246630,5600015,14015457,efp,2,,
+106220,4,2009,Clutha River,1341024,Coal Creek upper,752.884,1630,Coal Creek,,671,271,doco,G54,2245871,5600071,14015457,efp,1,,
+110117,4,2009,Clutha River,1341026,Short Spur Creek,752.886,1030,Short Spur Creek,,710,275,doco,G40,2242007,5607816,14012953,efp,,,23.5
+110122,5,2009,Clutha River,1341026,Short Spur Creek,752.886,1330,Short Spur Creek,,710,275,doco,G40,2241860,5607771,14012953,efp,,,
+101391,2,2010,Clutha River,1341026,Short Spur Creek,752.886,1600,Short Spur Creek,,831,274,niwa,G40,2240650,5606923,14013049,efp,1,,10
+101401,2,2010,Clutha River,1341036,Lagoon Creek,752.95,1200,Lagoon Creek,,395,258,niwa,G40,2217500,5608700,14012305,efp,1,,18
+101402,2,2010,Clutha River,1341015,Wainui Creek,752.881,1000,Wainui Creek,,345,236,niwa,G41,2229350,5585650,14020076,efp,1,,20
+101403,2,2010,Clutha River,1341015,Wainui Creek,752.881,930,Wainui Creek,,350,236,niwa,G41,2229518,5585628,14020076,efp,1,,10
+101605,5,2010,Clutha River,1341015,Wainui Creek,752.881,1430,Wainui Creek tributary, ,573,242,doco,g41,2232019,5583483,14021083,efp,1, , 
+101606,5,2010,Clutha River,1341015,Wainui Creek,752.881,1409,Wainui Creek tributary,,517,242,doco,G41,2231638,5583821,14021083,efp,1,,65
+101607,5,2010,Clutha River,1341015,Wainui Creek,752.881,1330,Wainui Creek tributary,,480,241,doco,G41,2231304,5584516,14020820,efp,1,,75
+101608,5,2010,Clutha River,1341015,Wainui Creek,752.881,1300,Wainui Creek tributary,,558,242,doco,G41,2231910,5583594,14021083,efp,1,,75
+101609,5,2010,Clutha River,1341015,Wainui Creek,752.881,1120,Wainui Creek, ,554,241,doco,g41,2232057,5584677,14020626,efp,1, , 
+101610,5,2010,Clutha River,1341015,Wainui Creek,752.881,1045,Wainui Creek, ,530,241,doco,g41,2231815,5584601,14020626,efp,1, , 
+101611,5,2010,Clutha River,1341015,Wainui Creek,752.881,1000,Wainui Creek,,426,241,doco,G41,2231501,5584587,14020626,efp,1,,25
+106204,5,2010,Clutha River,1341034,Schoolhouse Creek,752.89,945,Schoolhouse Creek,,403,231,doco,G41,2218327,5589266,14019186,efp,3,,71
+106205,5,2010,Clutha River,1341034,Schoolhouse Creek,752.89,1320,Schoolhouse Creek,,403,231,doco,G41,2218327,5589266,14019186,efp,3,,88
+106221,5,2010,Clutha River,1341024,Coal Creek upper,752.884,1100,Coal Creek, ,829,271,doco,G55,2247312,5600165,14015457,efp,1, ,21
+106222,5,2010,Clutha River,1341024,Coal Creek upper,752.884,1300,Coal Creek, ,829,271,doco,G56,2246630,5600015,14015457,efp,1, ,21
+106223,5,2010,Clutha River,1341024,Coal Creek upper,752.884,1500,Coal Creek,,671,271,doco,G57,2245871,5600071,14015457,efp,1,,
+110118,5,2010,Clutha River,1341026,Short Spur Creek,752.886,1000,Short Spur Creek,,710,275,doco,G40,2242007,5607816,14012953,efp,,,23.5
+110123,5,2010,Clutha River,1341026,Short Spur Creek,752.886,1400,Short Spur Creek,,710,275,doco,G40,2241860,5607771,14012953,efp,,,19
+101639,4,2011,Clutha River,1341036,Lagoon Creek,752.95,1225,Lagoon Creek, ,386,257,doco,g40,2217051,5608829,14012581,efp,1, , 
+101640,4,2011,Clutha River,1341036,Lagoon Creek,752.95,1210,Lagoon Creek,,386,257,doco,G40,2217075,5608863,14012581,efp,1,,50
+101641,4,2011,Clutha River,1341036,Lagoon Creek,752.95,1210,Lagoon Creek,,388,258,doco,g40,2217397,5609206,14012305,efp,1,,
+101642,4,2011,Clutha River,1341036,Lagoon Creek,752.95,1210,Lagoon Creek,,381,258,doco,g40,2217353,5609432,14012305,efp,1,,
+101676,1,2011,Clutha River,1341030,Dip Creek,752.888,1245,Dip Creek,,1047,293,doco,G42,2245359,5618181,14009862,efp,1,,100
+101677,1,2011,Clutha River,1341030,Dip Creek,752.888,1345,Dip Creek tributary,,1072,293,doco,G42,2245159,5617482,14009862,efp,1,,49
+101678,1,2011,Clutha River,1341030,Dip Creek,752.888,1500,Dip Creek,,886,291,doco,G42,2243859,5616983,14010061,efp,1,,200
+101682,1,2011,Clutha River,1341029,Dip Creek tributary,752.888,1645,Dip Creek tributary,,917,290,doco,G42,2243458,5614285,14011129,efp,1,,160
+101683,1,2011,Clutha River,1341029,Dip Creek tributary,752.888,1635,Dip Creek tributary, ,919,209,doco,g42,2243358,5614285,14011129,efp,1, , 
+103436,9,2011,Clutha River,1341023,Coal Creek lower,752.582,1003,Coal Creek,,414,261,uoo,G42,2237803,5599915,14015535,efp,,,
+103437,9,2011,Clutha River,1341036,Lagoon Creek,752.95,1009,Lagoon Creek,,431,258,uoo,G40,2217669,5608300,14012305,efp,,,
+103443,9,2011,Clutha River,1341034,Schoolhouse Creek,752,1000,Schoolhouse Creek,,403,231,uoo,H46,2219041,5588899,14019186,efp,,,
+103444,9,2011,Clutha River,1341033,Kidd Creek,752,1004,Kidd Creek,,288,226,uoo,H46,2217778,5586925,14019950,efp,,,
+106224,4,2011,Clutha River,1341024,Coal Creek upper,752.884,1200,Coal Creek,,829,271,doco,G58,2247312,5600165,14015457,efp,2,,18
+106225,4,2011,Clutha River,1341024,Coal Creek upper,752.884,1420,Coal Creek,,829,271,doco,G59,2246630,5600015,14015457,efp,3,,28
+117150,4,2011,Clutha River,1341015,Wainui Creek,752.881,0,Wainui Creek, ,400,241,doco, ,2231215,5584582,14020730,efp,1, ,
+117151,4,2011,Clutha R,1341015,Wainui Creek,752.881,0,Wainui Creek, ,501,241,doco, ,2231565,5584579,14020626,efp,1, ,
+117152,4,2011,Clutha R,1341015,Wainui Creek,752.881,0,Wainui Creek, ,604,243,doco, ,2233264,5584984,14020627,efp,1, ,
+117153,4,2011,Clutha R,1341015,Wainui Creek,752.881,0,Wainui Creek, ,630,243,doco, ,2233376,5584915,14020644,efp,1, ,
+101693,5,2012,Clutha River,1341021,Cluden Stream tributary 3,752.883,,Cluden Stream tributary,,851,270,doco,G40,2248398,5597866,14016271,efp,1,,
+101694,5,2012,Clutha River,1341021,Cluden Stream tributary 3,752.883,,Cluden Stream tributary,,810,270,doco,G40,2248186,5597900,14016271,efp,1,,
+101695,5,2012,Clutha River,1341021,Cluden Stream tributary 3,752.883, ,Cluden Stream tributary, ,805,270,doco,g40,2248092,5597891,14016271,efp,1, , 
+101696,5,2012,Clutha River,1341021,Cluden Stream tributary 3,752.883, ,Cluden Stream tributary, ,811,270,doco,g40,2248150,5597902,14016271,efp,1, , 
+101699,5,2012,Clutha River,1341022,Cluden Stream upper,752.883, ,Cluden Stream tributary, ,914,273,doco,g40,2248583,5594971,14017202,efp,1, , 
+101700,5,2012,Clutha River,1341022,Cluden Stream upper,752.883,,Cluden Stream tributary,,901,273,doco,g40,2248434,5595067,14017202,efp,1,,
+101701,5,2012,Clutha River,1341022,Cluden Stream upper,752.883, ,Cluden Stream tributary, ,918,273,doco,g40,2248412,5594912,14017201,efp,1, , 
+101702,5,2012,Clutha River,1341022,Cluden Stream upper,752.883,,Cluden Stream tributary,,909,273,doco,G40,2248401,5594884,14017201,efp,1,,
+101703,5,2012,Clutha River,1341022,Cluden Stream upper,752.883,,Cluden Stream,,906,273,doco,g40,2248310,5595057,14017189,efp,1,,
+101704,5,2012,Clutha River,1341022,Cluden Stream upper,752.883, ,Cluden Stream, ,920,273,doco,g40,2248152,5594594,14017189,efp,1, , 
+101705,5,2012,Clutha River,1341022,Cluden Stream upper,752.883, ,Cluden Stream, ,1038,274,doco,g40,2248407,5594043,14017378,efp,1, , 
+101708,5,2012,Clutha River,1341022,Cluden Stream upper,752.883, ,Cluden Stream tributary, ,1051,273,doco,g40,2248443,5594464,14017201,efp,1, , 
+101709,5,2012,Clutha River,1341020,Cluden Stream lower,752.883,,Cluden Stream,,529,261,doco,G40,2241218,5596912,14016558,efp,1,,100
+101710,5,2012,Clutha River,1341020,Cluden Stream lower,752.883,,Cluden Stream,,507,260,doco,G40,2240829,5596738,14016656,efp,1,,
+101711,5,2012,Clutha River,1341020,Cluden Stream lower,752.883, ,Cluden Stream tributary, ,510,260,doco,g40,2240861,5596738,14016656,efp,1, , 
+106704,11,2012,Clutha River,1341041,Spotts Creek,752.971,1200,Spotts Creek,,442,282,doco,F40,2198892,5596677,14016655,efp,1,,140
+106705,11,2012,Clutha River,1341041,Spotts Creek,752.971,1300,Spotts Creek,,457,283,doco,F40,2198676,5596910,14016465,efp,1,,90
+106706,11,2012,Clutha River,1341041,Spotts Creek,752.971,1345,Spotts Creek,,457,283,doco,F40,2198496,5597072,14016465,efp,1,,140
+106707,11,2012,Clutha River,1341041,Spotts Creek,752.971,1400,Spotts Creek, ,457,283,doco,f40,2198451,5597111,14016465,efp,1, ,5
+106708,11,2012,Clutha River,1341041,Spotts Creek,752.971,1450,Spotts Creek,,474,284,doco,F40,2198187,5597561,14016360,efp,1,,90
+106709,11,2012,Clutha River,1341041,Spotts Creek,752.971,1500,Spotts Creek, ,504,284,doco,f40,2198157,5597579,14016316,efp,1, ,5
+106710,11,2012,Clutha River,1341041,Spotts Creek,752.971,1530,Spotts Creek tributary,,683,284,doco,f40,2198081,5597466,14016360,efp,1,,10
+106711,11,2012,Clutha River,1341041,Spotts Creek,752.971,1535,Spotts Creek,,520,284,doco,F40,2198058,5597772,14016149,efp,1,,10
+106712,11,2012,Clutha River,1341041,Spotts Creek,752.971,1540,Spotts Creek tributary,,701,284,doco,f40,2198012,5597751,14016284,efp,1,,20
+106713,11,2012,Clutha River,1341041,Spotts Creek,752.971,1600,Spotts Creek, ,520,284,doco,f40,2197970,5597893,14016149,efp,1, ,160
+106714,11,2012,Clutha River,1341041,Spotts Creek,752.971,1640,Spotts Creek,,504,284,doco,F40,2198087,5597632,14016316,efp,1,,20
+106734,11,2012,Clutha River,1341041,Spotts Creek,752.971,1000,Spotts Creek,,541,284,doco,f40,2197792,5598554,14016070,efp,1,,20
+106735,11,2012,Clutha River,1341041,Spotts Creek,752.971,1030,Spotts Creek,,595,285,doco,f40,2197915,5598808,14015868,efp,1,,20
+106736,11,2012,Clutha River,1341041,Spotts Creek,752.971,1150,Spotts Creek,,605,285,doco,f40,2197687,5598677,14015885,efp,1,,20
+106737,11,2012,Clutha River,1341041,Spotts Creek,752.971,1215,Spotts Creek,,605,285,doco,f40,2197466,5598631,14015885,efp,1,,20
+106738,11,2012,Clutha River,1341041,Spotts Creek,752.971,1240,Spotts Creek,,605,285,doco,f40,2197139,5598767,14015885,efp,1,,20
+106739,11,2012,Clutha River,1341041,Spotts Creek,752.971,1230,Spotts Creek,,605,285,doco,f40,2197255,5598713,14015885,efp,1,,20
+106740,11,2012,Clutha River,1341041,Spotts Creek,752.971,1250,Spotts Creek,,605,285,doco,f40,2197100,5598746,14015885,efp,1,,20
+106741,11,2012,Clutha River,1341041,Spotts Creek,752.971,1300,Spotts Creek,,605,285,doco,f40,2197030,5598751,14015885,efp,1,,10
+106742,11,2012,Clutha River,1341041,Spotts Creek,752.971,1330,Spotts Creek,,714,286,doco,f40,2196905,5598764,14015973,efp,1,,10
+106743,11,2012,Clutha River,1341039,Timber Creek,752.971,1130,Timber Creek,,386,278,orc,,2201363,5598433,14016003,efp,1,,15
+106744,11,2012,Clutha River,1341039,Timber Creek,752.971,1230,Timber Creek, ,386,278,orc, ,2201091,5598717,14016003,efp,1, ,7
+106745,11,2012,Clutha River,1341039,Timber Creek,752.971,1300,Timber Creek,,421,279,orc,,2201102,5598815,14015702,efp,1,,5
+106746,11,2012,Clutha River,1341039,Timber Creek,752.971,1330,Timber Creek, ,421,279,orc, ,2201004,5598927,14015702,efp,1, ,3
+106747,11,2012,Clutha River,1341039,Timber Creek,752.971,1430,Timber Creek,,421,279,orc,,2200943,5599313,14015702,efp,1,,35
+106748,11,2012,Clutha River,1341039,Timber Creek,752.971,1530,Timber Creek,,508,279,orc,,2201115,5599986,14015491,efp,1,,10
+106749,11,2012,Clutha River,1341039,Timber Creek,752.971,1615,Timber Creek,,508,279,orc,,2201252,5600236,14015491,efp,1,,7
+106750,11,2012,Clutha River,1341039,Timber Creek,752.971,1700,Timber Creek, ,508,279,orc, ,2201287,5600293,14015491,efp,1, ,25
+106751,11,2012,Clutha River,1341050,Unnamed stream Roadmans Gully,752.974,1330,Roadmans Gully,,1006,309,orc,,2190191,5572973,14025927,efp,1,,10
+106754,11,2012,Clutha River,1341044,Welshes Creek,752.97,1120,Welshes Creek, ,507,290,orc, ,2197414,5587720,14019618,efp,1, ,50
+106755,11,2012,Clutha River,1341044,Welshes Creek,752.97,1200,Welshes Creek, ,507,290,orc, ,2197554,5587590,14019618,efp,1, ,60
+106756,11,2012,Clutha River,1341044,Welshes Creek,752.97,1230,Welshes Creek, ,703,291,orc, ,2197955,5587380,14019813,efp,1, ,25
+106758,11,2012,Clutha River,1341049,Unnamed stream Wrights Gully,752.974, ,Wrights Gully, ,893,307,orc, ,2191246,5574311,14025357,efp,1, ,18
+106759,11,2012,Clutha River,1341049,Unnamed stream Wrights Gully,752.974, ,Wrights Gully, ,893,307,orc, ,2191418,5574069,14025357,efp,1, ,50
+106760,11,2012,Clutha River,1341049,Unnamed stream Wrights Gully,752.974, ,Wrights Gully, ,893,307,orc, ,2191736,5573908,14025357,efp,1, ,5
+106761,11,2012,Clutha River,1341049,Unnamed stream Wrights Gully,752.974, ,Wrights Gully, ,973,308,orc, ,2191968,5573938,14025586,efp,1, ,10
+106762,11,2012,Clutha River,1341047,Unnamed stream Maori Gully,752.745, ,Maori Gully, ,861,303,orc, ,2191492,5578841,14023232,efp,1, ,20
+106763,11,2012,Clutha River,1341047,Unnamed stream Maori Gully,752.975,,Maori Gully,,795,303,orc,,2190893,5578350,14023442,efp,1,,70
+106764,11,2012,Clutha River,1341047,Unnamed stream Maori Gully,752.975,,Maori Gully,,795,303,orc,,2190887,5578348,14023442,efp,1,,15
+106765,11,2012,Clutha River,1341042,Deep Creek,752.97,900,Deep Creek, ,987,288,orc, ,2200264,5590711,14018635,efp,1, ,5
+106766,11,2012,Clutha River,1341042,Deep Creek,752.97,920,Deep Creek,,950,288,orc,,2200257,5590707,14018635,efp,1,,6
+106767,11,2012,Clutha River,1341042,Deep Creek,752.97,1040,Deep Creek,,595,287,orc,,2200070,5590815,14018621,efp,1,,10
+106768,11,2012,Clutha River,1341042,Deep Creek,752.97,1100,Deep Creek,,499,286,orc,,2199879,5590837,14018554,efp,1,,10
+106769,11,2012,Clutha River,1341042,Deep Creek,752.97,1130,Deep Creek,,499,286,orc,,2199003,5591038,14018554,efp,1,,30
+106770,11,2012,Clutha River,1341040,Cardrona River tributary 1,752.97,1330,Cardrona River tributary,,382,279,orc,,2201302,5597097,14016466,efp,1,,17
+106771,11,2012,Clutha River,1341040,Cardrona River tributary 1,752.97,1410,Cardrona River tributary,,467,279,orc,,2201603,5596977,14016486,efp,1,,6
+106775,11,2012,Clutha River,1341038,Cardrona River upper,752.97,1435,Cardrona River tributary,,610,277,orc,,2202550,5598641,14016033,efp,1,,
+101249,5,2013,Clutha River,1341045,Boundary Creek,752.975,,Boundary Creek,,666,296,doco,f41,2193899,5586643,14019983,efp,1,,
+101250,5,2013,Clutha River,1341043,Branch Burn,752.973,,Back Creek,,570,292,doco,f41,2196362,5592887,14017904,efp,1,,
+101251,5,2013,Clutha River,1341043,Branch Burn,752.973,,Back Creek tributary,,507,210,doco,f41,2196758,5591752,14017904,efp,1,,
+101252,5,2013,Clutha River,1341043,Branch Burn,752.973,,Back Creek,,505,291,doco,f41,2196818,5591646,14018375,efp,1,,
+101253,5,2013,Clutha River,1341043,Branch Burn,752.973,,Back Creek,,504,290,doco,f41,2196785,5591547,14018394,efp,1,,
+101254,5,2013,Clutha River,1341043,Branch Burn,752.973, ,Back Creek, ,487,289,doco,f41,2196961,5590825,14018620,efp,1, , 
+101255,5,2013,Clutha River,1341039,Timber Creek,752.971,,Timber Creek tributary,,426,279,doco,f41,2201045,5598731,14015987,efp,1,,
+101256,5,2013,Clutha River,1341039,Timber Creek,752.971,,Timber Creek tributary,,457,279,doco,f41,2200939,5598751,14015730,efp,1,,
+101257,5,2013,Clutha River,1341039,Timber Creek,752.971,,Timber Creek tributary,,454,279,doco,f41,2200973,5598730,14015987,efp,1,,
+101258,5,2013,Clutha River,1341039,Timber Creek,752.971, ,Timber Creek, ,416,279,doco,f41,2201025,5598896,14015702,efp,1, , 
+101259,5,2013,Clutha River,1341039,Timber Creek,752.971, ,Timber Creek, ,409,279,doco,f41,2201021,5598925,14015702,efp,1, , 
+101260,5,2013,Clutha River,1341039,Timber Creek,752.971, ,Timber Creek tributary, ,411,279,doco,f41,2200973,5598935,14015702,efp,1, , 
+101261,5,2013,Clutha River,1341039,Timber Creek,752.971, ,Timber Creek, ,418,279,doco,f41,2200973,5599150,14015702,efp,1, , 
+101262,5,2013,Clutha River,1341039,Timber Creek,752.971,,Timber Creek,,450,279,doco,F41,2200879,5599422,14015502,efp,1,,
+101263,5,2013,Clutha River,1341039,Timber Creek,752.971, ,Timber Creek, ,452,279,doco,f41,2200866,5599430,14015702,efp,1, , 
+101264,5,2013,Clutha River,1341039,Timber Creek,752.971, ,Timber Creek, ,454,279,doco,f41,2200855,5599438,14015702,efp,1, , 
+101265,5,2013,Clutha River,1341039,Timber Creek,752.971, ,Timber Creek, ,459,279,doco,f41,2200827,5599450,14015702,efp,1, , 
+101266,5,2013,Clutha River,1341039,Timber Creek,752.971,,Timber Creek,,462,279,doco,F41,2200806,5599448,14015702,efp,1,,
+101267,5,2013,Clutha River,1341039,Timber Creek,752.971,,Timber Creek tributary,,595,280,doco,F41,2200342,5599676,14015580,efp,1,,
+101268,5,2013,Clutha River,1341039,Timber Creek,752.971,,Timber Creek tributary,,560,280,doco,F41,2200342,5599767,14015580,efp,1,,
+101269,5,2013,Clutha River,1341039,Timber Creek,752.971,,Timber Creek,,525,279,doco,F41,2200368,5599829,14015502,efp,1,,
+101270,5,2013,Clutha River,1341039,Timber Creek,752.971, ,Timber Creek, ,512,279,doco,f41,2200356,5599859,14015502,efp,1, , 
+101274,3,2013,Clutha River,1341017,Big Spur Creek,752.883,,Big Spur Creek,,616,260,doco,G40,2238664,5591866,14018230,efp,1,,
+101275,3,2013,Clutha River,1341017,Big Spur Creek,752.883,,Big Spur Creek,,639,260,doco,G40,2238670,5591737,14018230,efp,1,,
+101276,3,2013,Clutha River,1341017,Big Spur Creek,752.883,,Big Spur Creek tributary,,655,260,doco,G40,2238501,5591566,14018230,efp,1,,
+101277,3,2013,Clutha River,1341017,Big Spur Creek,752.883,,Big Spur Creek,,668,262,doco,G40,2238491,5590527,14018650,efp,1,,
+101278,3,2013,Clutha River,1341017,Big Spur Creek,752.883,,Big Spur Creek,,668,262,doco,G40,2238484,5590515,14018650,efp,1,,
+101279,3,2013,Clutha River,1341017,Big Spur Creek,752.883,,Big Spur Creek,,661,262,doco,G40,2238502,5590608,14018650,efp,1,,
+101280,3,2013,Clutha River,1341017,Big Spur Creek,752.883,,Big Spur Creek,,655,261,doco,G40,2238467,5590824,14018479,efp,1,,
+101289,4,2013,Clutha River,1341008,Maori Creek upper,752.636, ,Maori Creek, ,589,244,doco,h41,2255740,5548863,14037289,efp,1, , 
+101290,4,2013,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek,,571,244,doco,H41,2256028,5548995,14037289,efp,1,,
+101291,4,2013,Clutha River,1341008,Maori Creek upper,752.636, ,Maori Creek, ,570,244,doco,h41,2255975,5548923,14037289,efp,1, , 
+101744,8,2013,Clutha River,1341016,Lindis River tributary,752.88, ,Lindis River tributary, ,457,242,doco,g40,2227422,5596305,14016120,efp,1, ,20
+101745,8,2013,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,462,242,doco,G40,2227444,5596417,14016120,efp,1,,10
+101746,8,2013,Clutha River,1341016,Lindis River tributary,752.88, ,Lindis River tributary, ,464,242,doco,g40,2227437,5596541,14016120,efp,1, ,10
+101747,8,2013,Clutha River,1341016,Lindis River tributary,752.88, ,Lindis River tributary, ,480,242,doco,g40,2227404,5596847,14016120,efp,1, ,10
+101748,8,2013,Clutha River,1341016,Lindis River tributary,752.88, ,Lindis River tributary, ,526,242,doco,g40,2227256,5596995,14016120,efp,1, ,15
+101749,8,2013,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,561,244,doco,G40,2227065,5597118,14016508,efp,1,,10
+101750,8,2013,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,571,244,doco,G40,2227039,5597135,14016508,efp,1,,
+101751,8,2013,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,567,245,doco,g40,2226835,5597206,14016427,efp,1,,
+101752,8,2013,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,678,245,doco,G40,2226337,5597127,14016508,efp,1,,
+101753,8,2013,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,512,242,doco,G40,2227108,5597200,14016120,efp,1,,
+101754,8,2013,Clutha River,1341016,Lindis River tributary,752.88, ,Lindis River tributary, ,516,242,doco,g40,2227122,5597309,14016120,efp,1, , 
+101755,8,2013,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,527,244,doco,g40,2227113,5597465,14016120,efp,1,,
+101756,8,2013,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,533,244,doco,g40,2227129,5597513,14016120,efp,1,,
+101773,8,2013,Clutha River,1341035,Sheepskin Creek,752.93,1240,Sheepskin Creek,,390,250,doco,G40,2216515,5598567,14015935,efp,1,,15
+101774,8,2013,Clutha River,1341035,Sheepskin Creek,752.93,1240,Sheepskin Creek,,405,251,doco,G40,2216334,5597669,14016309,efp,1,,10
+101775,8,2013,Clutha River,1341035,Sheepskin Creek,752.93,1240,Sheepskin Creek,,426,251,doco,G40,2216154,5597370,14016309,efp,1,,5
+106671,5,2013,Clutha River,1341039,Timber Creek,752.971,,Timber Creek tributary,,551,280,doco,F40,2200321,5599745,14015580,efp,,,
+106778,1,2013,Clutha River,1341045,Boundary Creek,752.975,1125,Boundary Creek, ,518,292,orc, ,2196206,5587388,14019698,efp,1, ,15
+106779,1,2013,Clutha River,1341045,Boundary Creek,752.975,1150,Boundary Creek, ,518,292,orc, ,2195994,5587525,14019698,efp,1, ,12
+106780,1,2013,Clutha River,1341045,Boundary Creek,752.975,1240,Boundary Creek, ,550,293,orc, ,2195508,5587778,14019632,efp,1, ,20
+106781,1,2013,Clutha River,1341045,Boundary Creek,752.975,1313,Boundary Creek,,573,294,orc,,2194866,5587638,14019658,efp,1,,30
+106782,1,2013,Clutha River,1341045,Boundary Creek,752.975,1355,Boundary Creek,,623,295,orc,,2194170,5586858,14019983,efp,1,,20
+106783,1,2013,Clutha River,1341045,Boundary Creek,752.975,1500,Boundary Creek, ,623,295,orc, ,2194024,5586721,14019983,efp,1, ,25
+106784,1,2013,Clutha River,1341045,Boundary Creek,752.975,1545,Boundary Creek,,711,296,orc,,2193545,5586665,14019983,efp,1,,25
+106785,1,2013,Clutha River,1341043,Branch Burn,752.973,1300,Branch Burn, ,478,288,doco, ,2198031,5590001,14018921,efp,1, ,50
+106786,1,2013,Clutha River,1341043,Branch Burn,752.973,1400,MacDonalds Creek, ,582,289,doco, ,2194650,5590454,14018752,efp,1, ,60
+106787,1,2013,Clutha River,1341043,Branch Burn,752.973,1600,MacDonalds Creek, ,582,289,doco, ,2194676,5590440,14018752,efp,1, ,30
+106788,1,2013,Clutha River,1341043,Branch Burn,752.973,1700,MacDonalds Creek,,582,289,doco,,2194977,5590345,14018752,efp,1,,80
+106789,1,2013,Clutha River,1341043,Branch Burn,752.973,730,Branch Burn,,721,297,orc,,2191540,5592002,14018238,efp,1,,10
+106790,1,2013,Clutha River,1341043,Branch Burn,752.973,805,Branch Burn,,679,296,orc,,2191590,5592149,14018037,efp,1,,10
+106791,1,2013,Clutha River,1341043,Branch Burn,752.973,840,Branch Burn,,679,296,orc,,2191718,5592306,14018037,efp,1,,15
+106792,1,2013,Clutha River,1341043,Branch Burn,752.973,930,Branch Burn,,845,296,orc,,2192280,5592791,14017940,efp,1,,21
+106793,1,2013,Clutha River,1341043,Branch Burn,752.973,1030,Branch Burn, ,845,296,orc, ,2191926,5592822,14017940,efp,1, ,15
+106794,1,2013,Clutha River,1341043,Branch Burn,752.973,1100,Branch Burn, ,767,296,orc, ,2192411,5592762,14017959,efp,1, ,22
+106795,1,2013,Clutha River,1341043,Branch Burn,752.973,1130,Branch Burn, ,684,295,orc, ,2192742,5592948,14017877,efp,1, ,16
+106796,1,2013,Clutha River,1341043,Branch Burn,752.973,1300,Branch Burn, ,478,288,orc, ,2198360,5589853,14018921,efp,1, ,35
+106797,1,2013,Clutha River,1341043,Branch Burn,752.973,745,Branch Burn,,714,295,doco,,2192757,5593025,14017742,efp,1,,130
+106798,1,2013,Clutha River,1341043,Branch Burn,752.973,900,Branch Burn,,714,295,doco,,2192486,5593291,14017742,efp,1,,100
+106799,1,2013,Clutha River,1341043,Branch Burn,752.973,1130,Branch Burn, ,611,293,doco, ,2194374,5592222,14018121,efp,1, ,150
+106800,1,2013,Clutha River,1341043,Branch Burn,752.973,1330,Branch Burn, ,568,291,doco, ,2195523,5589567,14019068,efp,1, ,20
+106803,1,2013,Clutha River,1341011,Bannock Burn tributary 1,752.741,755,Bannock Burn tributary,,651,224,orc,,2205638,5551748,14035847,efp,1,,10
+106805,1,2013,Clutha River,1341011,Bannock Burn tributary 1,752.741,945,Bannock Burn,,715,224,orc,,2205551,5551460,14035968,efp,1,,5
+106806,1,2013,Clutha River,1341012,Bannock Burn tributary 2,752.741,1045,Bannock Burn tributary,,932,224,orc,,2204752,5551734,14035758,efp,1,,12
+106808,1,2013,Clutha River,1341012,Bannock Burn tributary 2,752.741,1300,Bannock Burn,,658,224,orc,,2205759,5552217,14035758,efp,1,,30
+106810,1,2013,Clutha River,1341013,Bannock Burn tributary 3,752.741,815,Bannock Burn tributary,,730,224,doco,,2205490,5552370,14035678,efp,1,,16
+106811,1,2013,Clutha River,1341014,Unnamed stream Duffers Gully,752.741,942,Bannock Burn,,714,225,doco,,2204409,5552311,14035568,efp,1,,50
+106812,1,2013,Clutha River,1341014,Unnamed stream Duffers Gully,752.741,1045,Bannock Burn,,714,225,doco,,2204368,5552371,14035568,efp,1,,24
+106813,1,2013,Clutha River,1341014,Unnamed stream Duffers Gully,752.741,1120,Bannock Burn,,714,225,doco,,2204348,5552386,14035568,efp,1,,15
+106814,1,2013,Clutha River,1341013,Bannock Burn tributary 3,752.741,1324,Bannock Burn tributary,,730,224,doco,,2204105,5551593,14035678,efp,1,,12
+106815,1,2013,Clutha River,1341014,Unnamed stream Duffers Gully,752.741,1430,Bannock Burn,,639,225,doco,,2205279,5552634,14035568,efp,1,,30
+102445,11,2014,Clutha River,1341036,Lagoon Creek,752.95,1200,Lagoon Creek,,513,260,docc,G40,2218369,5608464,14012554,efp,1,,225
+102447,11,2014,Clutha River,1341035,Sheepskin Creek,752.93,1100,Sheepskin Creek,,394,251,docc,G40,2216277,5597525,14016309,efp,3,,14
+102448,11,2014,Clutha River,1341026,Short Spur Creek,752.886,1130,Short Spur Creek,,710,275,docc,G40,2241951,5607813,14012953,efp,3,,8
+102493,11,2014,Clutha River,1341040,Cardrona River tributary 1,752.97,945,Cardrona River tributary,,467,279,docc,F40,2201291,5597095,14016486,efp,,,90
+104153,5,2014,Clutha River,1341016,Lindis River tributary,752.88, ,Lindis Creek tributary, ,598,245,doco,g40,2226313,5597144,14016508,efp,1, ,0
+104154,5,2014,Clutha River,1341016,Lindis River tributary,752.88, ,Lindis River tributary, ,598,245,doco,g40,2226323,5597138,14016508,efp,1, ,0
+104155,5,2014,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,598,245,doco,G40,2226301,5597148,14016508,efp,1,,7
+104212,5,2014,Clutha River,1341050,Unnamed stream Roadmans Gully,752.974,,Roadmans Gully,,1006,309,doco,F41,2190174,5573068,14025927,efp,1,,
+104213,5,2014,Clutha River,1341050,Unnamed stream Roadmans Gully,752.974,,Roadmans Gully,,1006,309,doco,F41,2190165,5573062,14025927,efp,1,,
+104215,5,2014,Clutha River,1341050,Unnamed stream Roadmans Gully,752.974,,Roadmans Gully,,1006,309,doco,F41,2190186,5573083,14025927,efp,1,,
+104218,5,2014,Clutha River,1341050,Unnamed stream Roadmans Gully,752.974,,Roadmans Gully,,1006,309,doco,F41,2190245,5572875,14025927,efp,1,,
+104219,8,2014,Clutha River,1341010,Shepherds Creek,752.741,1155,Shepherds Creek, ,370,214,doco,f42,2207245,5557074,14033503,efp,1, ,0
+104220,8,2014,Clutha River,1341010,Shepherds Creek,752.741,1205,Shepherds Creek, ,370,214,doco,f42,2207211,5557034,14033503,efp,1, ,0
+104221,8,2014,Clutha River,1341010,Shepherds Creek,752.741,1215,Shepherds Creek, ,370,214,doco,f42,2207175,5556991,14033503,efp,1, ,0
+104222,8,2014,Clutha River,1341010,Shepherds Creek,752.741,1230,Shepherds Creek, ,370,214,doco,f42,2207112,5556973,14033503,efp,1, ,0
+104223,8,2014,Clutha River,1341010,Shepherds Creek,752.741,1240,Shepherds Creek, ,370,214,doco,f42,2207083,5556936,14033503,efp,1, ,0
+104224,8,2014,Clutha River,1341010,Shepherds Creek,752.741,1250,Shepherds Creek, ,370,214,doco,f42,2207074,5556911,14033503,efp,1, ,0
+104294,5,2014,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,550,241,doco,g41,2231375,5584580,14020626,efp,1, ,10
+104295,5,2014,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,550,241,doco,g41,2231880,5584603,14020626,efp,1, ,10
+104296,5,2014,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,550,241,doco,g41,2231907,5584598,14020626,efp,1, ,10
+104297,5,2014,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,550,241,doco,g41,2231950,5584629,14020626,efp,1, ,10
+104298,5,2014,Clutha River,1341015,Wainui Creek,752.881,,Wainui Creek,,550,241,doco,G41,2231954,5584635,14020626,efp,1,,10
+104299,5,2014,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,550,241,doco,g41,2231970,5584636,14020626,efp,1, ,10
+104300,5,2014,Clutha River,1341015,Wainui Creek,752.881,,Wainui Creek,,550,241,doco,G41,2231982,5584642,14020626,efp,1,,10
+104301,5,2014,Clutha River,1341015,Wainui Creek,752.881,,Wainui Creek,,550,241,doco,G41,2231998,5584645,14020626,efp,1,,10
+104302,5,2014,Clutha River,1341015,Wainui Creek,752.881,,Wainui Creek,,550,241,doco,G41,2232005,5584642,14020626,efp,1,,10
+104303,5,2014,Clutha River,1341015,Wainui Creek,752.881,,Wainui Creek,,550,241,doco,G41,2232050,5584671,14020626,efp,1,,10
+104304,5,2014,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,550,241,doco,g41,2232058,5584688,14020626,efp,1, ,10
+104305,5,2014,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,340,236,doco,g41,2229868,5585409,14020076,efp,1, ,10
+102446,3,2015,Clutha River,1341034,Schoolhouse Creek,752.89,1050,Schoolhouse Creek,,403,231,docc,G41,2218385,5589223,14019186,efp,3,,8
+103618,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,night,Bickerstaffe Creek,,771,197,doco,G42,2236202,5532818,14044319,gmt,,,5
+103619,10,2015,Clutha River,1341003,Hopes Creek,752.631,1133,Hopes Creek,,778,211,doco,G43,2239773,5524965,14046949,efp,1,,10
+103620,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1302,Bickerstaffe Creek tributary,,823,207,doco,G43,2237298,5524996,14047096,efp,1,,20
+103621,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1457,Bickerstaffe Creek tributary,,749,201,doco,G43,2236384,5529372,14045446,efp,1,,10
+103622,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1514,Bickerstaffe Creek,,775,201,doco,G43,2235884,5529395,14045445,efp,1,,20
+103623,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1614,Bickerstaffe Creek tributary,,760,200,doco,G42,2236757,5531153,14045320,efp,1,,5
+103624,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1650,Bickerstaffe Creek tributary,,760,200,doco,G42,2237225,5530807,14045320,efp,1,,5
+103625,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1655,Bickerstaffe Creek tributary,,760,200,doco,G42,2237228,5530791,14045320,efp,1,,5
+103626,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,night,Bickerstaffe Creek tributary,,760,200,doco,G42,2236745,5531147,14044987,gmt,,,10
+103627,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,night,Bickerstaffe Creek,,751,199,doco,G42,2236205,5530544,14044688,gmt,,,10
+103628,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,night,Bickerstaffe Creek,,739,198,doco,G42,2236494,5531501,14044687,gmt,,,7
+103629,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1417,Bickerstaffe Creek tributary,,770,204,doco,G43,2235478,5527474,14046271,efp,1,,2
+103630,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1424,Bickerstaffe Creek,,771,204,doco,G43,2235510,5527472,14046272,efp,1,,5
+103632,10,2015,Clutha River,1341003,Hopes Creek,752.631,1121,Hopes Creek tributary,,797,211,doco,g43,2238832,5525149,14047036,han,,,2
+103633,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1355,Bickerstaffe Creek tributary,,814,206,doco,g43,2237470,5526215,14046790,han,,,2
+103634,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1416,Bickerstaffe Creek tributary,,820,204,doco,g43,2237882,5527627,14046089,han,,,2
+103635,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1431,Bickerstaffe Creek tributary,,760,200,doco,g43,2237086,5529578,14044987,han,,,2
+103636,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1632,Bickerstaffe Creek tributary,,773,204,doco,g42,2237060,5531270,14044903,efp,1,,4
+103637,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1636,Bickerstaffe Creek tributary,,773,204,doco,g42,2237187,5531226,14044903,efp,1,,4
+103640,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1412,Bickerstaffe Creek tributary, ,770,204,doco,g43,2235369,5527419,14046271,efp,1, ,2
+103642,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1125,Bickerstaffe Creek tributary,,780,202,doco,g43,2236811,5528813,14045446,efp,1,,5
+103643,10,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,1134,Bickerstaffe Creek tributary,,778,202,doco,g43,2236394,5528638,14045706,efp,1,,20
+104107,3,2015,Clutha River,1341037,Cardrona River lower,752.97,1000,Cardrona River, ,319,265,doco,f40,2208711,5606692,14013373,efp,1, ,0
+104110,3,2015,Clutha River,1341038,Cardrona River upper,752.97,1300,Cardrona River,,355,275,doco,F40,2203423,5599562,14015589,efp,1,,
+104111,3,2015,Clutha River,1341038,Cardrona River upper,752.97,1400,Cardrona River,,354,276,doco,F40,2202622,5599103,14015751,efp,1,,
+104112,3,2015,Clutha River,1341038,Cardrona River upper,752.97,1500,Cardrona River,,401,279,doco,F40,2201204,5597112,14016403,efp,1,,
+104113,3,2015,Clutha River,1341050,Unnamed stream Roadmans Gully,752.97,1600,Cardrona River tributary,,920,308,doco,F41,2190182,5573070,14025666,efp,1,,
+104114,3,2015,Clutha River,1341050,Unnamed stream Roadmans Gully,752.97,1700,Cardrona River tributary,,920,308,doco,F41,2190190,5573081,14025666,efp,1,,
+104139,3,2015,Clutha River,1341020,Cluden Stream lower,752.883,,Cluden Stream tributary,,498,261,doco,G40,2241216,5596913,14016558,efp,1,,
+104140,3,2015,Clutha River,1341021,Cluden Stream tributary 3,752.883,,Cluden Stream tributary,,863,270,doco,G40,2248187,5597897,14016271,efp,1,,
+104177,3,2015,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,598,245,doco,G40,2226452,5597088,14016508,efp,1,,
+104178,3,2015,Clutha River,1341016,Lindis River tributary,752.88,,Lindis River tributary,,598,245,doco,G40,2226427,5597040,14016508,efp,1,,
+104887,3,2015,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,550,241,doco,g41,2231881,5584597,14020626,efp, , , 
+104888,3,2015,Clutha River,1341015,Wainui Creek,752.881,,Wainui Creek,,550,241,doco,G41,2231910,5584599,14020626,efp,,,
+104889,3,2015,Clutha River,1341015,Wainui Creek,752.881,,Wainui Creek,,550,241,doco,G41,2231917,5584605,14020626,efp,,,
+104890,3,2015,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,550,241,doco,g41,2231962,5584622,14020626,efp, , , 
+104891,3,2015,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,550,241,doco,g41,2231968,5584623,14020626,efp, , , 
+104892,3,2015,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,550,241,doco,g41,2231971,5584625,14020626,efp, , , 
+104893,3,2015,Clutha River,1341015,Wainui Creek,752.881, ,Wainui Creek, ,550,241,doco,g41,2231973,5584625,14020626,efp, , , 
+104894,3,2015,Clutha River,1341015,Wainui Creek,752.881,,Wainui Creek,,550,241,doco,G41,2231968,5584629,14020626,efp,,,
+104895,3,2015,Clutha River,1341015,Wainui Creek,752.881,,Wainui Creek,,550,241,doco,G41,2231980,5584629,14020626,efp,,,
+104896,3,2015,Clutha River,1341015,Wainui Creek,752.881,,Wainui Creek,,550,241,doco,G41,2231987,5584626,14020626,efp,,,
+104897,3,2015,Clutha River,1341015,Wainui Creek,752.881,,Wainui Creek,,550,241,doco,G41,2231950,5584608,14020626,efp,,,
+104898,12,2015,Clutha River,1341046,Pongs Creek,752.97, ,Cardrona River tributary, ,588,295,doco,F41,2194434,5584790,14020624,efp, , , 
+104899,12,2015,Clutha River,1341046,Pongs Creek,752.97,,Cardrona River tributary,,588,295,doco,F41,2194425,5584803,14020624,efp,,,
+104900,12,2015,Clutha River,1341046,Pongs Creek,752.97, ,Cardrona River tributary, ,588,295,doco,F41,2194413,5584804,14020624,efp, , , 
+104901,12,2015,Clutha River,1341046,Pongs Creek,752.97, ,Cardrona River tributary, ,588,295,doco,F41,2194398,5584813,14020624,efp, , , 
+104902,12,2015,Clutha River,1341046,Pongs Creek,752.97, ,Cardrona River tributary, ,588,295,doco,F41,2194388,5584791,14020624,efp, , , 
+104903,12,2015,Clutha River,1341046,Pongs Creek,752.97, ,Cardrona River tributary, ,588,295,doco,F41,2194374,5584817,14020624,efp, , , 
+104904,12,2015,Clutha River,1341046,Pongs Creek,752.97, ,Cardrona River tributary, ,588,295,doco,F41,2194525,5584734,14020624,efp, , , 
+104905,12,2015,Clutha River,1341046,Pongs Creek,752.97, ,Cardrona River tributary, ,588,295,doco,F41,2194495,5584747,14020624,efp, , , 
+104906,12,2015,Clutha River,1341046,Pongs Creek,752.97, ,Cardrona River tributary, ,588,295,doco,F41,2194487,5584747,14020624,efp, , , 
+104907,12,2015,Clutha River,1341046,Pongs Creek,752.97,,Cardrona River tributary,,588,295,doco,F41,2194465,5584755,14020624,efp,,,
+104908,12,2015,Clutha River,1341046,Pongs Creek,752.97, ,Cardrona River tributary, ,588,295,doco,F41,2194458,5584758,14020624,efp, , , 
+104909,12,2015,Clutha River,1341046,Pongs Creek,752.97,,Cardrona River tributary,,588,295,doco,F41,2194457,5584755,14020624,efp,,,
+104910,12,2015,Clutha River,1341046,Pongs Creek,752.97, ,Cardrona River tributary, ,588,295,doco,F41,2194448,5584775,14020624,efp, , , 
+106972,1,2016,Clutha River,1341008,Maori Creek upper,752.636,,Maori Creek,,976,260,ind,G41,2258621,5537884,14041684,vbd,,,
+107447,4,2016,Clutha River,1341046,Pongs Creek,752.97,849,Cardrona River tributary,,588,295,doco,F40,2194205,5584918,14020624,efp,,,
+107448,4,2016,Clutha River,1341046,Pongs Creek,752.97,916,Cardrona River tributary, ,588,295,doco,F40,2194185,5584950,14020624,efp, , , 
+107449,4,2016,Clutha River,1341046,Pongs Creek,752.97,921,Cardrona River tributary,,588,295,doco,F40,2194164,5584952,14020624,efp,,,
+107450,4,2016,Clutha River,1341046,Pongs Creek,752.97,926,Cardrona River tributary,,588,295,doco,F40,2194057,5584973,14020624,efp,,,12
+107451,4,2016,Clutha River,1341046,Pongs Creek,752.97,931,Cardrona River tributary,,588,295,doco,F40,2194028,5584973,14020624,efp,,,
+107452,4,2016,Clutha River,1341046,Pongs Creek,752.97,935,Cardrona River tributary,,588,295,doco,F40,2194004,5584958,14020624,efp,,,25
+107453,4,2016,Clutha River,1341046,Pongs Creek,752.97,940,Cardrona River tributary,,588,295,doco,F40,2193982,5584952,14020624,efp,,,
+107454,4,2016,Clutha River,1341046,Pongs Creek,752.97,946,Cardrona River tributary,,588,295,doco,F40,2193946,5584928,14020624,efp,,,
+107455,4,2016,Clutha River,1341046,Pongs Creek,752.97,949,Cardrona River tributary,,588,295,doco,F40,2193918,5584906,14020624,efp,,,
+107456,4,2016,Clutha River,1341046,Pongs Creek,752.97,952,Cardrona River tributary,,754,296,doco,F40,2193682,5584863,14020677,efp,,,
+107458,4,2016,Clutha River,1341046,Pongs Creek,752.97,956,Cardrona River tributary,,754,296,doco,F40,2193645,5584868,14020677,efp,,,
+107459,4,2016,Clutha River,1341046,Pongs Creek,752.97,1000,Cardrona River tributary,,754,296,doco,F40,2193609,5584871,14020677,efp,,,
+107460,4,2016,Clutha River,1341046,Pongs Creek,752.97,1004,Cardrona River tributary,,754,296,doco,F40,2193561,5584871,14020677,efp,,,
+107461,4,2016,Clutha River,1341046,Pongs Creek,752.97,1007,Cardrona River tributary,,754,296,doco,F40,2193473,5584857,14020677,efp,,,
+107463,4,2016,Clutha River,1341046,Pongs Creek,752.97,1017,Cardrona River tributary,,754,296,doco,F40,2193441,5584848,14020677,efp,,,
+107464,4,2016,Clutha River,1341046,Pongs Creek,752.97,1021,Cardrona River tributary,,754,296,doco,F40,2193416,5584849,14020677,efp,,,
+107465,4,2016,Clutha River,1341046,Pongs Creek,752.97,1023,Cardrona River tributary,,754,296,doco,F40,2193313,5584858,14020677,efp,,,
+107467,4,2016,Clutha River,1341046,Pongs Creek,752.97,1026,Cardrona River tributary,,754,296,doco,F40,2193255,5584875,14020677,efp,,,
+107468,4,2016,Clutha River,1341046,Pongs Creek,752.97,1029,Cardrona River tributary,,754,296,doco,F40,2193231,5584869,14020677,efp,,,
+107469,4,2016,Clutha River,1341046,Pongs Creek,752.97,1034,Cardrona River tributary,,754,296,doco,F40,2193204,5584859,14020677,efp,,,
+107470,4,2016,Clutha River,1341046,Pongs Creek,752.97,1038,Cardrona River tributary,,754,296,doco,F40,2193171,5584843,14020677,efp,,,
+107471,4,2016,Clutha River,1341046,Pongs Creek,752.97,1043,Cardrona River tributary, ,754,296,doco,F40,2193150,5584837,14020677,efp, , , 
+107472,4,2016,Clutha River,1341046,Pongs Creek,752.97,1047,Cardrona River tributary, ,588,295,doco,F40,2194296,5584857,14020624,efp, , , 
+110195,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,785,202,docc,G42,2237823,5529924,14045402,tfu,,,1
+110196,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,785,202,docc,G42,2237818,5529921,14045402,tfu,,,1
+110197,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,785,202,docc,G42,2237855,5530075,14045402,tfu, , ,1
+110198,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237864,5530117,14045320,tfu, , ,1
+110199,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237836,5530169,14045320,tfu, , ,1
+110200,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237823,5530168,14045320,tfu, , ,1
+110201,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237813,5530166,14045320,tfu, , ,1
+110202,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237808,5530166,14045320,tfu,,,1
+110203,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237793,5530180,14045320,tfu, , ,1
+110204,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237771,5530236,14045320,tfu,,,1
+110205,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237755,5530256,14045320,tfu,,,1
+110206,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237738,5530283,14045320,tfu, , ,1
+110207,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237741,5530318,14045320,tfu,,,1
+110208,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237716,5530339,14045320,tfu, , ,1
+110209,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237706,5530330,14045320,tfu, , ,1
+110210,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237671,5530335,14045320,tfu,,,1
+110211,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237664,5530335,14045320,tfu,,,1
+110212,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237656,5530325,14045320,tfu,,,1
+110213,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237627,5530267,14045320,tfu,,,1
+110214,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237601,5530218,14045320,tfu, , ,1
+110215,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237551,5530187,14045320,tfu, , ,1
+110216,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237518,5530162,14045320,tfu, , ,1
+110217,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237470,5530163,14045320,tfu, , ,1
+110218,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237417,5530186,14045320,tfu, , ,1
+110219,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237402,5530186,14045320,tfu,,,1
+110220,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237388,5530183,14045320,tfu,,,1
+110221,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237356,5530197,14045320,tfu,,,1
+110222,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237344,5530208,14045320,tfu,,,1
+110223,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237307,5530270,14045320,tfu,,,1
+110224,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237292,5530287,14045320,tfu, , ,1
+110225,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237227,5530335,14045320,tfu,,,1
+110226,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237259,5530461,14045320,tfu, , ,1
+110227,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237217,5530774,14045320,tfu, , ,1
+110228,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237210,5530786,14045320,tfu, , ,1
+110229,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237222,5530788,14045320,tfu,,,1
+110230,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237185,5530813,14045320,tfu, , ,1
+110231,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237173,5530822,14045320,tfu,,,1
+110232,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237166,5530822,14045320,tfu,,,1
+110233,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237159,5530821,14045320,tfu,,,1
+110234,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237135,5530841,14045320,tfu,,,1
+110235,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237132,5530841,14045320,tfu,,,1
+110236,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237116,5530850,14045320,tfu,,,1
+110237,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237111,5530851,14045320,tfu,,,1
+110238,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237088,5530906,14045320,tfu,,,1
+110239,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237078,5530912,14045320,tfu,,,1
+110240,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237050,5530929,14045320,tfu, , ,1
+110241,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237037,5530959,14045320,tfu,,,1
+110242,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237043,5530967,14045320,tfu, , ,1
+110243,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237034,5530989,14045320,tfu, , ,1
+110244,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2236986,5530997,14045320,tfu,,,1
+110245,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2236968,5530990,14045320,tfu, , ,1
+110246,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2236938,5531018,14045320,tfu, , ,1
+110247,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2236857,5531074,14045320,tfu, , ,1
+110248,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2236795,5531163,14045320,tfu,,,1
+110249,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2236770,5531154,14045320,tfu, , ,1
+110250,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,752,199,docc,G42,2236738,5531169,14044866,tfu,,,1
+110251,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,752,199,docc,G42,2236727,5531170,14044866,tfu,,,1
+110252,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,752,199,docc,G42,2236719,5531172,14044866,tfu,,,1
+110253,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,752,199,docc,G42,2236704,5531199,14044866,tfu, , ,1
+110254,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,752,199,docc,G42,2236696,5531212,14044866,tfu,,,1
+110255,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,752,199,docc,G42,2236694,5531227,14044866,tfu,,,1
+110256,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,752,199,docc,G42,2236687,5531246,14044866,tfu,,,1
+110257,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,752,199,docc,G42,2236660,5531282,14044866,tfu,,,1
+110258,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,752,199,docc,G42,2236681,5531352,14044866,tfu, , ,1
+110259,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,752,199,docc,G42,2236674,5531404,14044866,tfu,,,1
+110260,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,752,199,docc,G42,2236641,5531416,14044866,tfu,,,1
+110261,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,752,199,docc,G42,2236640,5531448,14044866,tfu,,,1
+110262,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631,,Bickerstaffe Creek tributary,,760,200,docc,G42,2237196,5530807,14045320,tfu,,,1
+110263,4,2016,Clutha River,1341002,Bickerstaffe Creek,752.631, ,Bickerstaffe Creek tributary, ,760,200,docc,G42,2237043,5530945,14045320,tfu, , ,1
+110637,10,2016,Clutha River,1341005,Manor Burn tributary 2,752.631,1220,Manor Burn tributary,,764,205,docc,G42,2244938,5534949,14043646,efp,,,
+110640,10,2016,Clutha River,1341006,Manor Burn tributary 3,752.631,1308,Manor Burn, ,745,208,docc,G42,2244234,5533181,14044197,efp, , , 
+110641,10,2016,Clutha River,1341006,Manor Burn tributary 3,752.631,1315,Manor Burn, ,745,208,docc,G42,2244249,5533176,14044197,efp, , , 
+110642,10,2016,Clutha River,1341006,Manor Burn tributary 3,752.631,1318,Manor Burn, ,745,208,docc,G42,2244250,5533171,14044197,efp, , , 
+110643,10,2016,Clutha River,1341006,Manor Burn tributary 3,752.631,1319,Manor Burn, ,745,208,docc,G42,2244255,5533174,14044197,efp, , , 
+110644,10,2016,Clutha River,1341006,Manor Burn tributary 3,752.631,1332,Manor Burn, ,745,208,docc,G42,2244288,5533156,14044197,efp, , , 
+110645,10,2016,Clutha River,1341006,Manor Burn tributary 3,752.631,1334,Manor Burn,,745,208,docc,G42,2244289,5533156,14044197,efp,,,
+110647,10,2016,Clutha River,1341051,Unnamed water race,752.631,1444,Manor Burn tributary,,647,201,docc,G42,2245392,5540115,14041285,efp,,,
+110648,10,2016,Clutha River,1341051,Unnamed water race,752.636,1505,Moa Creek tributary,,622,250,docc,G42,2245809,5541950,14040485,efp,,,12
+112156,9,2016,Clutha River,1341010,Shepherds Creek,752.741,1000,Shepherds Creek, ,464,215,doco,F42,2206263,5555868,14033652,efp, , , 
+112157,9,2016,Clutha River,1341010,Shepherds Creek,752.741,1030,Shepherds Creek, ,604,216,doco,F42,2206120,5555692,14034107,efp, , , 
+112158,9,2016,Clutha River,1341010,Shepherds Creek,752.741,1045,Shepherds Creek, ,539,216,doco,F42,2206009,5555488,14034156,efp, , , 
+112159,9,2016,Clutha River,1341010,Shepherds Creek,752.741,1100,Shepherds Creek, ,539,216,doco,F42,2205982,5555403,14034156,efp, , , 
+112160,9,2016,Clutha River,1341010,Shepherds Creek,752.741,1130,Shepherds Creek,,539,216,doco,F42,2205945,5555334,14034156,efp,,,
+112162,9,2016,Clutha River,1341010,Shepherds Creek,752.741,1200,Shepherds Creek,,664,217,doco,F42,2205883,5555295,14034337,efp,,,
+112163,9,2016,Clutha River,1341010,Shepherds Creek,752.741,1230,Shepherds Creek, ,521,216,doco,F42,2206492,5556012,14034107,efp, , , 
+110781,4,2017,Clutha River,1341029,Dip Creek tributary,752.888,,Dip Creek,,1193,290,doco,G40,2243229,5614206,14011128,efp,,,
+110782,4,2017,Clutha River,1341029,Dip Creek tributary,752.888, ,Dip Creek, ,903,288,doco,G40,2243209,5614204,14010861,efp, , , 
+110786,4,2017,Clutha River,1341030,Dip Creek,752.888,,Dip Creek,,1225,293,doco,G40,2244948,5617769,14009862,efp,,,
+110787,4,2017,Clutha River,1341030,Dip Creek,752.888,,Dip Creek,,1225,293,doco,G40,2244943,5617786,14009862,efp,,,
+110788,4,2017,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek, ,1225,293,doco,G40,2244950,5617748,14009862,efp, , , 
+110789,4,2017,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek, ,1094,293,doco,G40,2245292,5618097,14009862,efp, , , 
+110790,4,2017,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek, ,1094,293,doco,G40,2245336,5618107,14009862,efp, , , 
+110791,4,2017,Clutha River,1341032,Smiths Creek,752.889, ,Smiths Creek, ,600,288,doco,G39,2237575,5622743,14008519,efp, , , 
+110800,4,2017,Clutha River,1341027,Camp Stream,752.885,1100,Camp Creek, ,934,283,doco,G40,2222110,5610067,14012266,efp, , , 
+110801,4,2017,Clutha River,1341027,Camp Stream,752.885,1130,Camp Creek, ,934,283,doco,G40,2222116,5610157,14012266,efp, , , 
+110802,4,2017,Clutha River,1341027,Camp Stream,752.885,1200,Camp Creek, ,995,283,doco,G40,2222111,5610190,14011946,efp, , , 
+110803,4,2017,Clutha River,1341027,Camp Stream,752.885,1230,Camp Creek, ,995,283,doco,G40,2222099,5610262,14011946,efp, , , 
+110804,4,2017,Clutha River,1341027,Camp Stream,752.885,1300,Camp Creek,,995,283,doco,G40,2222101,5610276,14011946,efp,,,
+110805,4,2017,Clutha River,1341027,Camp Stream,752.885,1340,Camp Creek,,995,283,doco,G40,2222107,5610292,14011946,efp,,,
+110806,4,2017,Clutha River,1341027,Camp Stream,752.885,1350,Camp Creek,,995,283,doco,G40,2222109,5610294,14011946,efp,,,
+110807,4,2017,Clutha River,1341027,Camp Stream,752.885,1400,Camp Creek,,995,283,doco,G40,2222103,5610309,14011946,efp,,,
+110808,4,2017,Clutha River,1341028,Lindis River,752.88,1600,Lindis River,,425,271,doco,G41,2231779,5610121,14012243,efp,,,
+110809,4,2017,Clutha River,1341028,Lindis River,752.88,1630,Lindis River,,425,271,doco,G41,2231770,5610070,14012243,efp,,,
+110810,4,2017,Clutha River,1341028,Lindis River,752.88,1730,Lindis River tributary,,430,272,doco,G41,2231973,5610092,14012036,efp,,,
+113309,1,2018,Clutha River,1341009,Pool Burn tributary,752.636,1440,Pool Burn tributary, ,911,261,doco, ,2257503,5537288,14042554,efp,1, , 
+113310,1,2018,Clutha River,1341009,Pool Burn tributary,752.636,1500,Pool Burn, ,911,261,doco, ,2257498,5537096,14042554,efp,1, , 
+113311,1,2018,Clutha River,1341008,Maori Creek upper,752.636,1540,Pool Burn, ,981,260,doco, ,2258494,5537495,14042355,efp,1, , 
+113318,1,2018,Clutha River,1341009,Pool Burn tributary,752.636,1400,Pool Burn tributary, ,907,261,doco,G41,2257709,5537323,14042405,efp, , , 
+113478,3,2018,Clutha River,1341001,Benger Burn,752.4,1356,Benger Burn, ,264,126,doco,G43,2221149,5500587,14054532,efp,1, ,2
+113479,3,2018,Clutha River,1341001,Benger Burn,752.4,1402,Benger Burn, ,264,126,doco,G43,2221137,5500559,14054532,efp,1, ,6
+113480,3,2018,Clutha River,1341001,Benger Burn,752.4,1404,Benger Burn, ,264,126,doco,G43,2221129,5500552,14054532,efp,1, ,6
+113481,3,2018,Clutha River,1341001,Benger Burn,752.4,1406,Benger Burn, ,264,126,doco,G43,2221112,5500527,14054532,efp,1, ,2
+113482,3,2018,Clutha River,1341001,Benger Burn,752.4,1411,Benger Burn, ,264,126,doco,G43,2221116,5500499,14054532,efp,1, ,2
+113483,3,2018,Clutha River,1341001,Benger Burn,752.4,1419,Benger Burn, ,264,126,doco,G43,2221177,5500378,14054532,efp,1, ,4
+113484,3,2018,Clutha River,1341001,Benger Burn,752.4,1437,Benger Burn, ,221,124,doco,G43,2221425,5500067,14054552,efp,1, ,6
+113485,3,2018,Clutha River,1341001,Benger Burn,752.4,1504,Benger Burn, ,221,124,doco,G43,2221983,5500300,14054552,efp,1, ,2
+113591,4,2018,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek tributary, ,1225,293,doco, ,2244914,5617817,14009862,efp,1, ,10
+113592,4,2018,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek tributary, ,1225,293,doco, ,2244929,5617782,14009862,efp,1, ,10
+113593,4,2018,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek tributary, ,1225,293,doco, ,2244939,5617732,14009862,efp,1, ,10
+113594,4,2018,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek tributary, ,1225,293,doco, ,2244969,5617672,14009862,efp,1, ,10
+113595,4,2018,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek tributary, ,1225,293,doco, ,2245019,5617602,14009862,efp,1, ,10
+113596,4,2018,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek tributary, ,1225,293,doco, ,2245059,5617512,14009862,efp,1, ,10
+113597,4,2018,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek tributary, ,1225,293,doco, ,2245094,5617447,14009862,efp,1, ,10
+113598,4,2018,Clutha River,1341030,Dip Creek,752.888, ,Dip Creek tributary, ,1225,293,doco, ,2245127,5617532,14009862,efp,1, ,5
+113599,4,2018,Clutha River,1341029,Dip Creek tributary,752.888, ,Dip Creek tributary, ,903,288,doco, ,2243228,5614227,14010861,efp,1, ,10
+113600,4,2018,Clutha River,1341024,Coal Creek upper,752.743, ,Coal Creek tributary, ,829,271,doco, ,2247381,5600276,14015457,vbd,1, ,10
+113601,4,2018,Clutha River,1341024,Coal Creek upper,752.884, ,Coal Creek tributary, ,829,271,doco, ,2247336,5600172,14015457,vbd,1, ,10
+113602,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1250,Coal Creek tributary, ,829,271,doco, ,2246651,5600000,14015457,efp,1, ,10
+113603,4,2018,Clutha River,1341024,Coal Creek upper,752.884, ,Coal Creek tributary, ,829,271,doco, ,2246356,5599974,14015457,efp,1, ,10
+113604,4,2018,Clutha River,1341024,Coal Creek upper,752.884, ,Coal Creek tributary, ,829,271,doco, ,2246553,5600008,14015457,efp,1, ,10
+113605,4,2018,Clutha River,1341024,Coal Creek upper,752.884,,Coal Creek tributary,,671,271,doco,,2245876,5600069,14015457,efp,1,,10
+113606,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1424,Coal Creek tributary, ,712,271,doco, ,2245993,5601107,14015068,efp,1, ,10
+113607,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1430,Coal Creek tributary, ,712,271,doco, ,2245917,5601033,14015068,efp,1, ,10
+113608,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1441,Coal Creek tributary, ,712,271,doco, ,2245869,5600975,14015068,efp,1, ,10
+113609,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1450,Coal Creek tributary, ,712,271,doco, ,2245847,5600879,14015068,efp,1, ,10
+113610,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1459,Coal Creek tributary, ,712,271,doco, ,2245809,5600810,14015068,efp,1, ,10
+113611,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1505,Coal Creek tributary, ,712,271,doco, ,2245774,5600761,14015068,efp,1, ,10
+113612,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1515,Coal Creek tributary, ,712,271,doco, ,2245702,5600674,14015068,efp,1, ,10
+113613,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1528,Coal Creek tributary, ,712,271,doco, ,2245635,5600589,14015068,efp,1, ,10
+113614,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1536,Coal Creek tributary, ,712,271,doco, ,2245596,5600537,14015068,efp,1, ,10
+113615,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1544,Coal Creek tributary, ,712,271,doco, ,2245560,5600433,14015068,efp,1, ,10
+113616,4,2018,Clutha River,1341024,Coal Creek upper,752.884,1555,Coal Creek tributary,,655,270,doco,,2245537,5600346,14015068,efp,1,,10
+114050,3,2018,Clutha River,1341053,Low Burn tributary,752.76,900,Packspur Gully, ,793,213,rdcl,G41,2208564,5574127,14025436,efp, , , 
+114054,4,2018,Clutha River,1341044,Welshes Creek,752.97,900,Welshes Creek,,703,291,rdcl,F40,2198579,5587167,14019813,efp,,,
+114061,4,2018,Clutha River,1341033,Kidd Creek,752,900,Kidd Creek, ,440,228,rdcl,H46,2217691,5586952,14019785,efp, , , 
+114084,4,2018,Clutha River,1341045,Boundary Creek,752.975,900,Boundary Creek, ,623,295,rdcl,F41,2194090,5586784,14019983,efp, , , 
+114085,4,2018,Clutha River,1341045,Boundary Creek,752.975,900,Boundary Creek,,623,295,rdcl,F41,2193942,5586672,14019983,efp,,,
+114086,4,2018,Clutha River,1341043,Branch Burn,752.973,900,Macdonalds Creek, ,582,289,rdcl,F40,2194655,5590449,14018752,efp, , , 
+114104,5,2018,Clutha River,1341007,Maori Creek lower,752.636, ,Maori Creek, ,459,238,rdcl,G41,2251578,5550492,14036277,efp, , , 
+114123,5,2018,Clutha River,1341039,Timber Creek,752.97, ,Timber Creek tributary, ,569,280,rdcl,F40,2200242,5600082,14015502,efp, , , 
+114867,11,2018,Clutha River,1341015,Wainui Creek,752.881,1430,Wainui Creek, ,501,241,doco, ,2231916,5584602,14020626,efp,1, , 
+115911,11,2018,Taieri River,1341006,Manor Burn tributary 3,752.631,120,Manor Burn, ,721,208,rdcl,G42,2244243,5533181,14044197,efp, , , 
+115836,4,2019,Clutha River,1341053,Low Burn tributary,752.76,1305,Packspur Gully, ,786,213,doco, ,2208505,5574112,14025436,efp,1, ,5
+115837,4,2019,Clutha River,1341053,Low Burn tributary,752.76,1325,Packspur Gully, ,786,213,doco, ,2208461,5574105,14025436,efp,1, ,5
+115838,4,2019,Clutha River,1341053,Low Burn tributary,752.76,1345,Packspur Gully, ,786,213,doco, ,2208423,5574100,14025436,efp,1, ,5
+115839,4,2019,Clutha River,1341053,Low Burn tributary,752.76,1405,Packspur Gully, ,786,213,doco, ,2208381,5574109,14025436,efp,1, ,5
+115840,4,2019,Clutha River,1341053,Low Burn tributary,752.76,1420,Packspur Gully, ,786,213,doco, ,2208281,5574097,14025436,efp,1, ,5
+115841,4,2019,Clutha River,1341053,Low Burn tributary,752.76,1430,Packspur Gully, ,786,213,doco, ,2208265,5574095,14025436,efp,1, ,5
+115842,4,2019,Clutha River,1341053,Low Burn tributary,752.76,1445,Packspur Gully, ,786,213,doco, ,2208043,5574077,14025436,efp,1, ,5
+115843,4,2019,Clutha River,1341053,Low Burn tributary,752.76,1520,Packspur Gully, ,786,213,doco, ,2207800,5573968,14025436,efp,1, ,5
+115844,4,2019,Clutha River,1341053,Low Burn tributary,752.76,1600,Packspur Gully water race, ,786,213,doco, ,2208635,5574105,14025436,efp,1, ,5
+115845,4,2019,Clutha River,1341031,Breast Creek,752.887,1415,Breast Creek,,866,297,doco,,2223168,5619420,14009444,efp,1,,10
+115846,4,2019,Clutha River,1341031,Breast Creek,752.887,1425,Breast Creek,,927,298,doco,,2223126,5619466,14009359,efp,1,,10
+115847,4,2019,Clutha River,1341031,Breast Creek,752.887,1435,Breast Creek tributary,,927,298,doco,,2223029,5619515,14009359,efp,1,,10
+115848,4,2019,Clutha River,1341031,Breast Creek,752.887,1450,Breast Creek tributary,,927,298,doco,,2223018,5619527,14009359,efp,1,,10
+115849,4,2019,Clutha River,1341031,Breast Creek,752.887,1650,Breast Creek,,1170,299,doco,,2221068,5618852,14009516,efp,1,,10
+115850,4,2019,Clutha River,1341031,Breast Creek,752.887,1515,Breast Creek,,889,298,doco,,2222980,5619403,14009457,efp,1,,10
+115851,4,2019,Clutha River,1341025,Tim Burn,752.884,910,Tim Burn tributary, ,583,269,doco, ,2242745,5605333,14013607,efp,1, ,10
+115852,4,2019,Clutha River,1341025,Tim Burn,752.884,920,Tim Burn tributary, ,583,269,doco, ,2242671,5605319,14013607,efp,1, ,5
+115853,4,2019,Clutha River,1341025,Tim Burn,752.884,935,Tim Burn tributary, ,583,269,doco, ,2242592,5605255,14013607,efp,1, ,5
+115854,4,2019,Clutha River,1341025,Tim Burn,752.884,1000,Tim Burn tributary, ,583,269,doco, ,2242444,5605133,14013607,efp,1, ,5
+115855,4,2019,Clutha River,1341025,Tim Burn,752.884,945,Tim Burn tributary, ,583,269,doco, ,2242513,5605171,14013607,efp,1, ,5
+115856,4,2019,Clutha River,1341025,Tim Burn,752.884,1005,Tim Burn tributary, ,583,269,doco, ,2242416,5605124,14013607,efp,1, ,5
+115857,4,2019,Clutha River,1341025,Tim Burn,752.884,1010,Tim Burn tributary, ,583,269,doco, ,2242167,5604887,14013607,efp,1, ,5
+115858,4,2019,Clutha River,1341025,Tim Burn,752.884,1015,Tim Burn tributary, ,583,269,doco, ,2242059,5604812,14013607,obs,1, ,5
+115859,4,2019,Clutha River,1341025,Tim Burn,752.884,1017,Tim Burn tributary,,583,269,doco,,2241897,5604749,14013607,obs,1,,5
+115860,4,2019,Clutha River,1341025,Tim Burn,752.884,1021,Tim Burn tributary,,583,269,doco,,2241753,5604666,14013607,obs,1,,5
+115861,4,2019,Clutha River,1341025,Tim Burn,752.884,1028,Tim Burn tributary,,532,267,doco,,2241396,5604591,14014054,obs,1,,5
+115862,4,2019,Clutha River,1341025,Tim Burn,752.884,1032,Tim Burn tributary,,532,267,doco,,2241132,5604541,14014054,obs,1,,5
+115863,4,2019,Clutha River,1341025,Tim Burn,752.884,1038,Tim Burn tributary,,532,267,doco,,2240796,5604406,14014054,obs,1,,5
+115864,4,2019,Clutha River,1341025,Tim Burn,752.884,1320,Tim Burn tributary, ,662,271,doco, ,2244096,5607275,14013171,efp,1, ,5
+115865,4,2019,Clutha River,1341025,Tim Burn,752.884,1326,Tim Burn tributary, ,662,271,doco, ,2243933,5607225,14013171,efp,1, ,5
+115866,4,2019,Clutha River,1341025,Tim Burn,752.884,1338,Tim Burn tributary, ,662,271,doco, ,2243818,5607128,14013171,efp,1, ,5
+115867,4,2019,Clutha River,1341025,Tim Burn,752.884,1345,Tim Burn tributary, ,662,271,doco, ,2243786,5607080,14013171,efp,1, ,5
+115868,4,2019,Clutha River,1341025,Tim Burn,752.884,1350,Tim Burn tributary, ,662,271,doco, ,2243627,5607013,14013171,efp,1, ,5
+115869,4,2019,Clutha River,1341025,Tim Burn,752.884,1400,Tim Burn tributary, ,662,271,doco, ,2243587,5606951,14013171,efp,1, ,5
+115870,4,2019,Clutha River,1341025,Tim Burn,752.884,1417,Tim Burn tributary, ,662,271,doco, ,2243578,5606938,14013171,efp,1, ,5
+115871,4,2019,Clutha River,1341025,Tim Burn,752.884,1428,Tim Burn tributary, ,662,271,doco, ,2243570,5606929,14013171,efp,1, ,5
+115872,4,2019,Clutha River,1341025,Tim Burn,752.884,1435,Tim Burn tributary, ,662,271,doco, ,2243562,5606922,14013171,efp,1, ,5
+115873,4,2019,Clutha River,1341025,Tim Burn,752.884,1447,Tim Burn tributary, ,662,271,doco, ,2243544,5606908,14013171,efp,1, ,5
+115874,4,2019,Clutha River,1341025,Tim Burn,752.884,1453,Tim Burn tributary, ,662,271,doco, ,2243529,5606874,14013171,efp,1, ,5
+115875,4,2019,Clutha River,1341025,Tim Burn,752.884,1458,Tim Burn tributary, ,662,271,doco, ,2243474,5606827,14013171,efp,1, ,5
+115876,4,2019,Clutha River,1341025,Tim Burn,752.884,1505,Tim Burn tributary, ,662,271,doco, ,2243466,5606785,14013171,efp,1, ,5
+115877,4,2019,Clutha River,1341025,Tim Burn,752.884,1514,Tim Burn tributary, ,662,271,doco, ,2243464,5606772,14013171,efp,1, ,5
+115878,4,2019,Clutha River,1341025,Tim Burn,752.884,1520,Tim Burn tributary, ,662,271,doco, ,2243428,5606725,14013171,efp,1, ,5
+115879,4,2019,Clutha River,1341025,Tim Burn,752.884,1527,Tim Burn tributary, ,662,271,doco, ,2243345,5606607,14013171,efp,1, ,5
+115880,4,2019,Clutha River,1341025,Tim Burn,752.884,1534,Tim Burn tributary, ,662,271,doco, ,2243276,5606419,14013171,efp,1, ,5
+115881,4,2019,Clutha River,1341025,Tim Burn,752.884,1547,Tim Burn tributary, ,662,271,doco, ,2243211,5606313,14013171,han,1, ,5
+115882,4,2019,Clutha River,1341025,Tim Burn,752.884,1552,Tim Burn tributary, ,662,271,doco, ,2243169,5606203,14013171,efp,1, ,5
+115883,4,2019,Clutha River,1341025,Tim Burn,752.884,1557,Tim Burn tributary, ,662,271,doco, ,2243128,5606066,14013171,efp,1, ,5
+115884,4,2019,Clutha River,1341025,Tim Burn,752.884,1602,Tim Burn tributary, ,662,271,doco, ,2243006,5605868,14013171,efp,1, ,5
+115885,4,2019,Clutha River,1341025,Tim Burn,752.884,1607,Tim Burn tributary, ,662,271,doco, ,2242917,5605675,14013171,han,1, ,5
+115886,4,2019,Clutha River,1341025,Tim Burn,752.884,1623,Tim Burn tributary, ,583,269,doco, ,2242831,5605521,14013607,efp,1, ,5
+115887,4,2019,Clutha River,1341025,Tim Burn,752.884,1630,Tim Burn tributary, ,583,269,doco, ,2242814,5605459,14013607,efp,1, ,5
+115888,4,2019,Clutha River,1341033,Kidd Creek,752,845,Kidd Creek,,252,226,doco,,2217809,5586887,14019950,efp,1,,10
+115889,4,2019,Clutha River,1341033,Kidd Creek,752,915,Kidd Creek, ,372,228,doco, ,2217672,5586959,14019785,efp,1, ,10
+115890,4,2019,Clutha River,1341033,Kidd Creek,752,938,Kidd Creek, ,372,228,doco, ,2217679,5586956,14019785,efp,1, ,10
+115891,4,2019,Clutha River,1341033,Kidd Creek,752,928,Kidd Creek, ,372,228,doco, ,2217678,5586954,14019785,efp,1, ,10
+115892,4,2019,Clutha River,1341033,Kidd Creek,752,957,Kidd Creek, ,372,228,doco, ,2217692,5586942,14019785,efp,1, ,10
+115893,4,2019,Clutha River,1341033,Kidd Creek,752,1009,Kidd Creek, ,372,228,doco, ,2217700,5586937,14019785,efp,1, ,10
+115894,4,2019,Clutha River,1341033,Kidd Creek,752,1108,Kidd Creek, ,372,228,doco, ,2217450,5587137,14019785,efp,1, ,10
+115895,4,2019,Clutha River,1341033,Kidd Creek,752,1118,Kidd Creek, ,372,228,doco, ,2217463,5587115,14019785,efp,1, ,10
+115898,4,2019,Clutha River,1341033,Kidd Creek,752,1027,Kidd Creek, ,372,228,doco, ,2217639,5586992,14019785,efp,1, ,5
+108408,1,1977,Clutha River,1201039,Bullock Stream,752, ,Clutha River tributary Bullock Stream, ,105,71,ind,H46,2236157,5464342,14064680,vbd, , , 
+4855,2,1984,Tokomairiro River,1201002,Tokomariro River West Branch tributary,748.07, ,Nuggety Gully, ,250,41,otfg,h45,2264900,5458700,14065890,efm,1, , 
+4856,2,1984,Tokomairiro River,1201002,Tokomariro River West Branch tributary,748.07,1030,Nuggety Gully, ,270,43,otfg,h45,2264100,5460700,14065470,efm,1, , 
+4858,2,1984,Tokomairiro River,1201001,Manuka Stream,748.06, ,Manuka Stream, ,160,38,otfg,h45,2263100,5457100,14066192,efm,1, , 
+6879,2,1984,Clutha River,1201015,Clutha River tributary 2,752.31,933,Raes Junction Stream, ,150,89,niwa,g44,2235100,5485400,14059299,ef,1, , 
+6881,2,1984,Clutha River,1201039,Bullock Stream,752,1248,Bullock Stream,,30,61,niwa,g45,2237000,5463900,14064840,ef,1,,
+6886,2,1984,Clutha River,1201040,Judge Creek,752.37,1139,Judge Creek, ,70,103,niwa,g44,2230600,5497800,14055524,ef,1, , 
+11202,1,1989,Clutha River,1201015,Clutha River tributary 2,752.31,1000,Raes Junction Stream,,140,88,uoo,G44,2235500,5485500,14059322,han,,,150
+11836,4,1994,Longbeach Creek,1201036,Longbeach Creek,764,1015,Longbeach Creek tributary, ,75,7,doco,g47,2220900,5396300,14073996,ef,1, , 
+11842,4,1994,Purakaunui River,1201031,Waitere Stream,757,1215,Waitere Stream, ,80,5,doco,g47,2248800,5404600,14073508,ef,1, ,25
+11844,4,1994,Purakaunui River,1201041,Purakauiti Stream,757.02, ,Purakauiti Stream, ,100,9,doco,g47,2244300,5403700,14073591,efp,1, ,50
+14758,12,1995,Clutha River,1201013,Clutha River tributary 1,752,1300,Clutha River tributary,,70,64,indm,G45,2237700,5466700,14064230,pun,,,1
+14759,12,1995,Clutha River,1201009,Tuapeka River tributary 1,752.19,1400,Tuapeka River tributary,,100,69,indm,G45,2245200,5466500,14064271,pun,,,2
+14774,12,1995,Clutha River,1201040,Judge Creek,752.37, ,Judge Creek, ,70,103,indm,g44,2230600,5497800,14055524,fyn, , ,2
+15544,5,1995,Catlins River,1201030,Catlins River,755,1445,Catlins River,,260,58,doco,G46,2227400,5422800,14071655,efp,1,,25
+9463,1,1996,Waikawa River,1201037,Bogle Creek,766,1115,Bogle Creek,,250,23,doco,G47,2213800,5407800,15060562,efp,1,,
+9466,1,1996,Tahakopa River,1201033,Tahakopa River tributary,759,1600,Tahakopa River tributary,,50,20,doco,G47,2226800,5406300,14073239,efp,1,,
+9467,1,1996,Tahakopa River,1201034,Gorge Stream,759.06,1700,Gorge Stream,,80,26,doco,G47,2222600,5408700,14073041,efp,1,,
+9470,1,1996,Catlins River,1201020,Owaka River tributary 2,755.03,910,Owaka River tributary,,80,22,doco,G46,2244700,5417400,14072182,efp,1,,
+9472,1,1996,Catlins River,1201027,Catlins River tributary,755,1110,Catlins River tributary,,330,41,doco,G46,2238000,5416900,14072238,efp,1,,
+15452,1,1996,Catlins River,1201029,Daphne Brook,755.13,1000,Daphne Brook,,200,47,doco,G46,2232000,5418500,14072064,efp,1,,30
+15453,1,1996,Catlins River,1201026,Craggy Tor Stream,755.1,1430,Craggy Tor Stream,,240,41,doco,G46,2238500,5415300,14072445,efp,1,,10
+15454,1,1996,Catlins River,1201024,Frank Stream,755,1600,Catlins River, ,80,31,doco,g46,2237900,5412500,14072703,efp,1, ,25
+15455,1,1996,Catlins River,1201024,Frank Stream,755.08,1630,Frank Stream, ,80,31,doco,g46,2238000,5412500,14072701,efp,1, ,45
+15456,1,1996,Catlins River,1201024,Frank Stream,755.08,1700,Frank Stream, ,120,31,doco,g46,2238600,5412600,14072629,efp,1, ,15
+15457,1,1996,Catlins River,1201025,Wallis Stream,755.09,1745,Wallis Stream tributary, ,130,35,doco,g46,2237200,5414400,14072506,efp,2, ,15
+15458,1,1996,Catlins River,1201025,Wallis Stream,755.09,1815,Wallis Stream tributary,,220,36,doco,G46,2238400,5414500,14072506,efp,1,,3
+15460,1,1996,Catlins River,1201023,Papatupu Stream,755,1845,Papatupu Stream,,140,28,doco,G47,2240100,5408700,14073052,efp,1,,30
+15462,1,1996,Catlins River,1201022,McLaren Creek,755.05,1740,McLaren Creek,,50,17,doco,G47,2246600,5406300,14073294,efp,1,,10
+15470,1,1996,Tahakopa River,1201035,Tahakopa River,759,1500,Tahakopa River,,70,27,doco,G47,2221500,5409300,14072949,efp,1,,40
+15588,4,1996,Clutha River,1201007,Waiwera River,752.13,1100,Waiwera River,,290,69,doco,G46,2228800,5430300,14070943,efp,1,,15
+15589,4,1996,Clutha River,1201007,Waiwera River,752.13,1200,Waiwera River,,270,67,doco,G46,2230400,5429700,14071054,efp,1,,30
+15590,4,1996,Clutha River,1201007,Waiwera River,752.13,1245,Unnamed pond,,340,70,doco,g46,2226600,5430800,0,efp,1,,30
+15591,4,1996,Clutha River,1201007,Waiwera River,752.13,1300,Waiwera River tributary,,340,70,doco,g46,2226600,5430800,14070942,efp,1,,2
+15592,4,1996,Clutha River,1201007,Waiwera River,752.13,1330,Waiwera River,,290,70,doco,G46,2228300,5430100,14070957,efp,1,,30
+16407,10,1996,Longbeach Creek,1201036,Longbeach Creek,764,1500,Longbeach Creek,,70,7,doco,G47,2221100,5396300,14073992,efp,1,,50
+16408,10,1996,Longbeach Creek,1201036,Longbeach Creek,764,1445,Longbeach Creek tributary,,70,7,doco,G47,2221000,5396200,14073996,efp,1,,10
+16409,10,1996,Longbeach Creek,1201036,Longbeach Creek,764,1530,Longbeach Creek, ,50,6,doco,g47,2221900,5395900,14074021,efp,1, ,10
+117568,9,1996,Tokomairiro River,1201002,Tokomariro River West Branch tributary,748.07,1100,Nuggety Gully, ,257,39,doco, ,2265100,5458800,14065768,han,1, ,1
+16916,3,1997,Clutha River,1201011,Tuapeka River tributary 2,752.19,1100,Tuapeka River tributary,,350,93,niwa,H44,2251100,5480100,14061008,efp,1,,30
+16921,3,1997,Clutha River,1201012,Tuapeka River tributary 3,752.19,1415,Tuapeka River tributary,,610,98,niwa,H44,2250700,5483500,14059765,efp,1,,40
+16721,5,1998,Longbeach Creek,1201036,Longbeach Creek,764,1130,Longbeach Creek,,60,6,doco,G47,2221500,5396100,14073992,ef,2,,120
+16722,5,1998,Longbeach Creek,1201036,Longbeach Creek,764,1230,Longbeach Creek tributary,,140,9,doco,G47,2219200,5396200,14073977,ef,1,,40
+16729,5,1998,Purakaunui River,1201032,Purakanui River,757,1300,Purakaunui River, ,60,7,doco,g47,2246000,5404400,14073516,ef,1, ,200
+16730,5,1998,Purakaunui River,1201032,Purakanui River,757,1330,Purakaunui River, ,60,7,doco,g47,2246100,5404200,14073516,ef,1, ,150
+16731,5,1998,Purakaunui River,1201032,Purakanui River,757,1400,Purakaunui River tributary,,100,7,doco,G47,2245700,5404600,14073493,ef,1,,40
+16732,5,1998,Catlins River,1201021,Mackenzie Stream,755.04,1430,Mackenzie Stream,,90,14,doco,G47,2246900,5405100,14073401,ef,1,,40
+16735,5,1998,Catlins River,1201024,Frank Stream,755.08,1100,Frank Stream,,340,34,doco,G46,2240000,5414100,14072554,ef,1,,10
+16736,5,1998,Catlins River,1201024,Frank Stream,755.08,1145,Frank Stream,,110,31,doco,G46,2238500,5412600,14072701,ef,1,,50
+16737,5,1998,Purakaunui River,1201031,Waitere Stream,757,1310,Waitere Stream,,60,4,doco,G47,2248500,5404300,14073533,ef,1,,30
+17927,6,1998,Karoro Creek,1201018,Karoro Creek tributary 1,753,1410,Karoro Creek tributary,,70,3,doco,H46,2260000,5417500,14072181,ef,1,,
+17929,6,1998,Catlins River,1201019,Owaka River tributary 1,755.03,1530,Owaka River tributary,,30,8,doco,H46,2255300,5414300,14072540,ef,1,,70
+17407,3,1999,Catlins River,1201029,Daphne Brook,755.13,1100,Daphne Brook,,210,48,uoo,G46,2231600,5418100,14072102,efp,1,,500
+25296,1,2002,Clutha River,1201040,Judge Creek,752.37,1038,Judge Creek, ,75,103,doco,g44,2230500,5497700,14055524,efp,1, ,64
+25367,4,2002,Clutha River,1201014,Belle Burn,752.28,1130,Belle Burn tributary,,95,85,doco,G44,2237900,5482400,14060271,efp,1,,37
+25368,4,2002,Clutha River,1201014,Belle Burn,752.28,1155,Belle Burn tributary,,70,84,doco,G44,2238400,5482400,14060140,efp,1,,68
+25369,4,2002,Clutha River,1201014,Belle Burn,752.28,1350,Belle Burn,,100,86,doco,G44,2237200,5482600,14060096,efp,1,,38
+25370,4,2002,Clutha River,1201014,Belle Burn,752.28,1500,Belle Burn,,60,85,doco,G44,2237900,5483000,14060096,efp,1,,75
+25371,4,2002,Clutha River,1201014,Belle Burn,752.28,1500,Belle Burn tributary,,95,85,doco,g44,2237700,5483200,14060037,obs,,,1
+25372,4,2002,Clutha River,1201016,Clutha River tributary 3,752, ,Clutha River tributary, ,100,94,doco,g44,2235700,5488100,14058458,efp,1, ,56
+25373,4,2002,Clutha River,1201016,Clutha River tributary 3,752, ,Clutha River tributary, ,100,94,doco,g44,2235700,5488200,14058398,efp,1, ,59
+25374,4,2002,Clutha River,1201016,Clutha River tributary 3,752,,Clutha River tributary,,110,95,doco,g44,2235200,5487600,14058604,efp,1,,33
+25375,4,2002,Clutha River,1201016,Clutha River tributary 3,752,,Clutha River tributary,,100,95,doco,g44,2235400,5488100,14058523,efp,0,,79
+25376,4,2002,Clutha River,1201016,Clutha River tributary 3,752,day,Clutha River tributary,,100,94,doco,G44,2235500,5487900,14058523,efp,,,
+25379,4,2002,Clutha River,1201017,Clutha River tributary 4,752, ,Clutha River tributary, ,80,96,doco,g44,2234200,5491100,14057449,efp,1, ,22
+25380,4,2002,Clutha River,1201017,Clutha River tributary 4,752,day,Clutha River tributary,,80,96,doco,G44,2234100,5491000,14057534,efp,1,,40
+25381,4,2002,Clutha River,1201015,Clutha River tributary 2,752,,Clutha River tributary,,140,88,doco,g44,2236300,5484500,14059604,efp,0,,22
+107501,2,2002,Clutha River,1201015,Clutha River tributary 2,752,803,Clutha River tributary,,171,97,rdcl,H46,2236358,5484546,14059625,efp,,,
+107502,2,2002,Clutha River,1201014,Belle Burn,752.28,826,Belle Burn tributary,,321,97,rdcl,G44,2235838,5480587,14060811,efp,,,
+26037,10,2004,Clutha River,1201010,Boundary Creek,752.12,1300,Boundary Creek,,120,85,doco,H44,2252600,5471300,14063237,efp,1,,40
+26591,10,2004,Clutha River,1201010,Boundary Creek,752.19,1300,Boundary Creek,,120,85,doco,H44,2252600,5471300,14063237,efp,1,,40
+26018,1,2005,Clutha River,1201011,Tuapeka River tributary 2,752.19,1325,Tuapeka River tributary,,350,93,doco,H44,2251100,5480000,14061008,efp,1,,10
+26036,6,2005,Catlins River,1201030,Catlins River,755, ,Catlins River tributary, ,280,60,doco,g46,2226300,5423400,14071608,efp,1, ,40
+26193,3,2005,Clutha River,1201011,Tuapeka River tributary 2,752.19,1130,Tuapeka River tributary,,360,93,doco,H44,2251100,5480100,14061008,han,,,3
+26571,7,2005,Tokomairiro River,1201002,Tokomariro River West Branch tributary,748.07,day,Shepherd Burn,,230,41,doco,H45,2264100,5458700,14065951,efp,1,,50
+26572,7,2005,Tokomairiro River,1201002,Tokomariro River West Branch tributary,748.07,day,Nuggety Gully,,290,44,doco,H45,2264100,5461400,14065333,efp,1,,60
+22865,5,2006,Waikawa River,1201037,Bogle Creek,766, ,Bogle Creek, ,130,23,uoo,g47,2213800,5407800,15060562,efp,1, , 
+22869,5,2006,Catlins River,1201020,Owaka River tributary 2,755.03, ,Owaka River tributary, ,100,23,uoo,g46,2244800,5417500,14072182,efp,1, , 
+26578,1,2006,Clutha River,1201008,Black Stream,752.18,930,Black Stream,,140,63,doco,G45,2247400,5460124,14065577,efp,1,,40
+26827,1,2006,Clutha River,1201008,Black Stream,752.18, ,Black Stream, ,150,63,doco,g45,2246939,5459999,14065577,efp,1, ,60
+26835,2,2006,Tokomairiro River,1201001,Manuka Stream,748,1545,Manuka Stream tributary, ,160,38,doco,h45,2262537,5457370,14066178,obs, , ,2
+26838,2,2006,Tokomairiro River,1201001,Manuka Stream,748,1420,Manuka Stream,,120,36,doco,h45,2263560,5455918,14066457,efp,1,,
+26839,2,2006,Tokomairiro River,1201001,Manuka Stream,748,1500,Manuka Stream, ,140,37,doco,h45,2263185,5456680,14066293,efp,1, ,85
+30457,7,2006,Clutha River,1201003,Kaihiku Stream tributary,752.06,day,Paiwata Stream tributary,,130,54,uoo,G46,2237400,5434900,14070270,efp,,,
+30469,7,2006,Catlins River,1201020,Owaka River tributary 2,755.03, ,Owaka River tributary, ,80,22,uoo,g46,2244700,5417400,14072182,efp, , , 
+30473,7,2006,Waikawa River,1201037,Bogle Creek,766, ,Bogle Creek, ,235,23,uoo,g47,2213800,5407800,15060562,efp, , , 
+23363,11,2007,Tokomairiro River,1201001,Manuka Stream,748,1405,Manuka Stream tributary,,160,39,doco,H45,2262478,5457439,14066178,efp,1,,25
+23364,11,2007,Tokomairiro River,1201001,Manuka Stream,748,1440,Manuka Stream tributary,,240,40,doco,h45,2260977,5456798,14066231,efp,1,,25
+23365,11,2007,Tokomairiro River,1201001,Manuka Stream,748,1553,Manuka Stream tributary,,200,40,doco,H45,2261350,5457134,14066226,efp,1,,25
+28726,8,2007,Clutha River,1201006,Waitahuna River tributary 2,752.12,1045,Waitahuna River tributary,,155,77,doco,H45,2262367,5462618,14065101,efp,1,,50
+29547,7,2008,Clutha River,1201010,Boundary Creek,752.19,1330,Boundary Creek,,120,85,doco,H44,2252600,5471300,14063237,efp,1,,
+33678,12,2009,Clutha River,1201014,Belle Burn,752.28,1530,Belle Burn, ,85,85,otfg,g44,2238123,5482943,14060097,efp,2, ,67
+33680,3,2010,Clutha River,1201040,Judge Creek,752.37,900,Judge Creek, ,75,103,otfg,G44,2230603,5497703,14055524,efp,3, , 
+101385,2,2010,Catlins River,1201028,Thisbe Stream,755.12,1400,Thisbe Stream,,216,43,niwa,G46,2234792,5416352,14072311,efp,1,,50
+101386,2,2010,Catlins River,1201028,Thisbe Stream,755.12,1330,Thisbe Stream,,196,43,niwa,G46,2235190,5416455,14072254,efp,1,,10
+101387,2,2010,Catlins River,1201020,Owaka River tributary 2,755.03,1600,Owaka River tributary, ,83,22,niwa,H46,2244645,5417430,14072198,efp,1, ,30
+101388,2,2010,Catlins River,1201025,Wallis Stream,755.09,1100,Wallis Stream tributary,,267,34,niwa,G46,2238330,5414355,14072506,efp,1,,40
+101392,2,2010,Catlins River,1201027,Catlins River tributary,755.1,930,Craggy Tor Stream tributary,,390,39,niwa,G46,2237955,5416940,14072238,efp,1,,50
+101394,2,2010,Clutha River,1201006,Waitahuna River tributary 2,752.12,1500,Waitahuna River tributary,,156,85,niwa,G45,2262120,5462810,14065023,efp,1,,40
+106609,10,2011,Karoro Creek,1201018,Karoro Creek tributary 1,753,1600,Karoro Creek, ,111,3,doco,h46,2260158,5417426,14072181,efp,1, , 
+101561,10,2012,Clutha River,1201010,Boundary Creek,752.19,1032,Boundary Creek,,182,93,doco,H41,2252663,5471342,14063237,efp,,,70
+101562,10,2012,Clutha River,1201010,Boundary Creek,752.19,1051,Boundary Creek,,127,92,doco,H41,2252179,5471630,14063125,efp,,,30
+101563,10,2012,Clutha River,1201010,Boundary Creek,752.19,1140,Boundary Creek, ,135,92,doco,h41,2252134,5471935,14063125,efp, , , 
+101564,10,2012,Clutha River,1201010,Boundary Creek,752.19,1145,Boundary Creek,,135,92,doco,H41,2252127,5471936,14063125,efp,,,2
+101565,10,2012,Clutha River,1201010,Boundary Creek,752.19,1151,Boundary Creek, ,135,92,doco,h41,2252145,5471962,14063125,efp, , , 
+101569,10,2012,Clutha River,1201049,Weatherston Creek tributary,752.19,1320,Tuapeka Creek tributary,,130,93,doco,H41,2253106,5471457,14063097,efp,,,12
+101571,10,2012,Tokomairiro River,1201001,Manuka Stream,748,1417,Manuka Stream,,185,36,doco,G45,2262981,5457315,14066192,efp,,,3
+101573,7,2012,Karoro Creek,1201018,Karoro Creek tributary 1,753,1230,Karoro Creek,,55,3,doco,H46,2260435,5417303,14072210,efp,1,,250
+103897,9,2012,Clutha River,1201011,Tuapeka River tributary 2,752.19,,Tuapeka River tributary,,407,101,uoo,H44,2251205,5480085,14061008,efp,1,,100
+100135,2,2013,Purakaunui River,1201032,Purakanui River,757,11.45,Waikoata S,,130,12,doco,G47,2243787,5405707,14073421,efp,1,,350
+100136,2,2013,Purakaunui River,1201032,Purakanui River,757,1230,Waikoata S,,130,11,doco,G47,2244128,5405741,14073335,efp,1,,14
+100137,2,2013,Purakaunui River,1201032,Purakanui River,757,1300,Waikoata S,,125,11,doco,G47,2244427,5405958,14073335,efp,1,,8
+100138,2,2013,Purakaunui River,1201032,Purakanui River,757.02,1400,Purakaunui S, ,140,12,doco,G47,2243950,5407515,14073222,efp,1, , 
+100139,2,2013,Purakaunui River,1201032,Purakanui River,757.02,1500,Purakaunui S, ,120,11,doco,G47,2244590,5406303,14073282,efp,1, , 
+100140,2,2013,Purakaunui River,1201032,Purakanui River,757,1600,Waikoata S,,120,11,doco,G47,2244533,5406321,14073335,efp,1,,21
+101281,1,2013,Clutha River,1201004,Dull Burn tributary,752.121,,Dull Burn tributary,,166,63,doco,G45,2254362,5449356,14067690,efp,1,,2
+101282,1,2013,Clutha River,1201004,Dull Burn tributary,752.121,,Dull Burn tributary,,154,63,doco,G45,2254431,5449317,14067690,efp,1,,
+101283,1,2013,Clutha River,1201004,Dull Burn tributary,752.121,,Dull Burn tributary,,168,63,doco,G45,2254489,5449333,14067690,efp,1,,
+101284,1,2013,Clutha River,1201004,Dull Burn tributary,752.121,,Dull Burn tributary,,173,63,doco,G45,2254495,5449350,14067690,efp,1,,
+101285,1,2013,Clutha River,1201004,Dull Burn tributary,752.121,,Dull Burn tributary,,173,63,doco,G45,2254565,5449350,14067690,efp,1,,
+101286,1,2013,Clutha River,1201004,Dull Burn tributary,752.121,,Dull Burn tributary,,170,63,doco,G45,2254583,5449342,14067690,efp,1,,
+101287,1,2013,Clutha River,1201004,Dull Burn tributary,752.121, ,Dull Burn tributary, ,176,64,doco,g45,2254697,5449313,14067690,efp,1, , 
+101288,1,2013,Clutha River,1201004,Dull Burn tributary,752.121,,Dull Burn tributary,,185,64,doco,G45,2254796,5449215,14067636,efp,1,,
+101352,2,2013,Catlins River,1201022,McLaren Creek,755.05, ,McLaren Creek tributary, ,59,16,doco,g47,2246372,5406725,14073289,efp,1, , 
+101353,2,2013,Catlins River,1201022,McLaren Creek,755.05, ,McLaren Creek, ,65,16,doco,g47,2246498,5406409,14073289,efp,1, , 
+101354,2,2013,Catlins River,1201022,McLaren Creek,755.05, ,McLaren Creek, ,75,16,doco,g47,2246480,5406382,14073289,efp,1, , 
+101355,2,2013,Catlins River,1201022,McLaren Creek,755.05, ,McLaren Creek tributary, ,73,16,doco,g47,2246490,5406371,14073289,efp,1, , 
+101356,2,2013,Catlins River,1201022,McLaren Creek,755.05, ,McLaren Creek, ,63,16,doco,g47,2246502,5406421,14073289,efp,1, , 
+101357,2,2013,Catlins River,1201022,McLaren Creek,755.05, ,McLaren Creek tributary, ,79,16,doco,g47,2246466,5406337,14073289,efp,1, , 
+101358,2,2013,Catlins River,1201022,McLaren Creek,755.05,,McLaren Creek tributary,,142,16,doco,g47,2246540,5406020,14073289,efp,1,,
+101359,2,2013,Purakaunui River,1201032,Purakanui River,757, ,Purakaunui River tributary, ,123,10,doco,g47,2244863,5406023,14073357,efp,1, , 
+101361,2,2013,Purakaunui River,1201032,Purakanui River,757, ,Purakaunui River tributary, ,140,11,doco,g47,2244513,5406922,14073277,efp,1, , 
+101362,2,2013,Purakaunui River,1201032,Purakanui River,757, ,Purakaunui River, ,162,11,doco,g47,2244360,5407138,14073223,efp,1, , 
+101779,8,2013,Clutha River,1201014,Belle Burn,752.28,1330,Belle Burn tributary,,96,93,doco,G44,2238425,5482732,14060140,efp,1,,20
+101780,8,2013,Clutha River,1201014,Belle Burn,752.28,1400,Belle Burn tributary, ,88,93,doco,g44,2238329,5482762,14060140,efp,1, ,20
+101781,8,2013,Clutha River,1201015,Clutha River tributary 2,752,,Clutha River tributary,,133,97,doco,G44,2235264,5485432,14059348,efp,1,,35
+101782,8,2013,Clutha River,1201015,Clutha River tributary 2,752,,Clutha River tributary,,135,97,doco,G44,2235198,5485423,14059348,efp,1,,10
+108417,1,2013,Purakanui River,1201031,Waitere Stream,757,,Waitere Stream,,197,4,doco,G47,2248862,5404562,14073533,efp,1,,25
+108421,1,2013,Purakanui River,1201031,Waitere Stream,757, ,Waitere Stream, ,79,4,doco,g47,2248331,5404261,14073533,efp,1, , 
+108422,1,2013,Purakanui River,1201031,Waitere Stream,757, ,Waitere Stream, ,79,4,doco,g47,2248522,5404261,14073533,efp,1, , 
+108423,1,2013,Purakanui River,1201031,Waitere Stream,757, ,Waitere Stream, ,79,4,doco,g47,2248568,5404251,14073533,efp,1, , 
+108424,1,2013,Purakanui River,1201031,Waitere Stream,757, ,Waitere Stream, ,197,4,doco,g47,2248666,5404300,14073533,efp,1, , 
+108425,1,2013,Purakanui River,1201031,Waitere Stream,757, ,Waitere Stream, ,79,4,doco,g47,2248723,5404277,14073533,efp,1, , 
+108431,1,2013,Purakanui River,1201031,Waitere Stream,757,,Waitere Stream,,197,4,doco,G47,2249100,5404443,14073533,efp,1,,
+108445,2,2013,Owaka River,1201019,Owaka River tributary 1,755.03,940,Owaka River tributary,,57,9,doco,H46,2254629,5415150,14072446,efp,1,,
+108446,1,2013,Purakanui River,1201041,Purakauiti Stream,757.02,,Purakauiti Stream,,139,8,doco,G47,2244096,5403663,14073591,efp,1,,30
+108447,1,2013,Purakanui River,1201032,Purakanui River,757,,Purakanui River,,139,7,doco,G47,2245135,5404919,14073467,efp,1,,36
+108448,1,2013,Purakanui River,1201032,Purakanui River,757, ,Purakanui River, ,139,7,doco,g47,2245485,5404949,14073467,efp,1, , 
+108449,1,2013,Purakanui River,1201041,Purakauiti Stream,757.02,,Purakauiti Stream,,135,9,doco,G47,2243817,5403694,14073569,efp,1,,25
+101787,4,2014,Clutha River,1201014,Belle Burn,752.28,1130,Belle Burn, ,88,93,doco,g44,2238134,5482958,14060097,efp,1, ,35
+104615,2,2014,Clutha River,1201039,Bullock Stream,752,1647,Clutha River tributary,,53,69,doco,H46,2236905,5463886,14064840,efp,,,
+104616,2,2014,Clutha River,1201039,Bullock Stream,752,1650,Clutha River tributary,,53,69,doco,H46,2236940,5463873,14064840,efp,,,
+104625,1,2014,Clutha River,1201040,Judge Creek,752.37,1812,Judge Creek, ,138,112,doco,G44,2230575,5497690,14055524,efp, , , 
+104633,1,2014,Clutha River,1201015,Clutha River tributary 2,752,1405,Clutha River tributary, ,164,98,doco,H46,2234926,5485317,14059347,efp, , , 
+108409,2,2014,Clutha River,1201039,Bullock Stream,752,,Clutha River tributary Bullock Stream,,105,71,doco,H46,2236157,5464342,14064680,efp,,,
+102663,7,2015,Tokomairiro River,1201001,Manuka Stream,748,1345,Manuka Stream,,196,37,doco,H46,2262939,5457574,14066178,efp,,,
+102664,7,2015,Tokomairiro River,1201001,Manuka Stream,748,1410,Manuka Stream,,163,36,doco,H46,2262980,5457331,14066192,efp,,,10
+104160,2,2015,Clutha River,1201005,Dull Burn,752.121,1000,Dull Burn, ,143,61,doco,h45,2252763,5451634,14067235,efp,1, ,0
+104161,2,2015,Clutha River,1201005,Dull Burn,752.121,1030,Dull Burn, ,143,61,doco,h45,2252816,5451656,14067235,efp,1, ,0
+104162,2,2015,Clutha River,1201005,Dull Burn,752.121,1112,Dull Burn,,143,61,doco,H45,2252837,5451626,14067235,efp,1,,40
+104163,2,2015,Clutha River,1201005,Dull Burn,752.121,1125,Dull Burn,,143,61,doco,H45,2252856,5451641,14067235,efp,1,,30
+104164,2,2015,Clutha River,1201005,Dull Burn,752.121,1144,Dull Burn,,143,61,doco,H45,2252922,5451665,14067235,efp,1,,30
+104165,2,2015,Clutha River,1201005,Dull Burn,752.121,1200,Dull Burn,,143,61,doco,H45,2252949,5451683,14067235,efp,1,,30
+104166,2,2015,Clutha River,1201005,Dull Burn,752.121,1220,Dull Burn,,149,61,doco,H45,2253041,5451705,14067235,efp,1,,20
+110622,10,2015,Owaka River,1201019,Owaka River tributary 1,755.03,,Owaka River tributary,,85,9,doco,H46,2255392,5415762,14072371,vbd,,,
+107613,4,2016,Clutha River,1201006,Waitahuna River tributary 2,752.12,1030,Waitahuna River tributary,,184,85,doco,G45,2262200,5462700,14065023,tfu,,,5
+110964,4,2017,Clutha River,1201040,Judge Creek,752.37,1545,Judge Creek, ,138,112,doco,G44,2230608,5497712,14055524,efp, , , 
+110965,4,2017,Clutha River,1201040,Judge Creek,752.37,1600,Judge Creek,,138,112,doco,G44,2230574,5497688,14055524,efp,,,
+112575,12,2017,Clutha River,1201038,Merrie Creek,752.134,1130,Merrie Creek, ,148,69,doco, ,2228844,5439835,14069429,efp,1, ,10
+112866,10,2017,Clutha River,1201015,Clutha River tributary 2,752.31,1346,Clutha River tributary, ,150,97,doco,G43,2235126,5485378,14059348,efp,1, ,50
+112868,10,2017,Tokomairiro River,1201001,Manuka Stream,748,1530,Manuka Stream, ,163,36,doco,G43,2262979,5457325,14066192,efp,1, ,5
+114849,10,2018,Clutha River,1201009,Tuapeka River tributary 1,752.19,1000,Tuapeka River tributary, ,102,77,doco, ,2245159,5466546,14064282,efp,1, ,12
+114850,10,2018,Clutha River,1201010,Boundary Creek,752.19,1325,Boundary Creek, ,118,92,doco, ,2252141,5471829,14063125,efp,1, ,10
+114851,10,2018,Clutha River,1201010,Boundary Creek,752.19, ,Boundary Creek, ,158,93,doco, ,2252708,5471209,14063237,efp,1, ,4
+114852,10,2018,Clutha River,1201049,Weatherston Creek tributary,752.19,1500,Wetherston Creek tributary, ,129,93,doco, ,2253086,5471463,14063097,efp,1, ,9
+114854,10,2018,Clutha River,1201010,Boundary Creek,752.19, ,Boundary Creek, ,118,92,doco, ,2252283,5471501,14063125,tfu,1, ,1
+114855,10,2018,Clutha River,1201010,Boundary Creek,752.19, ,Boundary Creek, ,118,92,doco, ,2252307,5471472,14063125,tcu,1, ,1
+114856,10,2018,Clutha River,1201010,Boundary Creek,752.19, ,Boundary Creek, ,118,92,doco, ,2252322,5471464,14063125,tfu,1, ,1
+114857,10,2018,Clutha River,1201010,Boundary Creek,752.19, ,Boundary Creek, ,118,92,doco, ,2252333,5471441,14063125,tfu,1, ,2
+114858,10,2018,Clutha River,1201010,Boundary Creek,752.19, ,Boundary Creek, ,118,92,doco, ,2252346,5471443,14063125,tfu,1, ,1
+114859,10,2018,Clutha River,1201010,Boundary Creek,752.19, ,Boundary Creek, ,118,92,doco, ,2252364,5471437,14063125,tcu,1, ,1
+114860,10,2018,Clutha River,1201010,Boundary Creek,752.19, ,Boundary Creek, ,158,93,doco, ,2252379,5471433,14063237,tcu,1, ,1
+114861,10,2018,Clutha River,1201010,Boundary Creek,752.19, ,Boundary Creek, ,158,93,doco, ,2252388,5471427,14063237,tfu,1, ,1
+114862,10,2018,Clutha River,1201010,Boundary Creek,752.19, ,Boundary Creek, ,158,93,doco, ,2252419,5471428,14063237,tfu,1, ,1
+114863,10,2018,Clutha River,1201010,Boundary Creek,752.19, ,Boundary Creek, ,158,93,doco, ,2252450,5471430,14063237,tfu,1, ,2
+114864,10,2018,Tokomairiro River,1201002,Tokomariro River West Branch tributary,748,1315,Tokomairiro River West Branch tributary, ,231,40,doco, ,2263818,5458855,14065823,efp,1, , 
+114865,10,2018,Tokomairiro River,1201002,Tokomariro River West Branch tributary,748,1330,Tokomairiro River West Branch tributary, ,250,41,doco, ,2263221,5459655,14065628,efp,1, , 
+114866,10,2018,Tokomairiro River,1201002,Tokomariro River West Branch tributary,748,1500,Tokomairiro River West Branch tributary, ,257,39,doco, ,2264981,5458795,14065768,efp,1, , 
+114873,11,2018,Karoro Creek,1201042,Karoro Creek tributary 2,754, ,Karoro Creek tributary, ,60,6,doco, ,2259509,5415033,14072461,tfu, , ,2
+114874,11,2018,Karoro Creek,1201042,Karoro Creek tributary 2,754, ,Karoro Creek tributary, ,59,6,doco, ,2259439,5415101,14072440,tfu, , ,2
+114878,11,2018,Karoro Creek,1201043,Karoro Creek tributary 3,754, ,Karoro Creek tributary, ,87,5,doco, ,2258326,5415945,14072366,tfu, , ,2
+114879,11,2018,Karoro Creek,1201043,Karoro Creek tributary 3,754, ,Karoro Creek tributary, ,87,5,doco, ,2258335,5415962,14072366,obs,1, ,2
+114881,11,2018,Karoro Creek,1201044,Karoro Creek tributary 4,754, ,Karoro Creek tributary, ,70,7,doco, ,2257508,5416614,14072270,tfu, , ,1
+115263,11,2018,Karoro Creek to Catlins River,1201044,Karoro Creek tributary 4,754, ,Karoro Creek tributary, ,70,7,doco,H46,2257509,5416614,14072270,vbd, , , 
+117450,11,2019,Clutha River,1201045,Waiwera River tributary,752.13,1245,Waiwera River tributary, ,88,59,doco, ,2236733,5439784,14069372,vbd,1, ,5
+117451,11,2019,Clutha River,1201045,Waiwera River tributary,752.13,1305,Waiwera River tributary, ,88,59,doco, ,2236711,5439820,14069372,han,1, ,5
+118459,5,2019,Clutha River,1341039,Timber Creek,752.971,1217,Timber Creek, ,389,278,doco,F40,2201692,5598238,14016003,efp,1, ,22
+118458,5,2019,Clutha River,1341039,Timber Creek,752.971,1105,Timber Creek, ,389,278,doco,F40,2201598,5598245,14016003,efp,1, ,27
+118417,2,2019,Clutha River,1341038,Cardrona River upper,752.97,0,Cardrona River, ,428,283,docc,F40,2199526,5593837,14017597,han,1, ,5
+118441,4,2019,Clutha River,1341038,Cardrona River upper,752.97,1055,Cardrona River, ,419,283,docc,F40,2199526,5593859,14017523,efp,1, ,30
+118444,4,2019,Clutha River,1341038,Cardrona River upper,752.97,1129,Cardrona River, ,419,283,docc,F40,2199592,5593911,14017523,efp,1, ,40
+118443,4,2019,Clutha River,1341038,Cardrona River upper,752.97,1121,Cardrona River, ,419,283,docc,F40,2199540,5593926,14017523,efp,1, ,10
+118450,4,2019,Clutha River,1341038,Cardrona River upper,752.971,1535,Spotts Creek, ,399,280,docc,F40,2201002,5596244,14016794,efp,1, ,4
+118451,4,2019,Clutha River,1341038,Cardrona River upper,752.97,1538,Cardrona River, ,399,279,docc,F40,2201016,5596247,14016643,efp,1, ,30
+118440,4,2019,Clutha River,1341038,Cardrona River upper,752.97,950,Cardrona River, ,390,279,docc,F40,2201184,5597195,14016466,efp,1, ,70
+118438,4,2019,Clutha River,1341038,Cardrona River upper,752.97,1545,Cardrona River, ,418,278,docc,F40,2201613,5597985,14016165,efp,1, ,80
+118457,5,2019,Clutha River,1341038,Cardrona River upper,752.97,1006,Cardrona River, ,360,276,doco,F40,2202560,5599052,14015751,efp,1, ,38
+118439,4,2019,Clutha River,1341038,Cardrona River upper,752.97,854,Cardrona River, ,360,276,docc,F40,2202705,5599112,14015751,efp,1, ,72
+118452,5,2019,Clutha River,1341037,Cardrona River lower,752.97,1028,Cardrona River, ,279,265,docc,F40,2208615,5606713,14013360,efp,1, ,70
+118432,3,2019,Clutha River,1341036,Lagoon Creek,752.95,917,Lagoon Creek, ,403,258,docc,G40,2217958,5608229,14012829,efp,1, ,20
+119424,6,2000,Clutha River,1341026,Short Spur Creek,752.886,0,Short Spur Creek, ,677,275,uoo, ,2241699,5607700,14012953,efp,1, , 
+119412,8,1999,Clutha River,1341009,Pool Burn tributary 2,752.636,0,Pool Burn tributary, ,1080,265,doco, ,2256500,5533500,14043960,efp,1, , 
+118488,11,2019,Clutha River,1341009,Pool Burn tributary 2,752.636,905,Pool Burn tributary, ,1045,263,doco,H42,2257431,5535099,14043409,tfu, , ,5
+119444,10,2003,Clutha River,1341009,Pool Burn tributary 2,752.636,0,Pool Burn tributary, ,1060,263,uoo, ,2257299,5535200,14043408,efp,1, , 
+119377,12,1998,Clutha River,1341009,Pool Burn tributary 2,752.636,0,Pool Burn tributary, ,1045,263,uoo, ,2257399,5535200,14043409,efp,1, , 
+118487,11,2019,Clutha River,1341009,Pool Burn tributary 2,752.636,852,Pool Burn tributary, ,1045,263,doco,H42,2257372,5535258,14043409,tfu, , ,1
+118486,11,2019,Clutha River,1341009,Pool Burn tributary 2,752.636,849,Pool Burn tributary, ,1000,262,doco,H42,2257347,5535339,14043002,tfu, , ,1
+118485,11,2019,Clutha River,1341009,Pool Burn tributary 2,752.636,847,Pool Burn tributary, ,1000,262,doco,H42,2257379,5535402,14043002,tfu, , ,2
+118484,11,2019,Clutha River,1341009,Pool Burn tributary 2,752.636,839,Pool Burn tributary, ,1000,262,doco,H42,2257409,5535448,14043002,tfu, , ,1
+119443,10,2003,Clutha River,1341009,Pool Burn tributary 2,752.636,0,Pool Burn tributary, ,992,262,uoo, ,2258199,5535600,14043003,efp,1, , 
+118483,11,2019,Clutha River,1341009,Pool Burn tributary 2,752.636,1845,Pool Burn tributary, ,992,262,doco,H42,2258220,5535642,14043003,efp,1, ,6
+119379,12,1998,Clutha River,1341009,Pool Burn tributary 2,752.636,0,Pool Burn tributary, ,992,262,uoo, ,2258200,5535700,14043003,efp,1, , 
+119378,12,1998,Clutha River,1341009,Pool Burn tributary 2,752.636,0,Pool Burn, ,914,261,uoo, ,2257400,5536399,14042836,efp,1, , 
+120151,2,1999,Clutha River,1341008,Maori Creek upper,752.636,0,Maori Creek, ,918,258,doco,H41,2258500,5538100,14041684,efp, , , 
+119355,2,1992,Clutha River,1341008,Maori Creek upper,752.636,0,Maori Creek, ,918,258,niwa, ,2258499,5538199,14041684,efp,1, , 
+118506,11,2019,Clutha River,1341005,Manor Burn tributary 2,752.631,1116,Manor Burn tributary, ,738,205,doco,G42,2244900,5534965,14043646,tfu, , ,2
+118507,11,2019,Clutha River,1341005,Manor Burn tributary 2,752.631,1125,Manor Burn tributary, ,738,205,doco,G42,2244924,5534970,14043646,tfu, , ,5
+118508,11,2019,Clutha River,1341005,Manor Burn tributary 2,752.631,1252,Manor Burn, ,647,203,doco,G42,2243519,5536575,14042866,efp,1, ,10
+118512,11,2019,Clutha River,1341004,Manor Burn tributary 1,752.631,1427,Manor Burn tributary, ,626,201,doco,G42,2242719,5538369,14041865,vbd,1, , 
+120553,1,2020,Clutha River,1201047,Waitahuna River tributary 4,752.12,1505,Waitahuna River tributary, ,147,86,doco, ,2263152,5465877,14064405,efp,1, , 
+120550,1,2020,Clutha River,1201047,Waitahuna River tributary 4,752.12,1403,Waitahuna River tributary, ,147,86,doco, ,2263082,5465926,14064405,efp,1, , 
+120551,1,2020,Clutha River,1201047,Waitahuna River tributary 4,752.12,1428,Waitahuna River tributary, ,147,86,doco, ,2263140,5465958,14064405,efp,1, , 
+120552,1,2020,Clutha River,1201047,Waitahuna River tributary 4,752.12,1444,Waitahuna River tributary, ,147,86,doco, ,2263154,5465965,14064405,efp,1, , 
+120547,1,2020,Clutha River,1201047,Waitahuna River tributary 4,752.12,1111,Waitahuna River tributary, ,147,86,doco, ,2262892,5466302,14064405,efp,1, , 
+120546,1,2020,Clutha River,1201047,Waitahuna River tributary 4,752.12,1025,Waitahuna River tributary, ,121,86,doco, ,2262763,5466377,14064319,efp,1, , 
+120567,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262781,5464509,14064645,efp,1, ,5
+119421,3,2000,Clutha River,1201011,Tuapeka River tributary 2,752.19,0,Tuapeka River tributary, ,363,101,uoo, ,2251100,5480099,14061008,efp,1, , 
+118419,2,2019,Clutha River,1341050,Unnamed stream Roadmans Gully,752.974,0,Unnamed stream Roadmans Gully, ,1020,309,docc,F41,2190165,5573007,14025927,han,1, ,8
+118420,2,2019,Clutha River,1341049,Unnamed stream Wrights Gully,752.974,0,Unnamed stream Wrights Gully, ,857,307,docc,F41,2191206,5574434,14025357,han,1, ,5
+118448,4,2019,Clutha River,1341049,Unnamed stream Wrights Gully,752.974,1432,Wrights Gully unnamed stream, ,857,307,docc,F41,2191212,5574420,14025357,efp,1, ,18
+118454,5,2019,Clutha River,1341050,Unnamed stream Roadmans Gully,752.974,1526,Roadmans Gully unnamed stream, ,1020,309,doco,F41,2190218,5572924,14025927,efp,1, ,22
+118455,5,2019,Clutha River,1341043,Branch Burn,752.973,1631,Branch Burn, ,458,288,doco,F41,2198565,5589811,14018978,efp,1, ,34
+118460,5,2019,Clutha River,1341039,Timber Creek,752.971,1221,Timber Creek, ,389,278,doco,F40,2201720,5598192,14016003,efp,1, ,4
+118462,5,2019,Clutha River,1341043,Branch Burn,752.973,1416,Branch Burn, ,459,288,doco,F41,2198424,5589830,14018921,efp,1, ,15
+118467,5,2019,Clutha River,1341041,Spotts Creek,752.971,1459,Spotts Creek, ,399,280,doco,F40,2200651,5596291,14016794,efp,1, ,15
+118489,11,2019,Clutha River,1341055,Pool Burn tributary 1,752.636,943,Pool Burn tributary, ,887,261,doco,H42,2258496,5539130,14041704,tfu, , ,2
+118490,11,2019,Clutha River,1341055,Pool Burn tributary 1,752.636,947,Pool Burn tributary, ,887,261,doco,H42,2258516,5539128,14041704,tfu, , ,2
+118491,11,2019,Clutha River,1341055,Pool Burn tributary 1,752.636,949,Pool Burn tributary, ,887,261,doco,H42,2258541,5539116,14041704,tfu, , ,2
+118492,11,2019,Clutha River,1341055,Pool Burn tributary 1,752.636,959,Pool Burn tributary, ,887,261,doco,H42,2258568,5539093,14041704,tfu, , ,4
+118493,11,2019,Clutha River,1341054,Kirk Creek,752.636,1126,Kirk Creek, ,643,246,doco,H42,2251243,5542574,14039824,han,1, ,1
+118494,11,2019,Clutha River,1341054,Kirk Creek,752.636,1130,Kirk Creek, ,643,246,doco,H42,2251252,5542542,14039824,han,1, ,1
+118495,11,2019,Clutha River,1341054,Kirk Creek,752.636,1236,Kirk Creek, ,592,245,doco,H42,2250637,5544516,14039376,han,1, ,1
+118496,11,2019,Clutha River,1341051,Unnamed water race,752.636,1448,Moa Creek tributary, ,595,249,doco,G42,2246110,5541928,14040554,efp,1, ,5
+118497,11,2019,Clutha River,1341051,Unnamed water race,752.636,1459,Moa Creek tributary, ,595,249,doco,G42,2245972,5541928,14040554,efp,1, ,4
+118498,11,2019,Clutha River,1341054,Kirk Creek,752.636,913,Kirk Creek, ,643,246,doco,H42,2251214,5542824,14039824,tfu, , ,2
+118499,11,2019,Clutha River,1341054,Kirk Creek,752.636,915,Kirk Creek, ,643,246,doco,H42,2251205,5542805,14039824,tfu, , ,1
+118500,11,2019,Clutha R,1341054,Kirk Creek,752.636,920,Kirk Creek, ,643,246,doco,H42,2251202,5542800,14039824,tfu, , ,1
+118501,11,2019,Clutha River,1341054,Kirk Creek,752.636,922,Kirk Creek, ,643,246,doco,H42,2251206,5542751,14039824,tfu, , ,1
+118502,11,2019,Clutha River,1341054,Kirk Creek,752.636,926,Kirk Creek, ,643,246,doco,H42,2251242,5542577,14039824,tfu, , ,2
+118503,11,2019,Clutha River,1341054,Kirk Creek,752.636,931,Kirk Creek, ,643,246,doco,H42,2251252,5542545,14039824,tfu, , ,3
+118504,11,2019,Clutha River,1341054,Kirk Creek,752.636,935,Kirk Creek, ,643,246,doco,H42,2251244,5542513,14039824,tfu, , ,3
+118505,11,2019,Clutha River,1341054,Kirk Creek,752.636,938,Kirk Creek, ,671,248,doco,H42,2251263,5542439,14040365,tfu, , ,2
+118516,11,2019,Clutha River,1341051,Unnamed water race,752.636,1610,Moa Creek tributary, ,609,250,doco,G42,2244791,5541581,14040429,efp,1, ,6
+118517,11,2019,Clutha River,1341051,Unnamed water race,752.636,1614,Moa Creek tributary, ,609,250,doco,G42,2244789,5541603,14040429,efp,1, ,5
+118518,11,2019,Clutha River,1341051,Unnamed water race,752.636,1619,Moa Creek tributary, ,609,250,doco,G42,2244781,5541564,14040429,efp,1, ,16
+118519,11,2019,Clutha River,1341051,Unnamed water race,752.636,1628,Moa Creek tributary, ,609,250,doco,G42,2244772,5541497,14040429,efp,1, ,12
+118520,11,2019,Clutha River,1341051,Unnamed water race,752.636,1628,Moa Creek tributary, ,609,250,doco,G42,2244770,5541494,14040429,efp,1, ,8
+118521,11,2019,Clutha River,1341051,Unnamed water race,752.636,1632,Moa Creek tributary, ,609,250,doco,G42,2244772,5541466,14040429,efp,1, ,4
+118524,11,2019,Taieri River,1341057,Totara Creek,743.8,956,Totara Creek, ,1050,220,doco,H42,2257252,5532657,14044393,efp,1, ,4
+118525,11,2019,Taieri River,1341057,Totara Creek,743.8,1037,Unnamed water race, ,0,0,doco,H42,2257417,5532749,0,efp,1, ,38
+118526,11,2019,Taieri River,1341057,Totara Creek,743.8,1046,Unnamed water race, ,0,0,doco,H42,2257574,5532854,0,efp,1, ,10
+119352,10,1991,Taieri River,1341057,Totara Creek,743.8,0,Totara Creek, ,914,215,uoo, ,2260300,5534999,14043578,efp,1, , 
+119357,3,1992,Taieri River,1341057,Totara Creek,743.8,0,Totara Creek, ,1050,220,uoo, ,2257399,5532499,14044393,efp,1, , 
+119368,1,1993,Taieri River,1341056,Waimonga Creek,743.874,0,Waimonga Creek, ,0,0,uoo, ,2254300,5530000,0,efp,1, , 
+119399,2,1999,Taieri River,1341056,Waimonga Creek,743.874,0,Waimonga Creek, ,0,0,uoo, ,2254300,5530800,0,efp,1, , 
+119400,2,1999,Taieri River,1341056,Waimonga Creek,743.874,0,Waimonga Creek, ,0,0,uoo, ,2254699,5529900,0,efp,1, , 
+119404,4,1999,Taieri River,1341056,Waimonga Creek,743.874,0,Waimonga Creek, ,0,0,uoo, ,2254300,5530000,0,efp,1, , 
+119441,10,2003,Taieri River,1341057,Totara Creek,743.8,0,Totara Creek, ,914,215,uoo, ,2260400,5534899,14043578,efp,1, , 
+119442,10,2003,Taieri River,1341057,Totara Creek,743.8,0,Totara Creek, ,1041,220,uoo, ,2257399,5532700,14044375,efp,1, , 
+121664,1,1993,Taieri River,1341057,Totara Creek,743.8,0,Totara Creek, ,938,216,uoo,H42,2260200,5535000,14043499,efp, ,,
+120673,1,2021,Clutha River,1341037,Cardrona River lower,752.97,1436,Cardrona River, ,279,265,wwcl,F40,2208097,5606430,14013360,efp, ,,
+121566,5,2021,Clutha River,1341034,Schoolhouse Creek,752,1000,Schoolhouse Creek, ,361,231,doco,H46,2218492,5589175,14019164,efp, ,,
+121591,5,2021,Clutha River,1341034,Schoolhouse Creek,752.89,1200,Schoolhouse Creek, ,361,231,doco,G41,2218055,5589330,14019164,efp, ,,
+121592,5,2021,Clutha River,1341034,Schoolhouse Creek,752.89,1500,Schoolhouse Creek, ,361,231,doco,G41,2218521,5589123,14019164,efp, ,,
+121184,9,2008,Clutha River,1341008,Maori Creek upper,752.636,0,Maori Creek tributary, ,918,258,doco, ,2258564,5538148,14041684,efp,1,,
+121433,4,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,0,Bickerstaffe Creek, ,740,199,rdcl, ,2236184,5530551,14044871,efp,1,,
+121434,4,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,0,Bickerstaffe Creek tributary, ,752,200,rdcl, ,2236833,5531067,14045320,efp,1,,
+121435,4,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,0,Bickerstaffe Creek, ,740,199,rdcl, ,2236315,5530907,14044871,efp,1,,
+121436,4,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,0,Bickerstaffe Creek tributary, ,752,200,rdcl, ,2237736,5530294,14045320,efp,1,,
+121437,4,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,0,Bickerstaffe Creek, ,780,206,rdcl, ,2236486,5524933,14046988,efp,1,,
+121438,4,2015,Clutha River,1341002,Bickerstaffe Creek,752.631,0,Bickerstaffe Creek, ,740,199,rdcl, ,2236395,5531216,14044871,efp,1,,
+121654,12,2011,Clutha River,1341002,Bickerstaffe Creek,752.631,0,Bickerstaffe Creek, ,519,192,rdcl,G42,2235006,5536971,14042934,efp, ,,
+121232,4,2021,Clutha River,1341001,Benger Burn,752.4,1300,Benger Burn, ,99,120,doco, ,2224415,5499846,14054760,efp,1,,75
+121233,4,2021,Clutha River,1341001,Benger Burn,752.4,1330,Benger Burn, ,111,121,doco, ,2224176,5499917,14054830,efp,1,,20
+121234,4,2021,Clutha River,1341001,Benger Burn,752.4,1350,Benger Burn, ,111,121,doco, ,2224093,5499829,14054830,efp,1,,30
+121235,4,2021,Clutha River,1341001,Benger Burn,752.4,1400,Benger Burn, ,111,121,doco, ,2223973,5499734,14054830,efp,1,,5
+121236,4,2021,Clutha River,1341001,Benger Burn,752.4,1500,Benger Burn, ,146,122,doco, ,2223518,5499933,14054727,efp,1,,2
+120568,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262786,5464508,14064645,efp,1,,5
+120569,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262769,5464524,14064645,efp,1,,5
+120570,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262755,5464539,14064645,efp,1,,5
+120571,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262729,5464535,14064645,efp,1,,5
+120572,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262606,5464798,14064645,efp,1,,5
+120573,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262598,5464788,14064645,efp,1,,5
+120574,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262623,5464761,14064645,efp,1,,10
+120579,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,140,86,doco, ,2262535,5464763,14064633,efp,1,,
+120580,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,140,86,doco, ,2262523,5464762,14064633,efp,1,,
+120581,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,168,86,doco, ,2262484,5464755,14064644,efp,1,,
+120582,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,168,86,doco, ,2262486,5464733,14064644,efp,1,,
+120583,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262622,5464689,14064645,efp,1,,
+120584,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262798,5464488,14064645,efp,1,,
+120585,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262957,5464309,14064645,efp,1,,
+120586,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262801,5464485,14064645,efp,1,,
+120587,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262806,5464479,14064645,efp,1,,
+120588,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262816,5464459,14064645,efp,1,,
+120589,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262823,5464446,14064645,efp,1,,
+120590,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262831,5464434,14064645,efp,1,,
+120591,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262839,5464431,14064645,efp,1,,
+120592,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262866,5464371,14064645,efp,1,,
+120593,10,2020,Clutha River,1201046,Waitahuna River tributary 3,752.12,0,Waitahuna River tributary, ,144,86,doco, ,2262919,5464330,14064645,efp,1,,
+121125,10,2005,Clutha River,1201010,Boundary Creek,752.19,0,Boundary Creek, ,158,93,doco, ,2252688,5471313,14063237,efp,1,,
+,,,,,,,,,,,,,,,,,,,,
+118109,1,2020,Clutha River,1201048,Waitahuna River tributary 1,752.12,843,Waitahuna River tributary,,170,84,doco,,2261155,5459298,14065782,tfu,,,1
+118110,1,2020,Clutha River,1201048,Waitahuna River tributary 1,752.12,844,Waitahuna River tributary,,170,84,doco,,2261146,5459300,14065782,tfu,,,1
+118111,1,2020,Clutha River,1201048,Waitahuna River tributary 1,752.12,849,Waitahuna River tributary,,170,84,doco,,2261177,5459302,14065782,tfu,,,1
+118112,1,2020,Clutha River,1201048,Waitahuna River tributary 1,752.12,849,Waitahuna River tributary,,170,84,doco,,2261171,5459303,14065782,tfu,,,1
+118113,1,2020,Clutha River,1201048,Waitahuna River tributary 1,752.12,854,Waitahuna River tributary,,189,85,doco,,2261211,5459311,14065802,tfu,,,1
+118114,1,2020,Clutha River,1201048,Waitahuna River tributary 1,752.12,857,Waitahuna River tributary,,189,85,doco,,2261186,5459308,14065802,tfu,,,1
+118115,1,2020,Clutha River,1201048,Waitahuna River tributary 1,752.12,900,Waitahuna River tributary,,189,85,doco,,2261223,5459297,14065802,tfu,,,1
+118116,1,2020,Clutha River,1201048,Waitahuna River tributary 1,752.12,902,Waitahuna River tributary,,189,85,doco,,2261207,5459299,14065802,tfu,,,1
+118117,1,2020,Clutha River,1201048,Waitahuna River tributary 1,752.12,906,Waitahuna River tributary,,209,84,doco,,2260973,5459304,14065978,tfu,,,1
+118118,1,2020,Clutha River,1201048,Waitahuna River tributary 1,752.12,909,Waitahuna River tributary,,209,84,doco,,2260977,5459321,14065978,tfu,,,1
