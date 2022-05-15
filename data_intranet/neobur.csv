@@ -189,7 +189,6 @@
 27538,8,2018,Hinds Drains,1491141,Twenty-One Drain,692,1030,Dobsons Drain tributary, ,19,0,docc,K38,2398778,5675925,13062213,tfu, , ,19
 27539,8,2018,Hinds Drains,1491093,Unnamed wetland Wairuna,692,1200,Dobsons Drain tribuatary, ,14,2,docc,K38,2399405,5676203,13062405,tfu, , ,16
 27585,9,2008,Waimakariri River,1491026,Mounseys Stream tributary 13,664.063,900,Mounseys Stream tributary,,308,65,docc,L35,2435157,5768324,13038152,gmt,,,5
-28361,6,2006,Harts Creek,1491065,Ellesmere drainage network,682,1102,Harts Creek tributary, ,5,10,docc,m36,2457893,5715030,13054170,gmt, , ,5
 28415,4,2007,Selwyn River,1491044,Nelsons Road Water Race,680.04,1200,Unnamed water race,,320,93,docc,L36,2412326,5739644,0,gmt,,,6
 28416,6,2007,Selwyn River,1491056,Selwyn water race,680.04,1100,Unnamed water race,,175,72,docc,L36,2427640,5739620,0,gmt,,,4
 28417,6,2007,Selwyn River,1491056,Selwyn water race,680.04,1115,Unnamed water race, ,170,73,docc,l36,2428109,5739030,0,gmt, , ,4
@@ -213,7 +212,7 @@
 30216,11,2004,Longbeach,1491067,Unnamed stock water race Lower Beach Road,690,day,Unnamed water race Lower Beach Rd,,25,2,inic,L37,2412033,5683177,0,obs,,,1
 30217,11,2004,Longbeach,1491067,Unnamed stock water race Lower Beach Road,690,day,Unnamed water race Lower Beach Rd,,25,2,inic,L37,2411998,5682859,0,obs,,,1
 30218,11,2004,Longbeach,1491067,Unnamed stock water race Lower Beach Road,690,day,Unnamed water race Lower Beach Rd,,25,1,inic,L37,2412948,5683007,0,obs,,,1
-30219,11,2004,Waihao River,1491146,Buchanans Creek tributary,709.011,day,Buchanans Creek tributary,,8,5,inic,J40,2361834,5601277,0,obs,,,1
+30219,11,2004,Waihao River,1491122,Buchanans Creek,709.011,day,Buchanans Creek tributary,,8,5,inic,J40,2361834,5601277,0,obs,,,1
 30220,5,2005,Waihao River,1491122,Buchanans Creek,709.011,night,Buchanans Creek,,8,7,inic,J40,2361526,5601275,13069015,gmt,,,6
 30221,11,2004,Waihao River,1491122,Buchanans Creek,709.011,day,Buchanans Creek,,8,6,inic,J40,2361469,5601384,13069015,efp,1,,100
 30222,5,2005,Waihao River,1491122,Buchanans Creek,709.011,night,Buchanans Creek,,8,6,inic,J40,2361456,5601422,13069015,gmt,,,6
@@ -409,10 +408,10 @@
 34332,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,1343,Kohika Stream tributary,,9,4,docc,J39,2364046,5621653,13067601,gmt,,,1
 34333,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,1343,Kohika Stream tributary, ,9,4,docc,J39,2364051,5621702,13067601,gmt, , ,1
 34334,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,1343,Kohika Stream tributary, ,9,4,docc,J39,2364059,5621709,13067601,gmt, , ,2
-34335,1,2011,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,9,4,docc,J39,2364065,5621814,13067601,fyn, , ,1
+34335,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,9,4,docc,J39,2364065,5621814,13067601,fyn, , ,1
 34336,1,2011,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,10,4,docc,J39,2364081,5622010,13067601,fyn, , ,1
-34337,1,2011,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,10,4,docc,J39,2364086,5621859,13067601,fyn,,,1
-34338,1,2011,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,10,4,docc,J39,2364124,5621912,13067601,efp,,,
+34337,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,docc,J39,2364086,5621859,13067601,fyn,,,1
+34338,1,2011,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,10,4,docc,J39,2364124,5621912,13067601,efp,,,
 34353,12,2010,Washdyke Creek,1491097,Papaka Stream 1,698.02,1430,Papaka Stream,,19,8,docc,J36,2366722,5651581,13065484,gmt,,,
 34371,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1621,North Branch Hinds River tributary, ,438,63,docc, ,2375362,5721488,13051658,gmt, , ,1
 34372,7,2011,Hinds River,1491092,Hinds River North Branch tributary wetland 2,691.01,1620,North Branch Hinds River tributary, ,438,63,docc, ,2375380,5721489,13051658,gmt, , ,1
@@ -429,7 +428,7 @@
 34668,8,2011,Pegasus,1491003,Taranaki Stream tributary 1,663,1400,Tutai Patu Lagoon,,8,5,docc,M35,2486515,5764979,13038621,gmt,,,5
 34669,8,2011,Pegasus,1491003,Taranaki Stream tributary 1,663,1105,Tutai Patu Lagoon, , , ,docc,M35,2486208,5764659, ,gmt, , ,10
 34670,8,2011,Pegasus,1491003,Taranaki Stream tributary 1,663,1125,Tutai Patu Lagoon, , , ,docc,M35,2486187,5764515, ,gmt, , ,10
-34671,8,2011,Pegasus,1491003,Taranaki Stream tributary wetland (pre Pegasus town),663,1145,Tutai Patu Lagoon,,0,0,docc,M35,2486105,5763877,,gmt,,,10
+34671,8,2011,Pegasus,1491002,Taranaki Stream tributary wetland (pre Pegasus town),663,1145,Tutai Patu Lagoon,,0,0,docc,M35,2486105,5763877,,gmt,,,10
 34672,8,2011,Pegasus,1491003,Taranaki Stream tributary 1,663,1215,Unnamed stream Pegasus, ,8,5,docc,M35,2485662,5765212,13038620,gmt, , ,10
 34673,8,2011,Pegasus,1491002,Taranaki Stream tributary wetland (pre Pegasus town),663,1245,Unnamed stream Pegasus,,0,0,docc,M35,2485602,5764934,,gmt,,,10
 34674,6,2010,Selwyn River,1491038,Hororata River tributary 4,680.04,1125,Hororata River tributary, ,162,69,docc,L36,2430770,5738293,13047231,gmt, , ,4
@@ -634,9 +633,9 @@
 100447,2,2011,Avon River,1491027,Avon River tributary wetland (Translocation),666,,Unnamed wetland,,10,7,indx,M35,2484789,5746695,13044818,oth,,,
 100448,3,2011,Avon River,1491027,Avon River tributary wetland (Translocation),666,,Unnamed wetland,,10,7,docc,M35,2484789,5746695,13044818,gmt,,,40
 100449,5,2011,Avon River,1491027,Avon River tributary wetland (Translocation),666,,Unnamed wetland,,10,7,docc,M35,2484810,5746680,13044818,gmt,,,20
-100450,8,2011,Pegasus,1491003,Taranaki Stream tributary wetland (pre Pegasus town),663,,Unnamed wetland,,0,0,docc,M35,2486208,5764660,,gmt,,,10
-100451,8,2011,Pegasus,1491003,Taranaki Stream tributary wetland (pre Pegasus town),663,,Unnamed wetland,,5,5,docc,M35,2485662,5765212,13038620,gmt,,,10
-100452,8,2011,Pegasus,1491003,Taranaki Stream tributary wetland (pre Pegasus town),663,,Unnamed wetland,,5,5,docc,M35,2486225,5764979,13038621,gmt,,,10
+100450,8,2011,Pegasus,1491002,Taranaki Stream tributary wetland (pre Pegasus town),663,,Unnamed wetland,,0,0,docc,M35,2486208,5764660,,gmt,,,10
+100451,8,2011,Pegasus,1491002,Taranaki Stream tributary wetland (pre Pegasus town),663,,Unnamed wetland,,5,5,docc,M35,2485662,5765212,13038620,gmt,,,10
+100452,8,2011,Pegasus,1491002,Taranaki Stream tributary wetland (pre Pegasus town),663,,Unnamed wetland,,5,5,docc,M35,2486225,5764979,13038621,gmt,,,10
 100453,4,2007,Selwyn River,1491037,Hororata River tributary 3,680.04,,Hororata River tributary,,150,65,docc,L36,2431987,5735386,13048252,gmt,,,10
 100454,5,2009,Selwyn River,1491037,Hororata River tributary 3,680.04,,Hororata River tributary,,150,65,docc,L36,2431977,5735375,13048252,gmt,,,10
 100455,6,2010,Selwyn River,1491037,Hororata River tributary 3,680.04,,Hororata River tributary,,150,65,docc,L36,2431977,5735375,13048252,gmt,,,10
@@ -828,7 +827,7 @@
 100708,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,4,doco,J39,2363418,5621858,13067617,gmt, , ,1
 100709,9,2013,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,10,5,doco,J39,2363542,5622764,13067532,fyn,,,1
 100710,9,2013,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,10,5,doco,J39,2363510,5622776,13067532,gmt,,,1
-100711,9,2013,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,10,5,doco,J39,2363440,5622795,13067532,gmt, , ,1
+100711,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,10,5,doco,J39,2363440,5622795,13067532,gmt, , ,1
 100712,9,2013,Kohika Stream,1491109,Kohika Stream tributary 3,704,,Kohika Stream tributary,,10,6,doco,J39,2363795,5623303,13067495,obs,,,1
 100714,9,2013,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,30,8,doco,J39,2360235,5622318,13067589,obs,,,1
 100715,9,2013,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,10,5,doco,J39,2363652,5622650,13067497,obs, , ,1
@@ -1022,7 +1021,7 @@
 102598,9,2014,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,32,4,doco,J39,2363994,5622049,13067525,gmt,,,1
 102599,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,32,4,doco,J39,2364057,5622029,13067525,gmt, , ,1
 102600,9,2014,Kohika Stream,1491110,Kohika Stream,704, ,Kohika Stream tributary, ,3,4,doco,J39,2364064,5622001,13067601,gmt, , ,1
-102601,9,2014,Kohika Stream,1491110,Kohika Stream,704,,Kohika Stream tributary,,3,4,doco,J39,2364091,5621953,13067601,gmt,,,1
+102601,9,2014,Kohika Stream,1491111,Horseshoe Bend Stream,704,,Kohika Stream tributary,,3,4,doco,J39,2364091,5621953,13067601,gmt,,,1
 102602,9,2014,Kohika Stream,1491111,Horseshoe Bend Stream,704, ,Kohika Stream tributary, ,3,4,doco,J39,2364025,5621808,13067601,obs, , ,1
 102603,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704, ,Kohika Stream tributary, ,31,7,doco,J39,2364675,5624964,13067360,gmt, , ,1
 102604,9,2014,Kohika Stream,1491107,Kohika Stream tributary 1,704,,Kohika Stream tributary,,31,7,doco,J39,2364687,5624948,13067360,gmt,,,1
@@ -1122,7 +1121,7 @@
 104568,5,2008,Pareora River,1491102,Pareora River tributary 2,701,,Pareora River tributary,,13,3,niwa,J39,2365190,5633440,13066886,efp,,,3
 104569,5,2008,Unnamed River,1491106,Unnamed stream St Andrews,702,,Unnamed stream,,1,0,niwa,J39,2366940,5631090,13067020,efp,,,3
 104570,5,2008,Unnamed River,1491106,Unnamed stream St Andrews,702,,Unnamed Stream,,12,1,niwa,J39,2365440,5631500,13066987,efp,,,1
-104574,5,2008,Pareora River,1491104,Gordons Stream,701.02,,Gordons Stream tributary,,166,25,niwa,J39,2351960,5635160,13066763,efp,,,10
+104574,5,2008,Pareora River,1491103,Pareora River tributary 3,701.02,,Gordons Stream tributary,,166,25,niwa,J39,2351960,5635160,13066763,efp,,,10
 104578,5,2008,Hook River,1491118,Waituna Stream,707.01, ,Waituna Stream, ,24,4,niwa,j40,2359740,5609890,13068394,efp, , ,10
 104580,5,2008,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705, ,Horseshoe Bend Stream, ,11,3,niwa,j39,2362690,5621790,13067621,efp, , ,25
 104581,5,2008,Horseshoe Bend Stream,1491111,Horseshoe Bend Stream,705,,Horseshoe Bend Stream,,38,5,niwa,J39,2361720,5622240,13067593,efp,,,15
@@ -1276,7 +1275,6 @@
 116915,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354841,5645810,13065937,tfb,, ,1
 116916,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354770,5645626,13065982,tfb,, ,2
 117228,4,2019,Waitaki River,1491139,Waitaki River tributary 2,711.031,,Waihuna Stream tributary,,91,28,rel,J40,2338867,5590962,13523119,kbt,,,5
-117532,8,2019,Waihao River,1491146,Buchanans Creek tributary,709,1030,Buchanans Creek, ,9,5,docc,J40,2362108,5601394,13068960,tfu,,,7
 117710,10,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,950,Waianiwaniwa River,,328,97,uoc,L36,2423152,5753054,13042847,tfu,,,2
 117711,10,2016,Selwyn River,1491055,Waianiwaniwa River tributary 8,680.05,1100,Waianiwaniwa River tributary,,304,95,uoc,L36,2424759,5753669,13042591,tfu,,,1
 117714,10,2016,Selwyn River,1491047,Waianiwaniwa River,680.05,1200,Waianiwaniwa River oxbow,,281,93,uoc,L36,2426315,5753661,13042618,tfu,,,1
@@ -1402,7 +1400,7 @@
 117859,3,2017,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,1230,Waianiwaniwa River tributary,,239,84,uoc,L36,2427233,5747900,13044589,tfu,,,1
 117860,3,2017,Selwyn River,1491043,Hororata River 2,680.04,1520,Hororata River tributary,,188,79,uoc,L36,2424848,5740136,13046863,tfu,,,1
 117861,3,2017,Selwyn River,1491042,Cordys Stream,680.04,1615,Hororata River tributary,,180,78,uoc,L36,2425490,5739950,13046852,tfu,,,1
-117862,3,2017,Selwyn River,1491147,Unnamed pond Hororata River 2,680.04,1545,Hororata River,,189,79,uoc,L36,2424594,5740604,13046669,tfu,,,1
+117862,3,2017,Selwyn River,1491043,Hororata River 2,680.04,1545,Hororata River,,189,79,uoc,L36,2424594,5740604,13046669,tfu,,,1
 117863,3,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1635,Hororata River tributary,,170,71,uoc,L36,2427253,5739243,13046756,tfu,,,1
 117864,3,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1645,Hororata River tributary,,170,71,uoc,L36,2428763,5738407,13046756,tfu,,,1
 117865,3,2017,Selwyn River,1491040,Hororata River tributary 6,680.04,1320,Hororata River tributary,,170,71,uoc,L36,2429587,5737216,13046756,tfu,,,1
@@ -1521,84 +1519,90 @@
 120493,8,2019,Selwyn River,1491143,Selwyn River tributary 7,680,1004,Happy Jack Creek, ,223,76,docc,M36,2426848,5744243,13045599,tfu,,,1
 120494,11,2019,Selwyn River,1491143,Selwyn River tributary 7,680,1013,Happy Jack Creek, ,288,80,docc,M36,2424290,5744623,13045510,vbd,,,
 120495,11,2019,Selwyn River,1491143,Selwyn River tributary 7,680,1017,Happy Jack Creek, ,232,79,docc,M36,2425235,5744824,13045464,vbd,,,
-120933,3,2021,Selwyn River,1491042,Cordys Stream,680.04,1142,Cordys Stream, ,184,79,docc,L36,2425519,5740120,13046683,vbd, , ,0
-121024,3,2021,Waimakariri River,1491021,Mounseys Stream,664.063,1600,Mounseys Stream, ,302,62,ind,I35,2436037,5767858,13038262,kbt, , ,4
-121028,4,2021,Avon River,1491028,Christchurch Botanical Gardens (Translocation),666,900,Botanic Gardens Pond, ,0,0,ael,M35,2479264,5741748,0,tfb, , ,2
-121662,4,2013,Harts Creek,1491064,Ellesmere stockwater race and drainage network,682.01,1146,Birdlings Brook drain tributary, ,0,0,inic,M36,2446396,5723908,0,tfu, , ,1
-121991,1,1990,NIWA Riccarton office,1491149,Avon River pond 2 (Translocation),0,0,Lake Eldon, ,0,0,niwa, ,2478360,5741732,0,han, , ,1
-121993,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,139,29,crc,J39,2354730,5650607,13065536,tfb, , ,1
-121994,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,139,29,crc,J39,2354740,5650777,13065536,tfb, , ,1
-121995,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2354580,5651037,13065522,tfb, , ,1
-121996,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2354511,5651087,13065522,tfb, , ,2
-121997,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2354411,5651157,13065522,tfb, , ,2
-121998,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2354291,5651157,13065516,tfb, , ,2
-121999,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2354151,5651157,13065521,tfb, , ,2
-122000,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,149,30,crc,J39,2353990,5651097,13065529,tfb, , ,1
-122001,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,137,28,crc,J39,2355270,5649767,13065644,tfb, , ,1
-122002,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,118,25,crc,J39,2355059,5648017,13065780,tfb, , ,1
-122006,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,118,25,crc,J39,2354979,5647737,13065780,tfb, , ,1
-122008,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,117,25,crc,J39,2354919,5647547,13065818,tfb, , ,1
-122009,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,24,crc,J39,2354759,5646917,13065865,tfb, , ,1
-122011,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354789,5646987,13065873,tfb, , ,1
-122012,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354789,5646857,13065873,tfb, , ,1
-122013,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354799,5646737,13065873,tfb, , ,1
-122014,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354799,5646617,13065873,tfb, , ,1
-122015,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354909,5646517,13065873,tfb, , ,1
-122016,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354828,5646337,13065873,tfb, , ,1
-122017,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354778,5646117,13065937,tfb, , ,1
-122018,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354768,5645957,13065937,tfb, , ,2
-122019,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354838,5645807,13065937,tfb, , ,1
-122020,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354768,5645637,13065982,tfb, , ,2
-122021,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,107,21,crc,J39,2354358,5644487,13066047,tfb, , ,1
-122022,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,101,20,crc,J39,2354258,5644327,13066078,tfb, , ,1
-122023,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,169,32,crc,J39,2353590,5649847,13065619,tfb, , ,1
-122024,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,169,32,crc,J39,2353590,5649857,13065619,tfb, , ,1
-122025,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,169,32,crc,J39,2353540,5649967,13065619,tfb, , ,1
-122026,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,169,32,crc,J39,2353520,5650017,13065619,tfb, , ,1
-122027,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,158,31,crc,J39,2353490,5650137,13065558,tfb, , ,2
-122028,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,158,31,crc,J39,2353550,5650237,13065558,tfb, , ,1
-122029,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,158,31,crc,J39,2353540,5650357,13065558,tfb, , ,1
-122031,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2353990,5651097,13065521,tfb, , ,1
-122032,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,158,31,crc,J39,2353520,5650607,13065558,tfb, , ,1
-122033,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,149,30,crc,J39,2353560,5650717,13065529,tfb, , ,1
-122034,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,149,30,crc,J39,2353650,5650907,13065529,tfb, , ,2
-122036,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355139,5648447,13065688,tfb, , ,1
-122037,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355169,5648537,13065688,tfb, , ,1
-122038,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355169,5648587,13065688,tfb, , ,1
-122039,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355169,5648647,13065688,tfb, , ,1
-122041,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355139,5648677,13065688,tfb, , ,1
-122042,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355020,5648937,13065688,tfb, , ,1
-122043,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,117,22,crc,J39,2354658,5645587,13066000,tfb, , ,1
-122044,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,117,22,crc,J39,2354648,5645287,13066000,tfb, , ,1
-122045,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,117,22,crc,J39,2354608,5645227,13066000,tfb, , ,1
-122046,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,117,22,crc,J39,2354588,5645147,13066000,tfb, , ,1
-122047,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,115,22,crc,J39,2354618,5644957,13066031,tfb, , ,1
-122048,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,115,22,crc,J39,2354498,5644927,13066031,tfb, , ,1
-122049,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,107,21,crc,J39,2354488,5644777,13066047,tfb, , ,1
-122056,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354799,5646617,13065873,tfb, , ,1
-122057,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,24,crc,J39,2354759,5646917,13065865,tfb, , ,1
-67,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354829,5646987,13065873,tfb, , ,1
-122059,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354789,5646857,13065873,tfb, , ,1
-122060,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354799,5646737,13065873,tfb, , ,1
-122061,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354909,5646517,13065873,tfb, , ,1
-122062,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354828,5646337,13065873,tfb, , ,1
-122063,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354778,5646117,13065937,tfb, , ,1
-122064,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354768,5645957,13065937,tfb, , ,1
-122065,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354768,5645637,13065982,tfb, , ,1
-122066,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,107,21,crc,J39,2354358,5644487,13066047,tfb, , ,1
-122067,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,101,20,crc,J39,2354258,5644327,13066078,tfb, , ,1
-122068,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,118,25,crc,J39,2354979,5647737,13065780,tfb, , ,1
-122070,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,118,25,crc,J39,2354919,5647547,13065824,tfb, , ,1
-122634,6,2021,Selwyn River,1491038,Hororata River tributary 4,680.04,1050,Hororata River tributary, ,148,68,docc,L36,2431578,5735990,13048015,tfu, , ,6
-122639,7,2021,Selwyn River,1491040,Hororata River tributary 6,680.04,1200,Hororata River tributary, ,170,71,docc,L36,2428416,5738527,13046756,tfu, , ,1
-122640,5,2021,Selwyn River,1491143,Selwyn River tributary 7,680.04,1100,Pond, ,0,0,docc,L36,2424569,5745341,0,tfu, , ,1
-122641,5,2021,Selwyn River,1491143,Selwyn River tributary 7,680.04,1100,Pond, ,0,0,docc,L36,2424745,5745255,0,tfu, , ,1
-122642,5,2021,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1030,Eldon ponds, ,0,0,docc,M35,2470747,5749148,0,tfu, , ,1
-122643,5,2021,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1330,Machinery ponds, ,0,0,docc,M35,2471654,5748525,0,tfu, , ,1
-122644,5,2021,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1504,Otter Pond North, ,0,0,docc,M35,2471654,5748525,0,tfu, , ,4
-122653,6,2021,Ashley River,1491003,Taranaki Stream tributary 1,662,1100,Unnamed stream, ,3,4,docc,M35,2486150,5765171,13038621,tfu, , ,2
-122656,6,2021,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1100,Water race pond, ,0,0,docc,M35,2472330,5748653,0,tfu, , ,1
-122662,5,2021,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network,683,1000,Water race, ,0,0,docc,M37,2446946,5722506,0,tfu, , ,3
-122668,5,2021,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network,683,1130,Water races, ,0,0,docc,M37,2446924,5722447,0,tfu, , ,2
-122669,5,2021,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network,683,1053,Water race, ,0,0,docc,M37,2446895,5722523,0,tfu, , ,4
-122768,4,2021,Waimakariri River,1491006,North Brook tributary,664.042,1135,Cam River tributary, ,17,15,ael,M35,2478865,5767291,13038378,efp, , ,0
+121991,1,1990,NIWA Riccarton office,1491149,Avon River pond 2 (Translocation),0,0,Lake Eldon, ,0,0,niwa, ,2478360,5741732,0,han,,,1
+122640,5,2021,Selwyn River,1491143,Selwyn River tributary 7,680.04,1100,Pond, ,0,0,docc,L36,2424569,5745341,0,tfu,,,1
+122641,5,2021,Selwyn River,1491143,Selwyn River tributary 7,680.04,1100,Pond, ,0,0,docc,L36,2424745,5745255,0,tfu,,,1
+121993,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,139,29,crc,J39,2354730,5650607,13065536,tfb,,,1
+121994,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,139,29,crc,J39,2354740,5650777,13065536,tfb,,,1
+121995,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2354580,5651037,13065522,tfb,,,1
+121996,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2354511,5651087,13065522,tfb,,,2
+121997,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2354411,5651157,13065522,tfb,,,2
+121998,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2354291,5651157,13065516,tfb,,,2
+121999,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2354151,5651157,13065521,tfb,,,2
+122000,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,149,30,crc,J39,2353990,5651097,13065529,tfb,,,1
+122001,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,137,28,crc,J39,2355270,5649767,13065644,tfb,,,1
+122002,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,118,25,crc,J39,2355059,5648017,13065780,tfb,,,1
+122006,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,118,25,crc,J39,2354979,5647737,13065780,tfb,,,1
+122008,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,117,25,crc,J39,2354919,5647547,13065818,tfb,,,1
+122009,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,24,crc,J39,2354759,5646917,13065865,tfb,,,1
+122011,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354789,5646987,13065873,tfb,,,1
+122012,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354789,5646857,13065873,tfb,,,1
+122013,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354799,5646737,13065873,tfb,,,1
+122014,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354799,5646617,13065873,tfb,,,1
+122015,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354909,5646517,13065873,tfb,,,1
+122016,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354828,5646337,13065873,tfb,,,1
+122017,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354778,5646117,13065937,tfb,,,1
+122018,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354768,5645957,13065937,tfb,,,2
+122019,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354838,5645807,13065937,tfb,,,1
+122020,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354768,5645637,13065982,tfb,,,2
+122021,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,107,21,crc,J39,2354358,5644487,13066047,tfb,,,1
+122022,9,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,101,20,crc,J39,2354258,5644327,13066078,tfb,,,1
+122023,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,169,32,crc,J39,2353590,5649847,13065619,tfb,,,1
+122024,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,169,32,crc,J39,2353590,5649857,13065619,tfb,,,1
+122025,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,169,32,crc,J39,2353540,5649967,13065619,tfb,,,1
+122026,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,169,32,crc,J39,2353520,5650017,13065619,tfb,,,1
+122027,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,158,31,crc,J39,2353490,5650137,13065558,tfb,,,2
+122028,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,158,31,crc,J39,2353550,5650237,13065558,tfb,,,1
+122029,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,158,31,crc,J39,2353540,5650357,13065558,tfb,,,1
+122031,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,140,30,crc,J39,2353990,5651097,13065521,tfb,,,1
+122032,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,158,31,crc,J39,2353520,5650607,13065558,tfb,,,1
+122033,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,149,30,crc,J39,2353560,5650717,13065529,tfb,,,1
+122034,12,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,149,30,crc,J39,2353650,5650907,13065529,tfb,,,2
+122036,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355139,5648447,13065688,tfb,,,1
+122037,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355169,5648537,13065688,tfb,,,1
+122038,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355169,5648587,13065688,tfb,,,1
+122039,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355169,5648647,13065688,tfb,,,1
+122041,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355139,5648677,13065688,tfb,,,1
+122042,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,26,crc,J39,2355020,5648937,13065688,tfb,,,1
+122043,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,117,22,crc,J39,2354658,5645587,13066000,tfb,,,1
+122044,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,117,22,crc,J39,2354648,5645287,13066000,tfb,,,1
+122045,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,117,22,crc,J39,2354608,5645227,13066000,tfb,,,1
+122046,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,117,22,crc,J39,2354588,5645147,13066000,tfb,,,1
+122047,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,115,22,crc,J39,2354618,5644957,13066031,tfb,,,1
+122048,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,115,22,crc,J39,2354498,5644927,13066031,tfb,,,1
+122049,10,2019,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,107,21,crc,J39,2354488,5644777,13066047,tfb,,,1
+122056,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354799,5646617,13065873,tfb,,,1
+122057,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,119,24,crc,J39,2354759,5646917,13065865,tfb,,,1
+122058,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354829,5646987,13065873,tfb,,,1
+122059,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354789,5646857,13065873,tfb,,,1
+122060,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354799,5646737,13065873,tfb,,,1
+122061,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354909,5646517,13065873,tfb,,,1
+122062,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354828,5646337,13065873,tfb,,,1
+122063,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354778,5646117,13065937,tfb,,,1
+122064,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354768,5645957,13065937,tfb,,,1
+122065,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,120,23,crc,J39,2354768,5645637,13065982,tfb,,,1
+122066,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,107,21,crc,J39,2354358,5644487,13066047,tfb,,,1
+122067,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,101,20,crc,J39,2354258,5644327,13066078,tfb,,,1
+122068,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,118,25,crc,J39,2354979,5647737,13065780,tfb,,,1
+122070,9,2015,Pareora River,1491105,Taiko Stream (Translocation),701.04,0,Taiko Stream, ,118,25,crc,J39,2354919,5647547,13065824,tfb,,,1
+121662,4,2013,Harts Creek,1491064,Ellesmere stockwater race and drainage network,682.01,1146,Birdlings Brook drain tributary, ,,,inic,M36,2446396,5723908,,tfu,,,1
+122662,5,2021,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network,683,1000,Water race, ,,,docc,M37,2446946,5722506,,tfu,,,3
+122668,5,2021,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network,683,1130,Water races, ,,,docc,M37,2446924,5722447,,tfu,,,2
+122669,5,2021,Lake Ellesmere,1491064,Ellesmere stockwater race and drainage network,683,1053,Water race, ,,,docc,M37,2446895,5722523,,tfu,,,4
+120933,3,2021,Selwyn River,1491042,Cordys Stream,680.04,1142,Cordys Stream, ,184,79,docc,L36,2425519,5740120,13046683,vbd,,,
+122639,7,2021,Selwyn River,1491040,Hororata River tributary 6,680.04,1200,Hororata River tributary, ,170,71,docc,L36,2428416,5738527,13046756,tfu,,,1
+122634,6,2021,Selwyn River,1491038,Hororata River tributary 4,680.04,1050,Hororata River tributary, ,148,68,docc,L36,2431578,5735990,13048015,tfu,,,6
+121028,4,2021,Avon River,1491028,Christchurch Botanical Gardens (Translocation),666,900,Botanic Gardens Pond, ,,,ael,M35,2479264,5741748,,tfb,,,2
+121024,3,2021,Waimakariri River,1491021,Mounseys Stream,664.063,1600,Mounseys Stream, ,302,62,ind,I35,2436037,5767858,13038262,kbt,,,4
+122642,5,2021,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1030,Eldon ponds, ,,0,docc,M35,2470747,5749148,,tfu,,,1
+122643,5,2021,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1330,Machinery ponds, ,,0,docc,M35,2471654,5748525,,tfu,,,1
+122644,5,2021,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1504,Otter Pond North, ,,0,docc,M35,2471654,5748525,,tfu,,,4
+122656,6,2021,Waimakariri River,1491008,Unnamed ponds Waimakariri River tributary (Translocation),664.05,1100,Water race pond, ,,0,docc,M35,2472330,5748653,,tfu,,,1
+122768,4,2021,Waimakariri River,1491006,North Brook tributary,664.042,1135,Cam River tributary, ,17,15,ael,M35,2478865,5767291,13038378,efp,,,
+122653,6,2021,Ashley River,1491003,Taranaki Stream tributary 1,662,1100,Unnamed stream, ,3,4,docc,M35,2486150,5765171,13038621,tfu,,,2
+122638,7,2021,Selwyn River,1491052,Waianiwaniwa River tributary 6,680.05,0.458333333,Waianiwaniwa River tributary,,288,90.81,docc,,2424207,5750478,13122334,tfu,,,
+122650,5,2021,Selwyn River,1491047,Waianiwaniwa River,680.05,0.458333333,Waianiwaniwa River,,258,90.53,docc,,2427830,5752305,13121497,tfu,,,
+122651,5,2021,Selwyn River,1491049,Waianiwaniwa River tributary 3,680.05,0.458333333,Waianiwaniwa River tributary,,239,84.33,docc,,2427211,5747912,13123666,tfu,,,
+122652,5,2021,Selwyn River,1491045,Blacks Stream,680.05,0.458333333,Blacks Stream,,247,83.85,docc,,2431139,5751121,13122149,tfu,,,
+122654,6,2021,Ashley River,1491003,Taranaki Stream tributary 1,662,0.493055556,Unnamed wetland,,4,4.61,docc,,2485769,5764919,13115681,tfu,,,
+122660,6,2021,Selwyn River,1491064,Ellesmere stockwater race and drainage network,683,0.5,Water races,,,,docc,,2447763,5722567,,tfu,,,
