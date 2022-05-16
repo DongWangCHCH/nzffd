@@ -1,0 +1,1153 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+55274,6,1924,Hihiwera Stream,1481073,Hihiwera Stream,364.001,,Hihiwera Stream,,30,1,unk,P20,2584000,6194600,6010312,unk,,,
+391,7,1939,Manawatu River,1481052,Mangahao River tributary,325.19,,Mangahao River tributary,,70,115,unk,T24,2750800,6087500,7040220,unk,,,
+55648,6,1949,Ruamahanga River,1481005,Ruamahanga River tributary 1,292,,Ruamahanga River tributary,,40,13,unk,S27,2694500,5981100,9015911,unk,,,
+50279,3,1954,Hokitika River,1481084,Hokitika River tributary,906,,Hokitika River tributary,,10,2,unk,J32,2343700,5830200,12033242,obs,,,1
+55305,5,1954,Waitohu Stream,1481036,Unnamed wetland Waitohu Stream,319,,Unnamed wetland,,20,7,unk,S25,2692300,6050500,0,han,,,1
+55624,2,1958,Ruamahanga River,1481006,Rangatea Swamp,292.08,,Rangatea Swamp,,5,19,unk,S27,2698100,5986800,9014795,unk,,,
+116,12,1965,Grey River,1481111,Unnamed wetland Grey River tributary,914.01,,Unnamed wetland,,10,7,niwa,J32,2362800,5857100,0,unk,,,
+385,6,1965,Ruamahanga River,1481013,Kaipaitangata Stream,292.243,day,Kaipaitangata Stream,,75,85,niwa,S26,2718500,6017600,9007641,ef,1,,
+50236,12,1965,Serpentine Creek,1481103,Serpentine Creek,910.5,,Serpentine Creek,,40,3,niwa,j32,2356700,5844100,12030872,unk,,,
+50249,10,1965,Serpentine Creek,1481103,Serpentine Creek,910.5,,Serpentine Creek,,40,3,niwa,j32,2356700,5844100,12030872,ef,0,,
+50264,5,1965,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Serpentine Creek tributary, ,50,4,niwa,j32,2357700,5844200,12030842,ef,2, , 
+55596,2,1965,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06, ,Unnamed pond, ,3,34,niwa,s27,2704400,5999900,0,ef,1, , 
+55757,3,1965,Ruamahanga River,1481026,Unnamed wetland Ruamahanga River tributary 7,292,day,Ruamahanga River tributary,,120,106,niwa,T26,2732100,6024700,9006297,ef,1,,
+55760,1,1965,Waitohu Stream,1481036,Unnamed wetland Waitohu Stream,319, ,Ngatotara Lagoon, ,15,7,niwa,s25,2691900,6050300,9000330,nfc, , , 
+85,10,1966,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900,day,Duffers Creek tributary,,70,8,niwa,I34,2318900,5794700,,ef,1,,
+50246,10,1966,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Unnamed wetland, ,50,4,niwa,j32,2357700,5844200,0,ef,1, , 
+50247,10,1966,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Serpentine Creek tributary, ,50,4,niwa,j32,2357700,5844200,12030882,ef,1, , 
+50248,10,1966,Serpentine Creek,1481102,Serpentine Creek tributary,910.5,day,Unnamed wetland,,50,4,niwa,J32,2357700,5844200,0,obs,,,1
+50338,10,1966,Whataroa River,1481079,Gunn Creek,893.1,day,Gunn Creek tributary,,50,24,niwa,I34,2302800,5775400,12041221,ef,1,,
+55300,4,1966,Manawatu River,1481046,Unnamed wetland Manawatu River 6,325.03,,Unnamed wetland,,20,31,unk,S25,2706800,6065500,7045508,unk,,,
+55666,10,1966,Ruamahanga River,1481016,Unnamed wetland Ruamahanga River tributary 5,292.243,night,Unnamed wetland,,60,92,niwa,S26,2719786,6023095,0,spo,,,
+50011,3,1967,Oparara River,1481125,Unnamed wetland Oparara River,952,,Unnamed wetland,,3,1,niwa,L27,2435600,6000300,12002526,oth,,,
+50059,3,1967,Jones Creek,1481122,Unnamed wetland Jones Creek,937,day,Unnamed wetland,,5,2,niwa,L29,2410700,5948300,12008136,ef,1,,
+50067,3,1967,Buller River,1481120,Unnamed wetland Bradshaws Creek,932.005,day,Unnamed wetland,,10,9,niwa,K29,2387500,5937500,12010452,ef,1,,
+50263,3,1967,Serpentine Creek,1481104,Unnamed wetland Serpentine Creek tributary,910.5,,Serpentine Creek tributary,,80,7,niwa,J32,2359300,5841500,12030895,obs,,,2
+50889,3,1967,Kapitea Creek,1481099,Unnamed wetland Kapitea Creek 2,910,day,Unnamed wetland,,110,10,niwa,J32,2360300,5837900,12031990,ef,1,,
+50895,3,1967,Shearer Swamp,1481083,Shearer Swamp,902,,Shearer Swamp,,5,4,niwa,I33,2326800,5808200,12036746,ef,1,,
+55285,5,1967,Patea River,1481062,Patea River tributary 1,342,,Patea River tributary,,2,4,unk,Q21,2636200,6161100,6015590,unk,,,
+55686,2,1967,Ruamahanga River,1481016,Unnamed wetland Ruamahanga River tributary 5,292.243, ,Enaki Stream tributary, ,140,92,niwa,s26,2720100,6022800,9006747,ef,1, , 
+104,12,1969,Pukepuke Lagoon,1481053,Unnamed wetland Pukepuke Lagoon,326,,Pukepuke Lagoon,,5,4,unk,S24,2702300,6093700,7038899,unk,,,
+55301,1,1969,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga, ,15,6,unk,s25,2698300,6060000,7046932,unk, , , 
+777,1,1971,Pukepuke Lagoon,1481053,Unnamed wetland Pukepuke Lagoon,326,,Pukepuke Lagoon,,5,4,docz,S24,2702300,6093700,7038899,unk,,,
+140,2,1972,Pukepuke Lagoon,1481053,Unnamed wetland Pukepuke Lagoon,326, ,Pukepuke Lagoon, ,5,4,unk,s24,2702300,6093700,7038899,unk, , , 
+3198,8,1973,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900, ,Duffers Creek, ,70,8,niwa,i34,2318900,5794700,12038139,han, , ,2
+50253,8,1973,Taramakau River,1481105,Unnamed wetland Taramakau River 1,911,day,Unnamed wetland,,60,9,niwa,J32,2359500,5842800,0,obs,,,1
+55454,1,1974,Ruamahanga River,1481017,Unnamed spring Ruamahanga River tributary,292.243,,Unnamed spring,,65,84,niwa,S26,2718200,6016400,9008120,pun,,,2
+343,9,1976,Manawatu River,1481043,Unnamed wetland Manawatu River 4,325,,Unnamed wetland,,3,7,unk,S24,2701800,6075600,7042915,fyn,,,1
+126,1,1977,Ruamahanga River,1481004,Unnamed wetland Lake Pounui tributary,292.02,,Lake Pounui tributary,,15,10,niwa,R27,2686400,5982300,9015672,unk,,,
+132,4,1977,Ruamahanga River,1481003,Unnamed wetland Ruamahanga River 2,292.02,,Unnamed wetland,,10,8,unk,R27,2687700,5982200,0,unk,,,
+157,12,1977,Buller River,1481120,Unnamed wetland Bradshaws Creek,932.005,,Unnamed wetland,,10,9,niwa,k29,2387500,5937700,0,efm,1,,
+3077,10,1977,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,1530,Okarito Lagoon tributary, ,3,4,niwa,h34,2283000,5772000,12041646,ef,1, , 
+77,4,1978,Otakeho Stream,1481072,Otakeho Stream,356,,Otakeho Stream,,50,3,niwa,P21,2600700,6183900,,unk,,,
+178,2,1978,Hokitika River,1481089,Unnamed wetland Kaniere River,906.01,810,Stony Creek, ,30,11,niwa,j33,2349800,5826800,12033688,efm,1, , 
+2894,6,1979,Otakeho Stream,1481072,Otakeho Stream,356,1500,Otakeho Stream, ,50,3,niwa,p21,2600700,6183900,6012072,efm,1, , 
+927,5,1980,Ruamahanga River,1481013,Kaipaitangata Stream,292.243,,Kaipaitangata Stream,,100,87,wnfg,s26,2717700,6018400,9007641,bxt,,,1
+4169,12,1980,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,1610,Tutaenui Stream, ,40,22,niwa,s23,2710500,6110300,7035619,efm,1, , 
+4170,12,1980,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,1715,Tutaenui Stream,,40,22,niwa,s23,2710600,6110400,7035619,efm,1,,
+16080,,1980,Waikekino Stream,1481001,Unnamed wetland Waikekino Stream,269,,Unnamed wetland,,5,0,doch,T27,2750200,5987200,9014687,han,,,1
+1553,7,1981,Hokitika River,1481094,Groves Swamp,906.06, ,Tukes Lagoons, ,30,27,docy,j33,2340600,5817500,12035317,fyn, , ,14
+1993,3,1981,Ruamahanga River,1481013,Kaipaitangata Stream,292.243,1130,Kaipaitangata Stream,,100,87,niwa,s26,2717700,6018600,9007450,efm,1,,160
+3542,5,1981,Hokitika River,1481094,Groves Swamp,906.06, ,Monts Creek, ,30,27,docy,j33,2340500,5817500,12035281,fyn, , ,1
+3662,,1981,Little Wanganui River,1481124,Kongahu Swamp,948,,Kongahu Swamp,,5,6,niwa,L27,2433000,5982200,12004340,obs,,,1
+4355,2,1981,Hokitika River,1481094,Groves Swamp,906.06,1100,Monts Creek, ,30,26,niwa,j33,2340400,5817300,12035336,ntc, , , 
+3771,7,1982,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,1130,Unnamed forest pool,,5,4,unk,H34,2282300,5771100,0,han,,,1
+4356,2,1982,Hokitika River,1481094,Groves Swamp,906.06, ,Tukes Lagoons, ,30,27,niwa,j33,2340700,5817400,12035317,ntc, , , 
+4360,2,1982,Hokitika River,1481092,Whites Creek tributary,906.02,night,Whites Creek tributary,,20,17,niwa,J33,2350800,5818400,12035186,ntc,,,
+4365,1,1982,Saltwater Creek,1481080,Unnamed wetland Saltwater Creek,894,,Unnamed forest pool,,60,14,unk,I34,2298400,5782300,0,han,,,1
+5032,11,1982,Taramakau River,1481109,Unnamed wetland Taramakau River 2,911,day,Unnamed wetland,,30,16,unk,J32,2364700,5839400,12031765,obs,,,1
+5033,11,1982,Taramakau River,1481108,Taramakau River tributary,911,,Taramakau River tributary,,90,13,unk,J32,2361400,5839700,12031537,obs,,,1
+5254,11,1982,Ruamahanga River,1481026,Unnamed wetland Ruamahanga River tributary 7,292,1200,Ruamahanga River tributary, ,120,106,niwa,t26,2732100,6024700,9006297,ef,1, , 
+4633,6,1983,Ruamahanga River,1481015,Unnamed wetland Ruamahanga River tributary 4,292.243,night,Unnamed wetland,,130,90,uov,S26,2720200,6021400,0,utt,,,
+5064,1,1983,Whataroa River,1481079,Gunn Creek,893.1, ,Gunn Creek tributary, ,50,24,niwa,i34,2302800,5775400,12041221,kbt, , ,1
+5671,1,1984,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891, ,Okarito River tributary, ,30,9,unk,h35,2285500,5769600,12041964,gmt, , ,2
+5672,1,1984,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891, ,Forks Power Station Canal, ,40,9,unk,h35,2285800,5769300,12041995,gmt, , ,2
+5674,1,1984,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891, ,Okarito River tributary, ,30,9,unk,h35,2285400,5769600,12041964,gmt, , ,1
+5675,2,1984,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891, ,Forks Power Station Canal, ,30,9,unk,h35,2285400,5769600,12041963,gmt, , ,2
+1568,7,1985,Hokitika River,1481090,Unnamed wetland Whiley Creek,906.01, ,Unnamed wetland, ,10,11,wcfg,j33,2350200,5823900,12034263,fyn, , ,6
+6060,1,1985,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900, ,Duffers Creek, ,40,6,wcfg,i34,2318700,5796200,12038139,ef,0, , 
+6868,5,1985,Serpentine Creek,1481102,Serpentine Creek tributary,910.5,1600,Serpentine Creek tributary, ,30,2,niwa,j32,2356700,5845000,12030882,obs, , ,1
+7625,9,1985,Okari River,1481118,Unnamed wetland OMalley Creek,930.04,1413,O'Malley Creek, ,50,13,wcfg,k29,2389600,5930200,12012305,ef,1, , 
+7634,10,1985,Okari River,1481118,Unnamed wetland OMalley Creek,930.04,1320,O'Malley Creek, ,60,15,wcfg,k29,2391200,5930800,12012171,ef,1, , 
+7635,10,1985,Okari River,1481118,Unnamed wetland OMalley Creek,930.04,1343,O'Malley Creek,,60,15,wcfg,k29,2391200,5930600,12012171,ef,1,,
+7636,10,1985,Okari River,1481118,Unnamed wetland OMalley Creek,930.04,1415,Unnamed pond, ,70,15,wcfg,k29,2390800,5930000,12012386,ef,1, , 
+7637,10,1985,Okari River,1481118,Unnamed wetland OMalley Creek,930.04,1500,Unnamed wetland,,50,14,wcfg,K29,2390500,5930500,0,ef,,,
+7659,5,1985,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,,Okarito River tributary,,70,12,indm,h35,2286300,5766900,0,ncn,,,
+7672,8,1985,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.11,,Jenkins Creek tributary,,60,10,indm,h35,2285100,5768800,12042101,ntc,,,
+7673,8,1985,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891, ,Unnamed forest pool, ,20,8,indm,h34,2285200,5771100,12041787,gmt, , ,8
+7674,8,1985,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,,Okarito River tributary,,70,12,indm,h35,2286300,5766900,0,ntc,,,
+7675,8,1985,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1300,Okarito River tributary, ,30,8,indm,h34,2285400,5770200,12041838,han, , ,2
+7701,9,1985,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891, ,Okarito River tributary, ,40,9,indm,h35,2285700,5769600,12041828,ntc, , , 
+8035,11,1985,Hibernia Creek,1481112,Unnamed wetland Hibernia Creek,920,1400,Hibernia Creek tributary,,5,2,bior,k30,2371800,5894800,12021028,ef,1,,
+8039,11,1985,Hibernia Creek,1481112,Unnamed wetland Hibernia Creek,920,1430,Hibernia Creek tributary, ,9,2,bior,k30,2371900,5894300,12021151,ef,1, , 
+9160,3,1985,Hibernia Creek,1481112,Unnamed wetland Hibernia Creek,920,1700,Hibernia Creek tributary,,10,2,bior,k30,2372000,5894400,12021151,ef,1,,
+64,11,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.11,2100,Jenkins Creek tributary,,60,10,indm,h35,2285100,5768800,,spo,,,
+7709,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,night,Okarito River tributary,,50,8,indm,H34,2286200,5770900,12041828,gmt,,,1
+7710,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891, ,Okarito River drain, ,50,12,indm,h34,2286400,5771200,12041690,gmt, , ,1
+7711,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,night,Unnamed forest pool,,60,8,indm,H34,2286500,5771000,0,gmt,,,5
+7712,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,1100,Okutua Creek, ,40,13,indm,h34,2288900,5774000,12041401,han, , ,2
+7713,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891, ,Unnamed wetland, ,90,10,indm,h35,2284600,5769100,0,gmt, , ,1
+7714,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891, ,Okarito River tributary, ,90,10,indm,h35,2284300,5769100,12042037,gmt, , ,1
+7715,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,night,Okarito River tributary,,80,10,indm,H35,2284100,5769300,12042037,gmt,,,1
+7716,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1800,Okarito River tributary, ,40,6,indm,h35,2283000,5769900,12041897,han, , ,1
+7717,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891, ,Unnamed forest pool, ,60,6,indm,h34,2283400,5770200,0,gmt, , ,2
+7718,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1000,Unnamed wetland,,80,11,indm,H35,2283400,5769900,12041993,han,,,1
+7721,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.11,,Jenkins Creek,,50,10,indm,h35,2285000,5768400,12042103,han,,,1
+7722,2,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.11,,Jenkins Creek tributary,,60,10,indm,h35,2285100,5768800,12042101,gmt,,,24
+8104,4,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1930,Okarito River tributary,,80,10,indm,H35,2284100,5769300,12042037,han,,,3
+8110,4,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,night,Okarito River tributary,,40,8,indm,H35,2285600,5770000,12041828,gmt,,,2
+8111,4,1986,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891, ,Okarito River tributary, ,40,8,indm,h34,2285700,5770100,12041838,gmt, , ,2
+8461,8,1986,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,,Unnamed wetland,,15,28,niwa,S25,2708800,6068300,0,etc,,,
+8462,8,1986,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,,Unnamed wetland,,15,28,niwa,S25,2708800,6068200,0,etc,,,
+8463,8,1986,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,night,Unnamed wetland,,15,28,niwa,S25,2708800,6068300,0,gmt,,,3
+8464,8,1986,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,night,Unnamed wetland,,15,28,niwa,S25,2708800,6068200,0,gmt,,,2
+3633,3,1987,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Deep Creek, ,20,7,niwa,h35,2282100,5769400,12041750,fyn, , ,1
+8307,12,1987,Hibernia Creek,1481112,Unnamed wetland Hibernia Creek,920, ,Unnamed lake, ,5,2,indm,k30,2371700,5894400,0,fyn, , ,5
+8309,12,1987,Hibernia Creek,1481112,Unnamed wetland Hibernia Creek,920, ,Unnamed forest pool, ,5,2,indm,k30,2371700,5894300,0,fyn, , ,2
+3644,3,1988,Taramakau River,1481105,Unnamed wetland Taramakau River 1,911,900,Unnamed wetland,,60,9,niwa,J32,2359500,5842800,0,ef,1,,
+7942,12,1988,Hokitika River,1481089,Unnamed wetland Kaniere River,906.01, ,Stony Creek, ,42,11,wcfg,j33,2349900,5827100,12033688,ef,0, , 
+7943,12,1988,Hokitika River,1481089,Unnamed wetland Kaniere River,906.01,,Stony Creek,,60,12,wcfg,j33,2350000,5827300,12033688,ef,1,,
+7944,12,1988,Hokitika River,1481089,Unnamed wetland Kaniere River,906.01,,Stony Creek,,75,12,wcfg,j33,2350100,5827400,12033688,ef,0,,
+8308,12,1988,Hibernia Creek,1481112,Unnamed wetland Hibernia Creek,920, ,Hibernia Creek tributary, ,5,2,indm,k30,2371800,5894500,12021028,fyn, , ,5
+10324,6,1989,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,2100,Okarito River tributary, ,20,8,uoo,h35,2285400,5769700,12041964,gmt, , ,300
+10325,6,1989,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.11,2000,Jenkins Creek, ,30,9,uoo,h35,2285400,5769100,12042071,gmt, , ,500
+11153,11,1989,Buller River,1481120,Unnamed wetland Bradshaws Creek,932.005,,Unnamed wetland,,10,9,niwa,k29,2387600,5937500,12010452,gmt,,,14
+11214,6,1989,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,2000,Okarito River tributary, ,50,9,uoo,h35,2285300,5769200,12042028,spo, , ,500
+16098,,1990,Ruamahanga River,1481007,Unnamed wetland Ruamahanga River tributary 1,292,,Ruamahanga River tributary,,3,22,docg,S27,2700200,5987400,9014602,obs,,,1
+10398,9,1991,Grey River,1481111,Unnamed wetland Grey River tributary,914.01, ,Sawyers Creek, ,10,7,niwa,j32,2362900,5856900,12028695,efm,1, ,100
+11079,12,1991,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1500,Unnamed wetland,,70,11,indk,H35,2283300,5769400,12041993,han,,,10
+11080,12,1991,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,,Unnamed wetland,,70,11,indk,H35,2284000,5769400,12041993,han,,,2
+11645,12,1991,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.068,1220,Tauherenikau River, ,3,35,niwa,s27,2704400,6000400,9011002,efp,1, ,300
+11647,12,1991,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06,night,Unnamed wetland,,3,34,niwa,S27,2704300,5999200,9012051,ntc,,,4
+12077,2,1991,Tikotu Creek,1481033,Unnamed wetland Tikotu Creek,313,1400,Unnamed wetland,,40,6,docg,R26,2680800,6032400,0,han,,,1
+634,11,1992,Pukepuke Lagoon,1481053,Unnamed wetland Pukepuke Lagoon,326, ,Pukepuke Lagoon, ,5,4,docz,s24,2702500,6093600,7038899,fyn, , ,2
+10272,11,1992,Hokitika River,1481093,Unnamed wetland Hokitika River 5,906,day,Hokitika River tributary,,20,19,docy,J33,2346400,5816200,12035397,obs,,,1
+16093,3,1992,Ruamahanga River,1481032,Ruamahanga River tributary 2,292,,Ruamahanga River tributary,,240,127,docg,T25,2731200,6040400,9001926,han,,,1
+16094,8,1992,Ruamahanga River,1481031,Mikimiki Stream tributary,292.35,,Mikimiki Stream tributary,,250,130,docg,S26,2726500,6037200,0,han,,,1
+626,6,1993,Manawatu River,1481047,Makerua Swamp,325.05, ,Makerua Swamp, ,10,36,docz,s24,2719000,6076000,7043033,gmt, , ,2
+627,5,1993,Manawatu River,1481047,Makerua Swamp,325.05,night,Makerua Swamp,,10,36,docz,S24,2719000,6076000,7043033,ntc,,,
+628,5,1993,Manawatu River,1481047,Makerua Swamp,325.05, ,Makerua Swamp, ,10,36,docz,s24,2719000,6075500,7043033,ntc, , , 
+633,3,1993,Pukepuke Lagoon,1481053,Unnamed wetland Pukepuke Lagoon,326, ,Pukepuke Lagoon, ,5,4,docz,s24,2702500,6093600,7038899,ntc, , , 
+11089,1,1993,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.11,1630,Unnamed wetland,,70,7,indk,H35,2282900,5769400,0,han,,,50
+11090,1,1993,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,2200,Unnamed wetland, ,70,9,indk,h35,2283900,5769900,12041993,han, , ,8
+12081,,1994,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06,,Unnamed wetland,,2,34,docg,S27,2704300,5999100,9012051,han,,,1
+13746,6,1994,Otakeho Stream,1481072,Otakeho Stream,356,1000,Otakeho Stream tributary,,50,3,docz,P21,2600000,6183800,6012065,kbt,,,10
+13748,6,1994,Otakeho Stream,1481072,Otakeho Stream,356,1000,Otakeho Stream tributary, ,50,3,docz,p21,2600000,6183800,6012065,kbt, , ,10
+13749,6,1994,Otakeho Stream,1481072,Otakeho Stream,356,1000,Otakeho Stream tributary,,50,2,docz,P21,2600100,6183400,6012487,kbt,,,10
+13750,7,1994,Hihiwera Stream,1481073,Hihiwera Stream,364.001,1000,Hihiwera Stream,,50,3,docz,p20,2585200,6195300,6010312,kbt,,,10
+14054,7,1994,Otakeho Stream,1481072,Otakeho Stream,356,1800,Otakeho Stream tributary, ,50,3,docz,p21,2600000,6183800,6012451,obs, , ,2
+14055,7,1994,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,night,Mangaroa Stream tributary,,50,2,docz,Q21,2631900,6164400,6015156,kbt,,,10
+14057,7,1994,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,1800,Mangaroa Stream tributary,,50,2,docz,Q21,2631900,6164400,6015156,obs,,,400
+14058,7,1994,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,night,Mangaroa Stream tributary,,50,2,docz,Q21,2631900,6164400,6015156,kbt,,,10
+14062,8,1994,Kaikura Stream,1481069,Kaikura Stream,344,night,Kaikura Stream tributary,,50,4,docz,Q21,2633700,6165200,6015066,kbt,,,10
+14065,8,1994,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,night,Mangaroa Stream tributary,,50,2,docz,Q21,2631900,6164400,6015156,kbt,,,6
+14072,9,1994,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,140,49,docz,Q20,2629300,6193600,6010562,kbt,,,14
+14073,9,1994,Patea River,1481066,Ngaere Stream tributary 3,342.29,night,Ngaere Stream tributary,,230,126,docz,Q20,2627900,6199200,6009365,kbt,,,13
+14074,9,1994,Patea River,1481067,Ngaere Stream tributary 4,342.29,night,Ngaere Stream tributary,,240,130,docz,Q20,2628300,6199600,6009471,kbt,,,7
+14075,9,1994,Patea River,1481067,Ngaere Stream tributary 4,342.29,night,Ngaere Stream tributary,,240,130,docz,Q20,2628300,6199600,6009471,kbt,,,6
+16095,9,1994,Ruamahanga River,1481031,Mikimiki Stream tributary,292.35,,Mikimiki Stream tributary,,250,130,docg,S26,2726500,6037200,9003212,han,,,1
+16096,10,1994,Ruamahanga River,1481032,Ruamahanga River tributary 2,292,,Ruamahanga River tributary,,280,130,docg,T25,2730300,6043200,9001926,han,,,1
+639,6,1995,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325.091,night,Unnamed wetland,,10,11,docz,S24,2703800,6082500,0,gmt,,,1
+640,10,1995,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325,2000,Manawatu River tributary, ,10,11,docz,s24,2703800,6082400,7041479,han, , ,1
+641,10,1995,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325,2000,Manawatu River tributary, ,10,10,docz,s24,2702800,6082900,7041479,han, , ,2
+642,10,1995,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325, ,Manawatu River tributary, ,10,11,docz,s24,2703800,6082400,7041479,kbt, , ,13
+644,11,1995,Manawatu River,1481047,Makerua Swamp,325.05, ,Makerua Swamp, ,10,36,docz,s24,2719000,6076000,7043033,gmt, , ,2
+2494,11,1995,Hokitika River,1481093,Unnamed wetland Hokitika River 5,906, ,Hokitika River tributary, ,15,19,wcwa,j33,2345900,5816300,12035422,fyn, , ,1
+12078,5,1995,Ruamahanga River,1481021,Parkvale Stream water race,292.251,day,Parkvale Stream water race,,100,89,docg,S26,2726300,6019900,9,han,,,1
+12079,8,1995,Ruamahanga River,1481002,Unnamed wetland Ruamahanga River 1,292, ,Lake Onoke, ,0,4,docg,r28,2687400,5979700,9016633,han, , ,6
+12080,6,1995,Ruamahanga River,1481030,Waipoua River tributary,292.35,,Waipoua River tributary,,120,111,docg,T26,2731900,6025600,9005920,han,,,1
+13141,5,1995,Serpentine Creek,1481103,Serpentine Creek,910.5,night,Serpentine Creek,,50,4,docy,J32,2357000,5843000,12030872,gmt,,,50
+13143,5,1995,Arahura River,1481095,Unnamed wetland Arahura River,908,night,Unnamed wetland,,50,3,docy,J32,2350300,5834700,12032481,gmt,,,8
+13144,6,1995,Hokitika River,1481086,Unnamed wetland Hokitika River 2,906,night,Unnamed forest pool,,90,10,docy,J33,2342900,5821700,0,gmt,,,30
+13148,6,1995,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005, ,Unnamed wetland, ,20,11,docy,j33,2338200,5821200,0,gmt, , ,4
+13149,6,1995,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005,night,Unnamed wetland,,5,10,docy,J33,2338700,5821900,0,gmt,,,2
+13172,1,1995,Hokitika River,1481090,Unnamed wetland Whiley Creek,906.01,,Taminelli Creek tributary,,10,9,docy,j33,2348800,5824600,12034232,gmt,,,2
+14082,7,1995,Patea River,1481068,Ngaere Stream tributary 5,342.29,night,Unnamed forest pool,,245,130,docz,Q20,2629400,6200600,6009134,kbt,,,8
+14083,7,1995,Patea River,1481067,Ngaere Stream tributary 4,342.29,night,Unnamed forest pool,,240,130,docz,Q20,2628300,6199700,0,kbt,,,18
+14084,7,1995,Patea River,1481065,Ngaere Stream tributary 2,342.29,night,Ngaere Stream tributary,,240,127,docz,Q20,2627900,6200400,6009365,kbt,,,8
+14087,8,1995,Patea River,1481067,Ngaere Stream tributary 4,342.29,night,Unnamed forest pool,,240,130,docz,Q20,2628300,6199700,0,kbt,,,8
+15631,,1995,Ruamahanga River,1481025,Waingawa River tributary,292.31,1400,Waingawa River tributary,,190,112,docg,S26,2725300,6028400,9005602,obs,,,1
+16097,,1995,Ruamahanga River,1481010,Lake Wairarapa tributary,292.06,,Lake Wairarapa tributary,,20,43,docg,S27,2708600,6003500,9010648,obs,,,1
+649,7,1996,Manawatu River,1481047,Makerua Swamp,325.05,1000,Makerua Swamp, ,10,35,docz,s24,2718800,6075600,7043033,utt, , , 
+2495,1,1996,Hokitika River,1481090,Unnamed wetland Whiley Creek,906.01, ,Taminelli Creek, ,8,9,wcwa,j33,2348400,5824800,12034131,fyn, , ,1
+12082,4,1996,Ruamahanga River,1481028,Unnamed wetland Ruamahanga River tributary 9,292,,Ruamahanga River tributary,,124,110,docg,T26,2730300,6024200,9006692,unk,,,
+13162,1,1996,Arahura River,1481095,Unnamed wetland Arahura River,908,1500,Unnamed wetland,,50,3,docy,J32,2350300,5834700,12032481,gmt,,,1
+13174,1,1996,Hokitika River,1481090,Unnamed wetland Whiley Creek,906.01,night,Unnamed wetland,,15,9,docy,J33,2348700,5824700,0,gmt,,,1
+13175,1,1996,Hokitika River,1481090,Unnamed wetland Whiley Creek,906.01,night,Unnamed wetland,,15,9,docy,J33,2348700,5824600,0,gmt,,,8
+14657,10,1996,Arahura River,1481095,Unnamed wetland Arahura River,908,night,Unnamed wetland,,50,3,docy,J32,2350300,5834700,12032481,gmt,,,2
+14658,11,1996,Taramakau River,1481109,Unnamed wetland Taramakau River 2,911, ,Taramakau River tributary, ,30,16,docy,j32,2364100,5839500,12031775,ntc, , ,3
+14659,11,1996,Taramakau River,1481109,Unnamed wetland Taramakau River 2,911,1100,Taramakau River tributary, ,30,16,docy,j32,2364100,5839400,12031775,efp,1, ,12
+14660,11,1996,Taramakau River,1481109,Unnamed wetland Taramakau River 2,911, ,Unnamed wetland, ,30,16,docy,j32,2364200,5839500,12031771,gmt, , ,5
+14690,2,1996,Arahura River,1481095,Unnamed wetland Arahura River,908,night,Unnamed wetland,,50,3,docy,J32,2350300,5834700,12032481,gmt,,,2
+14691,2,1996,Hokitika River,1481086,Unnamed wetland Hokitika River 2,906.005,night,Unnamed forest pool,,80,10,docy,J33,2342900,5821700,0,gmt,,,3
+14695,3,1996,Arahura River,1481095,Unnamed wetland Arahura River,908,night,Unnamed wetland,,50,3,docy,J32,2350300,5834700,12032481,gmt,,,1
+14696,5,1996,Kapitea Creek,1481101,Unnamed wetland Duffers Creek tributary,910, ,Duffers Creek, ,140,15,docy,j32,2359600,5833900,12032574,gmt, , ,2
+14697,5,1996,Kapitea Creek,1481101,Unnamed wetland Duffers Creek tributary,910,night,Unnamed wetland,,140,15,docy,J32,2359800,5834000,0,gmt,,,3
+14698,5,1996,Kapitea Creek,1481101,Unnamed wetland Duffers Creek tributary,910,1200,Unnamed wetland,,150,16,docy,J32,2358600,5833800,0,gmt,,,5
+14930,4,1996,Ruamahanga River,1481028,Unnamed wetland Ruamahanga River tributary 9,292,,Ruamahanga River tributary,,120,107,docg,T26,2730300,6024200,9006692,han,,,1
+14936,9,1996,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06, ,Unnamed wetland, ,3,35,docg,s27,2705000,6001000,0,fyn, , ,1
+15278,8,1996,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,night,Unnamed wetland,,50,2,docz,Q21,2632000,6164500,0,kbt,,,10
+15630,2,1996,Ruamahanga River,1481025,Waingawa River tributary,292.31,900,Waingawa River tributary,,190,112,docg,S26,2725200,6028400,9005602,han,,,1
+16051,6,1996,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,900,Unnamed wetland,,15,25,docg,S25,2709400,6068800,0,gmt,,,3
+16052,6,1996,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,930,Papaitonga Stream tributary, ,15,6,docg,s25,2698700,6059700,7046999,ntc, , ,6
+16053,6,1996,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,930,Unnamed wetland,,15,7,docg,S25,2699100,6060000,7046898,gmt,,,4
+16076,5,1996,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,105,91,docg,S26,2728800,6019600,9,ntc,,,3
+16077,5,1996,Ruamahanga River,1481022,Waikoukou Stream tributary,292,,Waikoukou Stream,,70,87,docg,S26,2729200,6013500,9008874,gmt,,,2
+16078,5,1996,Ruamahanga River,1481022,Waikoukou Stream tributary,292,,Waikoukou Stream,,70,87,docg,S26,2729400,6013900,9008528,gmt,,,1
+16079,3,1996,Ruamahanga River,1481023,Unnamed pond Ruamahanga River,292.31,,Unnamed pond,,130,99,docg,S26,2728000,6023300,0,gmt,,,4
+16082,4,1996,Ruamahanga River,1481021,Parkvale Stream water race,292.251,,Parkvale Stream water race,,100,88,docg,S26,2726000,6019700,9,gmt,,,2
+16083,4,1996,Ruamahanga River,1481012,Waiohine River water race,292.24,,Waiohine River water race,,60,80,docg,S26,2720600,6013600,9008735,gmt,,,2
+16084,4,1996,Ruamahanga River,1481012,Waiohine River water race,292.24,,Waiohine River water race,,65,82,docg,S26,2721000,6015000,9008482,gmt,,,2
+16085,4,1996,Ruamahanga River,1481018,Booths Creek,292.251,,Booths Creek water race,,100,89,docg,S26,2724300,6020000,9006926,gmt,,,2
+16086,4,1996,Ruamahanga River,1481018,Booths Creek,292.251,,Booths Creek,,100,89,docg,S26,2724100,6019900,9007138,gmt,,,2
+16087,5,1996,Ruamahanga River,1481019,Booths Creek tributary,292.251,,Booths Creek tributary,,180,97,docg,S26,2725000,6027000,9005777,gmt,,,2
+16088,5,1996,Ruamahanga River,1481019,Booths Creek tributary,292.251,,Booths Creek tributary,,175,97,docg,S26,2724900,6026700,9005777,gmt,,,2
+16089,7,1996,Ruamahanga River,1481014,Unnamed wetland Ruamahanga River tributary 3,292.243,,Unnamed wetland,,120,96,docg,S26,2720400,6020800,0,gmt,,,3
+16090,7,1996,Ruamahanga River,1481014,Unnamed wetland Ruamahanga River tributary 3,292.243,,Unnamed wetland,,120,89,docg,S26,2720600,6020500,9006811,gmt,,,1
+16091,8,1996,Ruamahanga River,1481022,Waikoukou Stream tributary,292,,Waikoukou Stream tributary,,55,85,docg,S26,2728500,6012500,9009080,gmt,,,10
+16092,8,1996,Ruamahanga River,1481011,Unnamed wetland Ruamahanga River tributary 2,292,,Unnamed forest pool,,50,55,docg,S27,2715900,6008900,9009877,gmt,,,4
+12087,11,1997,Waimeha Stream,1481035,Unnamed wetland Ngarara Stream,316, ,Unnamed pond, ,15,3,docg,r26,2683200,6035800,0,utt, , ,3
+13682,3,1997,Hibernia Creek,1481112,Unnamed wetland Hibernia Creek,920,930,Hibernia Creek tributary, ,10,2,docy,k30,2371900,5894300,12021151,unk, , , 
+14675,3,1997,Arahura River,1481095,Unnamed wetland Arahura River,908,night,Unnamed wetland,,50,3,docy,J32,2350300,5834700,12032481,gmt,,,2
+16099,5,1997,Ruamahanga River,1481024,Unnamed wetland Ruamahanga River tributary 6,292,,Ruamahanga River tributary,,90,99,docg,T26,2732100,6017800,9007922,unk,,,
+16229,12,1997,Arahura River,1481095,Unnamed wetland Arahura River,908,night,Unnamed pond,,50,2,docy,J32,2349300,5834600,0,gmt,,,2
+16230,12,1997,Hokitika River,1481089,Unnamed wetland Kaniere River,906.01, ,Unnamed wetland, ,15,10,docy,j33,2348800,5826500,12033808,gmt, , ,6
+16234,12,1997,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Unnamed forest pool,,190,25,docy,J33,2363700,5829100,0,gmt,,,10
+16235,12,1997,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900,night,Unnamed forest pool,,120,9,docy,I34,2318500,5793200,0,gmt,,,15
+16261,11,1997,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,130,14,docy,K29,2398000,5933500,12011315,gmt,,,6
+16279,10,1997,Hokitika River,1481089,Unnamed wetland Kaniere River,906.01,night,Unnamed forest pool,,20,9,docy,J33,2348900,5826400,0,gmt,,,5
+16282,11,1997,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005, ,Unnamed forest pool, ,5,10,docy,j33,2338300,5821600,0,gmt, , ,10
+16283,11,1997,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005,,Unnamed forest pool,,5,10,docy,j33,2338300,5821800,0,gmt,,,8
+16284,11,1997,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005,night,Unnamed wetland,,5,10,docy,J33,2338800,5822000,12034528,gmt,,,9
+16285,11,1997,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005,night,Unnamed wetland,,5,10,docy,J33,2338600,5821800,12034528,gmt,,,4
+16286,11,1997,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005,night,Unnamed pond,,5,10,docy,J33,2338500,5821600,0,gmt,,,2
+16290,11,1997,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900,night,Unnamed forest pool,,90,8,docy,I34,2319500,5795100,0,gmt,,,3
+16291,11,1997,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900,,Unnamed forest pool,,90,8,docy,i34,2319700,5795000,0,gmt,,,1
+16292,11,1997,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900,,Unnamed wetland,,90,8,docy,i34,2319800,5794900,0,gmt,,,2
+16293,11,1997,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900, ,Unnamed wetland, ,60,6,docy,i34,2319100,5796200,0,gmt, , ,1
+16294,11,1997,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900,night,Unnamed wetland,,80,7,docy,I34,2318400,5795100,0,gmt,,,3
+16295,11,1997,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900,night,Unnamed wetland,,110,9,docy,I34,2318500,5793600,0,gmt,,,7
+16296,11,1997,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900,night,Unnamed forest pool,,110,10,docy,I34,2318300,5793700,0,gmt,,,3
+16297,11,1997,Te Riverahotaiepa River,1481082,Unnamed wetland Duffers Creek,898, ,Allen Creek tributary, ,110,10,docy,i34,2318200,5793800,0,gmt, , ,1
+16299,12,1997,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Unnamed wetland,,190,25,docy,J33,2363700,5829000,12033541,gmt,,,8
+17311,9,1997,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06,night,Unnamed wetland,,2,35,docg,S27,2704000,6001600,0,gmt,,,2
+17312,10,1997,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,night,Unnamed forest pool,,110,91,docg,S26,2727800,6020300,9007308,gmt,,,4
+17315,10,1997,Ruamahanga River,1481014,Unnamed wetland Ruamahanga River tributary 3,292.243,night,Enaki Stream tributary,,110,89,docg,S26,2720400,6020800,9006932,gmt,,,11
+17316,8,1997,Ruamahanga River,1481008,Boggy Pond Lagoon,292.06,night,Boggy Pond Lagoon,,2,31,docg,S27,2700000,5993300,9013435,gmt,,,5
+17901,12,1997,Kapitea Creek,1481098,Unnamed wetland Kapitea Creek 1,910,night,Unnamed wetland,,50,5,docy,J32,2356200,5841600,0,gmt,,,4
+17902,12,1997,Kapitea Creek,1481101,Unnamed wetland Duffers Creek tributary,910,night,Unnamed wetland,,150,16,docy,J32,2358600,5833800,0,gmt,,,6
+17907,12,1997,Arahura River,1481095,Unnamed wetland Arahura River,908,night,Unnamed wetland,,40,3,docy,J32,2350100,5835000,12032481,gmt,,,1
+17908,12,1997,Arahura River,1481095,Unnamed wetland Arahura River,908,night,Unnamed wetland,,40,4,docy,J32,2349400,5834500,12032458,gmt,,,1
+105926,7,1997,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,,Mangaroa Stream tributary,,47,1,docp,Q21,2632000,6164500,6015156,tfu,,,2
+105936,7,1997,Patea River,1481066,Ngaere Stream tributary 3,342.29,1010,Unnamed swamp,,0,0,docz,Q20,2627900,6199100,,tfu,,,1
+13693,5,1998,Hokitika River,1481090,Unnamed wetland Whiley Creek,906.01, ,Whiley Creek, ,10,11,docy,j33,2349500,5824200,12034175,fyn, , ,1
+16263,1,1998,Tiropahi River,1481113,Unnamed wetland Tiropahi River,926,1100,Unnamed wetland,,150,7,docy,K30,2382300,5913200,12016577,gmt,,,5
+16264,1,1998,Totara River,1481116,Unnamed wetland Totara River 1,929,1300,Unnamed wetland,,70,4,docy,K29,2384700,5924200,12013701,gmt,,,4
+16266,1,1998,Hibernia Creek,1481112,Unnamed wetland Hibernia Creek,920,1300,Hibernia Creek tributary,,9,2,docy,K30,2371800,5894500,12021151,gmt,,,4
+16268,1,1998,Ngakawau River,1481123,Unnamed wetland Repo Stream,939.032,1100,Repo Stream tributary,,350,8,docy,L28,2420700,5952400,12007596,gmt,,,6
+17210,3,1998,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1100,Unnamed wetland, ,15,3,docn,m25,2466600,6062500,0,ntc, , ,3
+17211,3,1998,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1120,Unnamed lake, ,15,3,docn,m25,2466500,6062300,0,ntc, , ,6
+17212,3,1998,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1346,Unnamed wetland, ,15,3,docn,m25,2466100,6061800,10000410,ntc, , ,10
+17213,3,1998,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1359,Unnamed wetland,,15,4,docn,M25,2465800,6061700,10000418,gmt,,,11
+17214,3,1998,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1110,Unnamed wetland,,15,1,docn,m25,2468400,6063500,10000362,ntc,,,12
+17890,5,1998,Deep Creek,1481115,Unnamed wetland Deep Creek,927,1100,Unnamed wetland,,180,4,docy,K30,2379800,5917300,12015553,gmt,,,3
+17903,3,1998,Hokitika River,1481091,Unnamed wetland Hokitika River 4,906, ,Unnamed wetland, ,10,12,docy,j33,2348700,5822000,12034462,ntc, , ,7
+17909,4,1998,Kapitea Creek,1481100,Unnamed wetland Kapitea Creek tributary,910,night,Kapitea Creek tributary,,145,15,docy,J32,2361700,5835700,12032185,gmt,,,2
+17912,4,1998,Shearer Swamp,1481083,Shearer Swamp,902, ,Shearer Swamp, ,5,4,docy,i33,2326800,5808200,12036746,ntc, , ,6
+17913,4,1998,Shearer Swamp,1481083,Shearer Swamp,902, ,Shearer Swamp, ,5,4,docy,i33,2326800,5808300,12036746,gmt, , ,8
+17914,4,1998,Shearer Swamp,1481083,Shearer Swamp,902,night,Shearer Swamp,,5,4,docy,I33,2326800,5808200,12036746,gmt,,,5
+17916,5,1998,Hokitika River,1481091,Unnamed wetland Hokitika River 4,906,night,Unnamed wetland,,10,12,docy,J33,2348700,5822000,12034462,gmt,,,29
+17917,6,1998,Arahura River,1481096,Unnamed wetland Fox Creek,908.01,,Unnamed wetland,,100,15,docy,J32,2357700,5831200,12033085,han,,,1
+18028,5,1998,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900,955,Duffers Creek tributary, ,100,9,docy,i34,2318700,5794000,12038452,efp,1, , 
+18029,5,1998,Te Riverahotaiepa River,1481082,Unnamed wetland Duffers Creek,898,1300,Allen Creek, ,120,11,docy,i34,2318400,5792900,12038488,efp,1, , 
+18030,5,1998,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900,1400,Dunlop Creek,,90,7,docy,i34,2319900,5795300,12038298,efp,1,,
+18038,9,1998,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005, ,Lake Mahinapua, ,4,11,docy,j33,2338400,5821200,12034417,fyn, , ,5
+18048,11,1998,Kapitea Creek,1481101,Unnamed wetland Duffers Creek tributary,910,1600,Duffers Creek, ,140,14,docy,j32,2359900,5834100,12032574,obs, , ,2
+18052,5,1998,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River tributary, ,50,14,docy,i34,2298300,5782900,12040099,gmt, , ,1
+18053,5,1998,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,night,Unnamed forest pool,,55,15,docy,I34,2299400,5782900,12040111,gmt,,,1
+18054,5,1998,Hokitika River,1481090,Unnamed wetland Whiley Creek,906.01,night,Unnamed wetland,,10,11,docy,J33,2349500,5824200,12034263,gmt,,,9
+18055,6,1998,Serpentine Creek,1481104,Unnamed wetland Serpentine Creek tributary,910.5,night,Serpentine Creek tributary,,80,7,docy,J32,2359300,5841500,12030895,gmt,,,9
+18056,6,1998,Hokitika River,1481089,Unnamed wetland Kaniere River,906.01,night,Unnamed forest pool,,20,10,docy,J33,2348900,5826400,0,gmt,,,12
+17591,7,1999,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,220,48,docz,Q20,2628000,6195700,6010197,gmt,,,30
+17592,7,1999,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,220,48,docz,Q20,2628000,6195700,6010197,kgt,,,45
+17593,7,1999,Waingongoro River,1481071,Waingongoro River tributary,350, ,Waingongoro River tributary, ,220,48,docz,q20,2628000,6196100,6010197,kgt, , ,7
+17594,7,1999,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,210,45,docz,Q20,2626400,6195300,0,kgt,,,20
+17595,7,1999,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,220,45,docz,Q20,2626700,6195800,6010053,kgt,,,17
+17596,7,1999,Waingongoro River,1481071,Waingongoro River tributary,350, ,Waingongoro River tributary, ,210,45,docz,q20,2626600,6195600,6010053,kgt, , ,10
+17597,7,1999,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,220,42,docz,Q20,2626900,6196300,6010053,kgt,,,47
+17598,8,1999,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,220,44,docz,Q20,2624900,6197200,6009948,kgt,,,20
+17599,8,1999,Waingongoro River,1481071,Waingongoro River tributary,350,930,Waingongoro River tributary,,210,43,docz,Q20,2624500,6196700,6009961,kgt,,,17
+17600,8,1999,Waingongoro River,1481071,Waingongoro River tributary,350, ,Waingongoro River tributary, ,220,44,docz,q20,2625300,6197000,6009948,kgt, , ,5
+17893,1,1999,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933.02,,Unnamed wetland,,135,15,docy,K29,2399000,5933500,12011133,gmt,,,4
+17894,6,1999,Okari River,1481119,Unnamed wetland Mountain Creek,930,1000,Unnamed wetland,,190,16,docy,K29,2389900,5925100,12013336,gmt,,,5
+18807,2,1999,Kapitea Creek,1481101,Unnamed wetland Duffers Creek tributary,910,2350,Kapitea Creek, ,140,14,docy,j32,2360100,5834100,12032568,spo, , , 
+18817,3,1999,Kapitea Creek,1481101,Unnamed wetland Duffers Creek tributary,910,1030,Kapitea Creek, ,140,14,docy,j32,2360100,5834100,12032568,efp,1, , 
+18980,5,1999,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Deep Creek, ,40,7,docy,h35,2282800,5769100,12042036,ntc, , ,5
+19482,6,1999,Pukepuke Lagoon,1481053,Unnamed wetland Pukepuke Lagoon,326,1000,Pukepuke Lagoon, ,5,4,uom,s24,2702500,6093500,7038899,ntc, , ,6
+19484,6,1999,Tangimoana Forest,1481053,Unnamed wetland Pukepuke Lagoon,326,1100,Unnamed lake, ,6,5,uom,s24,2702900,6093700,7039019,gmt, , ,1
+19529,7,1999,Hokitika River,1481091,Unnamed wetland Hokitika River 4,906, ,Hokitika River tributary, ,10,12,docy,j33,2347800,5822000,12034581,ntc, , ,3
+20526,8,1999,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,220,45,docz,Q20,2626000,6196800,6009986,kgt,,,46
+20527,8,1999,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,220,47,docz,Q20,2625400,6194200,6010488,kgt,,,42
+105910,4,1999,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,,Unnamed wetland,,105,13,docy,K29,2398000,5933500,12011315,gmt,,,2
+5097,2,2000,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga tributary, ,15,7,uom,s25,2699000,6060300,7046894,spo, , ,58
+9678,2,2000,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga tributary, ,15,7,uom,s25,2699000,6060300,7046894,ef,1, ,58
+9816,4,2000,Rangitikei River,1481056,Unnamed wetland Rangitikei River 2,327, ,Rangitikei River tributary, ,5,3,uom,s23,2700700,6100500,7037693,ef,1, ,490
+17317,8,2000,Ruamahanga River,1481014,Unnamed wetland Ruamahanga River tributary 3,292.243,night,Unnamed forest pool,,110,89,docg,S26,2720500,6020600,0,gmt,,,5
+17318,8,2000,Ruamahanga River,1481014,Unnamed wetland Ruamahanga River tributary 3,292.243,night,Unnamed wetland,,110,89,docg,S26,2720300,6020800,0,gmt,,,12
+18752,6,2000,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325.091,,Unnamed wetland,,10,11,uom,S24,2703800,6082500,0,gmt,,,13
+18753,6,2000,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325,,Unnamed wetland,,10,11,uom,S24,2703800,6082500,0,gmt,,,13
+18754,7,2000,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325.17,,Unnamed wetland,,55,98,uom,T24,2744600,6096700,7038360,gmt,,,5
+18755,7,2000,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325.17,,Unnamed wetland,,55,98,uom,T24,2744600,6096700,7038360,gmt,,,10
+18756,7,2000,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,,Unnamed wetland,,55,98,uom,T24,2744600,6096700,0,gmt,,,10
+18757,7,2000,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325.091,,Unnamed wetland,,10,57,uom,S24,2722300,6087700,7040204,gmt,,,14
+18758,7,2000,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325.091,,Unnamed wetland,,10,57,uom,S24,2722300,6087700,7040204,gmt,,,14
+18759,7,2000,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325.091,,Unnamed wetland,,10,57,uom,S24,2722300,6087700,7040204,gmt,,,14
+18760,7,2000,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,,Tutaenui Stream tributary,,40,23,uom,S23,2709800,6110500,7035681,gmt,,,12
+18761,7,2000,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,,Tutaenui Stream tributary,,40,23,uom,S23,2709800,6110500,7035681,gmt,,,10
+18762,7,2000,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,,Tutaenui Stream tributary,,40,23,uom,S23,2709800,6110500,7035681,gmt,,,10
+18763,6,2000,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,,Unnamed wetland,,15,25,uom,S25,2709500,6068800,0,gmt,,,1
+18892,3,2000,Totara River,1481117,Unnamed wetland Totara River 2,929,,Unnamed wetland,,120,10,docy,K29,2389500,5924600,12013860,gmt,,,5
+18893,3,2000,Okari River,1481118,Unnamed wetland OMalley Creek,930, ,Unnamed wetland, ,55,13,docy,k29,2389900,5930500,12012193,gmt, , ,5
+18990,5,2000,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,830,Unnamed wetland,,70,11,docy,H35,2283300,5769300,12041993,tct,,,6
+18991,5,2000,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,1000,Unnamed wetland, ,30,6,docy,h34,2283000,5770300,0,tct, , ,15
+18992,5,2000,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1000,Unnamed wetland,,70,11,docy,H35,2283300,5769300,12041993,tct,,,6
+18993,5,2000,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1000,Unnamed wetland, ,70,11,docy,h35,2283300,5769300,12041993,tct, , ,6
+18994,5,2000,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,1000,Unnamed wetland, ,30,6,docy,h34,2283000,5770300,12041924,tct, , ,5
+18995,5,2000,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,1000,Unnamed wetland, ,30,6,docy,h34,2283000,5770300,0,tct, , ,15
+18996,5,2000,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1000,Unnamed wetland, ,70,11,docy,h35,2283300,5769300,12041993,tct, , ,6
+19570,12,2000,Duffers Creek,1481082,Unnamed wetland Duffers Creek,900,1100,Duffers Creek, ,70,8,docy,i34,2318800,5794600,12038139,efm,1, , 
+20369,12,2000,Otakeho Stream,1481072,Otakeho Stream,356,1530,Otakeho Stream, ,45,3,trc,p21,2600600,6184000,6012072,ef,1, ,150
+20370,12,2000,Otakeho Stream,1481072,Otakeho Stream,356,1430,Otakeho Stream, ,40,3,trc,p21,2600700,6183800,6012072,ef,1, ,150
+9204,12,2001,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005, ,Lake Mahinapua, ,4,10,docy,j33,2338500,5821500,12034417,ncn, , ,2
+9205,12,2001,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005, ,Lake Mahinapua, ,4,10,docy,j33,2338600,5821600,12034417,ntc, , ,16
+9206,12,2001,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005, ,Lake Mahinapua, ,4,10,docy,j33,2338400,5821300,12034417,ntc, , ,13
+14013,6,2001,Kapitea Creek,1481101,Unnamed wetland Duffers Creek tributary,910,2000,Kapitea Creek, ,140,14,uoc,j32,2360100,5834100,12032568,gmt, , ,150
+17319,1,2001,Ruamahanga River,1481022,Waikoukou Stream tributary,292,930,Waikoukou Stream tributary,,50,86,docg,s26,2728300,6012600,9009080,obs,,,1
+18774,4,2001,Wairoa Stream,1481061,Unnamed wetland Wairoa Stream,340,1100,Unnamed wetland, ,50,5,docz,q22,2649200,6155900,6016108,ntc, , ,8
+19532,3,2001,Taramakau River,1481106,Hughes Creek tributary 1,911,night,Hughes Creek tributary,,90,12,docy,J32,2360400,5839600,12031459,gmt,,,11
+19533,3,2001,Taramakau River,1481107,Hughes Creek tributary 2,911,night,Hughes Creek tributary,,90,12,docy,J32,2360700,5840000,12031390,gmt,,,5
+19536,3,2001,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005,night,Unnamed wetland,,5,10,docy,J33,2338600,5821900,0,gmt,,,9
+19537,11,2001,Hokitika River,1481089,Unnamed wetland Kaniere River,906.01, ,Unnamed wetland, ,15,9,docy,j33,2347800,5826900,0,gmt, , ,12
+21162,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1430,Unnamed wetland, ,5,1,docn,m25,2468200,6063300,10000362,gmt, , ,10
+21163,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1600,Unnamed wetland, ,5,2,docn,m25,2468400,6063200,10000362,gmt, , ,10
+21164,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1245,Unnamed wetland, ,15,4,docn,m25,2465500,6062100,10000414,gmt, , ,10
+21165,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1530,Unnamed wetland, ,15,3,docn,m25,2466100,6062000,10000410,gmt, , ,10
+21166,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1645,Unnamed wetland, ,15,3,docn,m25,2466200,6062000,10000410,gmt, , ,10
+21167,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1000,Unnamed wetland,,15,4,docn,M25,2465900,6061700,10000418,gmt,,,10
+21168,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1245,Unnamed wetland, ,15,3,docn,m25,2466700,6062500,10000392,gmt, , ,10
+21169,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1500,Unnamed wetland, ,15,5,docn,m25,2465800,6061500,10000418,gmt, , ,10
+21170,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1100,Unnamed wetland, ,15,5,docn,m25,2466000,6061500,10000418,gmt, , ,5
+21171,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1200,Unnamed wetland, ,15,4,docn,m25,2466600,6060900,0,gmt, , ,5
+21172,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1330,Unnamed wetland, ,15,4,docn,m25,2466700,6061300,0,gmt, , ,10
+21173,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1530,Unnamed wetland, ,15,4,docn,m25,2465800,6061900,10000418,gmt, , ,10
+21175,7,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,2130,Unnamed stream Mangarakau, ,15,3,docn,m25,2466600,6062500,10000407,spo, , ,100
+21382,8,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1630,Unnamed wetland,,15,4,docn,M25,2465900,6061700,10000418,gmt,,,20
+21384,9,2001,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1000,Unnamed wetland,,15,4,docn,M25,2465900,6061700,10000418,gmt,,,20
+105937,8,2001,Patea River,1481066,Ngaere Stream tributary 3,342.29,,Unnamed swamp,,0,0,docz,Q20,2627900,6199100,,tfu,,,1
+11975,3,2002,Otakeho Stream,1481072,Otakeho Stream,356,1530,Otakeho Stream, ,45,3,trc,p21,2600600,6183900,6012072,efp,1, ,60
+11988,3,2002,Otakeho Stream,1481072,Otakeho Stream,356,1500,Otakeho Stream, ,45,3,trc,p21,2600600,6183900,6012072,efp,1, ,60
+12287,1,2002,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06, ,Unnamed lake, ,3,35,docg,s27,2704300,6001800,9011520,ntc, , ,14
+12294,1,2002,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06, ,Unnamed lake, ,3,36,docg,s27,2704900,6001800,9011520,ntc, , ,12
+12295,1,2002,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06, ,Unnamed lake, ,3,35,docg,s27,2704600,6001500,9011520,ntc, , ,13
+12296,1,2002,Ruamahanga River,1481008,Boggy Pond Lagoon,292.06, ,Boggy Pond Lagoon, ,1,31,docg,s27,2699700,5992400,9013435,ntc, , ,17
+12425,2,2002,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga, ,15,6,docg,s25,2698200,6059700,7046932,ntc, , ,19
+12488,1,2002,Koitiata Stream,1481060,Unnamed wetland Koitiata Stream 2,329, ,Lake Alice, ,90,18,docz,s23,2709000,6116300,7034231,ntc, , ,25
+12489,1,2002,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325, ,Unnamed pond, ,60,98,docz,t24,2744500,6097000,0,sen, , ,1
+19538,7,2002,Hokitika River,1481094,Groves Swamp,906.06,,Groves Swamp,,30,22,docy,J33,2342600,5817300,12035322,gmt,,,4
+19539,7,2002,Hokitika River,1481094,Groves Swamp,906.06, ,Groves Swamp, ,30,22,docy,j33,2342700,5817500,12035310,gmt, , ,3
+19540,7,2002,Hokitika River,1481094,Groves Swamp,906.06,1100,Monts Creek, ,30,22,docy,j33,2342600,5817000,12035342,gmt, , ,7
+19541,7,2002,Hokitika River,1481094,Groves Swamp,906.06,1100,Monts Creek, ,30,23,docy,j33,2341800,5817000,12035378,gmt, , ,7
+20092,7,2002,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005,2000,Lake Mahinapua, ,4,10,docy,j33,2338400,5821400,12034417,spo, , ,700
+21965,8,2002,Warea River,1481076,Warea Stream tributary,377,night,Unnamed spring,,95,7,docz,P20,2582200,6218100,0,gmt,,,10
+21966,8,2002,Waingongoro River,1481071,Waingongoro River tributary,350,night,Unnamed wetland,,220,46,docz,Q20,2626800,6196300,0,gmt,,,20
+21967,8,2002,Patea River,1481066,Ngaere Stream tributary 3,342.29,night,Ngaere Stream tributary,,230,126,docz,Q20,2627900,6199200,6009365,gmt,,,20
+21968,9,2002,Patea River,1481067,Ngaere Stream tributary 4,342.29,night,Ngaere Stream tributary,,230,130,docz,Q20,2628300,6199600,6009471,gmt,,,20
+21969,9,2002,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,night,Unnamed wetland,,50,2,docz,Q21,2632000,6164500,0,gmt,,,20
+21970,9,2002,Otakeho Stream,1481072,Otakeho Stream,356, ,Otakeho Stream tributary, ,50,2,docz,p21,2600100,6183400,6012487,gmt, , ,20
+29891,8,2002,Saltwater Creek,1481110,Unnamed wetland New River,913, ,Infants Creek tributary, ,30,9,docy,j32,2360619,5850303,12029941,unk, , , 
+105939,10,2002,Warea River,1481076,Warea Stream tributary,377,,Warea River tributary,,86,6,docz,P20,2582200,6218100,6005982,tfu,,,1
+16124,2,2003,Hokitika River,1481091,Unnamed wetland Hokitika River 4,906,2200,Hokitika River tributary, ,10,12,wcrc,j33,2347900,5821900,12034601,spo, , , 
+16567,3,2003,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02, ,Lake Mudgie, ,150,19,docy,j33,2360800,5830000,12033279,ncn, , ,7
+17525,1,2003,Pukepuke Lagoon,1481053,Unnamed wetland Pukepuke Lagoon,326, ,Pukepuke Lagoon, ,5,4,docz,s24,2702500,6093600,7038899,unn, , ,4
+18511,12,2003,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,930,Tutaenui Stream,,35,22,wnfg,s23,2710500,6110100,7035727,ef,1,,1420
+18749,10,2003,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,,Tutaenui Stream tributary,,55,23,docz,S23,2709700,6110600,7035681,gmt,,,10
+18750,10,2003,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325,,Unnamed wetland,,10,10,docz,S24,2703000,6082800,0,gmt,,,10
+19203,2,2003,Saltwater Creek,1481080,Unnamed wetland Saltwater Creek,894,900,Unnamed wetland,,5,5,docy,I34,2297000,5787700,0,tct,,,5
+19204,2,2003,Saltwater Creek,1481080,Unnamed wetland Saltwater Creek,894,830,Saltwater Lagoon, ,5,4,docy,i34,2296200,5787600,12039579,gmt, , ,1
+19205,2,2003,Saltwater Creek,1481080,Unnamed wetland Saltwater Creek,894,900,Saltwater Lagoon tributary, ,5,7,docy,i34,2297500,5785200,12039733,tct, , ,4
+19206,2,2003,Saltwater Creek,1481080,Unnamed wetland Saltwater Creek,894,900,Saltwater Lagoon tributary, ,5,4,docy,i34,2296700,5787800,0,tct, , ,4
+19207,2,2003,Saltwater Creek,1481080,Unnamed wetland Saltwater Creek,894,900,Unnamed wetland, ,5,4,docy,i34,2296600,5787900,0,gmt, , ,3
+19208,5,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,830,Hinatua River tributary, ,20,13,docy,i34,2300700,5785400,12039704,tct, , ,2
+19209,5,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,830,Hinatua River tributary, ,25,15,docy,i34,2300900,5784300,12039825,tct, , ,2
+19210,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River tributary, ,60,14,docy,i34,2298700,5782700,12040099,han, , ,300
+19211,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River tributary, ,70,14,docy,i34,2299400,5782900,0,han, , ,112
+19212,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River tributary, ,60,16,docy,i34,2301200,5783100,12039934,han, , ,525
+19213,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River tributary, ,70,17,docy,i34,2302200,5782600,12040142,han, , ,600
+19214,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River tributary, ,20,10,docy,i34,2299000,5785700,0,han, , ,300
+19215,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River tributary, ,20,13,docy,i34,2300600,5785400,12039704,han, , ,375
+19216,5,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed forest pool,,60,13,docy,I34,2299600,5783400,0,gmt,,,27
+19217,5,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed forest pool,,60,13,docy,I34,2299600,5783400,0,gmt,,,9
+19218,5,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed forest pool,,80,14,docy,I34,2298500,5782300,0,gmt,,,29
+19219,5,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed forest pool,,80,14,docy,I34,2298500,5782300,0,gmt,,,4
+19220,5,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed wetland, ,90,18,docy,i34,2302000,5781600,12040183,gmt, , ,3
+19221,5,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Hinatua River tributary,,70,16,docy,I34,2300400,5783000,12039933,gmt,,,3
+19222,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed forest pool,,60,13,docy,I34,2299600,5783400,0,gmt,,,9
+19223,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed forest pool, ,60,13,docy,i34,2299000,5783100,0,gmt, , ,9
+19224,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Hinatua River tributary,,40,13,docy,I34,2298000,5783200,12039999,tct,,,21
+19225,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Hinatua River tributary, ,55,16,docy,i34,2301300,5783400,12039934,tct, , ,12
+19242,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed wetland, ,20,13,docy,i34,2300600,5785500,0,gmt, , ,9
+19243,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed forest pool,,15,10,docy,I34,2298900,5785800,0,gmt,,,3
+19244,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed forest pool,,40,15,docy,I34,2300300,5784300,0,gmt,,,9
+19245,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed pond, ,70,17,docy,i34,2302300,5782800,0,gmt, , ,9
+19246,6,2003,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,900,Unnamed forest pool,,70,17,docy,I34,2302700,5782900,0,gmt,,,9
+19542,1,2003,Hokitika River,1481094,Groves Swamp,906.06, ,Monts Creek, ,30,22,docy,j33,2342600,5817200,12035342,ntc, , ,8
+22077,2,2003,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,900,Unnamed pond, ,20,5,docn,m25,2466300,6060500,0,gmt, , ,10
+22078,2,2003,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,930,Unnamed pond, ,20,5,docn,m25,2466500,6060700,0,fyn, , ,4
+22095,10,2003,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,1300,Unnamed wetland,,15,4,docn,M25,2465900,6061700,10000418,gmt,,,10
+5395,7,2004,Patea River,1481067,Ngaere Stream tributary 4,342.29,night,Ngaere Stream tributary,,230,130,docz,Q20,2628300,6199600,6009471,gmt,,,20
+5396,8,2004,Waingongoro River,1481071,Waingongoro River tributary,350,night,Unnamed forest pool,,200,46,docz,Q20,2626800,6196300,0,gmt,,,20
+5397,8,2004,Otakeho Stream,1481072,Otakeho Stream,356, ,Otakeho Stream tributary, ,50,2,docz,p21,2600100,6183400,6012487,gmt, , ,20
+5398,8,2004,Warea River,1481076,Warea Stream tributary,377,night,Warea River tributary,,100,7,docz,P20,2582200,6218100,6005899,gmt,,,13
+19247,3,2004,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,900,Unnamed wetland,,70,11,docy,H35,2283300,5769400,12041993,gmt,,,10
+19248,3,2004,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1000,Unnamed wetland, ,70,11,docy,h35,2283400,5769800,12041993,gmt, , ,10
+19249,3,2004,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1000,Unnamed wetland, ,70,9,docy,h34,2283900,5770100,12041993,gmt, , ,10
+19250,3,2004,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1030,Unnamed wetland,,70,9,docy,H35,2284200,5770000,12041993,gmt,,,10
+19251,3,2004,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1000,Unnamed wetland, ,70,11,docy,h35,2283900,5769300,12041993,gmt, , ,10
+19252,3,2004,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,930,Unnamed wetland,,70,10,docy,H35,2284100,5769400,12041993,gmt,,,10
+19253,3,2004,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,930,Unnamed wetland, ,70,10,docy,h35,2284000,5769500,12041993,gmt, , ,10
+19254,3,2004,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,845,Unnamed wetland, ,70,10,docy,h35,2284000,5769500,12041993,gmt, , ,10
+20421,9,2004,Arahura River,1481095,Unnamed wetland Arahura River,908,night,Arahura River tributary,,45,4,docy,J32,2349500,5834500,0,gmt,,,6
+20422,9,2004,Arahura River,1481095,Unnamed wetland Arahura River,908,night,Arahura River tributary,,45,4,docy,J32,2349600,5834400,0,gmt,,,2
+20423,9,2004,Arahura River,1481095,Unnamed wetland Arahura River,908, ,Unnamed wetland, ,45,2,docy,j32,2349500,5834600,0,gmt, , ,11
+20424,9,2004,Arahura River,1481095,Unnamed wetland Arahura River,908,night,Unnamed forest pool,,45,3,docy,J32,2349600,5834600,0,gmt,,,1
+20643,11,2004,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,2200,Hinatua River, ,90,19,docy,i34,2303500,5781100,12040190,spo, , ,600
+21975,7,2004,Patea River,1481066,Ngaere Stream tributary 3,342.29,night,Ngaere Stream tributary,,230,126,docz,Q20,2627900,6199200,6009365,gmt,,,20
+24101,8,2004,Te Riverahotaiepa River,1481082,Unnamed wetland Duffers Creek,898,1030,Milwain Creek tributary,,60,5,docy,i34,2314093,5794940,0,ef,2,,220
+105908,8,2004,Waingongoro River,1481071,Waingongoro River tributary,350,,Waingongoro River tributary,,0,0,docz,Q20,2626800,6196300,,gmt,,,1
+105928,6,2004,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005,,Unnamed wetland,,0,0,docy,J33,2338715,5821981,,gmt,,,1
+108937,7,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,10
+108938,7,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,10
+108939,7,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,10
+108940,7,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,10
+108941,7,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251, ,Parkvale Stream tributary, ,100,89,docg,S26,2728395,6019524,9007534,tfu, , ,10
+108942,7,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,10
+108943,7,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,10
+108944,7,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,10
+108945,8,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,10
+108946,8,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251, ,Parkvale Stream tributary, ,100,89,docg,S26,2728329,6019625,9007534,tfu, , ,10
+108947,8,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,10
+108948,8,2004,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251, ,Parkvale Stream tributary, ,100,89,docg,S26,2728329,6019625,9007534,tfu, , ,10
+20106,4,2005,Buller River,1481120,Unnamed wetland Bradshaws Creek,932.005, ,Unnamed wetland, ,10,9,docy,k29,2387800,5937200,12010452,fyn, , ,4
+20110,4,2005,Buller River,1481120,Unnamed wetland Bradshaws Creek,932.005,,Bradshaws Creek,,8,8,docy,k29,2388892,5937506,12010385,fyn,,,4
+20111,3,2005,Buller River,1481120,Unnamed wetland Bradshaws Creek,932.005,,Bradshaws Creek,,8,8,docy,k29,2388892,5937506,12010385,fyn,,,4
+20112,10,2005,Charleston,1481114,Unnamed wetland Four Mile Creek township,927,night,Unnamed wetland,,190,1,docy,K30,2379300,5917000,12015715,gmt,,,3
+20114,4,2005,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,120,14,docy,K29,2397616,5933153,0,gmt,,,6
+20115,5,2005,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,115,14,docy,K29,2397722,5933049,0,gmt,,,6
+20116,6,2005,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,115,14,docy,K29,2397814,5933855,0,gmt,,,8
+20117,6,2005,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,115,13,docy,K29,2398017,5933995,0,gmt,,,8
+20118,6,2005,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,115,14,docy,K29,2398077,5933745,0,gmt,,,8
+20119,9,2005,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,115,14,docy,K29,2397814,5933855,0,gmt,,,8
+20120,9,2005,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,115,13,docy,K29,2398017,5933995,0,gmt,,,8
+20121,9,2005,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,115,14,docy,K29,2398077,5933745,0,gmt,,,8
+20122,9,2005,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,120,14,docy,K29,2397616,5933153,0,gmt,,,8
+20123,9,2005,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,115,14,docy,K29,2397721,5933048,0,gmt,,,8
+20124,10,2005,Hibernia Creek,1481112,Unnamed wetland Hibernia Creek,920, ,Hibernia Creek, ,10,2,docy,k30,2371860,5894428,12021179,gmt, , ,8
+20125,10,2005,Hibernia Creek,1481112,Unnamed wetland Hibernia Creek,920, ,Hibernia Creek, ,10,2,docy,k30,2371836,5894404,12021179,gmt, , ,8
+20131,8,2005,Totara River,1481117,Unnamed wetland Totara River 2,929,night,Unnamed wetland,,100,10,docy,K29,2388557,5924966,0,gmt,,,2
+20132,8,2005,Totara River,1481117,Unnamed wetland Totara River 2,929,night,Unnamed wetland,,100,10,docy,K29,2388708,5925072,0,gmt,,,1
+20133,8,2005,Totara River,1481117,Unnamed wetland Totara River 2,929,night,Unnamed wetland,,100,10,docy,K29,2388590,5925028,0,gmt,,,1
+20688,3,2005,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,,Unnamed forest pool,,10,5,docy,H34,2283577,5771768,0,gmt,,,1
+20689,3,2005,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,,Unnamed forest pool,,10,5,docy,H34,2283573,5771771,0,gmt,,,2
+20690,3,2005,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,,Unnamed forest pool,,15,5,docy,H34,2283599,5771528,0,gmt,,,1
+20691,3,2005,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,,Unnamed forest pool,,15,6,docy,H34,2283487,5771314,0,gmt,,,2
+20692,3,2005,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,1430,Oroko Creek tributary,,120,14,docy,h34,2288455,5770750,12041792,gmt,,,1
+20693,3,2005,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,,Ototaki Creek tributary,,25,14,docy,H34,2289562,5776778,0,gmt,,,3
+20694,3,2005,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,,Unnamed forest pool,,30,14,docy,H34,2289376,5776473,0,gmt,,,4
+20695,3,2005,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,,Okutua Creek tributary,,30,12,docy,H34,2287818,5774768,0,gmt,,,5
+20696,3,2005,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,,Unnamed forest pool,,60,11,docy,H34,2287335,5772895,0,gmt,,,2
+20697,3,2005,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Oroko Creek tributary, ,30,10,docy,h34,2285817,5772334,0,gmt, , ,2
+20698,3,2005,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,,Unnamed forest pool,,115,15,docy,H34,2289589,5771302,0,gmt,,,5
+21301,10,2005,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,900,Tutaenui Stream tributary,,55,23,docz,S23,2709700,6110600,7035681,gmt,,,10
+21302,10,2005,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325,900,Manawatu River tributary,,10,10,docz,S24,2702858,6082860,7041479,gmt,,,4
+21306,10,2005,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,day,Parkvale Stream tributary,,110,91,wnrc,S26,2728110,6020073,9,efp,1,,
+22124,10,2005,Ruamahanga River,1481028,Unnamed wetland Ruamahanga River tributary 9,292, ,Ruamahanga River tributary, ,125,107,wnrc,t26,2730327,6024256,9006692,efp,1, , 
+22239,5,2005,Ruamahanga River,1481026,Unnamed wetland Ruamahanga River tributary 7,292, ,Ruamahanga River tributary, ,120,106,wnrc,t26,2731910,6024730,9006296,efp,1, , 
+22326,7,2005,Patea River,1481066,Ngaere Stream tributary 3,342.29,night,Ngaere Stream tributary,,230,126,docz,Q20,2627900,6199200,6009365,ntc,,,20
+22327,7,2005,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,220,46,docz,Q20,2626800,6196300,6010053,ntc,,,20
+22328,7,2005,Patea River,1481067,Ngaere Stream tributary 4,342.29,night,Ngaere Stream tributary,,240,130,docz,Q20,2628300,6199600,6009471,ntc,,,20
+22329,8,2005,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,night,Unnamed wetland,,50,2,docz,Q21,2632000,6164500,0,ntc,,,20
+22330,8,2005,Warea River,1481076,Warea Stream tributary,377,night,Warea River tributary,,100,7,docz,P20,2582200,6218100,6005899,ntc,,,20
+22331,9,2005,Waitotoroa Stream,1481074,Waitotoroa Stream tributary,374,night,Waitotoroa Stream tributary,,90,7,docz,P20,2580700,6211700,6007121,ntc,,,10
+24380,11,2005,Okarito River,1481078,MacDonalds Creek,891.2,,MacDonalds Creek,,80,16,docy,H35,2284572,5764472,12042708,gmt,,,7
+26292,2,2005,Ruamahanga River,1481003,Unnamed wetland Ruamahanga River 2,292.02,1320,Pounui Stream, ,15,8,niwa,r27,2687820,5982210,9015730,efm,1, ,210
+103287,10,2005,Poerua River,1481080,Unnamed wetland Saltwater Creek,896, ,Hinetua River, ,76,17,niwa,I34,2303480,5781221,12040190,fys, , ,3
+108949,5,2005,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,10
+108950,5,2005,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,10
+108951,5,2005,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108952,5,2005,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108953,5,2005,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+108954,5,2005,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+22771,9,2006,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,120,14,docy,K29,2397721,5933048,0,gmt,,,8
+22772,9,2006,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,115,14,docy,K29,2398077,5933745,0,gmt,,,8
+22773,9,2006,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,115,13,docy,K29,2398017,5933995,0,gmt,,,8
+22774,9,2006,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,night,Unnamed wetland,,115,14,docy,K29,2397814,5933855,0,gmt,,,8
+22973,7,2006,Patea River,1481067,Ngaere Stream tributary 4,342.29,night,Ngaere Stream tributary,,230,130,docz,Q20,2628300,6199600,6009471,gmt,,,20
+22974,7,2006,Waingongoro River,1481071,Waingongoro River tributary,350,night,Unnamed wetland,,220,46,docz,Q20,2626800,6196300,6010053,gmt,,,20
+22975,7,2006,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,night,Unnamed wetland,,50,2,docz,Q21,2632000,6164500,0,gmt,,,20
+23048,8,2006,Warea River,1481076,Warea Stream tributary,377,night,Unnamed wetland,,95,7,docz,P20,2582200,6218100,0,gmt,,,20
+23049,8,2006,Patea River,1481066,Ngaere Stream tributary 3,342.29,night,Ngaere Stream tributary,,230,126,docz,Q20,2627900,6199200,6009365,gmt,,,20
+23062,9,2006,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,900,Unnamed wetland,,15,4,docn,M25,2465900,6061700,0,gmt,,,10
+23063,9,2006,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,900,Unnamed wetland,,15,4,docn,M25,2467966,6064148,0,gmt,,,4
+23064,9,2006,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,,Unnamed wetland,,15,1,docn,M25,2468244,6063529,0,gmt,,,3
+24124,9,2006,Taramakau River,1481109,Unnamed wetland Taramakau River 2,911,1000,Unnamed wetland,,30,14,docy,J32,2363318,5839960,0,ntc,,,18
+29406,5,2006,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,900,Mangarakau Swamp,,10,1,docn,m25,2468245,6063529,10000347,gmt,,,3
+105911,9,2006,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,,Unnamed wetland,,105,13,docy,K29,2398000,5933500,12011315,gmt,,,3
+108955,8,2006,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108956,8,2006,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108957,8,2006,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108958,8,2006,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108959,9,2006,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+108960,9,2006,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+112038,9,2006,Paturau River,1481126,Unnamed wetland Whanganui Inlet,971, ,Unnamed wetland, ,47,6,docn,M25,2465901,6062366,10000394,tfu, , ,2
+112039,9,2006,Paturau River,1481126,Unnamed wetland Whanganui Inlet,971, ,Unnamed wetland, ,14,5,docn,M25,2466023,6061855,10000406,tfu, , ,1
+112040,9,2006,Paturau River,1481126,Unnamed wetland Whanganui Inlet,971, ,Unnamed wetland, ,14,5,docn,M25,2466110,6061962,10000406,tfu, , ,1
+112042,9,2006,Paturau River,1481126,Unnamed wetland Whanganui Inlet,971, ,Unnamed wetland, ,14,5,docn,M25,2466090,6061946,10000406,tfu, , ,1
+112043,9,2006,Paturau River,1481126,Unnamed wetland Whanganui Inlet,971,,Unnamed wetland,,5,8,docn,M25,2467565,6064048,10000347,tfu,,,1
+112044,9,2006,Paturau River,1481126,Unnamed wetland Whanganui Inlet,973,,Unnamed wetland,,5,8,docn,M25,2468251,6063526,10000347,tfu,,,1
+112047,9,2006,Paturau River,1481126,Unnamed wetland Whanganui Inlet,971, ,Unnamed wetland, ,5,8,docn,M25,2468294,6063924,10000347,tfu, , ,1
+23100,8,2007,Ruamahanga River,1481002,Unnamed wetland Ruamahanga River 1,292.1,night,Unnamed wetland,,1,5,wnrc,R27,2687784,5980197,9016103,gmt,,,12
+23352,9,2007,Ruamahanga River,1481002,Unnamed wetland Ruamahanga River 1,292, ,Unnamed wetland, ,1,4,wnrc,r28,2687537,5979774,0,gmt, , ,6
+23353,9,2007,Ruamahanga River,1481002,Unnamed wetland Ruamahanga River 1,292,day,Unnamed wetland,,1,4,wnrc,R28,2687610,5979961,0,gmt,,,3
+24086,8,2007,Taramakau River,1481109,Unnamed wetland Taramakau River 2,911,1100,unnamed wetland,,30,16,docy,J32,2364158,5839236,12031775,gmt,,,19
+24406,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,935,Unnamed wetland,,71,12,docy,I34,2299550,5783422,12039851,gmt,,,3
+24407,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1125,Unnamed wetland,,10,10,docy,I34,2298902,5785809,12039593,gmt,,,16
+24408,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1230,Unnamed wetland,,95,19,docy,I34,2303002,5781623,0,kbt,,,9
+24409,11,2007,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,2135,Okutua Creek, ,100,14,docy,h34,2289606,5773897,12041401,gmt, , ,5
+27426,7,2007,Waingongoro River,1481071,Waingongoro River tributary,350,night,Unnamed forest pool,,220,46,docz,Q20,2626800,6196300,0,gmt,,,20
+27427,7,2007,Patea River,1481066,Ngaere Stream tributary 3,342.29,night,Ngaere Stream tributary,,240,126,docz,Q20,2627900,6199200,0,gmt,,,20
+27428,8,2007,Patea River,1481067,Ngaere Stream tributary 4,342.29,night,Ngaere Stream tributary,,240,130,docz,Q20,2628300,6199600,0,gmt,,,20
+27429,8,2007,Warea River,1481076,Warea Stream tributary,377,night,Unnamed spring,,95,7,docz,P20,2582200,6218100,0,gmt,,,20
+27430,8,2007,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,night,Unnamed wetland,,50,2,docz,Q21,2632000,6164500,0,gmt,,,20
+27954,7,2007,Warea River,1481076,Warea Stream tributary,377,night,Warea River tributary,,95,7,docp,P20,2582200,6218095,6005899,gmt,,,20
+27955,7,2007,Patea River,1481064,Ngaere Stream tributary 1,342.29,night,Unnamed swamp Rawhitiroa,,230,125,docp,Q20,2626825,6199658,6009357,gmt,,,10
+27956,7,2007,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,215,46,docp,Q20,2626795,6196290,6010053,gmt,,,20
+27957,8,2007,Patea River,1481066,Ngaere Stream tributary 3,342.29,night,Unnamed swamp Rawhitiroa,,235,126,docp,Q20,2627895,6199005,6009365,gmt,,,20
+27958,8,2007,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,night,Mangaroa Stream tributary,,45,2,docp,Q21,2632010,6164490,6015156,gmt,,,20
+28316,4,2007,Okari River,1481117,Unnamed wetland Totara River 2,930, ,Okari River tributary, ,95,15,docy,k29,2388690,5925755,12013263,spo, , ,300
+28323,4,2007,Okari River,1481118,Unnamed wetland OMalley Creek,930.04, ,O'Malley Creek tributary, ,65,15,docy,k29,2390680,5929767,12012391,fyn, , ,2
+28784,10,2007,Ruamahanga River,1481026,Unnamed wetland Ruamahanga River tributary 7,292, ,Ruamahanga River tributary, ,115,106,wnrc,t26,2732120,6024714,9006297,spo, , , 
+29405,5,2007,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,900,Mangarakau Swamp, ,10,1,docn,m25,2467941,6064174,10000328,gmt, , ,8
+105912,9,2007,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,,Unnamed wetland,,105,13,docy,K29,2398000,5933500,12011315,gmt,,,3
+105929,5,2007,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005,,Unnamed wetland,,0,0,docy,J33,2338717,5821982,,gmt,,,1
+108779,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pond, ,71,12,docy,I34,2299590,5783428,12039851,tfb, , ,1
+108780,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pond, ,71,12,docy,I34,2299612,5783201,12039851,tfb, , ,1
+108781,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,894, ,Hinatua River unnamed forest pool, ,60,13,docy,I34,2298525,5782236,12040099,tfb, , ,1
+108782,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,60,13,docy,I34,2298504,5782399,12040099,tfb, , ,1
+108783,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,13,docy,I34,2298516,5782269,12040099,tfb, , ,1
+108784,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest ditch, ,56,15,docy,I34,2300446,5783006,12039933,tfb, , ,1
+108785,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed wetland,,92,18,docy,I34,2302002,5781623,12040267,tfb,,,1
+108786,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, , , ,docy,I34,2298981,5783086, ,tfb, , ,1
+108787,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,41,13,docy,I34,2297972,5783165,12039982,tfb, , ,1
+108788,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,48,13,docy,I34,2298026,5783021,12040072,tfb, , ,1
+108789,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,14,docy,I34,2301214,5783467,12039934,tfb, , ,1
+108790,6,2007,Hikimutu lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,19,13,docy,I34,2300585,5785531,12039704,tfb, , ,1
+108791,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,35,14,docy,I34,2300274,5784310,12039824,tfb, , ,1
+108792,7,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pond, ,55,15,docy,I34,2302264,5782829,12039845,tfb, , ,1
+108793,6,2007,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,51,15,docy,I34,2302676,5782931,12039840,tfb, , ,1
+108961,8,2007,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,10
+108962,8,2007,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,10
+108963,8,2007,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108964,8,2007,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108965,8,2007,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+108966,9,2007,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+109495,11,2007,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Oroko Creek, ,53,11,docy,H34,2286691,5771724,12041702,kbt, , ,1
+109496,11,2007,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Oroko Creek, ,53,11,docy,H34,2286738,5771738,12041702,kbt, , ,1
+109497,11,2007,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Oroko Creek, ,53,11,docy,H34,2286747,5771747,12041702,kbt, , ,1
+109498,11,2007,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Oroko Creek, ,53,11,docy,H34,2286781,5771731,12041702,kbt, , ,1
+109499,11,2007,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Oroko Creek, ,53,11,docy,H34,2286789,5771735,12041702,spo, , , 
+109500,11,2007,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Deep Creek, ,54,7,docy,H34,2282765,5769101,12042036,spo, , , 
+112048,9,2007,Paturau River,1481126,Unnamed wetland Whanganui Inlet,971, ,Unnamed Wetland, ,5,8,docn,M25,2467931,6064076,10000347,tfu, , ,1
+112049,9,2007,Paturau River,1481126,Unnamed wetland Whanganui Inlet,971, ,Unnamed wetland, ,5,8,docn,M25,2467939,6064174,10000347,tfu, , ,1
+112050,9,2007,Paturau River,1481126,Unnamed wetland Whanganui Inlet,971, ,Unnamed wetland, ,5,8,docn,M25,2468165,6063482,10000347,tfu, , ,1
+24410,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1122,Hinatua River tributary, ,10,10,docy,i34,2298977,5785806,12039593,gmt, , ,1
+24411,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,950,Unnamed forest pool,,70,17,docy,I34,2302648,5782942,0,gmt,,,1
+24412,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1115,Hinatua River tributary, ,20,13,docy,i34,2300592,5785523,12039704,gmt, , ,1
+24413,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1253,Hinatua River tributary, ,70,16,docy,i34,2300479,5783024,12039933,gmt, , ,1
+24414,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1306,Unnamed forest pool, ,70,14,docy,i34,2299653,5782969,0,gmt, , ,1
+24415,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1321,Unnamed forest pool,,65,14,docy,I34,2299618,5783119,0,gmt,,,1
+24416,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1351,Unnamed forest pool,,65,14,docy,I34,2299636,5783119,0,gmt,,,1
+24417,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1401,Hinatua River tributary, ,80,14,docy,i34,2298533,5782248,12040099,kbt, , ,1
+24418,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1437,Unnamed forest pool,,60,14,docy,I34,2298983,5783004,0,kbt,,,2
+24419,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,915,Saltwater forest pool,,70,17,docy,I34,2302648,5782942,12039840,gmt,,,1
+24420,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1130,Saltwater forest pool, ,65,16,docy,i34,2300479,5783024,12039933,gmt, , ,1
+24421,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1145,Saltwater forest pool,,65,14,docy,I34,2299636,5783119,12039850,gmt,,,1
+24422,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1155,Saltwater forest pool,,65,14,docy,I34,2299618,5783119,12039850,gmt,,,1
+24423,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1210,Saltwater forest pool,,80,14,docy,I34,2298534,5782256,12040099,gmt,,,1
+24424,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1250,Saltwater forest pool,,60,14,docy,I34,2298983,5783004,12040100,gmt,,,2
+24425,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,945,Hinatua River tributary, ,40,15,docy,i34,2301067,5783996,12039934,gmt, , ,1
+27434,7,2008,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,night,Mangaroa Stream tributary,,50,2,docp,Q21,2631880,6164360,6015156,gmt,,,20
+27435,7,2008,Kaikura Stream,1481069,Kaikura Stream,344,night,Kaikura Stream,,35,2,docp,Q21,2633010,6163510,6015275,gmt,,,10
+27436,7,2008,Kaikura Stream,1481069,Kaikura Stream,344, ,Oroua Stream, ,35,2,docp,q21,2633000,6163630,6015275,gmt, , ,10
+27437,8,2008,Patea River,1481066,Ngaere Stream tributary 3,342.29,night,Ngaere Stream tributary,,240,129,docp,Q20,2628035,6199202,6009365,gmt,,,20
+27438,8,2008,Waingongoro River,1481071,Waingongoro River tributary,350, ,Unnamed spring, ,210,45,docp,q20,2626882,6196235,6010053,gmt, , ,20
+27439,8,2008,Warea River,1481076,Warea Stream tributary,377,night,Warea River tributary,,95,7,docp,P20,2582150,6218040,6005899,gmt,,,20
+29404,9,2008,Whanganui Inlet,1481126,Unnamed wetland Whanganui Inlet,973,900,Mangarakau Swamp,,10,1,docn,M25,2467940,6064174,10000328,gmt,,,9
+29650,6,2008,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,night,Lake Papaitonga Inlet,,20,7,mwrc,S25,2698762,6059987,7046898,gmt,,,2
+29683,9,2008,Hokitika,1481085,Unnamed wetland Hokitika River 1,907,night,Unnamed drain Hokitika cemetery,,0,0,docy,J32,2344055,5830971,,gmt,,,3
+29684,9,2008,Hokitika,1481085,Unnamed wetland Hokitika River 1,907,night,Unnamed drain Hokitika cemetery,,0,0,docy,J32,2344120,5830925,,gmt,,,1
+29685,9,2008,Hokitika,1481085,Unnamed wetland Hokitika River 1,907,night,Unnamed drain Hokitika cemetery,,0,0,docy,J32,2344147,5830905,,gmt,,,2
+29686,9,2008,Hokitika,1481085,Unnamed wetland Hokitika River 1,907,night,Unnamed drain Hokitika cemetery,,0,0,docy,J32,2344250,5830837,,gmt,,,1
+29687,9,2008,Hokitika,1481085,Unnamed wetland Hokitika River 1,907,night,Unnamed drain Hokitika cemetery,,0,0,docy,J32,2344296,5830802,,gmt,,,2
+29688,9,2008,Hokitika,1481085,Unnamed wetland Hokitika River 1,907,night,Unnamed drain Hokitika cemetery,,0,0,docy,J32,2344374,5830977,,gmt,,,3
+29689,9,2008,Hokitika,1481085,Unnamed wetland Hokitika River 1,907,night,Unnamed drain Hokitika cemetery,,0,0,docy,J32,2344391,5830976,,gmt,,,3
+29690,9,2008,Hokitika,1481085,Unnamed wetland Hokitika River 1,907,night,Unnamed drain Hokitika cemetery,,0,0,docy,J32,2344478,5830964,,gmt,,,3
+29691,8,2008,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Serpentine Creek tributary, ,40,10,docy,j32,2357448,5844478,12030842,gmt, , ,2
+29692,8,2008,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Serpentine Creek tributary, ,40,10,docy,j32,2357465,5844458,12030842,gmt, , ,2
+29693,8,2008,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Serpentine Creek tributary, ,40,10,docy,j32,2357467,5844461,12030842,gmt, , ,2
+29694,8,2008,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Serpentine Creek tributary, ,40,10,docy,j32,2357422,5844522,12030842,gmt, , ,2
+29695,8,2008,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Serpentine Creek tributary, ,40,10,docy,j32,2357420,5844537,12030842,gmt, , ,2
+29696,8,2008,Serpentine Creek,1481102,Serpentine Creek tributary,910.5,night,Serpentine Creek tributary,,40,10,docy,J32,2357409,5844621,12030842,gmt,,,2
+29697,8,2008,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Serpentine Creek tributary, ,40,10,docy,j32,2357410,5844621,12030842,gmt, , ,2
+29698,8,2008,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Serpentine Creek tributary, ,40,10,docy,j32,2357383,5844628,12030842,gmt, , ,2
+29699,8,2008,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Serpentine Creek tributary, ,40,11,docy,j32,2357352,5844658,12030842,gmt, , ,2
+29700,8,2008,Serpentine Creek,1481102,Serpentine Creek tributary,910.5, ,Serpentine Creek tributary, ,40,10,docy,j32,2357397,5844615,12030842,gmt, , ,2
+29702,9,2008,Hokitika River,1481085,Unnamed wetland Hokitika River 1,906,night,Unnamed pool Hokitika Airport,,15,3,docy,J32,2344586,5830474,12033242,gmt,,,2
+29704,10,2008,Hokitika River,1481085,Unnamed wetland Hokitika River 1,906, ,Unnamed Pond Hokitika Airport, ,15,3,docy,j32,2344555,5830557,12033242,gmt, , ,4
+29705,10,2008,Hokitika River,1481085,Unnamed wetland Hokitika River 1,906,night,Unnamed Drain Hokitika Airport,,15,3,docy,J32,2344622,5830603,12033242,gmt,,,1
+29706,10,2008,Hokitika River,1481085,Unnamed wetland Hokitika River 1,906,night,Unnamed Drain Hokitika Airport,,15,3,docy,J32,2344704,5830642,12033242,gmt,,,1
+29707,10,2008,Hokitika River,1481085,Unnamed wetland Hokitika River 1,906,night,Unnamed Drain Hokitika Airport,,15,3,docy,J32,2344732,5830640,12032974,gmt,,,2
+29708,10,2008,Hokitika River,1481085,Unnamed wetland Hokitika River 1,906,night,Unnamed Drain Hokitika Airport,,15,3,docy,J32,2344816,5830625,12032974,gmt,,,1
+29709,10,2008,Hokitika River,1481085,Unnamed wetland Hokitika River 1,906,night,Unnamed Drain Hokitika Airport,,20,3,docy,J32,2344827,5830514,12032974,gmt,,,1
+29710,10,2008,Hokitika River,1481085,Unnamed wetland Hokitika River 1,906, ,Unnamed Pond Pakahi, , , ,docy,j32,2344805,5830511, ,gmt, , ,1
+29863,11,2008,Manawatu River,1481047,Makerua Swamp,325.05,night,Makerua Swamp,,1,35,docz,S24,2718950,6075920,7042979,gmt,,,30
+29864,11,2008,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,730,Tutaenui Stream tributary,,60,24,docz,S23,2709300,6110800,7035681,gmt,,,30
+29865,7,2008,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325,night,Main Drain tributary,,10,57,docz,S24,2722725,6087800,7040204,gmt,,,30
+29866,8,2008,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325,night,Round Reserve wetland,,10,10,docz,S24,2703255,6082880,7041293,gmt,,,30
+30073,8,2008,Ruamahanga River,1481022,Waikoukou Stream tributary,292.201, ,Waikoukou Stream Wetland, ,60,86,wnrc,s26,2728499,6012634,9009080,gmt, , ,6
+30074,8,2008,Ruamahanga River,1481022,Waikoukou Stream tributary,292, ,Waikoukou Stream Wetland, ,60,85,wnrc,s26,2728321,6012421,9009123,gmt, , ,6
+31217,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02, ,Martyns Creek tributary, ,140,22,docy,J33,2361493,5827471,12033683,gmt, , ,1
+31218,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,140,22,docy,J33,2361497,5827487,12033683,gmt,,,1
+31219,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,130,22,docy,J33,2361371,5827411,12033683,gmt,,,1
+31220,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,130,22,docy,J33,2361307,5827343,12033683,gmt,,,1
+31221,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02, ,Martyns Creek tributary, ,130,22,docy,J33,2361301,5827343,12033683,gmt, , ,1
+31222,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,140,22,docy,J33,2361773,5827680,12033684,gmt,,,1
+31223,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,140,24,docy,J33,2362739,5827112,12033684,gmt,,,1
+31224,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,120,23,docy,J33,2362461,5827011,12033683,gmt,,,1
+31225,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,140,22,docy,J33,2361395,5827343,12033683,gmt,,,1
+31226,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,140,21,docy,J33,2361343,5827293,12033683,gmt,,,1
+31227,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,140,22,docy,J33,2361516,5827146,12033683,gmt,,,1
+31228,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,140,22,docy,J33,2361522,5827142,12033683,gmt,,,1
+31229,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,140,22,docy,J33,2361535,5827144,12033683,gmt,,,1
+31230,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,140,22,docy,J33,2361543,5827147,12033683,gmt,,,1
+31231,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02, ,Martyns Creek tributary, ,140,22,docy,J33,2361540,5827113,12033683,gmt, , ,1
+31232,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02, ,Kawhaka Creek tributary, ,140,22,docy,J33,2362022,5828734,12033509,gmt, , ,1
+31233,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02, ,Kawhaka Creek tributary, ,140,22,docy,J33,2362017,5828761,12033509,gmt, , ,1
+31234,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Kawhaka Creek tributary,,140,22,docy,J33,2361994,5828810,12033509,gmt,,,1
+31235,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,140,22,docy,J33,2361665,5827603,12033683,gmt,,,1
+31236,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02,night,Martyns Creek tributary,,140,22,docy,J33,2361673,5827528,12033683,gmt,,,1
+31237,7,2008,Arahura River,1481097,Unnamed wetland Kawhaka Creek,908.02, ,Martyns Creek tributary, ,140,22,docy,J33,2361678,5827523,12033683,gmt, , ,2
+104369,4,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316, ,Ngarara Stream, ,16,5,uom,r26,2683565,6035966,9003413,tfu, , ,4
+104370,4,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316, ,Ngarara Stream, ,16,5,uom,r26,2683621,6036006,9003413,tfu, , ,4
+104431,4,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Ngarara Stream,,16,5,uom,R26,2683647,6036067,9003413,tfu,,,1
+104433,4,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316, ,Unnamed wetland, ,16,5,uom,R26,2683621,6036006,9003413,tfu, , ,1
+104435,4,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316, ,Unnamed wetland, ,16,5,uom,R26,2683647,6036067,9003413,tfu, , ,1
+104436,7,2008,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,,Unnamed wetland,,0,0,uom,S24,2708736,6068087,,tfu,,,2
+104438,5,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683475,6036001,9003413,tfu,,,1
+104439,5,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316, ,Unnamed wetland, ,16,5,uom,R26,2683602,6036085,9003413,tfu, , ,1
+104440,5,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683647,6036067,9003413,tfu,,,1
+104441,7,2008,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,,Unnamed wetland,,0,0,uom,S24,2708736,6068087,,tfu,,,1
+104442,7,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683475,6036001,9003413,tfu,,,1
+104443,7,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683621,6036006,9003413,tfu,,,1
+104444,7,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683602,6036085,9003413,tfu,,,1
+104445,7,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683613,6036020,9003413,tfu,,,1
+104446,7,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683647,6036067,9003413,tfu,,,1
+104447,7,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683475,6036001,9003413,tfu,,,1
+104448,7,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683621,6036006,9003413,tfu,,,1
+104449,7,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683602,6036085,9003413,tfu,,,1
+104450,7,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683613,6036020,9003413,tfu,,,1
+104452,8,2008,Waikanae River,1481033,Unnamed wetland Tikotu Creek,313,,Unnamed wetland,,15,5,uom,R26,2680803,6032279,9004496,tfu,,,1
+104454,8,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683621,6036006,9003413,tfu,,,1
+104455,8,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683602,6036085,9003413,tfu,,,1
+104456,8,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683647,6036067,9003413,tfu,,,1
+104458,8,2008,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03, ,Unnamed wetland, , , ,uom,S24,2709502,6068485, ,tfu, , ,1
+104459,8,2008,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,,Unnamed wetland,,0,0,uom,S24,2709424,6068485,,tfu,,,1
+104460,8,2008,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga tributary, ,21,6,uom,S25,2698976,6059678,7046893,tfu, , ,2
+104461,9,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683613,6036020,9003413,tfu,,,1
+104462,9,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683602,6036083,9003413,tfu,,,2
+104463,9,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316, ,Unnamed wetland, ,16,5,uom,R26,2683621,6036006,9003413,tfu, , ,1
+104465,9,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683475,6036001,9003413,tfu,,,1
+104469,9,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683621,6036006,9003413,tfu,,,1
+104470,9,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683602,6036085,9003413,tfu,,,1
+104471,9,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683613,6036020,9003413,tfu,,,1
+104472,9,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683647,6036067,9003413,tfu,,,1
+104473,10,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683475,6036001,9003413,tfu,,,1
+104474,10,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683621,6036006,9003413,tfu,,,1
+104475,10,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683602,6036085,9003413,tfu,,,1
+104476,10,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683613,6036020,9003413,tfu,,,1
+104477,10,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683647,6036067,9003413,tfu,,,1
+104478,10,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683475,6036001,9003413,tfu,,,1
+104479,10,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683621,6036006,9003413,tfu,,,2
+104480,10,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683602,6036085,9003413,tfu,,,1
+104481,10,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683613,6036020,9003413,tcb,,,1
+104482,10,2008,Ngarara Stream,1481035,Unnamed wetland Ngarara Stream,316,,Unnamed wetland,,16,5,uom,R26,2683647,6036067,9003413,tfu,,,1
+104485,10,2008,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,,Koputaroa Stream tributary,,0,0,uom,S24,2708744,6068193,,tfu,,,1
+104486,10,2008,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Waiwiri Stream tributary,,27,5,uom,S25,2697757,6060842,7046608,tfu,,,3
+104487,10,2008,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Waiwiri Stream tributary,,29,4,uom,S25,2697689,6060808,7046608,tfu,,,3
+105913,9,2008,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,,Unnamed wetland,,105,13,docy,K29,2398000,5933500,12011315,gmt,,,3
+105930,4,2008,Hokitika River,1481088,Unnamed wetland Hokitika River 3,906.005,,Unnamed wetland,,0,0,docy,J33,2337709,5820663,,gmt,,,1
+108794,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pond, ,55,15,docy,I34,2302269,5782850,12039845,tfb, , ,1
+108795,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed wetland, ,92,18,docy,I34,2302002,5781634,12040267,tfb, , ,1
+108796,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,24,11,docy,I34,2299989,5785214,12039630,tfb, , ,1
+108797,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,14,docy,I34,2301067,5783996,12039934,tfb, , ,1
+108798,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed wetland, ,60,13,docy,I34,2298498,5782387,12040099,tfb, , ,1
+108799,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,60,13,docy,I34,2298534,5782256,12040099,tfb, , ,1
+108800,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,13,docy,I34,2298577,5782160,12040099,tfb, , ,1
+108801,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,48,13,docy,I34,2298022,5783013,12040072,tfb, , ,1
+108802,3,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,67,13,docy,I34,2298983,5783004,12040100,tfb, , ,1
+108803,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pond, ,55,15,docy,I34,2302269,5782850,12039845,tfb, , ,1
+108804,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed wetland, ,92,18,docy,I34,2302002,5781634,12040267,tfb, , ,1
+108806,10,2008,Hikimutu lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,19,13,docy,I34,2300592,5785523,12039704,tfb, , ,1
+108807,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,24,11,docy,I34,2299989,5785214,12039630,tfb, , ,1
+108809,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinitua River unnamed tributary, ,16,10,docy,I34,2298977,5785806,12039593,tfb, , ,1
+108810,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,71,12,docy,I34,2299653,5782969,12039851,tfb, , ,1
+108811,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,60,13,docy,I34,2298498,5782387,12040099,tfb, , ,1
+108812,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,13,docy,I34,2298533,5782248,12040099,tfb, , ,1
+108814,10,2008,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,13,docy,I34,2298577,5782160,12040099,tfb, , ,1
+108967,7,2008,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108968,7,2008,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108969,7,2008,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108970,7,2008,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108971,7,2008,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+108972,7,2008,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+109501,5,2008,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Oroko Creek, ,53,11,docy,H34,2286691,5771724,12041702,kbt, , ,1
+109502,5,2008,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Oroko Creek, ,53,11,docy,H34,2286738,5771738,12041702,spo, , , 
+109503,5,2008,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Oroko Creek, ,53,11,docy,H34,2286747,5771747,12041702,kbt, , ,1
+109504,5,2008,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Oroko Creek, ,53,11,docy,H34,2286781,5771731,12041702,kbt, , ,1
+109506,5,2008,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Oroko Creek, ,53,11,docy,H34,2286789,5771735,12041702,kbt, , ,1
+109507,5,2008,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Okutua Creek, ,86,13,docy,H34,2289606,5773897,12041401,spo, , , 
+109508,5,2008,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01, ,Deep Creek, ,54,7,docy,H34,2282765,5769101,12042036,spo, , , 
+24382,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1100,Saltwater Forest,,60,13,docy,I34,2299590,5783428,12039850,gmt,,,1
+24383,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1100,Saltwater Forest, ,65,16,docy,i34,2300479,5783024,12039933,kbt, , ,1
+24384,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1100,Saltwater Forest,,65,14,docy,I34,2299618,5783119,12039850,gmt,,,1
+27664,9,2009,New River,1481110,Unnamed wetland New River,912,night,Rutherglen peat bog,,48,8,docy,J32,2359530,5849850,12030035,gmt,,,14
+27952,8,2009,Patea River,1481066,Ngaere Stream tributary 3,342.29,night,Unnamed swamp Rawhitiroa,,235,126,docp,Q20,2628042,6199152,6009365,gmt,,,20
+27953,8,2009,Patea River,1481066,Ngaere Stream tributary 3,342.29,night,Unnamed swamp Rawhitiroa,,235,126,docp,Q20,2628065,6199312,6009365,gmt,,,20
+27959,10,2009,Patea River,1481064,Ngaere Stream tributary 1,342.29,night,Unnamed swamp Rawhitiroa,,230,125,docp,Q20,2626825,6199658,6009357,gmt,,,20
+30379,4,2009,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06, ,Lake Wairarapa, ,15,34,wnrc,s27,2703744,6001674,9014671,ntc, , ,9
+30559,5,2009,Waingongoro River,1481071,Waingongoro River tributary,350,900,Waingongoro River tributary, ,210,44,trc,q20,2624885,6197112,6009948,gmt, , ,4
+30560,5,2009,Waingongoro River,1481071,Waingongoro River tributary,350,900,Waingongoro River tributary, ,210,44,trc,q20,2624320,6197135,6009961,gmt, , ,7
+30580,11,2009,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.068, ,Unnamed Wetland, ,6,36,wnrc,s27,2704833,6001631,9011520,fyn, , ,1
+30581,11,2009,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.068,night,Unnamed Wetland,,15,36,wnrc,S27,2704851,6001585,9011520,gmt,,,5
+30583,11,2009,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.068, ,Unnamed Wetland, ,15,35,wnrc,s27,2704491,6001602,9011520,nnc, , ,6
+30586,11,2009,Ruamahanga River,1481022,Waikoukou Stream tributary,292,night,Waikoukou Stream tributary,,60,86,wnrc,S26,2728332,6012476,9009080,ntc,,,5
+30587,11,2009,Ruamahanga River,1481022,Waikoukou Stream tributary,292,,Waikoukou Stream tributary,,60,86,wnrc,s26,2728346,6012590,9009080,gmt,,,3
+30601,8,2009,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292, ,Simmonds Lagoon, ,10,35,wnrc,s27,2703982,6001628,9011520,spo, , , 
+30602,9,2009,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.068,night,Tauherenikau River Wetland,,10,35,wnrc,S27,2704659,6000734,9011002,ntc,,,6
+30603,9,2009,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.068, ,Tauherenikau River Wetland, ,10,35,wnrc,s27,2704541,6001130,9011002,ntc, , ,6
+30604,8,2009,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292,night,Simmonds Lagoon,,10,35,wnrc,S27,2703885,6001816,9011520,gmt,,,11
+30605,8,2009,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.068, ,Simmonds Lagoon, ,10,35,wnrc,s27,2703922,6001681,9011520,gmt, , ,11
+30655,11,2009,Ngakawau River,1481123,Unnamed wetland Repo Stream,939.032,night,Repo Stream tributary,,340,7,docy,L28,2420479,5952462,12007596,gmt,,,1
+30656,11,2009,Ngakawau River,1481123,Unnamed wetland Repo Stream,939.032,night,Repo Stream tributary wetland,,340,8,docy,L28,2420608,5952494,12007596,gmt,,,1
+30657,11,2009,Ngakawau River,1481123,Unnamed wetland Repo Stream,939.032,night,Repo Stream tributary wetland,,340,8,docy,L28,2420687,5952590,12007596,gmt,,,1
+30658,11,2009,Ngakawau River,1481123,Unnamed wetland Repo Stream,939.032,night,Repo Stream tributary wetland,,340,8,docy,L28,2421132,5952540,12007469,gmt,,,1
+30659,11,2009,Ngakawau River,1481123,Unnamed wetland Repo Stream,939.032,night,Repo Stream wetland,,340,9,docy,L28,2421681,5952831,12007437,gmt,,,1
+30660,11,2009,Ngakawau River,1481123,Unnamed wetland Repo Stream,939.032,night,Repo Stream tributary wetland,,340,8,docy,L28,2421225,5952809,12007471,gmt,,,1
+30661,11,2009,Ngakawau River,1481123,Unnamed wetland Repo Stream,939.032,night,Repo Stream tributary wetland,,355,8,docy,L28,2420790,5952567,12007596,gmt,,,1
+31998,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1100,Unnamed pool Saltwater forest,,87,18,docy,I34,2301937,5781650,,kbt,,,1
+31999,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1100,Hinatua River tributary, ,43,15,docy,I34,2301102,5783880,12039934,gmt, , ,1
+32000,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1100,Hinatua River tributary, ,73,15,docy,I34,2298562,5782084,12040099,kbt, , ,1
+32001,7,2009,Ruamahanga River,1481022,Waikoukou Stream tributary,292.201, ,Waikoukou Stream tributary, ,80,85,wnrc,S26,2728274,6012338,9009123,fyn, , ,2
+32002,7,2009,Ruamahanga River,1481022,Waikoukou Stream tributary,292.201,night,Waikoukou Stream,,75,86,wnrc,S26,2728669,6012541,9009034,gmt,,,11
+32003,7,2009,Ruamahanga River,1481022,Waikoukou Stream tributary,292.201,night,Waikoukou Stream wetland,,75,86,wnrc,S26,2728785,6012653,9009034,gmt,,,5
+32004,7,2009,Ruamahanga River,1481022,Waikoukou Stream tributary,292.201,night,Waikoukou Stream wetland,,75,86,wnrc,S26,2728712,6012692,9009034,gmt,,,1
+32005,8,2009,Ruamahanga River,1481022,Waikoukou Stream tributary,292.201,night,Waikoukou Stream tributary,,80,85,wnrc,S26,2728274,6012338,9009123,ntc,,,11
+105931,5,2009,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005,,Unnamed wetland,,0,0,docy,J33,2338719,5821989,,gmt,,,1
+108815,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,51,15,docy,I34,2302648,5782942,12039840,tfb,,,1
+108816,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pond, ,55,15,docy,I34,2302269,5782850,12039845,tfb, , ,1
+108817,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed wetland, ,92,18,docy,I34,2302002,5781634,12040267,tfb, , ,1
+108818,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinitua River unnamed tributary, ,16,10,docy,I34,2298977,5785806,12039593,tfb, , ,1
+108819,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,24,11,docy,I34,2299989,5785214,12039630,tfb, , ,1
+108820,3,2009,Hikimutu lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,19,13,docy,I34,2300592,5785523,12039704,tfb, , ,1
+108821,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,60,14,docy,I34,2301067,5783996,12039934,tfb, , ,1
+108822,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest ditch, ,56,15,docy,I34,2300479,5783024,12039933,tfb, , ,2
+108823,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,71,12,docy,I34,2299653,5782969,12039851,tfb, , ,1
+108824,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pond,,71,12,docy,I34,2299618,5783119,12039851,tfb,,,1
+108825,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,71,12,docy,I34,2299636,5783119,12039851,tfb,,,1
+108826,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed wetland, ,60,13,docy,I34,2298498,5782387,12040099,tfb, , ,1
+108827,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,60,13,docy,I34,2298534,5782256,12040099,tfb,,,1
+108828,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,13,docy,I34,2298533,5782248,12040099,tfb, , ,1
+108829,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,13,docy,I34,2298577,5782160,12040099,tfb, , ,1
+108830,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,48,13,docy,I34,2298022,5783013,12040072,tfb, , ,1
+108831,3,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,67,13,docy,I34,2298983,5783004,12040100,tfb, , ,1
+108832,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,51,15,docy,I34,2302648,5782942,12039840,tfb,,,1
+108833,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pond,,55,15,docy,I34,2302282,5782820,12039845,tfb,,,1
+108834,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinitua River unnamed tributary, ,16,10,docy,I34,2298987,5785777,12039593,tfb, , ,1
+108835,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,24,11,docy,I34,2300006,5785181,12039630,tfb, , ,1
+108836,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed wetland, ,19,13,docy,I34,2300614,5785563,12039704,tfb, , ,1
+108837,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,71,12,docy,I34,2299653,5782969,12039851,tfb, , ,1
+108838,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,71,12,docy,I34,2299636,5783119,12039851,tfb, , ,1
+108839,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,60,13,docy,I34,2298498,5782387,12040099,tfb, , ,1
+108840,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, , , ,docy,I34,2298994,5783095, ,tfb, , ,1
+108841,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,60,13,docy,I34,2298530,5782404,12040099,tfb, , ,1
+108842,11,2009,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,67,13,docy,I34,2298983,5783004,12040100,tfb, , ,1
+108973,8,2009,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108974,8,2009,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108975,8,2009,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108976,8,2009,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108977,8,2009,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+108978,8,2009,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+24388,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,940,Unnamed pool Saltwater forest,,63,17,docy,I34,2302648,5782942,12039840,gmt,,,1
+24389,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,950,Unnamed pond Saltwater forest, ,70,17,docy,I34,2302269,5782850,12039845,gmt, , ,1
+24390,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1100,Unnamed ditch Saltwater forest, ,59,16,docy,I34,2300479,5783024,12039933,gmt, , ,1
+24391,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1115,Unnamed pond Saltwater forest,,63,14,docy,I34,2299618,5783119,12039850,kbt,,,2
+24392,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1135,Unnamed pond Saltwater Lagoon, ,70,14,docy,I34,2298534,5782256,12040099,kbt, , ,1
+24393,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,1300,Unnamed pond Saltwater forest,,59,16,docy,I34,2298983,5783004,12039933,gmt,,,2
+30611,1,2010,Ruamahanga River,1481027,Unnamed wetland Ruamahanga River tributary 8,292,night,Ruamahanga River tributary,,120,106,wnrc,T26,2731142,6024486,9006295,spo,,,
+30612,1,2010,Ruamahanga River,1481027,Unnamed wetland Ruamahanga River tributary 8,292, ,Ruamahanga River tributary, ,120,107,wnrc,t26,2731077,6024516,9006295,gmt, , ,10
+30645,1,2010,Ruamahanga River,1481032,Ruamahanga River tributary 2,292,night,Ruamahanga River tributary wetland,,425,127,wnrc,T26,2731467,6039683,9001926,gmt,,,22
+105909,7,2010,Waingongoro River,1481071,Waingongoro River tributary,350,,Waingongoro River tributary,,0,0,docz,Q20,2626800,6196300,,unk,,,
+105932,5,2010,Hokitika River,1481087,Unnamed wetland Lake Mahinapua,906.005,,Unnamed wetland,,0,0,docy,J33,2338719,5821989,,gmt,,,1
+105938,7,2010,Patea River,1481066,Ngaere Stream tributary 3,342.29,,Unnamed swamp,,0,0,docz,Q20,2627900,6199100,,tfu,,,1
+105940,7,2010,Warea River,1481076,Warea Stream tributary,377,,Warea River tributary,,86,6,docz,P20,2582200,6218100,6005982,tfu,,,1
+108843,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed wetland, ,92,18,docy,I34,2302002,5781634,12040267,tfb, , ,1
+108844,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,16,10,docy,I34,2298977,5785806,12039593,tfb, , ,1
+108845,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,24,11,docy,I34,2299989,5785214,12039630,tfb, , ,1
+108846,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,19,13,docy,I34,2300592,5785523,12039704,tfb, , ,1
+108847,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,14,docy,I34,2301067,5783996,12039934,tfb, , ,1
+108848,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,71,12,docy,I34,2299636,5783119,12039851,tfb, , ,1
+108849,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,41,13,docy,I34,2298983,5783110,12039931,tfb, , ,1
+108850,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,60,13,docy,I34,2298498,5782387,12040099,tfb, , ,1
+108851,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,13,docy,I34,2298533,5782248,12040099,tfb, , ,1
+108852,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,13,docy,I34,2298577,5782160,12040099,tfb, , ,1
+108853,11,2010,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,48,13,docy,I34,2298022,5783013,12040072,tfb, , ,1
+108979,8,2010,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108980,8,2010,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108981,8,2010,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,13
+108982,8,2010,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108983,8,2010,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+108984,8,2010,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+34184,8,2011,Warea River,1481076,Warea Stream tributary,377,night,Warea River,,100,7,trc,P20,2582145,6218021,6005899,gmt,,,20
+34185,9,2011,Waingongoro River,1481071,Waingongoro River tributary,350,night,Waingongoro River tributary,,220,46,trc,Q20,2626849,6196227,6010053,gmt,,,20
+34186,9,2011,Whanganui Stream,1481075,Mangaone Stream tributary,376.01,night,Mangaone Stream tributary,,120,7,trc,P20,2582681,6215729,6006386,gmt,,,20
+34187,10,2011,Waingongoro River,1481066,Ngaere Stream tributary 3,350,night,Waingongoro River tributary,,240,126,trc,Q20,2628017,6199137,6009365,gmt,,,20
+108854,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,51,15,docy,I34,2302648,5782942,12039840,tfb,,,1
+108855,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pond, ,55,15,docy,I34,2302269,5782850,12039845,tfb, , ,1
+108856,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed wetland, ,92,18,docy,I34,2302002,5781634,12040267,tfb, , ,1
+108857,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinitau River unnamed tributary, ,16,10,docy,I34,2298977,5785806,12039593,tfb, , ,1
+108858,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,24,11,docy,I34,2299989,5785214,12039630,tfb, , ,1
+108859,12,2011,Hikimutu lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,19,13,docy,I34,2300592,5785523,12039704,tfb, , ,1
+108860,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed tributary, ,60,14,docy,I34,2301067,5783996,12039934,tfb, , ,2
+108861,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest ditch, ,56,15,docy,I34,2300479,5783024,12039933,tfb, , ,2
+108862,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,71,12,docy,I34,2299653,5782969,12039851,tfb, , ,1
+108863,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,71,12,docy,I34,2299618,5783119,12039851,tfb,,,1
+108864,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,71,12,docy,I34,2299636,5783119,12039851,tfb, , ,1
+108865,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest stream, ,60,13,docy,I34,2298498,5782387,12040099,tfb, , ,1
+108866,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed ditch, ,60,13,docy,I34,2298534,5782256,12040099,tfb, , ,1
+108867,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest stream, ,60,13,docy,I34,2298533,5782248,12040099,tfb, , ,1
+108868,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unamed forest stream, ,60,13,docy,I34,2298577,5782160,12040099,tfb, , ,1
+108869,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest stream, ,48,13,docy,I34,2298022,5783013,12040072,tfb, , ,1
+108870,12,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pond,,67,13,docy,I34,2298983,5783004,12040100,tfb,,,2
+108874,6,2011,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,16,10,docy,I34,2298979,5785783,12039593,tfb, , ,1
+108985,7,2011,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108986,7,2011,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108987,7,2011,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108988,7,2011,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108989,7,2011,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+108990,7,2011,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+34592,1,2012,Ruamahanga River,1481029,Unnamed wetland Ruamahanga River tributary 10,292,night,Ruamahanga River tributary wetland,,110,132,wnrc,T26,2735232,6027629,9005579,gmt,,,6
+102453,5,2012,Wairoa Stream,1481061,Unnamed wetland Wairoa Stream,340,1030,Unnamed wetland, ,58,5,docz,R22,2650027,6155869,6016090,gmt, , ,15
+102454,5,2012,Wairoa Stream,1481061,Unnamed wetland Wairoa Stream,340,1030,Unnamed wetland,,58,5,docz,R22,2650162,6155985,6016090,gmt,,,15
+108871,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,51,15,docy,I34,2302644,5782940,12039840,tfb,,,1
+108872,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pond, ,55,15,docy,I34,2302267,5782830,12039845,tfb, , ,1
+108873,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed wetland,,0,0,docy,I34,2301932,5781646,,tfb,,,1
+108875,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest tributary,,24,11,docy,I34,2299989,5785214,12039630,tfb,,,1
+108876,6,2012,Hikimutu lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,19,13,docy,I34,2300601,5785530,12039704,tfb, , ,1
+108877,6,2012,Hikimutu lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,60,14,docy,I34,2301142,5783740,12039934,tfb, , ,2
+108878,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest ditch, ,56,15,docy,I34,2300482,5783023,12039933,tfb, , ,1
+108879,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pond,,71,12,docy,I34,2299602,5783109,12039851,tfb,,,1
+108880,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pond,,71,12,docy,I34,2299626,5783118,12039851,tfb,,,1
+108881,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,36,13,docy,I34,2298935,5783242,12039931,tfb, , ,1
+108882,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,36,13,docy,I34,2298991,5783093,12039931,tfb, , ,1
+108883,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest ditch, ,60,13,docy,I34,2298494,5782376,12040099,tfb, , ,1
+108884,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,60,13,docy,I34,2298510,5782272,12040099,tfb, , ,1
+108885,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,60,13,docy,I34,2298540,5782239,12040099,tfb, , ,1
+108886,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,60,13,docy,I34,2298530,5782210,12040099,tfb, , ,1
+108887,6,2012,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pond, ,48,13,docy,I34,2298022,5783001,12040072,tfb, , ,2
+108991,7,2012,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108992,7,2012,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108993,7,2012,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+108994,7,2012,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251, ,Parkvale Stream tributary, ,100,89,docg,S26,2728395,6019524,9007534,tfu, , ,12
+108995,7,2012,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+108996,7,2012,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+112375,10,2012,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,1200,Lake Papaitonga unnamed tributary, ,21,6,mwrc,S25,2698955,6060023,7046893,tfb, , ,10
+112376,11,2012,Lake Herbert,1481059,Unnamed wetland Koitiata Stream 1,328,1200,Lake Herbert, ,90,12,mwrc,S23,2705895,6116316,7034489,tfb, , ,1
+112377,9,2012,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,1200,Koputaroa Stream unnamed tributary, ,14,26,mwrc,S24,2708753,6068266,7044903,tfb, , ,2
+112378,9,2012,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,1200,Koputaroa Stream unnamed tributary, ,14,26,mwrc,S24,2708960,6068341,7044903,tfb, , ,1
+112379,10,2012,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325,1200,Manawatu River unnamed tributary, ,14,9,mwrc,S24,2702857,6082883,7041479,tfb, , ,2
+112381,8,2012,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,1200,Manawatu River unnamed tributary, ,61,93,mwrc,S24,2744337,6096604,7038486,tfb, , ,1
+112382,8,2012,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325.091,1200,Main Drain unnamed tributary, ,10,56,mwrc,S24,2722186,6087633,7040204,tfb, , ,1
+112384,9,2012,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,1200,Koputaroa Stream, ,13,24,mwrc,S24,2709702,6068821,7044555,tfb, , ,2
+112385,10,2012,Hokio Stream,1481038,Unnamed wetland Lake Horowhenua,323,1200,Lake Horowhenua unnamed tributary, ,20,9,mwrc,S25,2700945,6065603,7045787,tfb, , ,1
+112386,10,2012,Manawatu River,1481047,Makerua Swamp,325.05,1200,Tokomaru River unnamed tributary, ,3,34,mwrc,S24,2718932,6075546,7043114,tfb, , ,1
+105016,9,2013,Koitiata Stream,1481059,Unnamed wetland Koitiata Stream 1,329,,Unnamed wetland,,,,unk,S23,2705719,6116555,,tfu,,,1
+105039,8,2013,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Unnamed wetland, ,27,5,unk,S25,2697851,6060894,7046608,tfu, , ,1
+105040,8,2013,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Unnamed wetland,,28,5,unk,S25,2697646,6060818,7046608,tfu,,,1
+105041,7,2013,Manawatu River,1481049,Turitea Stream tributary,325,1030,Turitea Stream, ,231,85,unk,S24,2736638,6081290,7041646,efp, , , 
+105042,7,2013,Manawatu River,1481049,Turitea Stream tributary,325,1145,Turitea Stream tributary,,264,85,unk,S24,2736548,6081270,7041645,efp,,,
+105045,9,2013,Manawatu River,1481044,Unnamed wetland Manawatu River 5,325, ,Unnamed wetland, ,19,21,unk,S24,2704174,6066976,7045287,tfu, , ,1
+105046,9,2013,Manawatu River,1481044,Unnamed wetland Manawatu River 5,325,1411,Unnamed wetland, ,19,21,unk,S24,2704042,6067085,7045287,tfu, , ,4
+105047,9,2013,Manawatu River,1481044,Unnamed wetland Manawatu River 5,325,,Unnamed wetland,,19,21,unk,S24,2704045,6067069,7045287,efp,,,
+105048,8,2013,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325,,Unnamed wetland,,0,0,unk,S24,2709705,6068846,,tfu,,,1
+105050,6,2013,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,1500,Lake Papaitonga, ,21,6,unk,S25,2698763,6060004,7046893,tfu, , ,2
+105052,7,2013,Unnamed stream,1481058,Unnamed wetland Santoft Forest,328,,Unnamed wetland,,21,3,unk,S23,2698944,6112900,7035167,tfu,,,1
+105053,6,2013,Manawatu River,1481044,Unnamed wetland Manawatu River 5,325,,Unnamed wetland,,20,21,unk,S24,2704216,6066389,7045319,tfu,,,1
+105054,6,2013,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,1630,Tutaenui Stream tributary,,53,22,unk,S23,2709566,6110636,7035619,tfu,,,1
+105055,8,2013,Unnamed Stream,1481059,Unnamed wetland Koitiata Stream 1,328,1450,Lake Herbert, ,90,12,unk,S23,2705895,6116316,7034489,tfu, , ,1
+105056,6,2013,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325,1600,Unnamed wetland,,14,9,unk,S24,2702856,6082875,7041479,tfu,,,2
+108997,7,2013,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108998,7,2013,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+108999,7,2013,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+109000,7,2013,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251, ,Parkvale Stream tributary, ,100,89,docg,S26,2728395,6019524,9007534,tfu, , ,12
+109001,7,2013,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+109002,7,2013,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+104959,8,2014,Rangitikei River,1481055,Unnamed wetland Rangitikei River 1,327,,Unnamed wetland,,2,1,unk,S24,2700842,6096611,7038246,tfu,,,1
+104963,8,2014,Koitiata Stream,1481060,Unnamed wetland Koitiata Stream 2,329,,Lake Alice tributary,,121,17,unk,S23,2708990,6116672,7034450,tfu,,,1
+104964,8,2014,Koitiata Stream,1481060,Unnamed wetland Koitiata Stream 2,329,,Lake Alice tributary,,109,18,unk,S23,2709295,6115953,7034569,tfu,,,1
+104965,8,2014,Koitiata Stream,1481060,Unnamed wetland Koitiata Stream 2,329,,Lake Alice tributary,,109,18,unk,S23,2709126,6115979,7034569,tfu,,,1
+104966,8,2014,Koitiata Stream,1481060,Unnamed wetland Koitiata Stream 2,329,,Lake Alice tributary,,109,18,unk,S23,2709392,6116131,7034569,tfu,,,1
+104994,7,2014,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325.091,,Unnamed wetland,,10,56,unk,S24,2722706,6087756,7040204,efp,,,
+104995,7,2014,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325.091,,Unnamed wetland,,10,56,unk,S24,2722647,6087719,7040204,efp,,,
+104996,7,2014,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325.091,,Unnamed wetland,,10,56,unk,S24,2722598,6087693,7040204,efp,,,
+104998,7,2014,Manawatu River,1481051,Unnamed wetland Manawatu River 8,325,,Unnamed wetland,,91,95,unk,S24,2744929,6096574,7038472,tfu,,,1
+104999,7,2014,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,,Unnamed wetland,,0,0,unk,S24,2744377,6096595,,tfu,,,1
+105001,7,2014,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,,Unnamed wetland,,0,0,unk,S24,2744380,6096566,,tfu,,,1
+105002,7,2014,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,,Unnamed wetland,,0,0,unk,S24,2744389,6096593,,tfu,,,1
+105003,7,2014,Lake Horowhenua,1481038,Unnamed wetland Lake Horowhenua,323,,Unnamed wetland,,20,9,unk,S25,2700968,6065627,7045787,tfu,,,1
+105004,7,2014,Lake Horowhenua,1481038,Unnamed wetland Lake Horowhenua,323,,Unnamed wetland,,20,9,unk,S25,2700970,6065622,7045787,tfu,,,1
+105005,7,2014,Lake Horowhenua,1481038,Unnamed wetland Lake Horowhenua,323,,Unnamed wetland,,20,9,unk,S25,2700975,6065599,7045787,tfu,,,1
+105006,7,2014,Lake Horowhenua,1481038,Unnamed wetland Lake Horowhenua,323,,Unnamed wetland,,20,9,unk,S25,2700974,6065600,7045787,tfu,,,1
+105007,7,2014,Lake Horowhenua,1481038,Unnamed wetland Lake Horowhenua,323,,Unnamed wetland,,20,9,unk,S25,2700995,6065611,7045787,tfu,,,1
+105008,7,2014,Lake Horowhenua,1481038,Unnamed wetland Lake Horowhenua,323,,Unnamed wetland,,20,9,unk,S25,2701018,6065604,7045787,tfu,,,1
+105009,7,2014,Lake Horowhenua,1481038,Unnamed wetland Lake Horowhenua,323,,Unnamed wetland,,20,9,unk,S25,2701027,6065607,7045787,tfu,,,1
+105010,7,2014,Lake Horowhenua,1481038,Unnamed wetland Lake Horowhenua,323,,Unnamed wetland,,20,9,unk,S25,2701040,6065610,7045787,tfu,,,1
+105011,7,2014,Koitiata Stream,1481059,Unnamed wetland Koitiata Stream 1,328,945,Lake Herbert,,90,12,unk,S23,2706302,6116240,7034489,tfu,,,1
+105012,7,2014,Koitiata Stream,1481059,Unnamed wetland Koitiata Stream 1,328,,Lake Herbert,,90,12,unk,S23,2706366,6116244,7034489,tfu,,,1
+105013,7,2014,Koitiata Stream,1481059,Unnamed wetland Koitiata Stream 1,328,,Lake Herbert,,90,12,unk,S23,2706398,6116207,7034489,tfu,,,1
+105014,7,2014,Rangitikei River,1481056,Unnamed wetland Rangitikei River 2,327,,Unnamed wetland,,0,0,unk,S24,2700621,6100833,,tfu,,,1
+105015,7,2014,Rangitikei River,1481056,Unnamed wetland Rangitikei River 2,327,,Unnamed wetland,,0,0,unk,S24,2700554,6100787,,tfu,,,1
+108888,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,51,15,docy,I34,2302644,5782940,12039840,tfu,,,2
+108889,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pond, ,55,15,docy,I34,2302267,5782830,12039845,tfu, , ,2
+108890,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed wetland,,0,0,docy,I34,2301932,5781646,,tfu,,,2
+108891,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,16,10,docy,I34,2298979,5785783,12039593,tfu, , ,3
+108892,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,24,11,docy,I34,2299989,5785214,12039630,tfu, , ,2
+108893,6,2014,Hikimutu lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,19,13,docy,I34,2300601,5785530,12039704,tfu, , ,2
+108894,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,60,14,docy,I34,2301142,5783740,12039934,tfu, , ,2
+108895,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest ditch, ,56,15,docy,I34,2300482,5783023,12039933,tfu, , ,2
+108896,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,71,12,docy,I34,2299602,5783109,12039851,tfu,,,2
+108897,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pond,,71,12,docy,I34,2299626,5783118,12039851,tfu,,,2
+108898,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pond,,0,0,docy,I34,2298935,5783242,,tfu,,,2
+108899,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,36,13,docy,I34,2298991,5783093,12039931,tfu, , ,2
+108900,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest ditch, ,60,13,docy,I34,2298494,5782376,12040099,tfu, , ,2
+108901,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,60,13,docy,I34,2298510,5782272,12040099,tfu, , ,3
+108902,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,60,13,docy,I34,2298540,5782239,12040099,tfu, , ,2
+108903,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,60,13,docy,I34,2298530,5782210,12040099,tfu, , ,1
+108904,6,2014,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,48,13,docy,I34,2298022,5783001,12040072,tfu,,,4
+109003,7,2014,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+109004,7,2014,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+109005,7,2014,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+109006,7,2014,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251, ,Parkvale Stream tributary, ,100,89,docg,S26,2728395,6019524,9007534,tfu, , ,12
+109007,7,2014,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+109008,7,2014,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+110404,8,2014,Rangitikei River,1481056,Unnamed wetland Rangitikei River 2,327,0,Scotts Ferry Willow Wetland,,4,3,mwrc,S24,2700843,6100611,7037682,tfb,,,1
+110405,8,2014,Manawatu River,1481047,Makerua Swamp,325.05,0,Makerua Swamp,,6,35,mwrc,S24,2718936,6075550,7043100,tfb,,,1
+110407,8,2014,Koitiata Stream,1481060,Unnamed wetland Koitiata Stream 2,329,0,Lake Alice,,112,17,mwrc,S23,2708990,6116072,7034500,tfb,,,1
+110412,7,2014,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325.091,0,Main Drain,,10,56,mwrc,S24,2722719,6087765,7040204,tfb,,,1
+110413,7,2014,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,0,Ashhurst Domain,,55,93,mwrc,S24,2744329,6096575,7038471,tfb,,,1
+110414,7,2014,Lake Horowhenua,1481038,Unnamed wetland Lake Horowhenua,323,0,Whitiki Swamp,,20,9,mwrc,S25,2700968,6065627,7045787,tfb,,,1
+34215,5,2015,Waingongoro River,1481071,Waingongoro River tributary,350,,Waingongoro River wetland,,219,45,trc,Q21,2627568,6194471,6010350,tfu,,,1
+34216,7,2015,Waingongoro River,1481071,Waingongoro River tributary,350,,Waingongoro River tributary,,0,0,trc,Q21,2628566,6194185,,tfu,,,2
+34217,10,2015,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345,,Mangaroa Stream wetland,,47,1,trc,Q21,2631863,6164355,6015156,tfu,,,2
+34219,11,2015,Patea River,1481063,Unnamed wetland Makaria Stream,342.24,,Makaria Stream,,179,100,trc,Q20,2632290,6199442,6009311,tfu,,,2
+103457,11,2015,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,1327,German Terrace,,104,13,docy,K29,2397615,5933048,12011225,tfb,,,5
+103464,11,2015,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,1332,German Terrace,,105,13,docy,K29,2398076,5933745,12011315,tfb,,,5
+103465,11,2015,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,1440,German Terrace,,105,13,docy,K29,2398016,5934045,12011315,tfb,,,5
+103471,11,2015,Orowaiti River,1481121,Unnamed wetland Orowaiti River,933,1503,German Terrace,,105,13,docy,K29,2397813,5933855,12011315,tfb,,,5
+105057,10,2015,Manawatu River,1481042,Unnamed wetland Manawatu River 3,325,1500,Whirokino Cut tributary,,0,0,unk,S24,2703195,6079214,,tfu,,,2
+105067,7,2015,Hokio Stream,1481039,Hokio Stream,323,,Lake Horowhenua tributary,,27,10,unk,S25,2703264,6064239,7045906,fys,,,2
+105068,7,2015,Hokio Stream,1481039,Hokio Stream,323,,Lake Horowhenua tributary,,27,10,unk,S25,2703228,6064229,7045906,tfu,,,1
+105069,7,2015,Hokio Stream,1481039,Unnamed wetland Lake Horowhenua tributary,323,,Lake Horowhenua tributary,,37,11,unk,S25,2703794,6064230,7045976,tfu,,,2
+105070,7,2015,Hokio Stream,1481039,Hokio Stream,323,,Lake Horowhenua tributary,,27,10,unk,S25,2703083,6064151,7045906,fys,,,2
+105071,7,2015,Hokio Stream,1481039,Hokio Stream,323,,Lake Horowhenua tributary,,27,10,unk,S25,2703068,6064123,7045906,fys,,,2
+105077,10,2015,Manawatu River,1481042,Unnamed wetland Manawatu River 3,325,,Manawatu River tributary,,7,10,unk,S24,2703117,6079110,7042121,tfu,,,2
+105082,8,2015,Manawatu River,1481040,Unnamed wetland Manawatu River 1,325,,Manawatu River tributary,,7,5,unk,S24,2701166,6082560,7041472,tfu,,,1
+105083,8,2015,Manawatu River,1481040,Unnamed wetland Manawatu River 1,325,,Manawatu River tributary,,7,5,unk,S24,2701195,6082474,7041472,tfu,,,1
+105084,8,2015,Omanuka Lagoon,1481054,Unnamed wetland Omanuka Lagoon,326,,Omanuka Lagoon,,30,12,unk,S24,2707102,6095403,7038738,tfu,,,1
+105085,8,2015,Omanuka Lagoon,1481054,Unnamed wetland Omanuka Lagoon,326,,Omanuka Lagoon,,30,12,unk,S24,2707465,6095106,7038738,tfu,,,2
+105086,8,2015,Hokio Stream,1481039,Hokio Stream,323,,Lake Horowhenua tributary,,27,10,unk,S25,2703264,6064239,7045906,fys,,,2
+105087,8,2015,Hokio Stream,1481039,Hokio Stream,323,,Lake Horowhenua tributary,,27,10,unk,S25,2703228,6064229,7045906,tfu,,,1
+105088,8,2015,Hokio Stream,1481039,Unnamed wetland Lake Horowhenua tributary,323,,Lake Horowhenua,,27,10,unk,S25,2703134,6064230,7045906,tfu,,,2
+105089,8,2015,Hokio Stream,1481039,Hokio Stream,323,0,Lake Horowhenua tributary,,27,10,unk,S25,2703083,6064151,7045906,fys,,,2
+105093,7,2015,Unnamed stream,1481058,Unnamed wetland Santoft Forest,328,,Unnamed wetland,,21,3,unk,S23,2698919,6112891,7035167,tfu,,,1
+105094,6,2015,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Lake Papaitonga,,21,6,unk,S25,2698822,6060003,7046893,tfu,,,2
+105095,6,2015,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Lake Papaitonga tributary,,21,6,unk,S25,2698822,6060010,7046893,tfu,,,2
+105096,6,2015,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga tributary, ,21,6,unk,S25,2698787,6060003,7046893,tfu, , ,1
+105097,6,2015,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Lake Papaitonga tributary,,24,6,unk,S25,2698856,6060018,7046893,tfu,,,2
+105098,6,2015,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Lake Papaitonga tributary,,24,6,unk,S25,2698917,6060013,7046893,tfu,,,2
+105099,6,2015,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga tributary, ,24,6,unk,S25,2698919,6060031,7046893,tfu, , ,2
+105100,6,2015,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga tributary, ,24,6,unk,S25,2698959,6060026,7046893,tfu, , ,2
+105101,6,2015,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Lake Papaitonga tributary,,24,6,unk,S25,2698921,6060016,7046893,tfu,,,2
+105102,6,2015,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Lake Papaitonga tributary,,24,6,unk,S25,2698921,6060016,7046893,tfu,,,2
+105103,6,2015,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,,Unnamed wetland,,0,0,unk,S24,2709679,6068823,,tfu,,,1
+105104,6,2015,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,,Unnamed wetland,,0,0,unk,S24,2709659,6068828,,tfu,,,1
+105105,6,2015,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,,Unnamed wetland,,0,0,unk,S24,2709667,6068811,,tfu,,,1
+105106,6,2015,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,,Unnamed wetland,,0,0,unk,S24,2709649,6068791,,tfu,,,1
+105107,6,2015,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,,Tutaenui Stream tributary,,53,22,unk,S23,2709608,6110580,7035619,tfu,,,1
+105108,6,2015,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,,Tutaenui Stream tributary,,53,22,unk,S23,2709608,6110580,7035619,tfu,,,1
+105109,6,2015,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,,Tutaenui Stream tributary,,53,22,unk,S23,2709520,6110629,7035619,tfu,,,1
+105110,5,2015,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325,,Manawatu River tributary,,14,9,unk,S24,2702843,6082939,7041479,tfu,,,2
+108905,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,51,15,docy,I34,2302645,5782939,12039840,tfu,,,1
+108906,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,51,15,docy,I34,2302646,5782940,12039840,tfu, , ,1
+108907,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed pond, ,55,15,docy,I34,2302379,5782865,12039845,tfu, , ,1
+108908,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed pool, ,55,15,docy,I34,2302384,5782866,12039845,tfu, , ,1
+108909,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed pool, ,55,15,docy,I34,2302270,5782831,12039845,tfu, , ,1
+108910,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,55,15,docy,I34,2302270,5782824,12039845,tcu, , ,1
+108911,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,55,15,docy,I34,2302273,5782826,12039845,tfu, , ,1
+108912,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed wetland, ,92,18,docy,I34,2301980,5781636,12040267,tfu, , ,1
+108913,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,0,0,docy,I34,2301933,5781654,,tfu,,,2
+108914,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, , , ,docy,I34,2301943,5781656, ,tfu, , ,1
+108915,3,2015,Hikumutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,16,10,docy,I34,2298973,5785757,12039593,tfu, , ,2
+108916,3,2015,Hikumutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,16,10,docy,I34,2298974,5785821,12039593,tcb, , ,2
+108917,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed drain, , , ,docy,I34,2299109,5785738, ,tfu, , ,1
+108918,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed drain, , , ,docy,I34,2299111,5785736, ,tfu, , ,1
+108919,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,24,11,docy,I34,2299982,5785207,12039630,tfu, , ,1
+108920,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,24,11,docy,I34,2299983,5785215,12039630,tfu, , ,1
+108921,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest drain, ,19,13,docy,I34,2300599,5785532,12039704,tcb, , ,1
+108922,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest drain, ,60,14,docy,I34,2301130,5783748,12039934,tfu, , ,1
+108923,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest tributary, ,60,14,docy,I34,2301103,5783748,12039934,tcb, , ,1
+108924,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed ditch, ,56,15,docy,I34,2300483,5783018,12039933,tcb, , ,1
+108925,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed ditch, ,56,15,docy,I34,2300478,5783017,12039933,tfu, , ,2
+108926,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,71,12,docy,I34,2299600,5783100,12039851,tfu,,,1
+108927,3,2015,Hikumutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,71,12,docy,I34,2299543,5783415,12039851,tfu,,,1
+108928,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,36,13,docy,I34,2298947,5783192,12039931,tfu,,,1
+108929,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,60,13,docy,I34,2298493,5782278,12040099,tfu,,,1
+108930,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest tributary,,60,13,docy,I34,2298495,5782265,12040099,tfu,,,1
+108931,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest tributary,,60,13,docy,I34,2298510,5782269,12040099,tfu,,,2
+108932,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed wetland, ,60,13,docy,I34,2298491,5782383,12040099,tfu, , ,1
+108933,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,41,13,docy,I34,2298029,5783008,12039982,tfu, , ,1
+108934,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895, ,Hinatua River unnamed forest pool, ,48,13,docy,I34,2298026,5783005,12040072,tfu, , ,1
+108935,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,48,13,docy,I34,2298018,5783020,12040072,tfu,,,1
+108936,3,2015,Hikimutu Lagoon,1481080,Unnamed wetland Saltwater Creek,895,,Hinatua River unnamed forest pool,,48,13,docy,I34,2298026,5783000,12040072,tfu,,,1
+109009,7,2015,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,106,89,docg,S26,2728765,6019515,9007241,tfu,,,12
+109010,7,2015,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251, ,Parkvale Stream tributary, ,106,89,docg,S26,2728765,6019515,9007241,tfu, , ,12
+109011,7,2015,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+109012,7,2015,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+109013,7,2015,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+109014,7,2015,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+112486,9,2015,Manawatu River,1481042,Unnamed wetland Manawatu River 3,325,1600,Foxton Loop, ,7,10,mwrc,S24,2703195,6079214,7042121,tcb, , ,3
+112488,8,2015,Manawatu River,1481040,Unnamed wetland Manawatu River 1,325,1600,Manawatu River unnamed tributary, ,7,5,mwrc,S24,2701166,6082560,7041472,tcb, , ,1
+112489,8,2015,Omanuka Lagoon,1481054,Unnamed wetland Omanuka Lagoon,328,1600,Omanuka Lagoon, ,30,12,mwrc,S23,2707102,6095403,7038738,tcb, , ,2
+112490,7,2015,Lake Horowhenua,1481039,Hokio Stream,323,1600,Unnamed tributary,,27,10,mwrc,S25,2703264,6064239,7045906,tcb,,,8
+112493,7,2015,Knottingly Swamp,1481058,Unnamed wetland Santoft Forest,328,1600,Knottingly Swamp, ,17,1,mwrc,S23,2698919,6112891,7035139,tcb, , ,1
+112494,6,2015,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,1600,Lake Papaitonga unnamed inlet stream, ,21,6,mwrc,S25,2698822,6060010,7046893,tcb, , ,3
+112495,6,2015,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,1600,Koputaroa Wetland, ,13,24,mwrc,S24,2709679,6068823,7044555,tcb, , ,1
+112496,6,2015,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,1600,Tutaenui Stream unnamed tributary, ,53,22,mwrc,S23,2709608,6110580,7035619,tcb, , ,1
+112497,5,2015,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325,1600,Manawatu River unnamed tributary, ,14,9,mwrc,S24,2702843,6082939,7041479,tcb, , ,2
+105000,2,2016,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,,Unnamed wetland,,0,0,unk,S24,2744359,6096561,,tfu,,,1
+109015,8,2016,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+109016,8,2016,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728395,6019524,9007534,tfu,,,12
+109017,8,2016,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+109018,8,2016,Ruamahanga River,1481020,Unnamed wetland Parkvale Stream tributary,292.251,,Parkvale Stream tributary,,100,89,docg,S26,2728329,6019625,9007534,tfu,,,12
+110394,8,2016,Koitiata Stream,1481059,Unnamed wetland Koitiata Stream 1,329,1500,Lake Herbert unnamed tributary,,90,12,mwrc,S23,2706298,6116282,7034489,tfb,,,1
+110395,8,2016,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,1555,Ashhurst Domain Wetland,,55,93,mwrc,S24,2744335,6096606,7038471,tfb,,,1
+110396,8,2016,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,1559,Ashhurst Domain Wetland,,55,93,mwrc,S24,2744335,6096606,7038471,tfb,,,1
+110397,8,2016,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,805,Ashhurst Domain Wetland,,55,93,mwrc,S24,2744318,6096600,7038471,tfb,,,1
+110398,12,2016,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325.091,810,No.1 Line Wetland,,10,56,mwrc,S24,2722806,6087828,7040204,tfb,,,2
+112286,11,2016,Manawatu River,1481045,Unnamed wetland Koputaroa Stream,325.03,1500,Koputaroa Railway Wetland, , , ,mwrc,S24,2709799,6068642, ,tfb, , ,3
+112287,10,2016,Manawatu River,1481047,Makerua Swamp,325.05,1500,Makerua Wetland, , , ,mwrc,S24,2718983,6075704, ,tfb, , ,3
+112289,11,2016,Hokio Stream,1481038,Unnamed wetland Lake Horowhenua,323,1500,Whitiki Swamp, , , ,mwrc,S25,2701040,6065610, ,tcu, , ,1
+112895,11,2016,Hokitika River,1481090,Unnamed wetland Whiley Creek,906.01, ,Whiley Creek, ,12,11,rcl,J33,2350217,5824002,12034263,spo, , , 
+114040,9,2016,Waingongoro River,1481071,Waingongoro River tributary,350, ,Waingongoro River wetland, ,219,45,trc,Q21,2627562,6194464,6010350,tfb, , ,1
+114041,8,2016,Waingongoro River,1481071,Waingongoro River tributary,350,244,Waingongoro River wetland, , , ,trc,Q21,2628564,6194182, ,tfb, , ,1
+114042,7,2016,Patea River,1481066,Ngaere Stream tributary 3,342.29, ,Patea River wetland, , , ,trc,Q20,2628047,6199139, ,tfb, , ,1
+110533,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga inlet wetland gully, ,24,6,docg,S25,2699098,6060179,7046893,tfu, , ,2
+110868,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Lake Papaitonga inlet wetland gully,,24,6,docg,S25,2699472,6060006,7046893,tfu,,,2
+110870,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga inlet wetland gully, ,21,6,docg,S25,2699004,6059623,7046893,tfu, , ,2
+110871,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga inlet wetland gully, ,21,6,docg,S25,2699124,6059591,7046893,tfu, , ,2
+110872,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga inlet wetland gully, ,21,6,docg,S25,2699323,6059503,7046893,tfu, , ,1
+110873,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga inlet wetland gully, ,21,6,docg,S25,2698806,6059559,7046893,spo, , , 
+110874,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga inlet wetland gully, ,30,5,docg,S25,2698825,6059280,7046999,tfu, , ,2
+110875,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga inlet wetland gully, ,30,5,docg,S25,2698903,6059217,7046999,tfu, , ,3
+110876,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Lake Papaitonga inlet wetland gully,,30,5,docg,S25,2699245,6059205,7046999,tfu,,,4
+110877,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Lake Papaitonga, ,19,5,docg,S25,2698279,6060000,7046906,fys, , ,3
+110878,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Preston's wetland,,28,5,docg,S25,2697615,6061019,7046608,fys,,,4
+110879,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Preston's wetland, ,27,5,docg,S25,2697852,6060864,7046608,fys, , ,5
+110880,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Preston's wetland,,27,5,docg,S25,2698051,6060700,7046608,tfu,,,1
+110881,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Preston's wetland, ,27,5,docg,S25,2697777,6060580,7046608,tfu, , ,2
+110882,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Preston's wetland, ,27,5,docg,S25,2697655,6060614,7046608,fys, , ,3
+110883,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Preston's wetland,,27,5,docg,S25,2698182,6060751,7046608,tfu,,,1
+110884,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Preston's wetland,,27,5,docg,S25,2698228,6060688,7046608,tfu,,,1
+110885,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322, ,Preston's wetland, , , ,docg,S25,2698331,6060663, ,tfu, , ,1
+110886,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Mill Drain,,29,4,docg,S25,2697327,6060364,7046608,fys,,,4
+110887,5,2017,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,,Waiwiri Stream,,19,4,docg,S25,2697444,6060064,7046941,tfu,,,4
+112090,7,2017,Manawatu River,1481041,Unnamed wetland Manawatu River 2,325,1400,Wetland Omarupapako Scenic Reserve, ,14,9,mwrc,S24,2702867,6082877,7041479,tfb, , ,1
+112296,9,2017,Rangitikei River,1481057,Tutaenui Stream tributary,327.04,1400,Tutaenui Stream tributary, ,53,22,mwrc,S23,2709558,6110620,7035619,tfb, , ,1
+112307,9,2017,Ruamahanga River,1481127,Waiohine River tributary,292.243,1030,Mangatarere Stream unnamed tributary, ,58,79,eia,S26,2720075,6013641,9008668,tfu, , ,3
+112308,9,2017,Ruamahanga River,1481127,Waiohine River tributary,292.243,1118,Mangatarere Stream unnamed tributary, ,58,79,eia,S26,2720087,6014721,9008668,tfu, , ,3
+112309,9,2017,Ruamahanga River,1481127,Waiohine River tributary,292.243,1126,Mangatarere Stream unnamed tributary, ,58,79,eia,S26,2720131,6014678,9008668,tfu, , ,3
+112310,9,2017,Ruamahanga River,1481127,Waiohine River tributary,292.243,1334,Mangatarere Stream unnamed tributary, ,58,79,eia,S26,2720054,6014678,9008668,tfu, , ,3
+112311,9,2017,Ruamahanga River,1481127,Waiohine River tributary,292.243,1341,Mangatarere Stream unnamed tributary, ,58,79,eia,S26,2720083,6014644,9008668,fys, , ,2
+112312,9,2017,Ruamahanga River,1481127,Waiohine River tributary,292.243,1510,Mangatarere Stream unnamed tributary, ,58,79,eia,S26,2720102,6014619,9008668,fys, , ,1
+112313,9,2017,Ruamahanga River,1481127,Waiohine River tributary,292.243,1354,Mangatarere Stream unnamed tributary, ,58,79,eia,S26,2720108,6014630,9008668,fys, , ,1
+112434,10,2017,Lake Horowhenua,1481039,Hokio Stream,323,1300,Unnamed tributary,,27,10,mwrc,S25,2703276,6064231,7045906,tfb,,,12
+112929,3,2017,Hokitika River,1481090,Unnamed wetland Whiley Creek,906, ,Whiley Creek, ,12,11,rcl,J33,2350217,5824002,12034263,spo, , , 
+114037,9,2017,Waingongoro River,1481071,Waingongoro River tributary,350, ,Waingongoro River wetland, , , ,trc,Q21,2626826,6196195, ,tfb, , ,1
+114039,9,2017,Mangaroa Stream,1481070,Unnamed wetland Mangaroa Stream,345, ,Mangaroa Stream wetland, ,47,1,trc,Q21,2631848,6164368,6015156,tfb, , ,1
+114593,11,2017,Manawatu River to Rangiteiki River,1481053,Unnamed wetland Pukepuke Lagoon,326,1200,Pukepuke Lagoon, ,7,2,mwrc,S24,2702408,6093599,7038899,fys, , ,9
+117089,3,2017,Lake Onoke,1481130,Ruamahanga River tributary 3,292,1230,Ruamahanga River tributary, ,19,7,wnrc,R27,2690429,5982818,9015541,fys,, ,2
+114388,7,2018,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,1500,Manawatu River tributary, , , ,mwrc,S24,2744386,6096605, ,tfb, , ,1
+114399,8,2018,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325,900,Main Drain wetland, ,10,56,mwrc,S24,2722700,6087773,7040204,tfb, , ,2
+114465,8,2018,Lake Herbert,1481059,Unnamed wetland Koitiata Stream 1,328,950,Lake Herbert, ,90,12,mwrc,S23,2706295,6116284,7034489,tcb, , ,1
+114466,8,2018,Manawatu River,1481047,Makerua Swamp,325.05,930,Makerua Wetland, ,10,35,mwrc,S24,2718904,6075561,7043100,tcb, , ,1
+114514,8,2018,Patea River,1481129,Patea River tributary 2,342,1100,Patea River spring, , , ,trc,Q22,2627643,6204706, ,tfu, , ,1
+114559,9,2018,Lake Onoke,1481009,Unnamed wetland Lake Wairarapa,292.06,1700,Lake Wairarapa tributary, ,1,33,mtsw,S27,2703721,6001829,9011479,tcu, , ,4
+114783,10,2018,Rangitikei River,1481056,Unnamed wetland Rangitikei River 2,327,1400,Rangitikei River unnamed tributary wetla, ,5,3,mwrc,S24,2700926,6100608,7037682,tcb, , ,11
+115605,1,2019,Ruamahanga River,1481022,Waikoukou Stream tributary,292,1000,Ruamahanga River tributary, ,59,85,ind,R27,2728510,6012423,9009080,vbd, , , 
+117438,11,2019,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06,1745,Barton's Lagoon outflow, ,1,33,mtsw,S27,2703793,6001867,9011479,tfu,, ,24
+117,,,Wanganui River,1481081,Lake Ianthe,897.06,,Lake Ianthe,,27,22,unk,I34,2317400,5792700,12039039,unk,,,
+55382,,,Waikanae River,1481034,Waikanae River tributary,315,,Waikanae River,,20,6,unk,R26,2683800,6034000,9004023,unk,,,
+118423,2,2019,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,0,Deep Creek tributary, ,128,7,docc,H35,2282447,5769122,12042049,tcu, , ,1
+10,7,2020,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,1056,Okarito River tributary, ,90,10,ind,H34,2283716,5769188,0,han, , ,1
+118425,2,2019,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,0,Unnamed wetland, ,72,7,docc,H35,2283312,5769257,12042053,tcu, , ,1
+118424,2,2019,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891,0,Unnamed wetland, ,72,7,docc,H35,2283247,5769372,12042053,tcu, , ,3
+118422,2,2019,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.01,0,Deep Creek tributary, ,20,4,docc,H35,2282072,5769397,12041750,tcu, , ,1
+118761,11,2019,Wairoa Stream,1481061,Unnamed wetland Wairoa Stream,340,0,Wairoa Stream, ,49,4,rel,R22,2649407,6155463,6016175,unk, , , 
+120146,9,2020,Lake Herbert,1481059,Unnamed wetland Koitiata Stream 1,328,1300,Lake Herbert Wetland, ,90,12,mwrc,S23,2706291,6116260,7034489,tfb, , ,1
+120129,10,2020,Knottingly Swamp,1481058,Unnamed wetland Santoft Forest,328,1300,Knottingly Swamp, ,16,1,mwrc,S23,2698826,6112964,7035139,tfb, , ,1
+120138,8,2019,Knottingly Swamp,1481058,Unnamed wetland Santoft Forest,328,1300,Knottingly Swamp, ,16,1,mwrc,S23,2698643,6113152,7035139,tfb, , ,1
+120142,7,2020,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,1300,Manawatu River tributary, ,60,96,mwrc,S24,2744582,6096881,7038360,tfb, , ,1
+120143,8,2020,Manawatu River,1481048,Unnamed wetland Main Drain tributary,325,1300,No.1 Line Wetland, ,11,56,mwrc,S24,2722522,6087652,7040204,tfb, , ,1
+120145,9,2020,Manawatu River,1481042,Unnamed wetland Manawatu River 3,325,1300,Foxton Loop, ,10,9,mwrc,S24,2703118,6079534,7042040,tfb, , ,1
+119366,4,1970,Ruamahanga River,1481013,Kaipaitangata Stream,292.243,0,Kaipaitangata Stream, ,82,84,niwa, ,2718500,6017599,9007641,efp,1, , 
+119968,9,2020,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06,1630,Bartons Lagoon wetland, ,1,33,mtsw,S27,2703937,6001823,9011479,fys, , ,3
+119967,9,2020,Ruamahanga River,1481009,Unnamed wetland Lake Wairarapa,292.06,1600,Bartons Lagoon outlet, ,1,33,mtsw,S27,2703716,6001845,9011479,tfu, , ,1
+122774,8,2021,Manawatu River,1481134,Unnamed wetland Manawatu River 10,325,1300,Unnamed wetland, ,0,0,mwrc,S24,2749255,6092920,0,tfb,,,3
+122788,9,2021,Whenuakura River,1481133,Kohi Stream tributary,341.01,1300,Kohi Stream tributary, ,118,22,trc,Q21,2652033,6162319,6015455,tfu,,,8
+122789,9,2021,Whenuakura River,1481133,Kohi Stream tributary,341.01,1330,Kohi Stream tributary, ,124,21,trc,Q21,2652421,6161927,6015504,tfu,,,5
+122790,9,2021,Whenuakura River,1481133,Kohi Stream tributary,341.01,1400,Kohi Stream tributary, ,124,21,trc,Q21,2652190,6161961,6015504,tfu,,,5
+122791,9,2021,Whenuakura River,1481133,Kohi Stream tributary,341.01,230,Kohi Stream tributary, ,124,21,trc,Q21,2652170,6161847,6015504,tfu,,,6
+120916,2,2021,Manawatu River,1481131,Manawatu River tributary,325,1400,Koputaroa Drainage network, ,0,0,mwrc,S24,2705398,6070725,0,tfu,,,9
+120660,12,2020,Hokitika River,1481089,Unnamed wetland Kaniere River,906,130,Stony Creek, ,87,10,doco, ,2350064,5827367,12033688,spo,1,,75
+120661,12,2020,Hokitika River,1481089,Unnamed wetland Kaniere River,906.01,100,Stony Creek, ,87,10,doco, ,2350003,5826934,12033688,spo,1,,90
+120662,12,2020,Hokitika River,1481089,Unnamed wetland Kaniere River,906.01,45,Stony Creek, ,87,10,doco, ,2349848,5826700,12033688,spo,1,,100
+122707,4,2021,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.11,2100,Jenkins Creek, ,42,9,docy,H35,2285361,5769007,12042071,sdn,,,
+122503,8,2021,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,1330,Ashhurst Domain wetland, ,60,96,mwrc,S24,2744444,6096959,7038360,tfb,,,4
+122646,7,2020,Manawatu River,1481050,Unnamed wetland Manawatu River 7,325,942,Ashhurst Domain wetland, ,60,96,mwrc,S24,2744526,6096655,7038360,dna,,,
+121004,1,2021,Waiwiri Stream,1481037,Lake Papaitonga wetlands,322,1000,Lake Papaitonga, ,25,5,ind,S25,2698795,6059597,7047131,vbd,,,
+121001,12,2020,Ruamahanga River,1481014,Unnamed wetland Ruamahanga River tributary 3,292.243,1600,Mangatarere Stream tributary, ,127,88,ind,S26,2720608,6020515,9006811,kbt,,,8
+122774,8,2021,Manawatu River,1481134,Unnamed wetland Manawatu River 10,325,0.541666667,Unnamed wetland,,,,mwrc,,,,,tfb,,,
+122788,9,2021,Whenuakura River,1481133,Kohi Stream tributary,341.01,0.541666667,Kohi Stream tributary,,118,21.56,trc,,,,6212822,tfu,,,5
+122789,9,2021,Whenuakura River,1481133,Kohi Stream tributary,341.01,0.5625,Kohi Stream tributary,,124,21.13,trc,,,,6212984,tfu,,,5
+122790,9,2021,Whenuakura River,1481133,Kohi Stream tributary,341.01,0.583333333,Kohi Stream tributary,,124,21.13,trc,,,,6212984,tfu,,,5
+122791,9,2021,Whenuakura River,1481133,Kohi Stream tributary,341.01,0.604166667,Kohi Stream tributary,,124,21.13,trc,,,,6212984,tfu,,,5
+122707,4,2021,Okarito River,1481077,Unnamed wetland Okarito Lagoon,891.11,0.875,Jenkins Creek,,42,9.12,docy,,,,12114302,spo,,,120
