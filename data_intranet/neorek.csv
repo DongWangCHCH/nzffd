@@ -1,0 +1,38 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+13579,4,1994,Te Whanga Lagoon,1521001,Lake Tuku a taupo,0,,Lake Tuku a taupo,,250,28,indm,C02,3350246,5630174,0,ncn,,,
+19757,1,2001,Lake Rakeinui,1521002,Lake Rakeinui,0,,Lake Rakeinui,,244,5,docg,C02,3345064,5627756,0,gmt,,,1
+18898,1,2004,Lake Rakeinui,1521002,Lake Rakeinui,0,1800,Lake Rakeinui,,244,5,docg,C02,3344687,5628006,0,gmt,,,5
+18899,1,2004,Lake Rakeinui,1521002,Lake Rakeinui,0,1000,Lake Rakeinui,,244,5,docg,C02,3344687,5628006,0,fyn,,,2
+18900,1,2004,Lake Rakeinui,1521002,Lake Rakeinui,0,1000,Lake Rakeinui,,244,5,docg,C02,3344687,5628006,0,gmt,,,5
+18901,1,2004,Lake Rakeinui,1521002,Lake Rakeinui,0,1100,Lake Rakeinui,,244,5,docg,C02,3344700,5628106,0,fyn,,,1
+18902,1,2004,Lake Rakeinui,1521002,Lake Rakeinui,0,1100,Lake Rakeinui,,255,5,docg,C02,3344700,5628106,0,gmt,,,4
+18903,1,2004,Lake Rakeinui,1521002,Lake Rakeinui,0,1200,Lake Rakeinui,,244,5,docg,C02,3344700,5628106,0,gmt,,,3
+100624,6,2006,Tuku a tamatea River,1521006,Tuku a tamatea River tributary,0,,Tuku a tamatea River tributary,,270,0,docg,C02,3343855,5627276,,gmt,,,6
+100629,6,2006,Lake Rakeinui,1521002,Lake Rakeinui,0,,Lake Rakeinui,,250,0,docg,C02,3345131,5627768,,gmt,,,50
+100625,2,2007,Tuku a tamatea River,1521003,Waipurua Creek tributary,0,,Tuku a tamatea River tributary,,270,0,docg,C02,3343694,5626398,,gmt,,,6
+100627,2,2007,Lake Te Rangatapu,1521005,Lake Te Rangatapu tributary,0,,Lake Te Rangatapu tributary,,260,0,docg,C02,3344498,5626848,,gmt,,,6
+100628,2,2007,Lake Te Rangatapu,1521004,Lake Te Rangatapu,0,,Lake Te Rangatapu,,260,0,docg,C02,3344435,5626124,,gmt,,,18
+100630,2,2007,Lake Rakeinui,1521002,Lake Rakeinui,0,,Lake Rakeinui,,250,0,docg,C02,3345172,5627763,,gmt,,,18
+100626,3,2009,Tuku a tamatea River,1521006,Tuku a tamatea River tributary, , ,Tuku a tamatea River tributary, ,270, ,docg,c02,3343871,5627239, ,gmt, , ,6
+100631,3,2009,Lake Rakeinui,1521002,Lake Rakeinui,0,,Lake Rakeinui,,250,0,docg,C02,3345044,5627824,,gmt,,,19
+109893,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3344729,5628022,,tfu,,,1
+109894,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3344717,5628029,,tfu,,,1
+109895,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3344712,5628030,,tfu,,,1
+109897,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3344712,5628039,,tfu,,,1
+109898,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3344706,5628055,,tfu,,,1
+109900,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3344702,5628065,,tfu,,,1
+109901,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3345165,5627692,,tfu,,,1
+109902,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3345173,5627696,,tfu,,,1
+109909,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3345182,5627695,,tfu,,,1
+109910,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3345195,5627694,,tfu,,,1
+109912,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3345205,5627703,,tfu,,,1
+109913,11,2016,Chatham Island,1521002,Lake Rakeinui,0,,Lake Rakeinui,,0,0,doco,,3345214,5627698,,tfu,,,1
+109923,11,2016,Chatham Island,1521004,Lake Te Rangatapu,0,,Lake Te Rangatapu,,0,0,doco,,3344122,5626229,,tfu,,,1
+109925,11,2016,Chatham Island,1521004,Lake Te Rangatapu,0,,Lake Te Rangatapu,,0,0,doco,,3344107,5626215,,tfu,,,1
+109926,11,2016,Chatham Island,1521004,Lake Te Rangatapu,0,,Lake Te Rangatapu,,0,0,doco,,3344120,5626220,,tfu,,,1
+109927,11,2016,Chatham Island,1521004,Lake Te Rangatapu,0,,Lake Te Rangatapu,,0,0,doco,,3344124,5626221,,tfu,,,1
+109928,11,2016,Chatham Island,1521004,Lake Te Rangatapu,0,,Lake Te Rangatapu,,0,0,doco,,3344115,5626212,,vbd,,,
+109930,11,2016,Chatham Island,1521004,Lake Te Rangatapu,0,,Lake Te Rangatapu,,0,0,doco,,3344108,5626213,,tfu,,,1
+121133,1,2004,Chatham Island,1521001,Lake Tuku a taupo,,11:26,Lake Tuku a taupo,,,,docc,,2439013,5066982,,han,,,
+121709,12,2000,Chatham Island,1521002,Lake Rakeinui,,,Lake Rakeinui,,,,niwa,,1887344,5111597,,han,,,
+121713,12,2000,Chatham Island,1521003,Waipurua Creek tributary,,,Waipurua Creek,,,,niwa,,1890158,5109560,,efp,,,

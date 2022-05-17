@@ -1,0 +1,763 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+55001,10,1929,Houhora Harbour,1501008,Unnamed wetland Waihopo Stream,8.05,,Waihopo Stream,,20,3,unk,N03,2516200,6716800,1001300,unk,,,
+55699,1,1958,Waihou River,1501040,Ohinemuri River tributary,92.157,,Ohinemuri River tributary,,80,74,unk,T13,2762800,6419400,3009973,obs,,,1
+733,3,1965,Home Creek,1501010,Unnamed drain Home Creek 1,11,day,Unnamed wetland,,10,5,niwa,N04,2528500,6694000,1002121,efm,1,,
+2570,3,1965,Wairoa River,1501083,Taita Stream tributary,466.04,day,Taita Stream tributary,,5,45,niwa,P07,2579300,6594000,1020807,ef,1,,
+2584,3,1965,Wairoa River,1501090,Wairua River tributary 3,466,day,Unnamed wetland,,90,137,niwa,Q06,2623900,6626600,1014275,ef,,,
+2594,3,1965,Waikato River,1501070,Waipa River tributary 5,434.22,day,Waipa River tributary,,40,153,niwa,S15,2704400,6360900,0,ef,1,,
+55003,3,1965,Home Creek,1501012,Unnamed drain Home Creek 2,11,,Unnamed wetland,,30,7,unk,N04,2527500,6694000,1002145,unk,,,
+55702,1,1965,Awanui River,1501022,Pukepoto Stream,13,day,Pukepoto Stream,,30,21,niwa,O04,2531300,6671800,1005053,ef,1,,
+55703,1,1965,Awanui River,1501022,Pukepoto Stream,13,day,Pukepoto Stream,,30,21,niwa,O04,2531300,6671800,1005053,ef,1,,
+136,1,1966,Wairoa River,1501089,Wairua River tributary 2,466,day,Unnamed wetland,,90,133,niwa,Q06,2623400,6623900,0,han,,,1
+734,1,1966,Home Creek,1501014,Unnamed wetland Home Creek 4,11, ,Lake Waiparera, ,30,8,niwa,n04,2525900,6695000,1002077,efp,1, , 
+55057,7,1966,Waikato River,1501048,Pungarehu Stream tributary,434.13,,Whangamarino Swamp,,8,65,niwa,S13,2704900,6420900,3007556,unk,,,
+55700,2,1966,Home Creek,1501011,Unnamed wetland Home Creek 2,11,,Unnamed wetland,,15,5,niwa,N04,2529100,6694700,1002078,han,,,2
+55704,2,1966,Awanui River,1501022,Pukepoto Stream,13,,Pukepoto Stream tributary,,15,22,niwa,O04,2530100,6671300,1004819,unk,,,
+55709,2,1966,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15, ,Unnamed lake, ,0,4,niwa,o04,2545900,6694400,1002038,unn, , , 
+55779,2,1966,Waikato River,1501070,Waipa River tributary 5,434.22,,Waipa River tributary,,40,153,niwa,S15,2704400,6360900,0,unk,,,
+55005,3,1970,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15, ,Unnamed lake, ,5,1,niwa,o04,2546600,6693100,1002152,unk, , , 
+5832,4,1972,Waikato River,1501064,Ohote Stream tributary 2,434.22,,Ohote Stream tributary,,30,134,unk,S14,2706500,6375700,3017996,han,,,1
+55158,11,1972,Waikato River,1501043,Puni wetland Waikato River,434,,Waikato River,,1,16,bior,R12,2672000,6431200,3007505,utt,,,
+877,9,1978,Waikato River,1501047,Whangamarino wetland,434.13,day,Whangamarino Swamp,,5,61,awfg,S13,2702500,6429200,3007556,pun,,,2
+1030,8,1978,Waikato River,1501070,Waipa River tributary 5,434.22,night,Waipa River tributary,,40,153,niwa,S15,2704400,6360900,0,fyn,,,1
+1033,8,1978,Piako River,1501038,Kopuatai Peat Dome,91.05,night,Elstow Canal drain,,4,42,niwa,T13,2741900,6411500,3011441,fyn,,,1
+1034,8,1978,Piako River,1501038,Kopuatai Peat Dome,91.03, ,Unnamed wetland, ,2,33,niwa,t13,2740600,6418700,0,fyn, , ,1
+1035,8,1978,Piako River,1501038,Kopuatai Peat Dome,91.05,night,Elstow Canal drain,,4,50,niwa,T13,2740200,6410700,3011558,fyn,,,3
+1036,9,1978,Waikato River,1501046,Unnamed wetland Mangatawhiri River,434.12,night,Unnamed wetland,,5,46,niwa,S12,2692300,6437400,3006116,fyn,,,8
+1037,9,1978,Waikato River,1501047,Whangamarino wetland,434.13,1300,Whangamarino Swamp,,5,54,niwa,S12,2696700,6430500,3007556,ntc,,,
+1038,9,1978,Waikato River,1501047,Whangamarino wetland,434.13,745,Whangamarino Swamp,,5,47,niwa,S12,2695100,6430700,3007556,ntc,,,
+1039,9,1978,Waikato River,1501047,Whangamarino wetland,434.13,1130,Whangamarino Swamp,,5,60,niwa,s12,2702500,6432200,3007556,pun,,,1
+1041,9,1978,Waikato River,1501047,Whangamarino wetland,434.135,1600,Reao Stream tributary, ,6,56,niwa,s13,2698000,6425800,3008658,pun, , ,1
+1042,9,1978,Waikato River,1501048,Pungarehu Stream tributary,434.136,1100,Pungarehu Stream tributary,,8,65,niwa,S13,2704400,6420700,3009670,pun,,,1
+1044,9,1978,Waikato River,1501052,Lake Rotokawau wetlands,434.161,night,Lake Waikare tributary,,10,78,niwa,S13,2704400,6410300,3011773,ncn,,,
+3414,10,1979,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,,Unnamed wetland,,150,120,niwa,S17,2690800,6307400,3034565,gmt,,,1
+2351,10,1980,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,55,niwa,S13,2699900,6428500,3007556,efp,2,,
+3581,9,1980,Waikato River,1501047,Whangamarino wetland,434.13,1100,Whangamarino Swamp, ,5,56,indm,s13,2699800,6429700,3007556,obs, , ,1
+3583,9,1980,Waikato River,1501047,Whangamarino wetland,434.13,845,Whangamarino Swamp, ,7,59,indm,s13,2700900,6422800,3007556,obs, , ,1
+3584,9,1980,Waikato River,1501047,Whangamarino wetland,434.135,1055,Reao Stream, ,6,54,indm,s13,2698700,6426100,3008359,obs, , ,1
+3585,9,1980,Waikato River,1501047,Whangamarino wetland,434.13,1200,Whangamarino Swamp, ,5,55,indm,s13,2699900,6428300,3007556,obs, , ,1
+3960,12,1980,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino Swamp, ,7,59,awfg,s13,2700300,6424400,3007556,fyn, , ,1
+1985,3,1981,Rangaunu Harbour,1501002,Kaimaumau wetland,12,1000,Unnamed lake, ,5,4,niwa,o04,2532300,6697500,0,efp,1, , 
+3352,9,1982,Waikato River,1501052,Lake Rotokawau wetlands,434.161,1100,Unnamed wetland,,10,77,wrc,S13,2703500,6411400,0,han,,,4
+3353,10,1982,Waikato River,1501047,Whangamarino wetland,434.13,1500,Whangamarino Swamp,,7,59,wrc,S13,2700800,6422500,3007556,han,,,1
+4368,,1982,Waikato River,1501075,Waikato River tributary 1,434.21,1400,Ruakura Road drain,,40,121,indf,S14,2715800,6379100,3017153,han,,,1
+4830,11,1982,Houhora Harbour,1501002,Kaimaumau wetland,8.01, ,Motutangi Swamp, ,5,7,bior,n03,2527400,6702700,1001741,ef,1, , 
+4831,11,1982,Houhora Harbour,1501002,Kaimaumau wetland,8.01,day,Motutangi Swamp,,5,7,bior,N03,2527400,6702700,1001741,ef,1,,
+5076,9,1982,Waikato River,1501075,Waikato River tributary 1,434.001,1405,Waikato River tributary,,40,121,indf,S14,2714100,6379300,3017380,han,,,1
+5077,10,1982,Waikato River,1501075,Waikato River tributary 1,434.001,1810,Waikato River tributary,,40,121,indf,S14,2714100,6379300,3017380,han,,,1
+5083,7,1983,Waikato River,1501075,Waikato River tributary 1,434.001,1550,Waikato River tributary,,40,121,indf,S14,2714100,6379300,3017380,han,,,1
+5084,12,1983,Waikato River,1501071,Whakapatawaha Stream,434.225,1220,Whakapatawaha Stream,,100,211,indf,S16,2719000,6329300,3027677,han,,,1
+5734,8,1983,Waikato River,1501097,Waipapa Stream,434,1400,Waipapa Stream tributary, ,10,56,wrc,s13,2696000,6422900,3009267,ef,1, , 
+5741,8,1983,Waikato River,1501052,Lake Rotokawau wetlands,434.161,1500,Unnamed wetland,,10,77,wrc,S13,2703600,6411400,0,han,,,2
+5851,9,1983,Waikato River,1501052,Lake Rotokawau wetlands,434.161,day,Unnamed wetland,,10,77,wrc,S13,2703800,6411100,0,han,,,1
+5852,9,1983,Waikato River,1501047,Whangamarino wetland,434.13,day,Whangamarino River tributary,,7,51,wrc,S13,2696500,6427800,3008243,han,,,2
+5853,9,1983,Waikato River,1501047,Whangamarino wetland,434.134,1500,Kopuku Stream,,5,60,wrc,S12,2701000,6433200,3006955,han,,,1
+5863,9,1983,Waikato River,1501052,Lake Rotokawau wetlands,434.161,1000,Lake Rotokawau, ,10,76,wrc,s13,2704200,6411400,3011366,fyn, , ,2
+2855,2,1984,Waikato River,1501047,Whangamarino wetland,434.13,930,Whangamarino River, ,7,59,mofn,s13,2703300,6426100,3008630,ncn, , , 
+2856,2,1984,Waikato River,1501047,Whangamarino wetland,434.136,930,Pungarehu Stream, ,7,59,mofn,s13,2703200,6426000,3008641,ntc, , , 
+7092,9,1984,Waikato River,1501047,Whangamarino wetland,434.13,1130,Whangamarino Swamp,,5,59,wrc,S13,2702900,6427600,3007556,han,,,500
+7093,9,1984,Waikato River,1501047,Whangamarino wetland,434.13,1300,Whangamarino Swamp,,5,56,wrc,S12,2700700,6433000,3007556,utt,,,500
+7094,9,1984,Waikato River,1501047,Whangamarino wetland,434.13,1400,Whangamarino Swamp,,5,54,wrc,S12,2699700,6432500,3007556,han,,,200
+7095,10,1984,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14,1300,Unnamed wetland,,7,60,wrc,S13,2692400,6419000,0,ntc,,,1000
+7096,10,1984,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14,1430,Unnamed wetland,,7,62,wrc,S13,2693100,6417300,0,ntc,,,10
+7097,10,1984,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14,1300,Unnamed wetland,,10,66,wrc,S13,2692000,6414800,3010868,ntc,,,30
+7105,6,1984,Waikato River,1501066,Waipa River tributary 3,434.22,1140,Waipa River tributary, ,20,141,wrc,s15,2702100,6367300,3019711,han, , ,3
+7116,12,1984,Waikato River,1501062,Waipa River tributary 2,434.22,1000,Te Otomanui Lagoon, ,15,106,wrc,s14,2698400,6384300,3016550,ntc, , , 
+8517,12,1984,Waikato River,1501047,Whangamarino wetland,434.13,1300,Whangamarino River,,5,46,mofn,s12,2694400,6431200,3007556,unn,,,
+8518,12,1984,Waikato River,1501047,Whangamarino wetland,434.131,1400,Maramarua River, ,5,49,mofn,s12,2695500,6432500,3007196,ncn, , , 
+8519,10,1984,Waikato River,1501047,Whangamarino wetland,434.136,1555,Pungarehu Stream, ,7,60,mofn,s13,2703300,6425200,3008641,ncn, , , 
+8520,10,1984,Waikato River,1501047,Whangamarino wetland,434.131,1325,Maramarua River, ,5,55,mofn,s12,2699700,6433500,3007092,ncn, , , 
+8521,9,1984,Waikato River,1501047,Whangamarino wetland,434.136,1520,Pungarehu Stream, ,7,59,mofn,s13,2703200,6426000,3008641,unn, , , 
+8522,7,1984,Waikato River,1501047,Whangamarino wetland,434.136,1000,Pungarehu Stream, ,7,59,mofn,s13,2703200,6426000,3008641,gin, , ,3
+2871,12,1985,Waikato River,1501047,Whangamarino wetland,434.13,1406,Whangamarino River, ,5,47,mofn,s12,2694700,6431100,3007556,unn, , , 
+2872,12,1985,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14, ,Opuatia Stream, ,7,61,mofn,s13,2692300,6418300,3010326,unn, , , 
+5092,8,1985,Waikato River,1501075,Waikato River tributary 1,434.001,905,Waikato River tributary,,40,121,indf,S14,2714100,6379300,3017380,han,,,1
+7337,6,1985,Waikato River,1501044,Waikato River tributary drain,434,1400,Waikato River tributary,,10,38,niwa,R12,2688100,6433200,3007150,pun,,,2
+7771,3,1985,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14,,Unnamed wetland,,10,66,wrc,S13,2692100,6415200,3010868,gmt,,,8
+7773,3,1985,Waikato River,1501051,Unnamed wetland Awaroa Stream 1,434.15, ,Unnamed wetland, ,8,72,wrc,r13,2689800,6411900,3011340,utt, , ,4
+7774,3,1985,Waikato River,1501055,Lake Waahi wetland west,434.19, ,Unnamed wetland, ,12,87,wrc,s13,2695800,6403700,0,utt, , ,8
+7785,8,1985,Waikato River,1501075,Waikato River tributary 1,434.21,1030,Komakorau Stream tributary,,40,121,wrc,S14,2715700,6378900,3017435,ntc,,,
+8479,11,1985,Waikato River,1501047,Whangamarino wetland,434.136, ,Pungarehu Stream, ,7,59,mofn,s13,2703300,6426000,3008641,gin, , ,4
+8480,11,1985,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino River,,5,45,mofn,s12,2693700,6431800,3007396,ncn,,,
+8482,11,1985,Waikato River,1501050,Unnamed wetland Opuatia Stream,434, ,Waikato River, ,6,60,mofn,s13,2692900,6418900,3009663,unn, , , 
+8483,11,1985,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14, ,Opuatia Stream, ,7,62,mofn,s13,2692800,6416900,3010552,unn, , ,10
+8486,10,1985,Waikato River,1501047,Whangamarino wetland,434.136, ,Pungarehu Stream, ,7,59,mofn,s13,2703300,6426100,3008641,fyn, , ,4
+8488,10,1985,Waikato River,1501047,Whangamarino wetland,434.136, ,Pungarehu Stream, ,7,59,mofn,s13,2703300,6425700,3008641,fyn, , ,2
+8489,10,1985,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,6,58,mofn,s13,2702400,6426300,3008593,ncn, , , 
+8490,10,1985,Waikato River,1501047,Whangamarino wetland,434.135,1645,Reao Stream, ,6,54,mofn,s13,2698300,6426600,3008359,fyn, , ,2
+8491,10,1985,Waikato River,1501047,Whangamarino wetland,434.135,1145,Reao Stream, ,6,53,mofn,s13,2698100,6427400,3008359,fyn, , ,3
+8494,10,1985,Waikato River,1501047,Whangamarino wetland,434.131,,Maramarua River,,5,50,mofn,s12,2695800,6433100,3007138,sen,,,2
+8497,7,1985,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,7,59,mofn,s13,2703700,6426200,3008630,unn, , , 
+8498,5,1985,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14, ,Opuatia Stream, ,7,62,mofn,s13,2692900,6416900,3010552,unn, , , 
+8501,5,1985,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14, ,Opuatia Stream, ,7,64,mofn,s13,2691800,6415900,3010750,unn, , , 
+8503,4,1985,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,7,59,mofn,s13,2703700,6426200,3008630,ncn, , , 
+8504,4,1985,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,7,59,mofn,s13,2703700,6426200,3008630,ncn, , , 
+8507,3,1985,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,7,59,mofn,s13,2703700,6426200,3008630,ncn, , , 
+8510,2,1985,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14, ,Opuatia Stream, ,7,61,mofn,s13,2692300,6418400,3010292,unn, , , 
+8511,2,1985,Waikato River,1501047,Whangamarino wetland,434.136, ,Pungarehu Stream, ,7,59,mofn,s13,2703200,6426100,3008641,ncn, , , 
+8515,1,1985,Waikato River,1501047,Whangamarino wetland,434.131, ,Maramarua River, ,5,53,mofn,s12,2698000,6432300,3007314,fyn, , ,3
+8516,1,1985,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,5,47,mofn,s12,2695200,6430800,3007681,gin, , ,4
+2863,2,1986,Waikato River,1501047,Whangamarino wetland,434.13,1030,Whangamarino River, ,7,60,mofn,s13,2703800,6426200,3008630,ncn, , , 
+2864,2,1986,Waikato River,1501047,Whangamarino wetland,434.13,1418,Whangamarino River, ,5,47,mofn,s12,2694700,6431000,3007616,unn, , , 
+2865,1,1986,Waikato River,1501047,Whangamarino wetland,434.13,1022,Whangamarino River,,5,46,mofn,s12,2694400,6431300,3007556,ncn,,,
+2869,1,1986,Waikato River,1501047,Whangamarino wetland,434.131,1112,Maramarua River, ,5,53,mofn,s12,2698000,6432300,3007314,unn, , , 
+2870,1,1986,Waikato River,1501047,Whangamarino wetland,434.13,1420,Whangamarino River,,5,47,mofn,S12,2694700,6431100,3007616,unn,,,
+8476,4,1986,Waikato River,1501047,Whangamarino wetland,434.136, ,Pungarehu Stream, ,7,59,mofn,s13,2703200,6426000,3008641,ncn, , , 
+8477,4,1986,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,7,59,mofn,s13,2703500,6426000,3008630,gin, , ,6
+8951,5,1987,Waikato River,1501047,Whangamarino wetland,434.134,1040,Kopuku Stream tributary,,10,63,wrc,s12,2705200,6433500,3006914,gmt,,,1
+8952,5,1987,Waikato River,1501047,Whangamarino wetland,434.134,1100,Kopuku Stream tributary,,55,63,wrc,s12,2705700,6433800,3006905,ntc,,,
+8955,5,1987,Waikato River,1501047,Whangamarino wetland,434.134,1200,Kopuku Stream tributary,,18,63,wrc,s12,2705200,6432800,3007068,ntc,,,
+8956,5,1987,Waikato River,1501047,Whangamarino wetland,434.134,1215,Kopuku Stream tributary,,25,63,wrc,s12,2704800,6432500,3006995,ntc,,,
+7322,3,1988,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,60,niwa,S12,2702900,6433500,3007556,ntc,,,
+8669,4,1988,Awanui River,1501020,Unnamed wetland Awanui River 1,13,915,Waihoe Channel, ,5,15,nffg,o04,2531500,6677000,1004083,ncn, , , 
+8675,8,1988,Piako River,1501039,Topehaehae Stream tributary,91.23,,Topehaehae Stream tributary,,30,73,niwa,T14,2733500,6388000,3015674,han,,,1
+8930,5,1988,Waikato River,1501047,Whangamarino wetland,434.13,900,Whangamarino Swamp,,5,56,docw,S12,2700000,6432700,3007556,gmt,,,1
+9751,5,1988,Waikato River,1501047,Whangamarino wetland,434.134,1300,Kopuku Stream,,6,62,niwa,S12,2704400,6433600,3006890,oth,,,
+9752,5,1988,Waikato River,1501047,Whangamarino wetland,434.134,1030,Kopuku Stream, ,6,61,niwa,s12,2704000,6433900,3006890,fyn, , ,3
+9754,5,1988,Waikato River,1501047,Whangamarino wetland,434.134,1400,Kopuku Stream tributary,,50,64,niwa,s12,2704200,6432100,3006994,ef,1,,
+9755,5,1988,Waikato River,1501047,Whangamarino wetland,434.134,1500,Unnamed wetland,,6,61,niwa,S12,2704500,6434200,3006808,oth,,,
+9756,5,1988,Waikato River,1501047,Whangamarino wetland,434.134,1600,Unnamed wetland,,6,61,niwa,S12,2704400,6433900,3006904,oth,,,
+9826,9,1988,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino Swamp, ,6,58,niwa,s13,2701500,6425500,3007556,ncn, , ,1000
+9827,10,1988,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,5,48,niwa,s12,2695700,6430200,3007734,gin, , ,1
+10701,5,1988,Waikato River,1501047,Whangamarino wetland,434.13,930,Whangamarino Swamp,,5,56,docw,S12,2699900,6432600,3007556,gmt,,,1
+10702,7,1988,Waikato River,1501047,Whangamarino wetland,434.13,930,Whangamarino Swamp,,5,56,docw,S12,2700000,6432700,3007556,gmt,,,1
+10703,7,1988,Waikato River,1501047,Whangamarino wetland,434.13,945,Whangamarino Swamp,,5,48,docw,S12,2696000,6431100,3007556,gmt,,,1
+10704,8,1988,Waikato River,1501047,Whangamarino wetland,434.13,930,Whangamarino Swamp,,5,53,docw,S12,2697300,6431700,3007556,gmt,,,1
+10705,8,1988,Waikato River,1501047,Whangamarino wetland,434.13,1000,Whangamarino Swamp,,6,59,docw,S13,2703600,6426300,3007556,gmt,,,1
+10706,8,1988,Waikato River,1501047,Whangamarino wetland,434.13,930,Whangamarino Swamp,,5,47,docw,S12,2694900,6430600,3007556,gmt,,,1
+10707,8,1988,Waikato River,1501047,Whangamarino wetland,434.13,1000,Whangamarino Swamp,,5,53,docw,S12,2697600,6431700,3007556,gmt,,,2
+10708,9,1988,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,54,docw,S12,2699000,6432400,3007556,gmt,,,18
+10709,5,1989,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,55,docw,S13,2699300,6429900,3007556,gmt,,,1
+10710,5,1989,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,56,docw,S13,2699400,6429600,3007556,gmt,,,4
+10711,5,1989,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,53,docw,S12,2697600,6431700,3007556,gmt,,,1
+10712,5,1989,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,55,docw,S12,2699900,6432700,3007556,gmt,,,12
+9006,8,1990,Piako River,1501038,Kopuatai Peat Dome,91,1200,Piako River, ,2,24,wrc,t13,2732300,6422500,3009399,sen, , ,1
+9007,8,1990,Piako River,1501038,Kopuatai Peat Dome,91,1300,Piako River,,2,28,wrc,t13,2733300,6420100,3009865,sen,,,4
+9008,9,1990,Piako River,1501038,Kopuatai Peat Dome,91.11,,Patetonga Canal,,2,28,wrc,T13,2733000,6420000,3009971,ntc,,,
+9009,9,1990,Piako River,1501038,Kopuatai Peat Dome,91,,Piako River,,2,30,wrc,t13,2734500,6419500,3010044,ntc,,,
+9010,9,1990,Piako River,1501038,Kopuatai Peat Dome,91,,Piako River,,2,33,wrc,t13,2733500,6417200,3010520,ntc,,,
+9011,9,1990,Piako River,1501038,Kopuatai Peat Dome,91,1000,Piako River, ,2,35,wrc,t13,2732500,6416100,3010667,ncn, , , 
+11920,11,1990,Piako River,1501038,Kopuatai Peat Dome,91,1100,Piako River, ,2,35,wrc,t13,2732500,6416100,3010667,sen, , ,40
+11921,12,1990,Piako River,1501038,Kopuatai Peat Dome,91,1130,Piako River, ,2,35,wrc,t13,2732500,6416100,3010667,sen, , ,40
+12137,11,1990,Waikato River,1501075,Waikato River tributary 1,434.21,1800,Logans Drain,,40,130,nffc,S14,2716500,6378500,0,han,,,15
+11922,1,1991,Piako River,1501038,Kopuatai Peat Dome,91,1200,Piako River tributary, ,2,30,wrc,t13,2734600,6419300,3010105,ntc, , ,10
+11925,1,1991,Piako River,1501038,Kopuatai Peat Dome,91,1100,Piako River, ,2,35,wrc,t13,2732500,6416100,3010667,sen, , ,40
+11926,2,1991,Piako River,1501038,Kopuatai Peat Dome,91, ,Piako River, ,2,35,wrc,t13,2732500,6416100,3010667,sen, , ,40
+11931,3,1991,Piako River,1501038,Kopuatai Peat Dome,91,1145,Piako River, ,1,35,wrc,t13,2732500,6416100,3010667,sen, , ,40
+11932,4,1991,Piako River,1501038,Kopuatai Peat Dome,91,1100,Piako River, ,1,35,wrc,t13,2732500,6416100,3010667,sen, , ,40
+11934,5,1991,Piako River,1501038,Kopuatai Peat Dome,91,1100,Piako River, ,1,35,wrc,t13,2732500,6416100,3010667,sen, , ,40
+11935,6,1991,Piako River,1501038,Kopuatai Peat Dome,91,1100,Piako River, ,1,35,wrc,t13,2732500,6416100,3010667,sen, , ,40
+11936,11,1991,Piako River,1501038,Kopuatai Peat Dome,91.05, ,Elstow Canal, ,4,32,wrc,t13,2738400,6419400,3010083,ntc, , , 
+11937,11,1991,Piako River,1501038,Kopuatai Peat Dome,91.05, ,Unnamed pond, ,4,30,wrc,t13,2737700,6420700,3009822,ntc, , , 
+11938,11,1991,Piako River,1501038,Kopuatai Peat Dome,91.05,night,Unnamed wetland,,4,32,wrc,T13,2738400,6419300,0,gmt,,,1
+11939,11,1991,Piako River,1501038,Kopuatai Peat Dome,91.05, ,Unnamed lake, ,4,31,uow,t13,2739500,6419300,0,gmt, , ,3
+11940,11,1991,Piako River,1501038,Kopuatai Peat Dome,91.05,night,Unnamed wetland,,4,40,uow,T13,2740900,6412800,0,gmt,,,3
+11941,11,1991,Piako River,1501038,Kopuatai Peat Dome,91, ,Unnamed wetland, ,4,29,uow,t13,2733800,6419900,0,gmt, , ,5
+11942,12,1991,Piako River,1501038,Kopuatai Peat Dome,91,night,Unnamed wetland,,4,29,uow,T13,2734000,6419600,0,gmt,,,4
+11943,12,1991,Piako River,1501038,Kopuatai Peat Dome,91,night,Unnamed wetland,,4,29,uow,T13,2734200,6419600,0,gmt,,,3
+11944,12,1991,Piako River,1501038,Kopuatai Peat Dome,91,night,Unnamed wetland,,4,29,uow,T13,2734500,6419700,3009890,gmt,,,1
+11945,12,1991,Piako River,1501038,Kopuatai Peat Dome,91, ,Piako River tributary, ,4,31,uow,t13,2734700,6418700,3010272,gmt, , ,2
+4489,4,1992,Awanui River,1501023,Unnamed wetland Awanui River 3,13,1200,Unnamed wetland,,8,18,unk,N04,2528600,6676300,1004174,obs,,,1
+8407,9,1992,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14, ,Unnamed wetland, ,10,64,uow,s13,2693600,6415300,3010709,gmt, , ,5
+8412,9,1992,Waikato River,1501062,Waipa River tributary 2,434.22,night,Unnamed wetland,,20,110,uow,S14,2700100,6382400,3016806,gmt,,,5
+8413,10,1992,Waikato River,1501060,Waipa River tributary 1,434.22,night,Waipa River tributary,,15,105,uow,S14,2700300,6385500,3016083,gmt,,,5
+8414,10,1992,Waikato River,1501062,Waipa River tributary 2,434.22, ,Te Otomanui Lagoon, ,15,106,uow,s14,2698100,6384900,3016550,gmt, , ,5
+8416,10,1992,Waikato River,1501067,Mangahia Stream,434.22,night,Mangahia Stream,,30,145,uow,S15,2704200,6365400,3020081,gmt,,,5
+8417,10,1992,Waikato River,1501066,Waipa River tributary 3,434.22,night,Waipa River tributary,,20,141,uow,S15,2702000,6367400,3019711,gmt,,,5
+8418,10,1992,Waikato River,1501067,Mangahia Stream,434.22,night,Mangahia Stream,,15,141,uow,S15,2701500,6365900,3020065,gmt,,,5
+8419,10,1992,Waikato River,1501068,Mangaotama Stream,434.221,night,Mangaotama Stream,,20,151,uow,S15,2704700,6362900,3020636,gmt,,,5
+8420,10,1992,Waikato River,1501069,Waipa River tributary 4,434.22,night,Waipa River tributary,,30,149,uow,S15,2703600,6362300,3020852,gmt,,,5
+8421,10,1992,Waikato River,1501078,Mystery Creek tributary,434.24,night,Lake Maratoto outlet,,50,135,uow,S15,2713800,6366400,3019913,gmt,,,5
+8423,10,1992,Waikato River,1501057,Mangatoketoke Stream drain,434.211,night,Mangatoketoke Stream drain,,20,98,uow,S14,2708200,6392000,3014977,gmt,,,5
+10037,7,1992,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino Swamp, ,5,48,uow,s12,2696300,6431200,3007556,gmt, , ,5
+10038,7,1992,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,62,uow,S13,2701200,6429400,3007556,gmt,,,5
+10039,7,1992,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,60,uow,S13,2702700,6428700,3007556,gmt,,,5
+10040,7,1992,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,6,57,uow,S13,2701400,6426200,3007556,gmt,,,5
+10041,8,1992,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,6,56,uow,S13,2700900,6426300,3007556,gmt,,,5
+10042,8,1992,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,56,uow,S13,2700300,6426700,3007556,gmt,,,5
+10043,8,1992,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,6,58,uow,S13,2702200,6426200,3007556,gmt,,,5
+10044,7,1992,Waikato River,1501075,Waikato River tributary 1,434.21,night,Ruakura Road drain,,40,121,uow,S14,2716100,6379100,3017428,gmt,,,5
+10045,7,1992,Waikato River,1501075,Waikato River tributary 1,434.21,night,Ruakura Road drain,,40,122,uow,S14,2715200,6378200,0,gmt,,,5
+10046,7,1992,Waikato River,1501075,Waikato River tributary 1,434.21,night,Perceival Road drain,,40,122,uow,S14,2714900,6378300,0,gmt,,,5
+10049,9,1992,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14,night,Unnamed wetland,,10,64,uow,S13,2693800,6416300,3010709,gmt,,,5
+10050,9,1992,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14,night,Unnamed wetland,,10,64,uow,S13,2693600,6416400,3010709,gmt,,,5
+10117,6,1992,Piako River,1501038,Kopuatai Peat Dome,91,night,Unnamed wetland,,5,29,uow,T13,2734000,6419700,0,gmt,,,5
+10118,6,1992,Piako River,1501038,Kopuatai Peat Dome,91,night,Unnamed wetland,,5,29,uow,T13,2733900,6419700,0,gmt,,,5
+10119,6,1992,Piako River,1501038,Kopuatai Peat Dome,91,night,Unnamed wetland,,5,29,uow,T13,2734500,6419800,3009890,gmt,,,5
+10120,5,1992,Piako River,1501038,Kopuatai Peat Dome,91.13,night,Unnamed wetland,,5,40,uow,T13,2734400,6412000,0,gmt,,,5
+10121,5,1992,Piako River,1501038,Kopuatai Peat Dome,91.05,night,Unnamed wetland,,5,45,uow,T13,2740900,6412800,3011231,gmt,,,5
+10122,5,1992,Piako River,1501038,Kopuatai Peat Dome,91.05,night,Elstow Canal,,5,32,uow,T13,2738300,6419400,3010083,gmt,,,5
+10123,7,1992,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,47,uow,S12,2695000,6430700,3007556,gmt,,,5
+12525,4,1992,Waikato River,1501072,Waitomo Stream tributary,434.226,1130,Waitomo Stream tributary, ,100,214,niwa,s16,2691700,6323300,3029501,efp,1, ,50
+10047,9,1993,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14,night,Unnamed wetland,,10,61,uow,S13,2693700,6417400,0,gmt,,,5
+10048,9,1993,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14,night,Unnamed wetland,,10,61,uow,S13,2693600,6417400,0,gmt,,,5
+10124,7,1993,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,52,uow,S12,2697400,6431900,3007556,gmt,,,5
+13026,4,1993,Waikato River,1501056,Unnamed wetland Awaroa Stream 2,434.19,930,Awaroa Stream tributary, ,20,91,niwa,s14,2693900,6399500,3013637,efp,1, ,300
+13028,4,1993,Waikato River,1501056,Unnamed wetland Awaroa Stream 2,434.19,1230,Awaroa Stream tributary, ,25,91,niwa,s14,2693900,6399700,3013540,efp,1, ,90
+13029,5,1993,Waikato River,1501056,Unnamed wetland Awaroa Stream 2,434.19,night,Unnamed wetland,,20,91,niwa,S14,2694000,6399600,3013638,gmt,,,20
+13043,8,1993,Waikato River,1501054,Lake Waahi wetland south,434.19,900,Unnamed wetland, ,12,85,niwa,s13,2698200,6400700,0,ntc, , ,5
+13044,8,1993,Waikato River,1501054,Lake Waahi wetland south,434.19,925,Unnamed wetland,,12,85,niwa,S13,2697700,6400700,3013320,ntc,,,23
+13045,8,1993,Waikato River,1501055,Lake Waahi wetland west,434.19,1300,Lake Waahi tributary, ,12,87,niwa,s13,2695800,6404200,3012839,ntc, , , 
+13228,6,1993,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15,night,Unnamed lake,,10,5,docx,O04,2544600,6692300,1002187,kgt,,,14
+13229,6,1993,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15,night,Unnamed lake,,5,5,docx,O04,2545500,6694400,1002038,kgt,,,10
+13235,6,1993,Karikari Bay,1501025,Unnamed wetland Karikari Bay,16,night,Unnamed wetland,,10,2,docx,O03,2538200,6704100,0,kbt,,,2
+13237,6,1993,Houhora Harbour,1501002,Kaimaumau wetland,8.01,night,Motutangi Stream,,1,3,docx,N03,2524900,6705500,1001705,ntc,,,10
+13238,6,1993,Houhora Harbour,1501002,Kaimaumau wetland,8.01,night,Motutangi Swamp,,10,7,docx,N03,2528300,6700100,1001741,kbt,,,10
+13239,6,1993,Rangaunu Bay,1501002,Kaimaumau wetland,9,night,Waihuahua Swamp,,10,2,docx,O03,2531900,6700500,0,kbt,,,6
+13240,6,1993,Rangaunu Harbour,1501002,Kaimaumau wetland,12, ,Unnamed lake, ,10,5,docx,o04,2531400,6699100,0,kbt, , ,3
+13243,6,1993,Rangaunu Harbour,1501023,Unnamed wetland Awanui River 3,12,night,Unnamed wetland,,8,18,docx,N04,2528600,6676400,1004174,kbt,,,4
+13247,6,1993,Rangaunu Harbour,1501016,Unnamed wetland Rangaunu Harbour 2,12,night,Unnamed wetland,,30,4,docx,N04,2528600,6688100,1002474,kbt,,,2
+13255,7,1993,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1000,Unnamed wetland, ,90,127,docx,q06,2621700,6619800,1015703,kbt, , ,4
+13256,7,1993,Wairoa River,1501086,Unnamed wetland Otakairangi Stream,466,900,Unnamed wetland, ,90,129,docx,q06,2617500,6621200,0,ntc, , ,5
+13257,8,1993,Houhora Harbour,1501004,Unnamed wetland Houhora Harbour 1,8,night,Unnamed wetland,,1,2,docx,N03,2523400,6713500,1001397,kbt,,,4
+13258,8,1993,Home Creek,1501009,Unnamed wetland Home Creek 1,11,night,Unnamed wetland,,20,3,docx,N04,2529700,6693200,1002137,kbt,,,2
+13259,8,1993,Rangaunu Harbour,1501024,Unnamed wetland Awanui River 4,12,night,Unnamed wetland,,6,13,docx,N04,2528500,6679500,1003660,kbt,,,2
+13260,8,1993,Awanui River,1501021,Unnamed wetland Awanui River 2,13,night,Unnamed wetland,,10,19,docx,O04,2530200,6673900,0,kbt,,,3
+13266,8,1993,Parengarenga Harbour,1501001,Unnamed wetland Parengarenga Harbour,4, ,Unnamed wetland, ,12,1,docx,n02,2497800,6739800,1000650,kbt, , ,2
+14976,8,1993,Waikato River,1501055,Lake Waahi wetland west,434.19,day,Unnamed wetland,,12,87,niwa,S13,2695800,6403800,0,pun,,,1
+14977,8,1993,Waikato River,1501054,Lake Waahi wetland south,434.19,day,Unnamed wetland,,12,85,niwa,S13,2697600,6400800,3013320,ntc,,,
+2297,3,1994,Waihou River,1501040,Ohinemuri River tributary,92.157,1010,Ohinemuri River tributary, ,90,73,bior,t13,2762900,6419300,3009973,efm,1, , 
+13313,6,1994,Wairoa River,1501083,Taita Stream tributary,466.04, ,Unnamed wetland, ,15,47,docx,p07,2578200,6592700,1021238,kbt, , ,6
+15015,9,1994,Waikato River,1501055,Lake Waahi wetland west,434.19,1000,Unnamed wetland,,12,87,niwa,S13,2695700,6403700,0,gmt,,,27
+13325,4,1995,Wairoa River,1501089,Wairua River tributary 2,466, ,Unnamed wetland, ,90,133,docx,q06,2623500,6624300,1014833,kbt, , ,7
+14286,7,1995,Wairoa River,1501086,Unnamed wetland Otakairangi Stream,466,,Unnamed wetland,,90,129,docx,Q06,2616500,6622200,0,han,,,2
+13411,7,1996,Waikato River,1501075,Waikato River tributary 1,434.21,2100,Ruakura Road drain,,40,121,nffc,S14,2715900,6378900,3017428,han,,,2
+14816,3,1997,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14, ,Opuatia Stream tributary, ,15,62,kma,s13,2690500,6417800,3010310,ef,1, ,300
+14820,9,1997,Waikato River,1501049,Waipapa Stream tributary,434,1000,Waipapa Stream tributary,,18,52,kma,S13,2693300,6425200,3008751,ef,1,,300
+14821,10,1997,Waikato River,1501049,Waipapa Stream tributary,434, ,Unnamed pond, ,20,53,kma,s13,2693300,6424400,3008890,gmt, , ,2
+17376,7,1997,Waikato River,1501051,Unnamed wetland Awaroa Stream 1,434.151,,Awaroa Stream,,9,78,docw,R13,2686500,6409900,3011822,ntc,,,11
+17377,8,1997,Waikato River,1501051,Unnamed wetland Awaroa Stream 1,434.151,1000,Awaroa Stream, ,9,78,docw,r13,2686500,6409900,3011822,ef,2, , 
+12742,10,1998,Wairoa River,1501088,Wairua River tributary 1,466,,Wairua River tributary,,90,129,uow,Q06,2623900,6620500,1015665,gmt,,,10
+12743,10,1998,Houhora Harbour,1501007,Unnamed wetland Houhora Harbour 2,8,,Unnamed wetland,,20,2,uow,N03,2519000,6713300,1001415,gmt,,,10
+12744,10,1998,Karikari Bay,1501025,Unnamed wetland Karikari Bay,16,,Unnamed wetland,,3,5,uow,O03,2541000,6703800,1001702,gmt,,,10
+12745,10,1998,Houhora Harbour,1501006,Unnamed wetland Korakanui,8,,Unnamed wetland,,30,4,uow,N03,2517300,6712000,1001440,gmt,,,10
+12746,10,1998,Houhora Harbour,1501008,Unnamed wetland Waihopo Stream,8.055,,Waihopo Lake,,50,5,uow,N03,2515200,6716200,1001302,gmt,,,10
+12748,11,1998,Wairoa River,1501082,Unnamed wetland Rotu Stream tributary,466.04,,Unnamed wetland,,10,38,uow,P07,2582100,6590100,1021799,gmt,,,5
+12749,10,1998,Wairoa River,1501086,Unnamed wetland Otakairangi Stream,466,,Unnamed wetland,,100,130,uow,Q06,2616300,6622300,0,gmt,,,10
+14303,7,1998,Wairoa River,1501086,Unnamed wetland Otakairangi Stream,466,night,Unnamed wetland,,90,128,docx,Q06,2617900,6621800,1015093,gmt,,,15
+19230,9,1998,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,52,uow,S12,2697300,6431800,3007556,gmt,,,14
+19231,9,1998,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,54,uow,S12,2699300,6432500,3007556,gmt,,,14
+19232,9,1998,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,54,uow,S12,2699300,6432300,3007556,gmt,,,14
+19233,9,1998,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,54,uow,S12,2699400,6432700,3007556,gmt,,,14
+19234,9,1998,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,55,uow,S12,2700000,6433100,3007556,gmt,,,10
+19235,9,1998,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,59,uow,S12,2702500,6432900,3007556,gmt,,,14
+19236,9,1998,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,60,uow,S13,2702800,6428400,3007556,gmt,,,14
+19237,9,1998,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,54,uow,S12,2696700,6431500,3007556,gmt,,,14
+14549,10,1999,Wairoa River,1501086,Unnamed wetland Otakairangi Stream,466,1500,Otakairangi Stream, ,90,127,niwa,q06,2618100,6621300,1015260,efp,1, , 
+14550,10,1999,Wairoa River,1501086,Unnamed wetland Otakairangi Stream,466,915,Otakairangi Stream, ,90,130,niwa,q06,2616400,6622600,1015260,etc,1, , 
+18792,8,1999,Home Creek,1501013,Unnamed wetland Home Creek 3,11,1420,Unnamed wetland,,30,7,docx,N04,2526900,6694600,1002114,kgt,,,4
+18793,8,1999,Home Creek,1501014,Unnamed wetland Home Creek 4,11,night,Unnamed wetland,,35,8,docx,N04,2526000,6695000,1002057,kgt,,,20
+18794,8,1999,Home Creek,1501014,Unnamed wetland Home Creek 4,11,night,Unnamed wetland,,35,7,docx,N04,2527000,6695000,1002056,kgt,,,12
+18799,8,1999,Home Creek,1501014,Unnamed wetland Home Creek 4,11, ,Unnamed wetland, ,30,9,docx,n04,2525400,6694300,1002111,kgt, , ,10
+19097,7,1999,Rangaunu Harbour,1501015,Unnamed wetland Rangaunu Harbour 1,12,1200,Unnamed wetland,,0,1,docx,O04,2530500,6690700,0,kgt,,,10
+19098,8,1999,Wairoa River,1501086,Unnamed wetland Otakairangi Stream,466,night,Unnamed wetland,,90,129,docx,Q06,2617500,6622800,1015093,gmt,,,14
+19239,6,1999,Karikari Bay,1501025,Unnamed wetland Karikari Bay,16,,Unnamed wetland,,5,5,uow,O03,2541100,6703800,1001702,gmt,,,10
+19240,6,1999,Karikari Bay,1501025,Unnamed wetland Karikari Bay,16,,Unnamed wetland,,5,0,uow,O03,2540600,6703800,1001722,gmt,,,10
+19241,6,1999,Awanui River,1501020,Unnamed wetland Awanui River 1,13,,Unnamed wetland,,5,14,uow,O04,2531500,6677500,1003946,gmt,,,10
+19356,9,1999,Houhora Harbour,1501003,Unnamed wetland Ariawa Stream,8, ,Unnamed wetland, ,30,5,docx,n03,2520500,6705700,1001605,kgt, , ,7
+19357,9,1999,Houhora Harbour,1501005,Unnamed wetland Kaikatia Stream,8,night,Unnamed wetland,,30,6,docx,N03,2518000,6708900,1001527,gmt,,,6
+19358,9,1999,Houhora Harbour,1501003,Unnamed wetland Ariawa Stream,8,night,Unnamed wetland,,35,6,docx,N03,2520400,6706500,1001605,kgt,,,8
+19359,9,1999,Houhora Harbour,1501003,Unnamed wetland Ariawa Stream,8, ,Unnamed wetland, ,35,6,docx,n03,2520400,6706700,1001605,kgt, , ,6
+19362,9,1999,Houhora Harbour,1501005,Unnamed wetland Kaikatia Stream,8,night,Unnamed wetland,,30,6,docx,N03,2518200,6708800,1001527,kgt,,,7
+19377,9,1999,Houhora Harbour,1501006,Unnamed wetland Korakanui,8,night,Unnamed wetland,,25,5,docx,N03,2517000,6712000,1001456,kgt,,,9
+19397,10,1999,Rangaunu Harbour,1501016,Unnamed wetland Rangaunu Harbour 2,12,night,Unnamed wetland,,30,5,docx,N04,2528400,6688500,1002474,gmt,,,10
+19398,10,1999,Rangaunu Harbour,1501016,Unnamed wetland Rangaunu Harbour 2,12,1100,Unnamed wetland,,30,6,docx,N04,2528600,6688100,1002474,gmt,,,5
+19604,10,1999,Houhora Harbour,1501004,Unnamed wetland Houhora Harbour 1,8,night,Unnamed wetland,,0,2,docx,N03,2522700,6714200,1001397,gmt,,,5
+19606,10,1999,Houhora Harbour,1501004,Unnamed wetland Houhora Harbour 1,8,night,Unnamed wetland,,0,1,docx,N03,2523500,6712500,1001428,gmt,,,5
+19612,11,1999,Wairoa River,1501083,Taita Stream tributary,466.04,night,Unnamed wetland,,20,46,docx,P07,2578300,6593000,1021238,gmt,,,18
+19613,11,1999,Houhora Harbour,1501007,Unnamed wetland Houhora Harbour 2,8,night,Unnamed wetland,,10,1,docx,N03,2519700,6713200,1001415,gmt,,,8
+19614,11,1999,Rangaunu Harbour,1501017,Unnamed wetland Rangaunu Harbour 3,12,night,Unnamed wetland,,20,2,docx,O04,2530300,6687700,1002613,gmt,,,9
+19615,11,1999,Houhora Harbour,1501003,Unnamed wetland Ariawa Stream,8,night,Unnamed wetland,,30,5,docx,N03,2520200,6705700,1001598,gmt,,,8
+19616,11,1999,Waitangi River,1501028,Unnamed wetland Manaia Stream,37.01,night,Unnamed wetland,,55,17,docx,P05,2598500,6653100,1008485,gmt,,,10
+19617,11,1999,Rangaunu Harbour,1501019,Unnamed wetland Rangaunu Harbour 5,12,night,Unnamed wetland,,35,6,docx,N04,2529000,6684000,0,kgt,,,12
+19618,11,1999,Waitangi River,1501027,Unnamed wetland Ngatahuna Stream,37.01,night,Unnamed wetland,,70,22,docx,P05,2601500,6652000,1008529,gmt,,,12
+19619,11,1999,Waitangi River,1501029,Unnamed wetland Patukauwae Stream,37.01, ,Unnamed wetland, ,60,23,docx,p05,2597700,6650700,1008935,kgt, , ,20
+23043,8,1999,Piako River,1501038,Kopuatai Peat Dome,91.13,night,Unnamed wetland,,5,37,docw,T13,2733600,6414700,0,ntc,,,6
+23044,8,1999,Piako River,1501038,Kopuatai Peat Dome,91, ,Unnamed wetland, ,5,23,docw,t13,2732700,6424400,0,ntc, , ,7
+23045,8,1999,Piako River,1501038,Kopuatai Peat Dome,91, ,Unnamed wetland, ,5,33,docw,t13,2734000,6417000,0,ntc, , ,10
+20272,8,2000,Waitangi River,1501030,Unnamed wetland Reretiti Stream,37.013,night,Unnamed wetland,,75,26,docx,P05,2591900,6651200,1008897,gmt,,,10
+19712,4,2001,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63, ,Unnamed lake, ,25,2,nll,r08,2659300,6554900,2000356,ntc, , ,4
+19734,1,2001,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1045,Unnamed wetland, ,25,2,arc,r08,2658700,6555100,0,gmt, , ,5
+19735,1,2001,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1015,Unnamed wetland, ,25,2,arc,r08,2659400,6554900,0,gmt, , ,9
+20603,3,2001,Parengarenga Harbour,1501001,Unnamed wetland Parengarenga Harbour,4,night,Unnamed wetland,,0,0,docx,N02,2498100,6739600,1000650,gmt,,,12
+21547,6,2001,Wairoa River,1501091,Unnamed wetland Towai Stream,466.18,night,Unnamed wetland,,115,149,docx,Q06,2616200,6633100,0,gmt,,,10
+21549,6,2001,Tangitiki Bay,1501081,Unnamed wetland Tangitiki Bay West,468,night,Unnamed wetland,,1,1,docx,P08,2606700,6551300,1026699,gmt,,,10
+21568,10,2001,Wairoa River,1501091,Unnamed wetland Towai Stream,466.18,night,Unnamed wetland,,120,151,docx,Q06,2615700,6632300,1012798,gmt,,,12
+21786,1,2001,Waikato River,1501058,Lake B wetlands,434.211,1145,Lake B, ,30,101,wrc,s14,2708500,6389000,3015340,obs, , ,1
+22320,12,2001,Kawakawa River,1501031,Unnamed wetland Waiharakeke Stream tributary,38.032,night,Unnamed wetland,,60,22,docx,P05,2598400,6642000,1010650,gmt,,,12
+22323,12,2001,Kawakawa River,1501033,Unnamed wetland Waipuna Stream,38.033,night,Unnamed wetland,,55,30,docx,P06,2601500,6636000,1012025,gmt,,,12
+22324,12,2001,Kawakawa River,1501032,Unnamed wetland Hawera Stream tributary,38.033,night,Unnamed wetland,,60,28,docx,P06,2598800,6636400,1011826,gmt,,,10
+23404,9,2001,Waikato River,1501079,Lake Serpentine wetlands,434.24, ,Lake Serpentine, ,50,144,wrc,s15,2713800,6358700,3021441,ncn, , , 
+31128,1,2001,Waikato River,1501073,Unnamed wetland Mangapu River,434.26, ,Mangapu River wetland, ,53,213,docw,S16,2696747,6322075,3029725,gmt, , ,3
+31129,1,2001,Waikato River,1501073,Unnamed wetland Mangapu River,434.26, ,Mangapu River tributary, ,53,213,docw,S16,2696875,6322122,3029725,ntc, , , 
+23407,9,2002,Waikato River,1501079,Lake Serpentine wetlands,434.24, ,Lake Serpentine, ,50,144,wrc,s15,2713800,6358700,3021441,ncn, , , 
+17389,4,2003,Waikato River,1501058,Lake B wetlands,434.211, ,Lake B, ,30,101,docw,s14,2708400,6389000,3015340,ntc, , ,14
+17861,9,2003,Waikato River,1501047,Whangamarino wetland,434.13,1030,Whangamarino River, ,4,48,uow,s13,2695300,6430000,3007876,ef,1, ,2500
+17862,7,2003,Waikato River,1501047,Whangamarino wetland,434.13,1000,Whangamarino River, ,5,49,uow,s13,2695300,6429300,3008004,gin, , ,4
+17863,3,2003,Waikato River,1501047,Whangamarino wetland,434.13,1000,Whangamarino River, ,4,49,uow,s13,2695300,6429500,3007958,gin, , ,4
+17864,5,2003,Waikato River,1501047,Whangamarino wetland,434.13,1000,Whangamarino River, ,4,48,uow,s13,2695500,6430000,3007876,gin, , ,4
+17865,1,2003,Waikato River,1501047,Whangamarino wetland,434.13,1000,Whangamarino River, ,4,50,uow,s13,2695500,6428500,3008004,gin, , ,4
+18715,10,2003,Waikato River,1501075,Waikato River tributary 1,434.21,,Komakorau Stream tributary,,45,121,nzac,S14,2715800,6378800,3017435,gmt,,,1
+22453,5,2003,Horahora River,1501034,Unnamed wetland Horahora River,50,night,Unnamed wetland,,0,1,docx,Q06,2646100,6615100,1016888,gmt,,,20
+22454,5,2003,Horahora River,1501034,Unnamed wetland Horahora River,50,night,Unnamed wetland,,0,0,docx,Q06,2645000,6614700,0,gmt,,,10
+22455,5,2003,Horahora River,1501034,Unnamed wetland Horahora River,50,night,Unnamed wetland,,0,1,docx,Q06,2645400,6614900,0,gmt,,,10
+22467,8,2003,Waitangi River,1501029,Unnamed wetland Patukauwae Stream,37.01,night,Unnamed wetland,,65,23,docx,P05,2597900,6650700,0,gmt,,,10
+22472,11,2003,Waitangi River,1501028,Unnamed wetland Manaia Stream,37.01,night,Unnamed wetland,,60,20,docx,P05,2599400,6652500,0,gmt,,,10
+22473,11,2003,Waitangi River,1501028,Unnamed wetland Manaia Stream,37.01,night,Unnamed wetland,,60,25,docx,P05,2599400,6652200,0,gmt,,,10
+23126,10,2003,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,1054,Unnamed wetland,,150,120,docw,S17,2690800,6307000,3034565,gmt,,,40
+23406,9,2003,Waikato River,1501079,Lake Serpentine wetlands,434.24, ,Lake Serpentine, ,50,144,wrc,s15,2713800,6358700,3021441,ncn, , , 
+20395,8,2004,Piako River,1501037,Awaiti Canal,91.03,1330,Awaiti Canal,,2,18,kal,T13,2735300,6429800,3007933,han,,,10
+20396,9,2004,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1130,Unnamed wetland,,20,2,arc,R08,2659500,6554800,9,gmt,,,12
+20397,9,2004,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1200,Unnamed wetland,,20,3,arc,R08,2659600,6554700,9,gmt,,,12
+20398,9,2004,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1300,Unnamed wetland, ,20,2,arc,r08,2659100,6554700,9,gmt, , ,12
+20399,9,2004,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1330,Unnamed wetland, ,20,2,arc,r08,2658800,6554700,9,gmt, , ,6
+20410,9,2004,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1030,Unnamed wetland,,20,2,arc,R08,2659500,6554800,9,gmt,,,12
+20411,9,2004,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1100,Unnamed wetland,,20,3,arc,R08,2659600,6554700,9,gmt,,,12
+20412,9,2004,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1130,Unnamed wetland,,20,2,arc,R08,2659100,6554700,9,gmt,,,12
+20413,9,2004,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1200,Unnamed wetland,,20,2,arc,R08,2658800,6554700,9,gmt,,,6
+20627,10,2004,Waikato River,1501058,Lake B wetlands,434.211,1200,Lake B, ,30,101,docw,s14,2708185,6388740,3015340,gmt, , ,20
+20628,2,2004,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14, ,Unnamed wetland, ,10,60,docw,s13,2692597,6418608,0,gmt, , ,10
+20629,10,2004,Waikato River,1501047,Whangamarino wetland,434.13,day,Whangamarino Swamp,,5,48,docw,S12,2696400,6431500,3007556,gmt,,,10
+20630,10,2004,Waikato River,1501047,Whangamarino wetland,434.13,day,Whangamarino Swamp,,20,56,docw,S12,2699600,6430100,3007556,gmt,,,10
+20731,6,2004,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Unnamed wetland,,150,120,docw,S17,2690490,6306985,3034818,gmt,,,10
+20732,6,2004,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Unnamed wetland,,150,120,docw,S17,2690775,6306940,3034818,gmt,,,9
+20733,6,2004,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Unnamed wetland,,150,120,docw,S17,2690680,6306800,3034818,gmt,,,9
+20734,6,2004,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Unnamed wetland,,150,119,docw,S17,2690900,6306820,3034819,gmt,,,10
+21284,9,2004,Mokau River,1501041,Unnamed wetland Mokau River tributary,407,1100,Unnamed wetland,,140,114,kal,R17,2689600,6303700,0,obs,,,1
+23077,2,2004,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14, ,Unnamed wetland, ,15,60,docw,s13,2692597,6418608,0,gmt, , ,10
+23105,1,2004,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,59,docw,S13,2700808,6422763,3007556,gmt,,,10
+105772,12,2004,Waikato River,1501047,Whangamarino wetland,434.13,1210,Whangamarino River,,16,44,uow,S12,2693445,6431920,3007396,efb,,,2808
+105773,12,2004,Waikato River,1501047,Whangamarino wetland,434.13,1320,Whangamarino River,,16,44,uow,S12,2694551,6431198,3007396,efb,,,3048
+23106,10,2005,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,59,docw,S13,2700816,6422724,3007556,gmt,,,5
+23107,10,2005,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,59,docw,S13,2700808,6422763,3007556,gmt,,,5
+23108,10,2005,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,59,docw,S13,2700799,6422807,3007556,gmt,,,5
+23109,10,2005,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,59,docw,S13,2701244,6422795,3007556,gmt,,,2
+23110,10,2005,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino Swamp, ,5,59,docw,s13,2701129,6422868,3007556,gmt, , ,1
+23111,10,2005,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,59,docw,S13,2700998,6422957,3007556,gmt,,,1
+23112,10,2005,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,5,56,docw,S12,2699421,6430030,3007556,gmt,,,10
+23113,10,2005,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino Swamp,,5,52,docw,S12,2696610,6432243,3007556,gmt,,,10
+23114,10,2005,Waikato River,1501051,Unnamed wetland Awaroa Stream 1,434.151, ,Awaroa Stream, ,10,78,docw,r13,2686449,6409943,3011822,gmt, , ,10
+23115,10,2005,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14,,Unnamed wetland,,5,61,docw,S13,2693562,6417369,0,gmt,,,10
+23116,10,2005,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14,,Unnamed wetland,,5,62,docw,S13,2693509,6417402,0,gmt,,,10
+23117,10,2005,Piako River,1501038,Kopuatai Peat Dome,91.11, ,Unnamed wetland, ,3,28,docw,t13,2732984,6419975,0,gmt, , ,10
+23118,10,2005,Piako River,1501038,Kopuatai Peat Dome,91, ,Unnamed wetland, ,3,29,docw,t13,2734495,6419692,0,gmt, , ,5
+23119,10,2005,Piako River,1501038,Kopuatai Peat Dome,91, ,Unnamed wetland, ,3,29,docw,t13,2734039,6419601,0,gmt, , ,10
+23120,10,2005,Piako River,1501038,Kopuatai Peat Dome,91,night,Unnamed wetland,,3,30,docw,T13,2734591,6419357,0,gmt,,,9
+23121,11,2005,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Unnamed wetland,,150,120,docw,S17,2690520,6306996,3034818,gmt,,,10
+23122,11,2005,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Unnamed wetland,,150,120,docw,S17,2690954,6307213,3034565,gmt,,,9
+23123,11,2005,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Unnamed wetland,,150,120,docw,S17,2691126,6307094,3034708,gmt,,,10
+23124,11,2005,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Unnamed wetland,,150,119,docw,S17,2690916,6306817,3034819,gmt,,,10
+23125,11,2005,Mokau River,1501041,Unnamed wetland Mokau River tributary,407,,Unnamed wetland,,140,114,docw,R17,2689057,6303623,3035850,gmt,,,5
+23142,11,2005,Mokau River,1501041,Unnamed wetland Mokau River tributary,407,night,Unnamed wetland,,140,114,docw,R17,2689135,6303222,3036016,gmt,,,5
+23143,11,2005,Mokau River,1501041,Unnamed wetland Mokau River tributary,407,night,Unnamed wetland,,140,114,docw,R17,2689142,6303215,3036016,gmt,,,5
+23144,11,2005,Mokau River,1501041,Unnamed wetland Mokau River tributary,407,night,Unnamed wetland,,140,114,docw,R17,2689644,6303590,3035995,gmt,,,5
+23145,11,2005,Mokau River,1501041,Unnamed wetland Mokau River tributary,407,night,Unnamed wetland,,140,114,docw,R17,2689658,6303558,3035995,gmt,,,5
+23146,11,2005,Mokau River,1501041,Unnamed wetland Mokau River tributary,407,night,Unnamed wetland,,140,116,docw,S17,2690082,6303971,3035821,gmt,,,5
+24608,8,2005,Rangaunu Bay,1501018,Unnamed wetland Rangaunu Harbour 4,9,night,Unnamed wetland,,5,3,docx,O04,2530400,6686600,0,gmt,,,15
+25857,2,2005,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14, ,Opuatia Stream, ,8,60,uow,s13,2692456,6419294,3009640,efb,1, ,1177
+22847,10,2006,Lake Tomorata,1501035,Unnamed wetlands Poutawa Stream,63,1000,Unnamed wetland,,5,2,doca,R08,2659200,6554800,0,gmt,,,32
+22848,10,2006,Pakiri River,1501036,Unnamed wetland Pakiri River,64,1300,Unnamed wetland,,3,3,doca,R09,2664000,6548200,0,gmt,,,14
+23034,11,2006,Waikato River,1501065,Lake Koromatua wetlands,434.221, ,Lake Koromatua, ,35,141,docw,s14,2705994,6371730,3018585,gmt, , ,10
+23035,11,2006,Waikato River,1501065,Lake Koromatua wetlands,434.221, ,Lake Koromatua, ,35,141,docw,s14,2706039,6371628,3018585,gmt, , ,10
+23036,11,2006,Waikato River,1501065,Lake Koromatua wetlands,434.221, ,Lake Koromatua, ,35,141,docw,s14,2706097,6371579,3018585,gmt, , ,10
+23037,11,2006,Waikato River,1501065,Lake Koromatua wetlands,434.221,night,Lake Koromatua,,35,141,docw,S14,2705668,6371368,3018585,gmt,,,10
+23078,10,2006,Piako River,1501038,Kopuatai Peat Dome,91.05,,Elstow Canal tributary,,5,42,docw,t13,2741903,6411506,3011441,gmt,,,10
+23079,10,2006,Piako River,1501038,Kopuatai Peat Dome,91.05, ,Elstow Canal tributary, ,5,40,docw,t13,2741013,6412699,3011231,gmt, , ,10
+23080,10,2006,Piako River,1501038,Kopuatai Peat Dome,91.05, ,Elstow Canal, ,5,32,docw,t13,2738420,6419429,3010083,gmt, , ,10
+23081,10,2006,Piako River,1501038,Kopuatai Peat Dome,91.05,night,Unnamed wetland,,5,32,docw,T13,2738336,6419409,0,gmt,,,10
+23082,10,2006,Piako River,1501038,Kopuatai Peat Dome,91.13,night,Unnamed wetland,,5,40,docw,T13,2734245,6411959,0,gmt,,,10
+23083,10,2006,Piako River,1501038,Kopuatai Peat Dome,91.13,night,Unnamed wetland,,5,40,docw,T13,2734223,6411883,0,gmt,,,10
+23085,11,2006,Waikato River,1501052,Lake Rotokawau wetlands,434.161,night,Lake Rotokawau,,10,77,docw,S13,2703706,6410852,3011366,gmt,,,10
+23086,11,2006,Waikato River,1501052,Lake Rotokawau wetlands,434.161,night,Lake Rotokawau,,10,77,docw,S13,2703440,6411165,3011366,gmt,,,10
+23087,11,2006,Waikato River,1501052,Lake Rotokawau wetlands,434.161,night,Lake Rotokawau,,10,77,docw,S13,2703429,6410991,3011366,gmt,,,10
+23092,9,2006,Waihou River,1501040,Ohinemuri River tributary,92.157, ,Ohinemuri River tributary, ,95,74,docw,t13,2762804,6419444,3009973,gmt, , ,4
+23093,9,2006,Waihou River,1501040,Ohinemuri River tributary,92.157, ,Ohinemuri River tributary, ,95,74,docw,t13,2762806,6419439,0,gmt, , ,6
+23094,9,2006,Waihou River,1501040,Ohinemuri River tributary,92.157, ,Ohinemuri River tributary, ,95,74,docw,t13,2762789,6419519,3009973,gmt, , ,4
+27031,10,2006,Wairoa River,1501084,Unnamed wetland Awakino River,466.05, ,Awakino River tributary, ,5,40,docx,p07,2587700,6590700,1021688,ntc, , ,2
+27032,10,2006,Wairoa River,1501084,Unnamed wetland Awakino River,466.05,night,Unnamed wetland,,5,40,docx,P07,2587800,6591000,0,kgt,,,29
+27033,11,2006,Ahipara Bay,1501092,Unnamed wetland Ahipara Bay tributary,493,night,Unnamed pond,,25,3,docx,N04,2527500,6674900,0,gmt,,,11
+27034,11,2006,Ahipara Bay,1501092,Unnamed wetland Ahipara Bay tributary,493,night,Unnamed pond,,25,2,docx,N04,2527400,6674600,0,gmt,,,10
+31118,9,2006,Waikato River,1501058,Lake B wetlands,434.211,night,Lake B,,35,101,doc,S14,2708200,6388924,3015493,gmt,,,1
+31270,9,2006,Waikato River,1501043,Puni wetland Waikato River,434, ,Puni Wetland, ,6,18,bior,R12,2672038,6432651,3007212,nte,0, ,8
+31271,9,2006,Waikato River,1501043,Puni wetland Waikato River,434, ,Puni Wetland, ,12,17,bior,R12,2672080,6431824,3007505,nte,0, ,8
+31272,10,2006,Waikato River,1501043,Puni wetland Waikato River,434,1100,Puni Wetland, ,6,18,bior,R12,2671890,6432432,3007267,gmt,0, ,4
+31273,11,2006,Waikato River,1501043,Puni wetland Waikato River,434,1210,Puni Wetland, ,9,17,bior,R12,2672008,6432044,3007267,nte,0, ,6
+31274,10,2006,Waikato River,1501043,Puni wetland Waikato River,434,1210,Puni Wetland, ,12,17,bior,R12,2672215,6431848,3007445,gmt,0, ,4
+31275,9,2006,Waikato River,1501043,Puni wetland Waikato River,434, ,Puni Wetland, ,15,20,bior,R12,2673454,6433479,3007013,nte,0, ,8
+31278,11,2006,Waikato River,1501043,Puni wetland Waikato River,434,1200,Puni Wetland, ,6,18,bior,R12,2672013,6432150,3007267,gmt,0, ,6
+31279,11,2006,Waikato River,1501043,Puni wetland Waikato River,434,1215,Puni Wetland, ,10,17,bior,R12,2672000,6432000,3007267,gmt,0, ,6
+31280,12,2006,Waikato River,1501043,Puni wetland Waikato River,434, ,Puni Wetland, ,14,18,bior,R12,2672500,6432100,3007418,fyn,0, ,2
+31281,12,2006,Waikato River,1501043,Puni wetland Waikato River,434, ,Puni Wetland, ,10,18,bior,R12,2672709,6432472,3007332,fyn,0, ,2
+31282,9,2006,Waikato River,1501043,Puni wetland Waikato River,434,1300,Puni Wetland, ,9,19,bior,R12,2673342,6433241,3007005,nte,0, ,7
+31283,12,2006,Waikato River,1501043,Puni wetland Waikato River,434, ,Puni Wetland, ,18,20,bior,R12,2673131,6433355,3007013,gmt,0, ,12
+31284,11,2006,Waikato River,1501043,Puni wetland Waikato River,434,1350,Puni Wetland, ,5,18,bior,R12,2672166,6432751,3007212,gmt,0, ,12
+31285,10,2006,Waikato River,1501043,Puni wetland Waikato River,434,1305,Puni Wetland,,12,17,bior,R12,2672322,6431940,3007445,gmt,,,12
+31286,11,2006,Waikato River,1501043,Puni wetland Waikato River,434, ,Puni Wetland, ,14,18,bior,R12,2672631,6432192,3007418,gmt,0, ,12
+31287,12,2006,Waikato River,1501043,Puni wetland Waikato River,434,day,Puni Wetland,,5,19,bior,R12,2672607,6432662,3007212,gmt,,,12
+31288,11,2006,Waikato River,1501043,Puni wetland Waikato River,434,1215,Puni Wetland,,17,20,bior,R12,2673258,6433237,3007013,gmt,,,1
+31289,11,2006,Waikato River,1501043,Puni wetland Waikato River,434,1330,Puni Wetland,,9,19,bior,R12,2673366,6433105,3007005,gmt,,,12
+108647,9,2006,Wairua River,1501087,Unnamed wetland Wairua River tributary,466,,Wairua River Wildlife Management Reserve,,91,124,mcgl,P08,2621448,6619783,1015696,tfu,,,50
+23010,2,2007,Piako River,1501038,Kopuatai Peat Dome,91.13, ,Waitoa Canal, ,5,40,docw,t13,2734010,6412000,3011240,fyn, , ,5
+23011,2,2007,Piako River,1501038,Kopuatai Peat Dome,91.13, ,Waitoa Canal, ,5,40,docw,t13,2734010,6412000,3011240,trn, , ,1
+27555,12,2007,Wairoa River,1501085,Unnamed wetland Manganui River 2,466.07, ,Unnamed wetland, ,10,90,docx,q07,2610900,6582700,0,gmt, , ,2
+27556,12,2007,Wairoa River,1501085,Unnamed wetland Manganui River 2,466.07, ,Unnamed wetland, ,10,89,docx,q07,2610600,6583000,0,gmt, , ,10
+27557,12,2007,Wairoa River,1501085,Unnamed wetland Manganui River 2,466.07,night,Unnamed wetland,,10,88,docx,Q07,2610500,6583600,0,gmt,,,15
+29711,10,2007,Piako River,1501038,Kopuatai Peat Dome,91.13,night,Unnamed wetland,,10,40,docw,T13,2734213,6411889,3011240,gmt,,,10
+29712,10,2007,Piako River,1501038,Kopuatai Peat Dome,91.13,night,Unnamed wetland,,10,40,docw,T13,2734334,6411888,3011240,gmt,,,10
+29713,10,2007,Piako River,1501038,Kopuatai Peat Dome,91,night,Unnamed wetland,,10,41,docw,T13,2734350,6411864,3011473,gmt,,,10
+29714,10,2007,Waikato River,1501050,Unnamed wetland Opuatia Stream,434.14,night,Unnamed wetland,,15,64,docw,S13,2693512,6416191,3010709,gmt,,,10
+29715,10,2007,Waikato River,1501050,Unnamed wetland Opuatia Stream,434,night,Unnamed wetland,,10,64,docw,S13,2693534,6416173,3010709,gmt,,,10
+29722,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino River,,90,52,docw,S13,2697784,6427685,3008250,ntc,,,
+29723,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino River,,90,53,docw,S13,2698786,6427650,3008313,ntc,,,
+29725,8,2007,Waikato River,1501047,Whangamarino wetland,434.131,night,Maramarua River,,15,51,docw,S12,2696978,6432634,3007139,ntc,,,
+29726,8,2007,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino Swamp, ,15,60,docw,s13,2703715,6425125,3008641,ntc, , , 
+29727,8,2007,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino Swamp, ,15,53,docw,s13,2698490,6426740,3008359,ntc, , , 
+29728,8,2007,Waikato River,1501047,Whangamarino wetland,434.13, ,Pungarehu Stream, ,10,60,docw,s13,2703715,6425125,3008641,ntc, , , 
+29729,8,2007,Waikato River,1501047,Whangamarino wetland,434.131,night,Whangamarino Swamp,,40,57,docw,S13,2697290,6424200,3008828,ntc,,,
+29730,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino Swamp,,15,46,docw,s12,2694582,6431168,3007556,ntc,,,
+30336,10,2007,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Arapae wetland,,150,120,docw,S17,2690520,6306996,0,gmt,,,10
+30337,10,2007,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Arapae wetland,,145,120,docw,S17,2690954,6307213,0,gmt,,,10
+30338,10,2007,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Arapae wetland,,145,120,docw,S17,2691126,6307094,0,gmt,,,10
+30339,10,2007,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,night,Arapae wetland,,155,119,docw,S17,2690916,6306817,0,gmt,,,10
+30662,1,2007,Waikato River,1501047,Whangamarino wetland,434.134,,Kopuku Stream tributary,,27,63,niwa,s12,2704718,6432573,3006995,ncn,,,7
+30663,1,2007,Waikato River,1501047,Whangamarino wetland,434.134,,Kopuku Stream tributary,,31,64,niwa,s12,2705195,6432725,3007068,gmt,,,2
+30664,1,2007,Waikato River,1501047,Whangamarino wetland,434.134,,Kopuku Stream tributary,,28,63,niwa,s12,2705117,6432811,3007068,ncn,,,5
+30665,1,2007,Waikato River,1501047,Whangamarino wetland,434.134,,Kopuku Stream tributary,,25,63,niwa,s12,2704823,6433006,3006995,gmt,,,3
+30666,1,2007,Waikato River,1501047,Whangamarino wetland,434.134,,Kopuku Stream tributary,,25,63,niwa,s12,2704830,6432988,3006995,gmt,,,3
+30667,1,2007,Waikato River,1501047,Whangamarino wetland,434.134,,Kopuku Stream tributary,,22,62,niwa,s12,2704999,6433469,3006995,gmt,,,2
+30669,1,2007,Waikato River,1501047,Whangamarino wetland,434.134, ,Kopuku Stream tributary, ,20,62,niwa,s12,2704677,6433931,3006904,fyn, , ,3
+30670,1,2007,Waikato River,1501047,Whangamarino wetland,434.134, ,Kopuku Stream, ,20,61,niwa,s12,2704100,6433844,3006890,fyn, , ,6
+30671,1,2007,Waikato River,1501047,Whangamarino wetland,434.134,,Kopuku Stream tributary,,25,63,niwa,s12,2705860,6433440,3007058,fyn,,,1
+31241,4,2007,Waikato River,1501043,Puni wetland Waikato River,434.001,1120,Puni Wetland, ,5,18,bior,R12,2672038,6432651,3007212,ntc, , ,6
+31242,4,2007,Waikato River,1501043,Puni wetland Waikato River,434.001,1030,Puni Wetland, ,8,17,bior,R12,2672080,6431824,3007445,ntc, , ,10
+31243,4,2007,Waikato River,1501043,Puni wetland Waikato River,434.001,1350,Puni Wetland, ,6,18,bior,R12,2671890,6432432,3007267,gmt, , ,1
+31244,4,2007,Waikato River,1501043,Puni wetland Waikato River,434.001,1245,Puni Wetland, ,12,17,bior,R12,2672008,6432066,3007505,nte, , ,6
+31245,4,2007,Waikato River,1501043,Puni wetland Waikato River,434.001,1120,Puni Wetland, ,11,17,bior,R12,2672215,6431848,3007445,gmt, , ,4
+31246,4,2007,Waikato River,1501043,Puni wetland Waikato River,434.001,1240,Puni Wetland, ,14,20,bior,R12,2673454,6433479,3007013,efp,1, ,125
+31249,4,2007,Waikato River,1501043,Puni wetland Waikato River,434.001, ,Puni Wetland, ,6,18,bior,R12,2672013,6432150,3007267,nte, , ,8
+31250,4,2007,Waikato River,1501043,Puni wetland Waikato River,434.001,1330,Puni Wetland, ,15,20,bior,R12,2673342,6433241,3007013,nte, , ,7
+31251,4,2007,Waikato River,1501043,Puni wetland Waikato River,434.001,1215,Puni Wetland, ,17,20,bior,R12,2673258,6433237,3007013,gmt,0, ,3
+31252,4,2007,Waikato River,1501043,Puni wetland Waikato River,434.001,1130,Puni Wetland,,9,19,bior,R12,2673366,6433105,3007005,gmt,,,3
+31253,4,2007,Waikato River,1501043,Puni wetland Waikato River,434.001,1345,Puni Wetland, ,11,17,bior,R12,2672458,6431970,3007445,gmt, , ,12
+105775,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1056,Whangamarino River, ,15,46,uow,S12,2694815,6431062,3007615,efb, , ,993
+105776,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1117,Whangamarino River,,16,46,uow,S12,2694507,6431227,3007565,efb,,,419
+105777,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1149,Whangamarino River,,16,44,uow,S12,2693948,6431557,3007396,efb,,,969
+105778,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1212,Whangamarino River,,16,44,uow,S12,2693938,6431554,3007396,efb,,,676
+105779,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1250,Whangamarino River,,16,44,uow,S12,2694007,6431572,3007396,efb,,,443
+105780,8,2007,Waikato River,1501047,Whangamarino wetland,434.131,1405,Maramarua River, ,16,47,uow,S12,2695534,6432173,3007477,efb, , ,278
+105781,8,2007,Waikato River,1501047,Whangamarino wetland,434.131,1421,Maramarua River, ,16,47,uow,S12,2695511,6432209,3007477,efb, , ,457
+105782,8,2007,Waikato River,1501047,Whangamarino wetland,434.131,1449,Maramarua River, ,16,47,uow,S12,2695474,6432397,3007477,efb, , ,416
+105783,8,2007,Waikato River,1501047,Whangamarino wetland,434.131,1509,Maramarua River,,12,50,uow,S12,2695946,6433203,3007138,efb,,,606
+105784,8,2007,Waikato River,1501047,Whangamarino wetland,434.131,1525,Maramarua River,,16,50,uow,S12,2695745,6433048,3007138,efb,,,368
+105785,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1040,Whangamarino River, ,13,52,uow,S13,2697883,6427593,3008250,efb, , ,579
+105786,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1058,Whangamarino River, ,13,52,uow,S13,2697750,6427742,3008250,efb, , ,265
+105787,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1118,Whangamarino River, ,13,52,uow,S13,2697755,6427723,3008250,efb, , ,408
+105788,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1131,Whangamarino River, ,13,52,uow,S13,2697625,6427840,3008250,efb, , ,292
+105789,8,2007,Waikato River,1501047,Whangamarino wetland,434.135,1203,Reao Stream, ,12,52,uow,S13,2698034,6427475,3008359,efb, , ,274
+105790,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1228,Whangamarino River, ,12,52,uow,S13,2698021,6427096,3008359,efb, , ,1094
+105791,8,2007,Waikato River,1501047,Whangamarino wetland,434.135,1248,Reao Stream, ,12,52,uow,S13,2698010,6427061,3008359,efb, , ,990
+105792,8,2007,Waikato River,1501047,Whangamarino wetland,434.135,1313,Reao Stream, ,12,52,uow,S13,2698042,6427071,3008359,efb, , ,672
+105793,8,2007,Waikato River,1501047,Whangamarino wetland,434.135,1328,Reao Stream, ,12,52,uow,S13,2698127,6426911,3008359,efb, , ,774
+105794,8,2007,Waikato River,1501047,Whangamarino wetland,434.135,1354,Reao Stream, ,12,52,uow,S13,2698240,6426886,3008359,efb, , ,795
+105795,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1006,Whangamarino River, ,10,59,uow,S13,2703675,6426167,3008630,efb, , ,698
+105796,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1021,Whangamarino River, ,10,59,uow,S13,2703509,6426074,3008630,efb, , ,703
+105797,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1039,Whangamarino River, ,10,59,uow,S13,2703321,6426104,3008630,efb, , ,490
+105798,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1102,Whangamarino River, ,10,59,uow,S13,2703688,6426205,3008630,efb, , ,337
+105799,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1118,Whangamarino River, ,3,58,uow,S13,2703237,6426248,3008593,efb, , ,494
+105800,8,2007,Waikato River,1501047,Whangamarino wetland,434.136,1241,Pungarehu Stream, ,7,59,uow,S13,2703258,6426059,3008641,efb, , ,1220
+105801,8,2007,Waikato River,1501047,Whangamarino wetland,434.136,1257,Pungarehu Stream, ,7,59,uow,S13,2703395,6425902,3008641,efb, , ,1030
+105802,8,2007,Waikato River,1501047,Whangamarino wetland,434.136,1312,Pungarehu Stream, ,7,59,uow,S13,2703515,6425845,3008641,efb, , ,963
+105803,8,2007,Waikato River,1501047,Whangamarino wetland,434.136,1326,Pungarehu Stream, ,7,59,uow,S13,2703388,6425810,3008641,efb, , ,1200
+105804,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,1356,Whangamarino River, ,3,58,uow,S13,2703247,6426272,3008593,efb, , ,1246
+108648,7,2007,Wairua River,1501087,Unnamed wetland Wairua River tributary,466,,Wairua River Wildlife Management Reserve,,91,124,mcgl,P08,2621448,6619783,1015696,tfu,,,50
+111262,8,2007,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino River,,16,44,uow,,2694007,6431573,3007396,efb,5,,3500
+111263,8,2007,Waikato River,1501047,Whangamarino wetland,434.131,,Maramarua River,,16,49,uow,,2695746,6433049,3007196,efb,5,,2125
+111264,8,2007,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,13,52,uow, ,2697755,6427723,3008250,efb,5, ,1818
+111266,8,2007,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,10,59,uow, ,2703510,6426075,3008630,efb,5, ,2722
+111267,8,2007,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,3,58,uow, ,2703247,6426273,3008593,efb,5, ,5659
+27559,9,2008,Home Creek,1501013,Unnamed wetland Home Creek 3,11,night,Lake Waiparera,,40,7,docx,N04,2526895,6694709,1002114,gmt,,,10
+27560,9,2008,Home Creek,1501014,Unnamed wetland Home Creek 4,11,night,Lake Waiparera,,40,7,docx,N04,2526822,6694740,1002114,gmt,,,10
+27561,9,2008,Home Creek,1501014,Unnamed wetland Home Creek 4,11,night,Lake Waiparera,,40,9,docx,N04,2525608,6694783,1002057,gmt,,,10
+29432,5,2008,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,1040,Mangaparo Stream, ,150,119,ew,s17,2691176,6306704,3034831,efm,1, ,45
+29433,5,2008,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,1200,Mangaparo Stream, ,150,120,ew,s17,2690835,6307436,3034565,efm,1, ,45
+29434,5,2008,Mokau River,1501042,Unnamed wetland Mangaparo Stream,407,1300,Mangaparo Stream, ,150,120,ew,s17,2690735,6307589,3034565,efm,1, ,45
+29808,10,2008,Waikato River,1501047,Whangamarino wetland,434,day,Reao Stream,,15,61,bml,S13,2699656,6420235,3009749,ntc,,,10
+29809,10,2008,Waikato River,1501047,Whangamarino wetland,434,day,Reao Stream,,15,61,bml,S13,2699150,6419751,3009749,efb,1,,30
+30333,10,2008,Waikato River,1501072,Waitomo Stream tributary,434.226,night,Unnamed wetland Tumutumu Rd,,140,214,docw,S16,2692022,6323433,0,gmt,,,10
+30334,10,2008,Waikato River,1501073,Unnamed wetland Mangapu River,434.226,night,Mangapu Forest swamp,,45,213,docw,S16,2696835,6321864,0,gmt,,,6
+30335,10,2008,Waikato River,1501073,Unnamed wetland Mangapu River,434.226,night,Mangapu Forest swamp,,45,213,docw,S16,2696674,6321917,0,gmt,,,9
+30341,10,2008,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino swamp,,18,59,docw,S12,2702465,6432949,0,gmt,,,10
+30342,10,2008,Waikato River,1501047,Whangamarino wetland,434.13,night,Whangamarino swamp,,15,59,docw,S12,2702462,6432990,0,gmt,,,10
+30343,11,2008,Waikato River,1501060,Waipa River tributary 1,434.22,night,Unnamed wetland Horotiu,,20,105,docw,S14,2700300,6385500,3016083,gmt,,,10
+30344,11,2008,Waikato River,1501055,Lake Waahi wetland west,434.19,night,Lake Waahi wetland,,12,87,docw,S13,2695822,6403722,3012839,gmt,,,10
+30345,11,2008,Waikato River,1501054,Lake Waahi wetland south,434.19,night,Lake Waahi wetland,,10,85,docw,S13,2697610,6400785,3013320,gmt,,,10
+30533,10,2008,Kaipara River,1501080,Unnamed wetland Kaipara River tributary,453,1000,Kaipara River tributary,,16,18,doca,Q10,2637101,6497741,2004357,gmt,,,10
+30535,10,2008,Kaipara River,1501080,Unnamed wetland Kaipara River tributary,453,1200,Kaipara River tributary, ,9,18,doca,q10,2637274,6497964,2004310,gmt, , ,7
+105805,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1100,Whangamarino River, ,15,46,uow,S12,2694811,6431038,3007615,efb, , ,484
+105806,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1135,Whangamarino River,,16,46,uow,S12,2694518,6431228,3007565,efb,,,304
+105807,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1308,Whangamarino River,,16,44,uow,S12,2693794,6431734,3007396,efb,,,164
+105808,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1335,Whangamarino River,,16,44,uow,S12,2693629,6431841,3007396,efb,,,216
+105809,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1215,Whangamarino River,,16,44,uow,S12,2694009,6431577,3007396,efb,,,288
+105810,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1523,Whangamarino River, ,10,59,uow,S13,2703673,6426179,3008630,efb, , ,428
+105811,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1617,Whangamarino River, ,10,59,uow,S13,2703519,6426079,3008630,efb, , ,472
+105812,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1640,Whangamarino River, ,10,59,uow,S13,2703316,6426105,3008630,efb, , ,308
+105813,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1544,Whangamarino River, ,10,59,uow,S13,2703689,6426214,3008630,efb, , ,328
+105814,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1715,Whangamarino River, ,3,58,uow,S13,2703243,6426259,3008593,efb, , ,328
+105815,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1050,Whangamarino River, ,13,52,uow,S13,2697876,6427607,3008250,efb, , ,204
+105816,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1208,Whangamarino River, ,13,52,uow,S13,2697771,6427729,3008250,efb, , ,140
+105817,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1150,Whangamarino River, ,13,52,uow,S13,2697752,6427728,3008250,efb, , ,232
+105818,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,1230,Whangamarino River, ,13,52,uow,S13,2697616,6427840,3008250,efb, , ,116
+105819,3,2008,Waikato River,1501047,Whangamarino wetland,434.135,1115,Reao Stream, ,12,52,uow,S13,2698028,6427470,3008359,efb, , ,112
+105820,3,2008,Waikato River,1501047,Whangamarino wetland,434.131,1230,Maramarua River, ,16,47,uow,S12,2695529,6432184,3007477,efb, , ,140
+105821,3,2008,Waikato River,1501047,Whangamarino wetland,434.131,1300,Maramarua River, ,16,47,uow,S12,2695504,6432222,3007477,efb, , ,388
+105822,3,2008,Waikato River,1501047,Whangamarino wetland,434.131,1205,Maramarua River, ,16,47,uow,S12,2695475,6432405,3007477,efb, , ,244
+105823,3,2008,Waikato River,1501047,Whangamarino wetland,434.131,1105,Maramarua River,,12,50,uow,S12,2695953,6433199,3007138,efb,,,656
+105824,3,2008,Waikato River,1501047,Whangamarino wetland,434.131,1125,Maramarua River,,16,50,uow,S12,2695737,6433041,3007138,efb,,,496
+108649,8,2008,Wairua River,1501087,Unnamed wetland Wairua River tributary,466,,Wairua River Wildlife Management Reserve,,91,124,docx,P08,2621448,6619783,1015696,tfu,,,50
+111277,3,2008,Waikato River,1501047,Whangamarino wetland,434.13,,Whangamarino River,,16,44,uow,,2694009,6431578,3007396,efb,5,,1456
+111278,3,2008,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,3,58,uow, ,2703244,6426260,3008593,efb,5, ,1864
+111279,3,2008,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,13,52,uow, ,2698029,6427471,3008313,efb,5, ,804
+111280,3,2008,Waikato River,1501047,Whangamarino wetland,434.131,,Maramarua River,,16,49,uow,,2695738,6433042,3007196,efb,5,,1924
+27573,9,2009,Home Creek,1501014,Unnamed wetland Home Creek 4,11,night,Lake Waiparera wetland,,40,9,docn,N04,2525647,6694831,1002057,gmt,,,10
+27574,9,2009,Home Creek,1501014,Unnamed wetland Home Creek 4,11,night,Lake Waiparera wetland,,40,7,docn,N04,2526822,6694730,1002114,gmt,,,10
+27575,9,2009,Home Creek,1501013,Unnamed wetland Home Creek 3,11,night,Lake Waiparera wetland,,40,7,docn,N04,2526896,6694704,1002114,gmt,,,10
+28176,9,2009,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15,1900,Lake Ohia,,25,6,docx,O04,2544000,6690900,0,obs,,,600
+28177,9,2009,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15,night,Lake Ohia,,25,6,docx,O04,2544000,6690900,0,kgt,,,36
+31110,10,2009,Waikato River,1501067,Mangahia Stream,434.22,950,Mangahia Stream, ,28,145,doc,S15,2704133,6365433,3020081,gmt, , ,10
+31111,10,2009,Waikato River,1501067,Mangahia Stream,434.22,1120,Mangahia Stream, ,20,141,doc,S15,2701531,6365861,3020065,gmt, , ,10
+31112,10,2009,Waikato River,1501066,Waipa River tributary 3,434.22,1230,Waipa River tributary,,22,141,doc,S15,2701959,6367282,3019711,gmt,,,10
+31113,10,2009,Waikato River,1501069,Waipa River tributary 4,434.22,1130,Waipa River tributary,,27,149,doc,S15,2703633,6362275,3020852,gmt,,,10
+31114,10,2009,Waikato River,1501068,Mangaotama Stream,434.222,1340,Mangaotama Stream,,20,151,doc,S15,2704452,6363153,3020636,gmt,,,10
+31115,10,2009,Waikato River,1501068,Mangaotama Stream,434.222,1405,Mangaotama Stream tributary,,20,151,doc,S15,2704543,6363184,3020636,gmt,,,6
+31119,12,2009,Waikato River,1501058,Lake B wetlands,434.211,night,Lake B,,35,101,doc,S14,2708200,6388924,3015493,gmt,,,53
+31122,10,2009,Waikato River,1501074,Unnamed wetland Mangarama Stream,434.226,night,Tanehopuwai Stream wetland,,73,226,docw,S16,2695800,6312480,3032848,gmt,,,10
+31123,10,2009,Waikato River,1501074,Unnamed wetland Mangarama Stream,434.226,night,Tanehopuwai Stream wetland,,74,227,docw,S16,2695900,6312245,3032848,gmt,,,10
+31124,10,2009,Waikato River,1501074,Unnamed wetland Mangarama Stream,434.226,night,Tanehopuwai Stream wetland,,68,227,docw,S16,2694812,6312268,3032650,gmt,,,10
+31394,7,2009,Waikato River,1501076,Mangaone Stream,434.001, ,Mangaone Stream, ,40,130,niwa,S14,2718424,6371914,3018874,ntc, , ,12
+31398,11,2009,Waikato River,1501076,Mangaone Stream,434.001,night,Mangaone Stream,,40,130,niwa,S14,2718387,6372017,3018874,ntc,,,12
+31399,12,2009,Waikato River,1501076,Mangaone Stream,434.001, ,Mangaone Stream, ,40,130,niwa,S14,2718398,6372025,3018874,ntc, , ,9
+31400,12,2009,Waikato River,1501076,Mangaone Stream,434.001,day,Mangaone Stream,,40,130,niwa,S14,2718398,6372025,3018874,han,,,2
+31401,12,2009,Waikato River,1501076,Mangaone Stream,434.001, ,Mangaone Stream, ,40,130,niwa,S14,2718345,6372030,3018874,spo, , , 
+31402,12,2009,Waikato River,1501076,Mangaone Stream,434.001,night,Mangaone Stream,,40,130,niwa,S14,2718345,6372030,3018874,gmt,,,1
+103299,2,2009,Waikato River,1501068,Mangaotama Stream,434.221, ,Mangaotama Stream, ,30,154,kal,S14,2704845,6362991,3020636,tcb, , ,3
+108650,8,2009,Wairua River,1501087,Unnamed wetland Wairua River tributary,466,,Wairua River Wildlife Management Reserve,,91,124,docx,P08,2621448,6619783,1015696,tfu,,,50
+111313,5,2009,Waikato River,1501058,Lake B wetlands,434, ,Lake D, , , ,uow, ,2708283,6388946, ,efb,1, ,4070
+111319,6,2009,Waikato River,1501065,Lake Koromatua wetlands,434.221, ,Lake Koromatua, ,41,143,uow, ,2705829,6371370,3018922,efb,1, ,7554
+111325,11,2009,Waikato River,1501047,Whangamarino wetland,434.13, ,Whangamarino River, ,11,53,uow, ,2699066,6427507,3008313,efb,1, , 
+31127,1,2010,Waikato River,1501073,Unnamed wetland Mangapu River,434.226,night,Mangapu River wetland,,55,213,docw,S16,2696811,6321852,3029725,gmt,,,4
+32747,2,2010,Waikato River,1501047,Whangamarino wetland,434.131,1200,Ruaotehuia Stream, ,20,58,niwa,S12,2701531,6436015,3006209,ntc, , ,7
+32748,2,2010,Waikato River,1501047,Whangamarino wetland,434.131,1500,Ruaotehuia Stream tributary, ,20,58,niwa,S12,2701438,6435844,3006501,efp,1, ,41
+32749,2,2010,Waikato River,1501047,Whangamarino wetland,434.131,1400,Ruaotehuia Stream tributary, ,20,58,niwa,S12,2701353,6435779,3006501,ntc, , ,7
+32750,2,2010,Waikato River,1501047,Whangamarino wetland,434.131,1600,Ruaotehuia Stream tributary, ,20,59,niwa,S12,2701983,6435772,3006517,ntc, , ,6
+32751,2,2010,Waikato River,1501047,Whangamarino wetland,434.131,1700,Ruaotehuia Stream tributary, ,19,60,niwa,S12,2702234,6435264,3006517,gmt, , ,3
+32757,5,2010,Waikato River,1501047,Whangamarino wetland,434.131, ,Ruaotehuia Stream, ,20,59,niwa,S12,2701614,6436122,3006209,fyn, , ,2
+32758,5,2010,Waikato River,1501047,Whangamarino wetland,434.131, ,Ruaotehuia Stream tributary, ,20,58,niwa,S12,2701523,6435995,3006501,fyn, , ,2
+32759,5,2010,Waikato River,1501047,Whangamarino wetland,434.131, ,Ruaotehuia Stream tributary, ,19,59,niwa,S12,2701983,6435772,3006517,fyn, , ,2
+32760,5,2010,Waikato River,1501047,Whangamarino wetland,434.131, ,Ruaotehuia Stream, ,20,58,niwa,S12,2701357,6435771,3006500,fyn, , ,2
+32761,5,2010,Waikato River,1501047,Whangamarino wetland,434.131, ,Ruaotehuia Stream, ,20,58,niwa,S12,2701255,6435634,3006500,fyn, , ,2
+32771,10,2010,Waikato River,1501047,Whangamarino wetland,434.131, ,Ruaotehuia Stream tributary, ,19,60,niwa,S12,2702213,6435275,3006517,gmt, , ,1
+32772,10,2010,Waikato River,1501047,Whangamarino wetland,434.131,day,Ruaotehuia Stream tributary,,19,59,niwa,S12,2701954,6435804,3006517,gmt,,,1
+32773,10,2010,Waikato River,1501047,Whangamarino wetland,434.131,day,Ruaotehuia Stream tribuatary,,19,59,niwa,S12,2701961,6435891,3006441,gmt,,,1
+32774,10,2010,Waikato River,1501047,Whangamarino wetland,434.131, ,Ruaotehuia Stream tributary, ,19,59,niwa,S12,2701962,6435906,3006441,gmt, , ,1
+32775,10,2010,Waikato River,1501047,Whangamarino wetland,434.131,day,Ruaotehuia Stream tributary,,19,59,niwa,S12,2701990,6435852,3006441,gmt,,,1
+32776,10,2010,Waikato River,1501047,Whangamarino wetland,434.131, ,Ruaotehuia Stream tributary, ,20,58,niwa,S12,2701500,6435761,3006501,gmt, , ,2
+32777,10,2010,Waikato River,1501047,Whangamarino wetland,434.134,day,Kopuku Stream,,20,60,niwa,S12,2703442,6433743,3007044,gmt,,,1
+32778,10,2010,Waikato River,1501047,Whangamarino wetland,434.134,day,Kopuku Stream,,20,60,niwa,S12,2703422,6433718,3007044,gmt,,,1
+32779,10,2010,Waikato River,1501047,Whangamarino wetland,434.134,day,Kopuku Stream,,20,60,niwa,S12,2703412,6433702,3007044,gmt,,,1
+32815,10,2010,Waikato River,1501047,Whangamarino wetland,434.134, ,Kopuku Stream, ,20,60,niwa,S12,2703412,6433702,3007044,gmt, , ,1
+34126,10,2010,Kaipara River,1501080,Unnamed wetland Kaipara River tributary,453,1000,Ohirangi Wetland,,11,18,doca,Q10,2637100,6497741,2004357,gmt,,,30
+34128,10,2010,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1030,Tomarata Lake Wetland,,26,1,doca,R08,2659510,6554924,2000258,gmt,,,5
+34129,10,2010,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1100,Tomarata Lake Wetland,,19,3,doca,R08,2659653,6554771,2000334,gmt,,,5
+34130,10,2010,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1200,Tomarata Lake Wetland,,32,2,doca,R08,2658933,6554749,2000295,gmt,,,5
+34131,10,2010,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1300,Tomarata Lake Wetland,,32,2,doca,R08,2658945,6554755,2000295,gmt,,,5
+34132,10,2010,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1400,Tomarata Lake Wetland,,32,2,doca,R08,2658853,6554709,2000295,gmt,,,5
+34133,10,2010,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63,1000,Tomarata Lake Wetland,,32,2,doca,R08,2658843,6554695,2000295,gmt,,,5
+34134,10,2010,Pakiri River,1501036,Unnamed wetland Pakiri River,63,1100,Pakiri River Wetland,,26,3,doca,R09,2664104,6548390,2000718,gmt,,,10
+34135,10,2010,Pakiri River,1501036,Unnamed wetland Pakiri River,63,1100,Pakiri River Wetland,,14,4,doca,R09,2663838,6548154,2000749,gmt,,,5
+34136,10,2010,Pakiri River,1501036,Unnamed wetland Pakiri River,63,1200,Pakiri River Wetland,,14,4,doca,R09,2663824,6548237,2000727,gmt,,,5
+34455,2,2010,Waikato River,1501059,Waikeri Stream tributary wetland,434.21,night,Waikeri Stream tributary wetland,,19,94,kal,S14,2704935,6394037,3014677,ntc,,,12
+36130,8,2010,Home Creek,1501014,Unnamed wetland Home Creek 4,11,night,Lake Waiparera wetland,,40,9,docx,N04,2525647,6694831,1002057,gmt,,,10
+36131,8,2010,Home Creek,1501014,Unnamed wetland Home Creek 4,11,night,Lake Waiparera wetland,,40,7,docx,N04,2526822,6694730,1002114,gmt,,,10
+36132,8,2010,Home Creek,1501013,Unnamed wetland Home Creek 3,11,night,Lake Waiparera wetland,,40,7,docx,N04,2526896,6694704,1002114,gmt,,,10
+103339,6,2010,Waikato River,1501075,Waikato River tributary 1,434.001,,Reeves Close drain,,39,121,bml,S14,2714185,6379242,3017380,kbt,,,2
+108651,7,2010,Wairua River,1501087,Unnamed wetland Wairua River tributary,466,,Wairua River Wildlife Management Reserve,,91,124,mcgl,P08,2621448,6619783,1015696,tfu,,,50
+111355,10,2010,Waikato River,1501047,Whangamarino wetland,434.135, ,Reao Stream, ,12,52,uow, ,2698149,6427139,3008359,efb,3, , 
+32781,3,2011,Waikato River,1501054,Lake Waahi wetland south,434.19, ,Lake Waahi, ,28,85,niwa,S13,2698101,6400992,3013254,fyn, , ,1
+32782,3,2011,Waikato River,1501054,Lake Waahi wetland south,434.19, ,Lake Waahi, ,28,85,niwa,S13,2698167,6400956,3013254,fyn, , ,1
+33636,10,2011,Wairoa River,1501091,Unnamed wetland Towai Stream,466.18,night,Unnamed wetland Akerama,,117,149,docn,Q06,2615900,6633300,1012596,gmt,,,30
+33637,10,2011,Wairoa River,1501091,Unnamed wetland Towai Stream,466.18,night,Unnamed wetland Akerama,,117,149,docn,Q06,2616200,6633100,1012621,gmt,,,30
+33638,10,2011,Wairoa River,1501091,Unnamed wetland Towai Stream,466.18,night,Unnamed wetland Akerama,,118,149,docn,Q06,2616600,6633000,1012718,gmt,,,30
+33639,10,2011,Wairoa River,1501091,Unnamed wetland Towai Stream,466.14,night,Whakapara River tributary,,117,149,docn,Q06,2616700,6632900,1012718,gmt,,,16
+33640,10,2011,Wairoa River,1501091,Unnamed wetland Towai Stream,466.18,night,Unnamed drain Akerama,,118,149,docn,Q06,2616500,6632900,1012718,gmt,,,14
+34101,9,2011,Pakiri River,1501036,Unnamed wetland Pakiri River,63,1000,Pakiri River tributary wetland,,26,3,doca,R09,2664125,6548408,2000718,gmt,,,5
+34102,9,2011,Pakiri River,1501036,Unnamed wetland Pakiri River,63,1030,Pakiri River tributary wetland, ,23,3,doca,R09,2664167,6548407,2000718,gmt, , ,5
+34103,9,2011,Pakiri River,1501036,Unnamed wetland Pakiri River,63,1100,Pakiri River tributary wetland,,26,3,doca,R09,2664120,6548394,2000718,gmt,,,5
+34104,9,2011,Pakiri River,1501036,Unnamed wetland Pakiri River,63,1130,Pakiri River tributary wetland,,16,4,doca,R09,2663893,6548150,2000750,gmt,,,5
+34105,9,2011,Pakiri River,1501036,Unnamed wetland Pakiri River,63,1145,Pakiri River tributary wetland,,16,4,doca,R09,2663914,6548178,2000750,gmt,,,5
+34106,9,2011,Pakiri River,1501036,Unnamed wetland Pakiri River,63,1200,Pakiri River tributary wetland,,16,4,doca,R09,2663912,6548195,2000750,gmt,,,5
+34107,9,2011,Tomarata Lake,1501035,Unnamed wetlands Poutawa Stream,63,1000,Tomarata Lake wetland,,26,1,doca,R08,2659510,6554924,2000258,gmt,,,5
+34108,9,2011,Tomarata Lake,1501035,Unnamed wetlands Poutawa Stream,63,1030,Tomarata Lake wetland,,19,3,doca,R08,2659653,6554771,2000258,gmt,,,5
+34109,9,2011,Tomarata Lake,1501035,Unnamed wetlands Poutawa Stream,63,1100,Tomarata Lake wetland,,32,2,doca,R08,2658933,6554749,2000258,gmt,,,5
+34110,9,2011,Tomarata Lake,1501035,Unnamed wetlands Poutawa Stream,63,1115,Tomarata Lake wetland,,32,2,doca,R08,2658945,6554755,2000258,gmt,,,5
+34111,9,2011,Tomarata Lake,1501035,Unnamed wetlands Poutawa Stream,63,1135,Tomarata Lake wetland,,32,2,doca,R08,2658853,6554709,2000258,gmt,,,5
+34112,9,2011,Tomarata Lake,1501035,Unnamed wetlands Poutawa Stream,63,1200,Tomarata Lake wetland,,32,2,doca,R08,2658843,6554695,2000258,gmt,,,5
+34543,9,2011,Waikato River,1501075,Waikato River tributary 1,434.001,night,Waikato River tributary,,40,121,opus,S14,2715555,6378702,3017435,gmt,,,6
+36133,9,2011,Home Creek,1501014,Unnamed wetland Home Creek 4,11,night,Lake Waiparera wetland,,40,9,docx,N04,2525647,6694831,1002057,gmt,,,10
+36134,9,2011,Home Creek,1501014,Unnamed wetland Home Creek 4,11,night,Lake Waiparera wetland,,40,7,docx,N04,2526822,6694730,1002114,gmt,,,1
+36135,9,2011,Home Creek,1501013,Unnamed wetland Home Creek 3,11,night,Lake Waiparera wetland,,40,7,docx,N04,2526896,6694704,1002114,gmt,,,1
+100130,10,2011,Waikato River,1501049,Waipapa Stream tributary,434, ,Waipapa Stream tributary, ,20,52,kal,S13,2693334,6425333,3008751,gmt, , ,10
+102646,2,2011,Waikato River,1501045,Mangatawhiri River tributary,434.12,night,Mangatawhiri River Tributary,,21,42,kal,S12,2690643,6435833,3006497,ntc,,,
+102647,2,2011,Waikato River,1501045,Mangatawhiri River tributary,434.12,night,Mangatawhiri River Tributary,,21,42,kal,S12,2690598,6435910,3006497,ntc,,,
+102648,2,2011,Waikato River,1501045,Mangatawhiri River tributary,434.12,,Mangatawhiri River Tributary,,21,42,kal,S12,2690680,6435971,3006497,ntc,,,
+102649,2,2011,Waikato River,1501045,Mangatawhiri River tributary,434.12, ,Mangatawhiri River Tributary, ,21,42,kal,S12,2690796,6435849,3006497,ntc, , , 
+108652,6,2011,Wairua River,1501087,Unnamed wetland Wairua River tributary,466,,Wairua River Wildlife Management Reserve,,91,124,mcgl,P08,2621448,6619783,1015696,tfu,,,50
+114521,11,2011,Piako River,1501038,Kopuatai Peat Dome,91,1215,Piako River,,8,31,kal,T12,2733068,6416593,3010550,tfu,,,9
+114522,11,2011,Piako River,1501038,Kopuatai Peat Dome,91,1215,Piako River,,8,31,kal,T12,2733064,6416593,3010550,tfu,,,6
+114523,11,2011,Piako River,1501038,Kopuatai Peat Dome,91,1215,Piako River,,9,29,kal,T12,2734558,6418366,3010271,tfu,,,6
+114524,11,2011,Piako River,1501038,Kopuatai Peat Dome,91,1215,Piako River, ,8,33,kal,T12,2732461,6416041,3010667,tfu, , ,7
+114528,11,2011,Piako River,1501038,Kopuatai Peat Dome,91,1215,Piako River, ,7,24,kal,T12,2731972,6422119,3009560,tfu, , ,7
+114529,12,2011,Piako River,1501038,Kopuatai Peat Dome,91.031,1215,Elstow Canal (upper reaches), ,7,27,kal,T13,2737967,6422520,3008799,tfu, , ,4
+114530,12,2011,Piako River,1501038,Kopuatai Peat Dome,91.05,1215,Elstow Canal (lower reaches), ,7,24,kal,T13,2737836,6422929,3008799,tfu, , ,3
+114531,12,2011,Piako River,1501038,Kopuatai Peat Dome,91.05,1215,Elstow Canal (lower reaches), ,7,24,kal,T13,2736145,6425350,3008799,tfu, , ,2
+114532,12,2011,Piako River,1501038,Kopuatai Peat Dome,91.05,1215,Elstow Canal (lower reaches), ,7,24,kal,T13,2737836,6422929,3008799,tfu, , ,3
+114533,12,2011,Piako River,1501038,Kopuatai Peat Dome,91.05,1215,Elstow Canal (lower reaches), ,6,20,kal,T13,2735380,6425904,3008703,tfu, , ,2
+114534,12,2011,Piako River,1501038,Kopuatai Peat Dome,91.03,1215,Tee Canal, ,6,30,kal,T12,2738652,6419511,3010133,tfu, , ,3
+114535,12,2011,Piako River,1501038,Kopuatai Peat Dome,91.03,1215,Awaiti Canal, ,6,28,kal,T12,2739899,6419575,3009905,tfu, , ,5
+33055,4,2012,Awakino River,1501084,Unnamed wetland Awakino River,408, ,Awakino River Waihue Valley, ,12,40,docx,P07,2587663,6590703,1021688,gmt, , ,15
+33056,4,2012,Wairoa River,1501084,Unnamed wetland Awakino River,466.05,night,Awakino River,,12,40,docx,P07,2587682,6590948,1021572,gmt,,,10
+36136,10,2012,Tomarata Lake,1501035,Unnamed wetlands Poutawa Stream,63,night,Tomarata Lake wetland,,40,1,mkct,R08,2659495,6554912,2000258,gmt,,,5
+36137,10,2012,Tomarata Lake,1501035,Unnamed wetlands Poutawa Stream,63,night,Tomarata Lake wetland,,40,3,mkct,R08,2659651,6554775,2000334,gmt,,,5
+36138,10,2012,Tomarata Lake,1501035,Unnamed wetlands Poutawa Stream,63, ,Tomarata Lake wetland, ,40,2,mkct,R08,2658945,6554753,2000295,gmt, , ,5
+36139,10,2012,Tomarata Lake,1501035,Unnamed wetlands Poutawa Stream,63,night,Tomarata Lake wetland,,40,2,mkct,R08,2658846,6554696,2000295,gmt,,,5
+36140,10,2012,Pakiri River,1501036,Unnamed wetland Pakiri River,63,night,Pakiri River tributary,,20,3,mkct,R09,2664143,6548395,2000718,gmt,,,5
+36141,10,2012,Pakiri River,1501036,Unnamed wetland Pakiri River,63, ,Pakiri River tributary, ,20,3,mkct,R09,2664197,6548426,2000718,gmt, , ,5
+36142,10,2012,Pakiri River,1501036,Unnamed wetland Pakiri River,63, ,Pakiri River tributary, ,20,3,mkct,R09,2663915,6548341,2000718,gmt, , ,5
+100088,11,2012,Waikato River,1501052,Lake Rotokawau wetlands,434.161, ,Lake Rotokawau tributary, ,20,77,wrc,S13,2703413,6410640,3011658,gmt, , ,10
+102997,5,2012,Waikato River,1501061,Waipa River tributary drain,434.001,,unnamed farm drain,,0,0,bml,S14,2705262,6382860,,unk,,,
+100808,12,2013,Waikato River,1501049,Waipapa Stream tributary,434,1055,Waipapa Stream tributary,,40,53,kal,R13,2693377,6424847,3008890,fys,,,3
+100810,12,2013,Waikato River,1501049,Waipapa Stream tributary,434,1300,Waipapa Stream tributary,,20,0,kal,R13,2693377,6424847,3008890,fys,,,5
+101236,10,2013,Waikato River,1501077,Mangaharakeke Stream tributary,434.25,1100,Mangaharakeke Stream tributary,,50,128,doc,S14,2719960,6372862,3018558,gmt,,,10
+101237,10,2013,Waikato River,1501077,Mangaharakeke Stream tributary,434.25,1100,Mangaharakeke Stream tributary, ,50,128,doc,S14,2719960,6372862,3018558,fyn,1, ,3
+102980,7,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1117,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621352,6620125,1015696,tfu,,,1
+102982,10,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1233,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621352,6620125,1015696,tfu,,,1
+103206,7,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1146,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621014,6620123,1015696,tfu,,,1
+103207,7,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1203,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621139,6620221,1015696,tfu,,,1
+103208,10,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1212,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621014,6620123,1015696,tfu,,,1
+103209,10,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1226,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621074,6620197,1015696,tfu,,,1
+103210,10,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1231,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621139,6620221,1015696,tfu,,,1
+103211,10,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1246,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621176,6620125,1015696,tfu,,,1
+103212,10,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1258,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621228,6620168,1015696,tfu,,,1
+103213,10,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1308,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621072,6620291,1015696,tfu,,,1
+103214,7,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1327,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621988,6620146,1015696,tfu,,,1
+103215,7,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1334,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621957,6619954,1015696,tfu,,,1
+103216,7,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1338,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621884,6619890,1015696,tfu,,,1
+103217,10,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1342,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621556,6620137,1015696,tfu,,,1
+103218,10,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1347,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621567,6620016,1015696,tfu,,,1
+103219,10,2013,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1350,Wairua River Wildlife Management Reserve,,91,124,ind,P08,2621579,6619987,1015696,tfu,,,1
+103348,11,2013,Waikato River,1501075,Waikato River tributary 1,434.001,,Ryburn/Railway/Ruakura Road drain,,0,0,bml,S14,2714766,6378236,,tfb,,,3
+103349,11,2013,Waikato River,1501075,Waikato River tributary 1,434.001,,Percival Rd drain,,40,121,bml,S14,2714857,6379201,3017374,tfb,,,1
+103350,11,2013,Waikato River,1501075,Waikato River tributary 1,434.001, ,Reeves Close drain, ,37,120,bml,S14,2714047,6379193,3017392,tfb, , ,1
+108653,5,2013,Wairua River,1501087,Unnamed wetland Wairua River tributary,466,,Wairua River Wildlife Management Reserve,,91,124,docx,P08,2621448,6619783,1015696,tfu,,,49
+109525,10,2013,Waikato River,1501052,Lake Rotokawau wetlands,434.161,1000,Lake Waikare tributary, ,8,77,wrc,S13,2704374,6410502,3011634,tfu, , ,28
+101738,1,2014,Pakiri River,1501036,Unnamed wetland Pakiri River,64,1345,Pakiri River tributary, ,20,2,doco,r09,2663819,6548522,2000718,obs,1, ,5
+102412,6,2014,Wairoa River,1501085,Unnamed wetland Manganui River 2,466, ,Manganui River, ,40,90,docx,P08,2610909,6581797,1023069,unk, , , 
+103318,6,2015,Piako River,1501038,Kopuatai Peat Dome,91.05, ,Elstow Canal, ,7,33,kal,T13,2738485,6418585,3010083,fys, , ,2
+103341,10,2015,Waikato River,1501075,Waikato River tributary 1,434.001, ,Ryburn Road/ Railway Drain, , , ,chhf,S14,2714885,6378236, ,kbt, , ,2
+103380,10,2015,Waikato River,1501053,Unnamed wetland Waikato River tributary,434,1300,unnamed wetland,,9,80,wrc,R13,2701898,6410097,3011817,tfu,,,1
+103498,10,2015,Waikato River,1501079,Lake Serpentine wetlands,434.24,1000,Lake Serpentine South,,57,145,docw,S14,2713698,6358727,3021441,tfu,,,1
+103499,10,2015,Waikato River,1501079,Lake Serpentine wetlands,434.24,1000,Lake Serpentine South,,57,145,docw,S14,2713662,6358748,3021441,tfu,,,1
+103500,10,2015,Waikato River,1501079,Lake Serpentine wetlands,434.24,1000,Lake Serpentine South,,57,145,docw,S14,2713653,6358758,3021441,tfu,,,1
+103501,10,2015,Waikato River,1501079,Lake Serpentine wetlands,434.24,1000,Lake Serpentine South,,57,145,docw,S14,2713660,6358747,3021441,tfu,,,1
+111434,3,2015,Waikato River,1501047,Whangamarino wetland,434.135, ,Raeo Stream, ,12,52,uow, ,2698149,6427139,3008359,efb,4, , 
+112537,10,2015,Waikato River (mouth to Waipa River),1501053,Unnamed wetland Waikato River tributary,434.161,1000,Lake Ohinewai inlet drain, ,10,80,wrc,S13,2701689,6409822,3011817,tfu, , ,24
+106173,3,2016,Waikato River,1501046,Unnamed wetland Mangatawhiri River,434.12,1400,Mangatawhiri River tributary, ,10,45,kal,S12,2691295,6436985,3006224,tfu, , ,10
+110309,12,2016,Wairoa River,1501086,Unnamed wetland Otakairangi Stream,466,1015,Otakairangi Stream, ,94,128,mcgl,P08,2616323,6622592,1015048,tfu, , ,4
+110311,12,2016,Wairoa River,1501091,Unnamed wetland Towai Stream,466.18,1000,Ngaruawahine Stream, ,126,146,mcgl,Q06,2616570,6634113,1012447,tfu, , ,2
+112294,12,2016,Kaipara Harbour,1501096,Unnamed wetland Tangitiki Bay South,462,2237,Tangitiki Wetland Pouto Peninsula, , , ,docx,Q09,2606714,6549187, ,tfu, , ,34
+112586,11,2016,Waikato River,1501094,Whangamaire Stream,434.2,1000,Whangamaire Stream, ,12,93,wrc,S14,2706279,6397130,3014055,tfu, , ,23
+113395,7,2016,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466, ,Wairua River Wildlife Management Reserve, , , ,ind,P08,2620864,6619895, ,kbt, , ,2
+114417,8,2016,Waikato River,1501075,Waikato River tributary 1,434, ,Ruakura Rd Drain, ,40,121,kal,R13,2715537,6378641,3017435,tfu, , ,3
+114418,9,2016,Waikato River,1501075,Waikato River tributary 1,434, ,Ruakura Rd Drain, ,40,121,kal,R13,2715537,6378641,3017435,unk, , , 
+114419,9,2016,Waikato River,1501075,Waikato River tributary 1,434, ,Ruakura Rd Drain, ,40,121,kal,R13,2715537,6378641,3017435,tfu, , ,1
+110530,3,2017,Wairoa River,1501085,Unnamed wetland Manganui River 2,466.07,1430,Manganui River, ,40,90,docx,P09,2610991,6581683,1023069,trn, , ,12
+111714,5,2017,Waikato River,1501075,Waikato River tributary 1,434.001,1500,Railway to Ruakura Road Drain,,0,0,bml,S14,2714844,6378136,,tfu,,,4
+112281,8,2017,Piako River,1501093,Kaihere Canal tributary,91,1300,Kaihere Canal tributary, ,3,20,kal,T12,2730094,6428328,3008027,fys, , ,3
+112298,11,2017,Piako River,1501093,Kaihere Canal tributary,91.04,1200,Kaihere Canal tributary, ,3,20,kal,T13,2730425,6427600,3008027,fys, , ,4
+112520,10,2017,Rangaunu Harbour,1501014,Unnamed wetland Home Creek 4,12,900,Lake Waiparera wetland, ,38,8,docx,O04,2525632,6694791,1002057,tcu, , ,10
+112526,10,2017,Rangaunu Harbour,1501014,Unnamed wetland Home Creek 4,12,900,Lake Waiparera wetland, ,36,6,docx,O04,2526784,6694770,1002108,tcu, , ,10
+112527,10,2017,Rangaunu Harbour,1501013,Unnamed wetland Home Creek 3,12,1200,Lake Waiparera wetland, ,36,6,docx,O04,2526912,6694715,1002108,tcu, , ,10
+112870,12,2017,Waikato River,1501095,Waikato River tributary 2,434.001, ,Kirikiriroa tributary drain, , , ,kal,S14,2709433,6385395, ,tfu, , ,1
+112871,12,2017,Waikato River,1501095,Waikato River tributary 2,434.001, ,Kirikiriroa tributary drain, , , ,kal,S14,2709449,6385394, ,tfu, , ,3
+113401,11,2017,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1030,Wairua River Wildlife Management Reserve, , , ,ind,P08,2620837,6619954, ,kbt, , ,5
+114484,11,2017,Waikato River,1501075,Waikato River tributary 1,434.21,2353,Komakorau Stream tributary, ,42,121,kal,S14,2715527,6378653,3017435,tfu, , ,2
+114489,12,2017,Waikato River,1501095,Waikato River tributary 2,434.001,417,Waikato River tributary, ,40,113,kal,S14,2709416,6385336,3016287,unk, , , 
+114490,12,2017,Waikato River,1501095,Waikato River tributary 2,434.001,2121,Waikato River tributary, ,40,113,kal,S14,2709416,6385336,3016287,tfu, , ,26
+115303,4,2017,Waikato River (mouth to Waipa River),1501098,Unnamed wetland Waikato River,434,149,Pond, , , ,tt,R13,2698707,6416843, ,tcb, , ,21
+115304,4,2017,Waikato River (mouth to Waipa River),1501097,Waipapa Stream,434,930,Waipapa stream, ,25,55,tt,R13,2695951,6423023,3009267,tcb, , ,13
+115305,5,2017,Waikato River (mouth to Waipa River),1501097,Waipapa Stream,434,930,Waipapa stream, ,25,55,tt,R13,2695951,6423023,3009267,fym, , , 
+112872,1,2018,Waikato River,1501095,Waikato River tributary 2,434.001, ,Kirikiriroa tributary drain, , , ,kal,S14,2709433,6385399, ,tfu, , ,2
+113625,1,2018,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15,1100,Lake Ohia, , , ,ind,O04,2545317,6693526, ,kbt, , ,6
+113626,1,2018,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15,1200,Lake Ohia, , , ,ind,O04,2545482,6692838, ,kbt, , ,7
+114491,1,2018,Waikato River,1501095,Waikato River tributary 2,434.001,2132,Waikato River tributary, ,40,113,kal,S14,2709416,6385336,3016287,tfu, , ,17
+114492,1,2018,Waikato River,1501095,Waikato River tributary 2,434.001,2155,Waikato River tributary, ,40,113,kal,S14,2709416,6385336,3016287,tfu, , ,25
+114495,1,2018,Waikato River,1501099,Waikato River tributary 3,434.001,2050,Waikato River tributary, ,39,109,kal,S14,2709762,6385895,3015972,unk, , , 
+114496,1,2018,Waikato River,1501095,Waikato River tributary 2,434.001,2054,Waikato River tributary, ,40,113,kal,S14,2709416,6385336,3016287,han, , ,5
+114600,10,2018,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1030,Smith Drain unnamed tributary, ,94,124,ind,P08,2621221,6620184,1015703,kbt, , ,9
+114624,10,2018,Rangaunu Harbour,1501014,Unnamed wetland Home Creek 4,12,900,Lake Waiparera unnamed wetland, ,36,8,docx,O04,2525647,6694803,1002057,tfu, , ,10
+114625,10,2018,Rangaunu Harbour,1501014,Unnamed wetland Home Creek 4,12,1030,Lake Waiparera unnamed wetland, ,37,6,docx,O04,2526808,6694784,1002108,tfu, , ,10
+114626,10,2018,Rangaunu Harbour,1501013,Unnamed wetland Home Creek 3,12,1200,Lake Waiparera unnamed wetland, ,37,6,docx,O04,2526901,6694699,1002108,tfu, , ,10
+114785,11,2018,Lake Ohia,1501026,Unnamed wetland Aurere Stream,12,1030,Unnamed tributary, ,11,0,docx,O04,2542075,6693053,1002174,tfu, , ,5
+114786,11,2018,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15,1145,Unnamed tributary, , , ,docx,O04,2544613,6694289, ,tfu, , ,6
+114787,11,2018,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15, ,Lake Ohia, , , ,docx,O04,2544986,6694051, ,tfu, , ,7
+114788,11,2018,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15, ,Lake Ohia, , , ,docx,O04,2545484,6693040, ,tfu, , ,6
+114791,11,2018,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15, ,Lake Ohia, , , ,docx,O04,2544121,6690964, ,tfu, , ,7
+114792,11,2018,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15, ,Lake Ohia, , , ,docx,O04,2544255,6690960, ,tfu, , ,8
+115300,1,2019,Waikato River (mouth to Waipa River),1501097,Waipapa Stream,434,930,Waipapa stream, ,25,55,tt,R13,2695857,6423138,3009267,fym, , , 
+115301,1,2019,Waikato River (mouth to Waipa River),1501097,Waipapa Stream,434,930,Waipapa stream, ,25,55,tt,R13,2695857,6423138,3009267,fym, , , 
+115558,2,2019,Waikato River,1501097,Waipapa Stream,434,1000,Waipapa Stream tributary,,35,56,tt,R13,2696124,6422792,3009358,fys,,,2
+115559,2,2019,Waikato River (mouth to Waipa River),1501097,Waipapa Stream,434,1000,Waipapa Stream tributary,,34,56,tt,R13,2696130,6422681,3009392,fys,,,10
+115899,4,2019,Pakiri River,1501036,Unnamed wetland Pakiri River,64,1500,Pakiri River tributary, ,23,2,ind,R09,2663847,6548487,2000718,han, , ,2
+115976,4,2019,Waikato River,1501047,Whangamarino wetland,434.131,1120,Bell Road Pump Station, ,12,57,unk,S12,2700782,6436274,3006341,fys,, ,49
+115977,4,2019,Waikato River,1501047,Whangamarino wetland,434.13,1100,Whangamarino River tributary, ,20,44,unk,S12,2693314,6432162,3007377,fys,, ,27
+116061,4,2019,Waikato River,1501043,Puni wetland Waikato River,434,1100,Waikato River Mangawhero Pumpstation, ,20,19,unk,R13,2673505,6433675,3007005,fys,, ,28
+116075,4,2019,Waikato River,1501046,Unnamed wetland Mangatawhiri River,434.12,1100,Mangatawhiri Compartment No.3 Pumpstatio, ,0,0,unk,S12,2692929,6436448, ,fys,, ,25
+116116,3,2019,Poutawa Stream,1501035,Unnamed wetlands Poutawa Stream,63, ,Poutawa Stream, ,20,1,bml,R08,2660195,6553948,2000379,fys, , ,5
+116220,6,2019,Wairoa River,1501083,Taita Stream tributary,466.04,830,Waitakuhuruhuru Stream wetland, ,20,46,mcgl,P09,2578765,6593017,1021239,tfu, , ,5
+116221,6,2019,Wairoa River,1501083,Taita Stream tributary,466.04,1000,Waitakuhuruhuru Stream wetland, ,20,46,mcgl,P09,2578878,6593127,1021239,tfu, , ,2
+116451,6,2019,Waikato River,1501097,Waipapa Stream,434.41,1030,Waipapa Stream tributary, ,23,55,tt,T17,2695810,6423288,3009197,fys,, ,15
+116998,9,2019,Waikato River,1501047,Whangamarino wetland,434.134,1000,Kopuku Stream pond, ,37,62,wild,S12,2704406,6433409,3006994,fym,, ,
+117000,9,2019,Waikato River,1501047,Whangamarino wetland,434.134,1000,Kopuku Stream unnamed tributary, ,37,62,wild,S12,2704283,6432837,3006994,tfu,, ,7
+117003,9,2019,Waikato River,1501047,Whangamarino wetland,434.134,1000,Kopuku Stream unnamed tributary, ,37,62,wild,S12,2704216,6432376,3006994,fym,, ,
+117004,9,2019,Waikato River,1501047,Whangamarino wetland,434.134,1000,Kopuku Stream pond, ,45,62,wild,S12,2704763,6432671,3007422,fym,, ,
+117005,9,2019,Waikato River,1501047,Whangamarino wetland,434.134,1000,Kopuku Stream unnamed tributary, ,36,62,wild,S12,2705115,6432797,3007068,tfu,, ,7
+117006,9,2019,Waikato River,1501047,Whangamarino wetland,434.134,1000,Kopuku Stream pond, ,45,62,wild,S12,2704755,6433243,3007422,tfu,, ,4
+117007,9,2019,Kopuku Stream,1501047,Whangamarino wetland,434.134,1000,Kopuku Stream pond, ,36,62,wild,S12,2705105,6433381,3007068,fym,, ,
+117009,9,2019,Waikato River,1501047,Whangamarino wetland,434.134,1100,Kopuku Stream unnamed tributary, ,20,63,wild,S12,2705953,6433523,3007059,tfu,, ,4
+117010,9,2019,Waikato River,1501047,Whangamarino wetland,434.134,1000,Kopuku Stream unnamed tributary, ,20,63,wild,S12,2705866,6433643,3007059,tfu,, ,3
+117282,10,2019,Lake Waiparera,1501014,Unnamed wetland Home Creek 4,12,1000,Waiparera Wetland, ,38,8,docx,O04,2525836,6694858,1002111,tfu,, ,10
+117285,10,2019,Lake Waiparera,1501013,Unnamed wetland Home Creek 3,12,1000,Waiparera Wetland, ,40,7,docx,O04,2526864,6694695,1002114,tfu,, ,10
+117387,10,2019,Wairua River,1501087,Unnamed wetland Wairua River tributary,466,1430,Wairua River Wildlife Management Reserve, ,0,0,ind,P08,2620832,6619941, ,spo,, ,
+117543,12,2019,Waikato River,1501068,Mangaotama Stream,434.222,1200,Mangaotama Stream, ,30,154,enzl,S15,2704832,6363017,3020636,tfu,, ,4
+117703,11,2019,Waikato River,1501101,Waikato River tributary 5,434.001,957,Onion Rd Farm Drains, ,20,105,eia,S14,2705585,6385673,3016036,tfb,,,2
+118695,5,2020,Whangamaire Stream,1501094,Whangamaire Stream,438.01,1430,Whangmaire Stream, ,0,0,wrc,R12,2707086,6397070,0,fys,,,18
+118915,6,2020,Wairoa River,1501087,Unnamed wetland Wairua River tributary,466,1300,Wairua River Wildlife Management Reserve, ,0,0,ind,P08,2620823,6619935,0,kbt,,,7
+120123,9,2020,Wairua River,1501087,Unnamed wetland Wairua River tributary,466,1330,Wairua River Wildlife Management Reserve, ,0,0,ind,P08,2620851,6619812,0,kbt,,,5
+119311,9,2020,Lake Ngakapua,1501102,Unnamed wetland Lake Ngakapua,498,1500,Unnamed wetland, ,27,0,nrc,N04,2528204,6686285,1002803,tfu,,,3
+117770,11,2019,Waikato River,1501100,Waikato River tributary 4,434.001,400,Onion Rd drain, ,0,0,eia,S14,2705142,6383604,0,tfu,,,6
+119266,8,2020,Waiparera Creek,1501013,Unnamed wetland Home Creek 3,10,1200,Waiparera Wetland, ,0,0,docx,O04,2526910,6694649,0,tcu,,,10
+119265,8,2020,Waiparera Creek,1501014,Unnamed wetland Home Creek 4,10,1000,Waiparera Wetland, ,0,0,docx,O04,2525658,6694838,0,tcu,,,10
+117699,11,2019,Waikato River,1501101,Waikato River tributary 5,434.001,851,Te Rapa Stream, ,20,105,eia,S14,2705585,6385673,3016036,tfu,,,6
+118700,11,2019,Waikato River,1501052,Lake Rotokawau wetlands,434.136,800,Tahuna Drain, ,8,77,wrc,S13,2703391,6410491,3011875,fys,,,21
+120531,10,2020,Waikato River,1501075,Waikato River tributary 1,434.25,0,Mangaonua Stream drain tributary, ,47,121,bml,S14,2714801,6378189,3017554,fys,,,1
+118344,2,2020,Lake Ohia,1501026,Unnamed wetland Aurere Stream,15,1030,Lake Ohia Creek, ,0,0,ind,O04,2544057,6690916,0,kbt,,,4
+118671,5,2020,Waikato River,1501047,Whangamarino wetland,434.13,845,Island Block Main South Pumpstation, ,0,0,wrc,S13,2702029,6429444,0,fys,,,6
+118672,5,2020,Waikato River,1501043,Puni wetland Waikato River,434.06,1000,Aka Aka Stream tributary, ,0,0,wrc,R12,2668428,6431215,0,fys,,,8
+122353,7,2021,Wairoa River,1501103,Unnamed wetland Manganui River 1,466.07,1000,Unnamed wetland, ,20,83,mcgl,P09,2608746,6585086,1022593,tfu,,,2
+122354,7,2021,Wairoa River,1501103,Unnamed wetland Manganui River 1,466.07,1115,Unnamed wetland, ,20,83,mcgl,P09,2608380,6584707,1022593,tfu,,,2
+122833,7,2021,Waikato River,1501075,Waikato River tributary 1,434.001,1100,Percival Road drain, ,0,0,wrc,S14,2714936,6379015,0,tfu,,,1
+122820,7,2021,Waikato River,1501060,Waipa River tributary 1,434.22,900,Waipa River tributary, ,20,104,wrc,S14,2700287,6385538,3016083,tfu,,,1
+122834,6,2021,Waikato River,1501058,Lake B wetlands,434.211,1000,Lake B, ,29,100,wrc,S14,2708122,6388865,3015493,tfu,,,1
+122823,9,2021,Rangaunu Harbour,1501014,Unnamed wetland Home Creek 4,12,1153,Lake Waiparera wetland, ,34,8,docx,O04,2525425,6694945,1002057,tcu,,,10
+122825,9,2021,Rangaunu Harbour,1501014,Unnamed wetland Home Creek 4,12,1257,Lake Waiparera wetland, ,40,7,docx,O04,2526630,6694567,1002114,tcu,,,10
+122822,9,2021,Korakonui Stream,1501006,Unnamed wetland Korakanui,8,1025,Te Raite wetland, ,50,5,docx,N03,2516767,6711800,1001449,tcu,,,11
+122986,11,2021,Wairoa River,1501091,Unnamed wetland Towai Stream,466,0.375,Towai River wetland tributary,,118,145.76,mcgl,,2616613,6632846,1014031,gmt,,,10
