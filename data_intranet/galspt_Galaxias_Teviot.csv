@@ -9,9 +9,6 @@
 25229,4,2001,Clutha River,1351005,Teviot River tributary 3,752.47,,Teviot River tributary,,690,148,doco,g43,2239900,5510600,14051337,efp,1,,71
 25230,4,2001,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,,Lake Onslow tributary,,685,152,doco,g43,2244100,5512200,14051097,efp,1,,116
 25231,4,2001,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,,Lake Onslow tributary,,760,153,doco,g43,2243700,5513100,14050818,efp,1,,41
-26580,4,2002,Clutha River,1351002,Old Hut Creek,752.19,,Old Hut Creek,,500,134,doco,g43,2231200,5514700,14050352,efp,1,,50
-26582,4,2002,Clutha River,1351002,Old Hut Creek,752.19,,Old Hut Creek,,570,136,doco,g43,2232100,5515700,14050055,efp,1,,50
-106971,12,2004,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek,,532,143,doco,G43,2231218,5514693,14050352,efp,,,
 109953,5,2004,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,,Lake Onslow tributary,,726,160,doco,G43,2244039,5512121,14051097,efp,,,
 26523,4,2005,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,,Lake Onslow tributary,,700,152,doco,g43,2244000,5512100,14051097,efp,3,,
 108302,4,2006,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,930,Lake Onslow tributary,,726,160,doco,G43,2244039,5512121,14051097,efp,,,
@@ -25,7 +22,6 @@
 101389,2,2010,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,1645,Lake Onslow tributary,,695,160,niwa,I40,2244000,5512080,14051097,efp,1,,30
 109948,3,2010,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,1400,Lake Onslow tributary,,726,160,doco,G43,2244141,5512244,14051097,efp,,,
 109958,3,2010,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,1100,Lake Onslow tributary,,726,160,doco,G43,2244039,5512121,14051097,efp,,,
-103756,9,2011,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek,,571,143,uoo,g43,2232140,5515780,14050055,efp,1,,60
 109949,4,2011,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,1150,Lake Onslow tributary,,726,160,doco,G43,2244141,5512244,14051097,efp,,,
 109959,4,2011,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,1330,Lake Onslow tributary,,726,160,doco,G43,2244039,5512121,14051097,efp,,,
 106816,12,2012,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,,Teviot River tributary,,764,161,doco,g43,2243632,5513203,14050818,efp,1,,20
@@ -243,17 +239,6 @@
 113551,3,2018,Clutha River,1351004,Teviot River tributary 2,752.47,1302,Teviot River tributary,,706,153,doco,G43,2238094,5512749,14050534,efp,1,,2
 113552,3,2018,Clutha River,1351004,Teviot River tributary 2,752.47,1304,Teviot River tributary,,706,153,doco,G43,2238088,5512762,14050534,efp,1,,1
 113553,3,2018,Clutha River,1351004,Teviot River tributary 2,752.47,1307,Teviot River tributary,,706,153,doco,G43,2238092,5512810,14050534,efp,1,,1
-115277,12,2018,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek tributary,,582,145,doco,,2232145,5515809,14050056,gmt,,,1
-115278,12,2018,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek tributary,,582,145,doco,,2232166,5515786,14050056,gmt,,,1
-115279,12,2018,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek tributary,,582,145,doco,,2232178,5515764,14050056,gmt,,,1
-115280,12,2018,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek tributary,,582,145,doco,,2232199,5515763,14050056,gmt,,,1
-115281,12,2018,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek tributary,,582,145,doco,,2232227,5515755,14050056,gmt,,,1
-115291,12,2018,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek tributary,,678,146,doco,,2231794,5517527,14049297,tfu,,,1
-115292,12,2018,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek tributary,,678,146,doco,,2231790,5517536,14049297,tfu,,,1
-115293,12,2018,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek tributary,,678,146,doco,,2231786,5517541,14049297,tfu,,,1
-115294,12,2018,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek tributary,,678,146,doco,,2231791,5517551,14049297,tfu,,,2
-115295,12,2018,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek,,636,146,doco,,2232036,5517303,14049543,tcu,,,2
-115296,12,2018,Clutha River,1351002,Old Hut Creek,752.471,,Old Hut Creek,,636,146,doco,,2232061,5517293,14049543,tcu,,,2
 119422,3,2000,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,0,Teviot River tributary, ,699,160,uoo, ,2244099,5512099,14051097,efp,1, , 
 120370,12,2020,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,1155,Teviot River tributary, ,699,160,doco,G43,2244049,5512125,14051097,efp, , , 
 118429,3,2019,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.47,1821,Lake Onslow tributary, ,739,161,docc,G43,2244087,5512347,14050890,tfu, , ,10
@@ -262,3 +247,71 @@
 122821,5,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,752.477,1030,Lake Onslow tributary, ,699,160,doco,G43,2244080,5512180,14051097,efp, ,,
 107688,1,2013,Clutha River,1351005,Teviot River tributary 3,752.47,0,Teviot River tributary, ,675,155,doco,G43,2239656,5511521,14051337,efp,1,,
 121427,10,2013,Clutha River,1351005,Teviot River tributary 3,752.47,0,Teviot River tributary, ,675,155,rdcl, ,2239923,5510489,14051337,efp,1,,
+200001,5,2021,Clutha River,1351007,Unnamed stream Lake Onslow 2,,,Teviot River ,,,,,,1335241,4951768,,edna,1,,
+200002,5,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,,Teviot River ,,,,,,1334206,4950571,,edna,1,,
+200003,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1530,Teviot River tributary,Chris Kavazos,,,doco,,1334256,4950603,,efp,1,50,
+200004,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1210,Teviot River tributary,Chris Kavazos,,,doco,,1333726,4951456,,gmt,,,1
+200005,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1215,Teviot River tributary,Chris Kavazos,,,doco,,1333721,4951457,,gmt,,,4
+200006,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1220,Teviot River tributary,Chris Kavazos,,,doco,,1333684,4951466,,gmt,,,1
+200007,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1310,Teviot River tributary,Chris Kavazos,,,doco,,1333770,4951498,,gmt,,,1
+200008,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1310,Teviot River tributary,Chris Kavazos,,,doco,,1333753,4951467,,gmt,,,1
+200009,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1400,Teviot River tributary,Chris Kavazos,,,doco,,1333965,4951108,,efp,1,30,
+200010,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1405,Teviot River tributary,Chris Kavazos,,,doco,,1333953,4951093,,efp,1,10,
+200011,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1410,Teviot River tributary,Chris Kavazos,,,doco,,1333940,4951089,,efp,1,10,
+200012,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1415,Teviot River tributary,Chris Kavazos,,,doco,,1333921,4951087,,efp,1,10,
+200013,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1420,Teviot River tributary,Chris Kavazos,,,doco,,1333915,4951087,,efp,1,10,
+200014,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1425,Teviot River tributary,Chris Kavazos,,,doco,,1333881,4951074,,efp,1,10,
+200015,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1430,Teviot River tributary,Chris Kavazos,,,doco,,1333867,4951079,,efp,1,10,
+200016,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1435,Teviot River tributary,Chris Kavazos,,,doco,,1333857,4951082,,efp,1,10,
+200017,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1440,Teviot River tributary,Chris Kavazos,,,doco,,1333846,4951098,,efp,1,10,
+200018,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1445,Teviot River tributary,Chris Kavazos,,,doco,,1333825,4951109,,efp,1,10,
+200019,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1450,Teviot River tributary,Chris Kavazos,,,doco,,1333801,4951100,,efp,1,10,
+200020,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1455,Teviot River tributary,Chris Kavazos,,,doco,,1333785,4951098,,efp,1,10,
+200021,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1500,Teviot River tributary,Chris Kavazos,,,doco,,1333777,4951099,,efp,1,10,
+200022,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1505,Teviot River tributary,Chris Kavazos,,,doco,,1333761,4951095,,efp,1,10,
+200023,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1510,Teviot River tributary,Chris Kavazos,,,doco,,1333718,4951088,,efp,1,10,
+200024,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1515,Teviot River tributary,Chris Kavazos,,,doco,,1333710,4951092,,efp,1,10,
+200025,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1520,Teviot River tributary,Chris Kavazos,,,doco,,1333696,4951099,,efp,1,10,
+200026,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1525,Teviot River tributary,Chris Kavazos,,,doco,,1333685,4951101,,efp,1,10,
+200027,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1530,Teviot River tributary,Chris Kavazos,,,doco,,1333653,4951119,,efp,1,10,
+200028,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1535,Teviot River tributary,Chris Kavazos,,,doco,,1333642,4951151,,efp,1,10,
+200029,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1540,Teviot River tributary,Chris Kavazos,,,doco,,1333614,4951173,,efp,1,10,
+200030,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1545,Teviot River tributary,Chris Kavazos,,,doco,,1333616,4951214,,efp,1,10,
+200031,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1806,Teviot River tributary,Nicholas Dunn,,,docc,,1333687,4951466,,gmt,,,2
+200032,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1806,Teviot River tributary,Nicholas Dunn,,,docc,,1333685,4951469,,gmt,,,2
+200033,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1808,Teviot River tributary,Nicholas Dunn,,,docc,,1333676,4951469,,gmt,,,1
+200034,9,2021,Clutha River,1351006,Unnamed stream Lake Onslow 1,,1131,Teviot River tributary,Nicholas Dunn,,,docc,,1333772,4951486,,gmt,,,1
+200035,11,2021,Clutha River,1351009,Teviot River North Branch tributary 1,,1307,Teviot River tributary,,851,,,,1333871,4957022,,efp,1,,10
+200036,11,2021,Clutha River,1351009,Teviot River North Branch tributary 1,,1415,Teviot River tributary,,855,,,,1333801,4956980,,efp,1,,10
+200037,11,2021,Clutha River,1351009,Teviot River North Branch tributary 1,,1519,Teviot River tributary,,857,,,,1333583,4956811,,efp,1,,5
+200038,11,2021,Clutha River,1351011,Teviot River North Branch tributary 3,,,Teviot River tributary,,818,,,,1333380,4954174,,vbd,1,,10
+200039,11,2021,Clutha River,1351007,Unnamed stream Lake Onslow 2,,1135,Lake Onslow tributary,,695,,,,1335295,4951602,,vbd,1,,5
+200040,11,2021,Clutha River,1351010,Teviot River North Branch tributary 2,,1423,Teviot River tributary,,885,,,,1333024,4956464,,efp,1,,5
+200041,11,2021,Clutha River,1351010,Teviot River North Branch tributary 2,,1445,Teviot River tributary,,883,,,,1333006,4956429,,efp,1,,5
+200042,11,2021,Clutha River,1351010,Teviot River North Branch tributary 2,,,Teviot River tributary,,890,,,,1333048,4956534,,efp,1,,5
+200043,11,2021,Clutha River,1351010,Teviot River North Branch tributary 2,,,Teviot River tributary,,887,,,,1333030,4956480,,efp,1,,5
+200044,11,2021,Clutha River,1351010,Teviot River North Branch tributary 2,,,Teviot River tributary,,888,,,,1333031,4956463,,eDNA,,,
+200045,11,2021,Clutha River,1351009,Teviot River North Branch tributary 1,,,Teviot River tributary,,873,,,,1333502,4956759,,efp,1,,5
+200046,11,2021,Clutha River,1351009,Teviot River North Branch tributary 1,,,Teviot River tributary,,872,,,,1333518,4956771,,efp,1,,5
+200047,11,2021,Clutha River,1351009,Teviot River North Branch tributary 1,,,Teviot River tributary,,873,,,,1333531,4956773,,efp,1,,5
+200048,11,2021,Clutha River,1351009,Teviot River North Branch tributary 1,,,Teviot River tributary,,871,,,,1333642,4956847,,efp,1,,5
+200049,11,2021,Clutha River,1351009,Teviot River North Branch tributary 1,,,Teviot River tributary,,870,,,,1333677,4956876,,efp,1,,5
+200050,11,2021,Clutha River,1351009,Teviot River North Branch tributary 1,,,Teviot River tributary,,867,,,,1333753,4956936,,efp,1,,5
+200051,11,2021,Clutha River,1351009,Teviot River North Branch tributary 1,,,Teviot River tributary,,868,,,,1333779,4956961,,vbd,1,,5
+200052,11,2021,Clutha River,1351009,Teviot River North Branch tributary 1,,,Teviot River tributary,,868,,,,1333796,4956975,,vbd,1,,5
+200053,12,2021,Clutha River,1351004,Teviot River tributary 2,,1139,Teviot River tributary,,650,,,,1328437,4951330,,efp,,,10
+200054,12,2021,Clutha River,1351004,Teviot River tributary 2,,,Teviot River tributary,,656,,,,1328412,4951373,,efp,,,10
+200055,12,2021,Clutha River,1351004,Teviot River tributary 2,,,Teviot River tributary,,662,,,,1328361,4951417,,edna,3,,
+200056,12,2021,Clutha River,1351004,Teviot River tributary 2,,,Teviot River tributary,,651,,,,1328446,4951265,,efp,,,10
+200057,12,2021,Clutha River,1351004,Teviot River tributary 2,,,Teviot River tributary,,649,,,,1328449,4951193,,efp,,,10
+200058,12,2021,Clutha River,1351004,Teviot River tributary 2,,,Teviot River tributary,,643,,,,1328355,4951089,,vbd,,,5
+200059,1,2022,Clutha River,1351011,Teviot River North Branch tributary 3,,,Teviot River North Branch,,,,,,1332217,4953245,,efp,1,,5
+200060,1,2022,Clutha River,1351011,Teviot River North Branch tributary 3,,,Teviot River North Branch,,,,,,1332528,4953757,,efp,1,,5
+200061,1,2022,Clutha River,1351011,Teviot River North Branch tributary 3,,,Teviot River North Branch,,,,,,1332558,4953770,,efp,1,,5
+200062,1,2022,Clutha River,1351011,Teviot River North Branch tributary 3,,,Teviot River North Branch,,,,,,1332586,4953794,,efp,1,,5
+200063,1,2022,Clutha River,1351011,Teviot River North Branch tributary 3,,,Teviot River North Branch,,,,,,1332683,4953830,,efp,1,,5
+200064,1,2022,Clutha River,1351011,Teviot River North Branch tributary 3,,,Teviot River North Branch,,,,,,1332778,4953826,,efp,1,,5
+200065,1,2022,Clutha River,1351011,Teviot River North Branch tributary 3,,,Teviot River North Branch,,,,,,1333001,4953886,,efp,1,,5
+200066,1,2022,Clutha River,1351011,Teviot River North Branch tributary 3,,,Teviot River North Branch,,,,,,1333016,4953866,,efp,1,,5
+200067,1,2022,Clutha River,1351011,Teviot River North Branch tributary 3,,,Teviot River North Branch,,,,,,1333032,4953888,,efp,1,,5
+200068,1,2022,Clutha River,1351011,Teviot River North Branch tributary 3,,,Teviot River North Branch,,,,,,1333035,4953890,,efp,1,,5
