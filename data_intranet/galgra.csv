@@ -1,0 +1,69 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+55008,11,1953,Lake Rotokawau,1191005,Lake Rotokawau,468, ,Lake Rotokawau, ,60,4,unk,q09,2613800,6538900,1027361,unk, , , 
+55034,10,1953,Lake Waingata,1191004,Lake Waingata,468, ,Lake Waingata, ,60,4,unk,q09,2613800,6538300,1027386,unk, , , 
+55036,9,1953,Lake Kanono,1191003,Lake Kanono,468, ,Lake Kanono, ,50,6,unk,q09,2613000,6537100,1027494,unk, , , 
+2541,3,1965,Lake Waingata,1191004,Lake Waingata,468, ,Lake Waingata, ,60,4,niwa,q09,2613800,6538300,1027386,nfc, , , 
+2542,3,1965,Lake Rototuna,1191009,Lake Rototuna,468,1900,Lake Rototuna,,130,6,niwa,P09,2604200,6549500,1026808,nfc,,,
+55790,2,1965,Lake Ototoa,1191001,Lake Rototoa,452.01, ,Lake Ototoa, ,70,6,niwa,q10,2621800,6519800,2002581,unn, , , 
+331,5,1969,Lake Ototoa,1191001,Lake Rototoa,452.01, ,Lake Ototoa, ,70,7,bior,q09,2622000,6521300,2002581,unk, , , 
+55009,3,1970,Lake Rotokawau,1191005,Lake Rotokawau,468, ,Lake Rotokawau, ,60,4,niwa,q09,2613800,6538900,1027361,unk, , , 
+55033,3,1970,Lake Swan,1191006,Lake Rotootuauru,468,,Lake Rotootuauru,,40,4,niwa,Q09,2612800,6540400,1027319,unk,,,
+55035,3,1970,Lake Waingata,1191004,Lake Waingata,468,,Lake Waingata,,60,4,unk,Q09,2613800,6538300,1027386,unk,,,
+55038,3,1970,Lake Ototoa,1191001,Lake Rototoa,452.01, ,Lake Ototoa, ,70,6,niwa,q09,2621500,6520400,2002581,unk, , , 
+55696,3,1970,Lake Kanono,1191003,Lake Kanono,468,,Lake Kanono,,50,6,niwa,Q09,2613000,6537100,1027494,unk,,,
+4626,11,1977,Lake Humuhumu,1191007,Lake Humuhumu,468,night,Lake Humuhumu,,60,6,uov,Q09,2611700,6541500,1027298,fyn,,,2
+4627,11,1977,Lake Waingata,1191004,Lake Waingata,468, ,Lake Waingata, ,60,4,uov,q09,2614000,6538500,1027386,han, , ,1
+4628,11,1977,Lake Rotokawau,1191005,Lake Rotokawau,468,day,Lake Rotokawau,,60,4,uov,Q09,2613800,6538900,1027361,pun,,,3
+3227,6,1979,Lake Ototoa,1191001,Lake Rototoa,452.01, ,Lake Ototoa, ,70,7,niwa,q09,2621300,6520600,2002581,ncn, , , 
+55039,6,1979,Lake Ototoa,1191001,Lake Rototoa,452.01, ,Lake Ototoa, ,70,6,niwa,q09,2621500,6520400,2002581,unk, , , 
+5952,3,1985,Lake Rototuna,1191009,Lake Rototuna,468,day,Lake Rototuna,,130,6,niwa,P09,2604100,6549300,1026808,fyn,,,2
+5953,3,1985,Lake Kanono,1191003,Lake Kanono,468,night,Lake Kanono,,50,6,niwa,Q09,2613100,6537000,1027494,fyn,,,4
+5954,3,1985,Lake Kahuparere,1191002,Lake Kahuparere,468,night,Lake Kahuparere,,50,2,niwa,Q09,2614400,6536300,1027580,ncn,,,
+5955,3,1985,Lake Waingata,1191004,Lake Waingata,468, ,Lake Waingata, ,60,4,niwa,q09,2613800,6538200,1027386,ncn, , , 
+5956,3,1985,Lake Rotokawau,1191005,Lake Rotokawau,468,night,Lake Rotokawau,,60,4,niwa,Q09,2613400,6538700,1027361,fyn,,,4
+5957,3,1985,Lake Swan,1191006,Lake Rotootuauru,468, ,Lake Rotootuauru, ,40,4,niwa,q09,2613100,6540500,1027319,fyn, , ,3
+5958,3,1985,Lake Humuhumu,1191007,Lake Humuhumu,468,night,Lake Humuhumu,,60,6,niwa,Q09,2611600,6541000,1027298,fyn,,,2
+3596,2,1991,Lake Swan,1191006,Lake Rotootuauru,468,1945,Lake Rotootuauru, ,34,4,indm,q09,2612900,6540500,1027319,fyn, , ,3
+11632,3,1991,Lake Rotopouua,1191008,Lake Rotopouua,468,,Lake Rotopouua,,45,8,niwa,P09,2609900,6541900,1027244,nfc,,,
+12128,3,1991,Lake Humuhumu,1191007,Lake Humuhumu,468,night,Lake Humuhumu,,60,6,nffc,Q09,2611600,6541000,1027298,utt,,,3
+16926,4,1997,Lake Ototoa,1191001,Lake Rototoa,452.01,1200,Lake Ototoa,,70,6,nffc,Q10,2621800,6519800,2002581,ntc,,,
+16936,12,1997,Lake Ototoa,1191001,Lake Rototoa,452.01,1400,Lake Ototoa,,70,6,nffc,Q09,2621600,6520200,2002581,div,,,
+20588,11,2000,Lake Rototuna,1191009,Lake Rototuna,468,,Lake Rototuna,,130,6,docx,p09,2604400,6549300,1026808,fyn,,,7
+14315,9,2001,Lake Kahuparere,1191002,Lake Kahuparere,468,night,Lake Kahuparere,,50,2,docx,Q09,2614400,6536300,1027580,fyn,,,7
+14316,9,2001,Lake Waingata,1191004,Lake Waingata,468,night,Lake Waingata,,50,4,docx,Q09,2613600,6538300,1027386,fyn,,,7
+14317,9,2001,Lake Rotopouua,1191008,Lake Rotopouua,468,,Lake Rotopouua,,50,8,docx,q09,2610000,6541800,1027244,fyn,,,5
+14318,9,2001,Lake Rototuna,1191009,Lake Rototuna,468,night,Lake Rototuna,,130,7,docx,P09,2604000,6549500,1026808,fyn,,,10
+19707,4,2001,Lake Ototoa,1191001,Lake Rototoa,452.01,night,Lake Ototoa,,70,6,nll,Q10,2621000,6519500,2002581,ntc,,,3
+21601,5,2001,Lake Ototoa,1191001,Lake Rototoa,452.01,night,Lake Ototoa,,70,7,nll,Q09,2621500,6521000,2002581,ntc,,,11
+13850,7,2002,Lake Ototoa,1191001,Lake Rototoa,452.01, ,Lake Ototoa, ,70,6,awfg,q10,2621800,6519900,2002581,ntc, , , 
+17982,12,2002,Lake Ototoa,1191001,Lake Rototoa,452.01, ,Lake Ototoa tributary, ,70,8,awfg,q09,2621300,6521800,2002376,gmt, , ,6
+17983,12,2002,Lake Ototoa,1191001,Lake Rototoa,452.01,,Lake Ototoa,,70,6,awfg,Q10,2621800,6519800,2002581,ntc,,,16
+17984,2,2003,Lake Ototoa,1191001,Lake Rototoa,452.01,,Lake Ototoa,,70,6,awfg,Q10,2621800,6519800,2002581,ntc,,,5
+17985,7,2003,Lake Ototoa,1191001,Lake Rototoa,452.01,,Lake Ototoa,,70,6,awfg,Q10,2621800,6519800,2002581,ntc,,,6
+18508,2,2004,Lake Ototoa,1191001,Lake Rototoa,452.01,,Lake Ototoa,,70,6,awfg,Q10,2621800,6519800,2002581,ntc,,,9
+20400,7,2004,Lake Ototoa,1191001,Lake Rototoa,452.01, ,Lake Ototoa, ,70,6,awfg,q10,2621800,6519800,2002581,ntc, , ,12
+20949,2,2005,Lake Ototoa,1191001,Lake Rototoa,452.01, ,Lake Ototoa, ,70,6,awfg,q10,2621800,6519800,2002581,ntc, , ,9
+20950,2,2005,Lake Ototoa,1191001,Lake Rototoa,452.01, ,Lake Ototoa tributary, ,70,8,awfg,q09,2621300,6521800,2002376,obs, , ,3
+22253,4,2006,Lake Ototoa,1191001,Lake Rototoa,452.01, ,Lake Ototoa, ,70,6,uow,q10,2621800,6519800,2002581,efb,1, ,8379
+105554,4,2006,Lake Ototoa,1191001,Lake Rototoa,452.01,1138,Lake Ototoa, ,90,7,uow,Q09,2621577,6520127,2002446,efb, , ,1784
+105555,4,2006,Lake Ototoa,1191001,Lake Rototoa,452.01,1200,Lake Ototoa, ,90,7,uow,Q09,2621577,6520127,2002446,efb, , ,1728
+105556,4,2006,Lake Ototoa,1191001,Lake Rototoa,452.01,1237,Lake Ototoa, ,90,7,uow,Q09,2621577,6520127,2002446,efb, , ,1808
+105557,4,2006,Lake Ototoa,1191001,Lake Rototoa,452.01,1434,Lake Ototoa, ,90,7,uow,Q09,2621577,6520127,2002446,efb, , ,2196
+105558,4,2006,Lake Ototoa,1191001,Lake Rototoa,452.01,1515,Lake Ototoa, ,90,7,uow,Q09,2621577,6520127,2002446,efb, , ,1724
+105559,4,2006,Lake Ototoa,1191001,Lake Rototoa,452.01,1530,Lake Ototoa, ,90,7,uow,Q09,2621577,6520127,2002446,efb, , ,2628
+27038,6,2007,Lake Rotokawau,1191005,Lake Rotokawau,468,night,Lake Rotokawau,,65,4,docx,Q09,2613600,6539000,1027361,ntc,,,30
+27039,6,2007,Lake Kanono,1191003,Lake Kanono,468,night,Lake Kanono,,50,6,docx,Q09,2613500,6537000,1027494,ntc,,,30
+27042,6,2007,Lake Humuhumu,1191007,Lake Humuhumu,468,night,Lake Humuhumu,,45,6,docx,Q09,2612000,6541300,1027298,ntc,,,30
+33068,11,2012,Lake Swan,1191006,Lake Rotootuauru,468,1500,Lake Rotootuauru, ,40,5,docx, ,2612653,6540929,1027277,tcb, , ,1
+110525,12,2016,Lake Rototuna,1191009,Lake Rototuna,468,830,Lake Rototuna, , , ,docx,Q09,2603951,6549620, ,trn, , ,3
+110796,5,2017,Lake Kanono,1191003,Lake Kanono,468,905,Lake Kanono,,0,0,docx,Q09,2613260,6537216,,trn,,,10
+112881,3,2017,Lake Ototoa,1191001,Lake Rototoa,452,1951,Lake Ototoa, , , ,niwa,Q09,2621543,6520570, ,gip, , ,45
+114602,10,2018,Kaipara Harbour,1191009,Lake Rototuna,462,1630,Lake Rototuna, ,115,6,ind,Q09,2604031,6549536,1026785,thw, , ,11
+116224,6,2019,Tauhara Creek,1191006,Lake Rotootuauru,462,900,Lake Rotootuauru, ,35,4,mcgl,Q09,2612699,6540628,1027310,fys, , ,4
+116225,6,2019,Tauhara Creek,1191004,Lake Waingata,462,1200,Lake Waingata, ,63,4,mcgl,Q09,2613929,6538390,1027386,fys, , ,2
+116226,6,2019,Tauhara Creek,1191005,Lake Rotokawau,462,1230,Lake Rotokawau, ,42,3,mcgl,Q09,2613680,6538905,1027385,fys, , ,3
+117578,12,2019,Tangitiki Bay,1191009,Lake Rototuna,462,900,Lake Rototuna, ,115,6,nrc,Q09,2604000,6549398,1026785,tcu, , ,22
+118735,6,2020,Lake Rototuna,1191009,Lake Rototuna,468,1200,Lake Rototuna, ,100,5,nrc,Q09,2604139,6549419,1026808,tcu, , ,37
+120080,10,2020,Lake Rotootuauru,1191006,Lake Rotootuauru,0,800,Lake Rotootuauru, ,0,0,nrc, ,2612882,6540517,0,trn, , ,2
+119159,3,2020,Lake Ototoa,1191001,Lake Rototoa,452.01,1930,Lake Ototoa, ,0,0,uow,Q09,2621259,6521549,0,efb, , , 
+111226,4,2006,Lake Ototoa,1191001,Lake Rototoa,452.01,,Lake Ototoa,,68,4.83,uow,Q09,2621458,6520381,2033094,efb,,2967,1186

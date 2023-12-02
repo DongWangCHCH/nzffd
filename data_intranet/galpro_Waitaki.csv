@@ -1,0 +1,454 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+50681,3,1972,Waitaki River,1311004,Hopkins River tributary 1,711.378, ,Hopkins River tributary, ,503,179,niwa,h38,2258300,5671500,13509328,han, , ,1
+1101,7,1978,Waitaki River,1311016,Blue Stream,711.38,1400,Blue Stream,,670,204,niwa,H36,2279600,5715700,13502881,han,,,2
+1122,10,1978,Waitaki River,1311004,Hopkins River tributary 1,711.378,900,Hopkins River tributary, ,530,184,niwa,h38,2258300,5671500,13509328,han, , ,2
+4331,6,1982,Waitaki River,1311015,Tasman River 4,711.38, ,Tasman River, ,640,198,docy,h36,2279900,5711000,13503446,fyn, , ,1
+1392,7,1987,Waitaki River,1311004,Hopkins River tributary 1,711.378,1300,Hopkins River tributary, ,530,179,niwa,h38,2258600,5671200,13509328,ef,1, , 
+1393,7,1987,Waitaki River,1311004,Hopkins River tributary 1,711.378,1130,Hopkins River tributary,,530,184,niwa,H38,2258600,5671200,13509328,ef,1,,
+2118,9,1987,Waitaki River,1311018,Fork Stream lower,711.393,2200,Fork Stream, ,1015,200,scfg,i37,2296900,5700900,13504934,spo, , , 
+12802,11,1992,Waitaki River,1311036,Godley River lower,711.399,night,Godley River,,725,212,indm,I36,2311100,5714300,13502998,spo,,,200
+13106,12,1992,Waitaki River,1311012,Tasman River 1,711.387, ,Ackland Lagoon tributary, ,580,191,indm,h37,2278000,5703700,13504339,ntc, , ,500
+13107,12,1992,Waitaki River,1311014,Tasman River 3,711.38,1100,Tasman River,,580,191,indm,h37,2278700,5703800,13504630,pun,,,500
+13118,12,1992,Waitaki River,1311025,Cass River tributary 2,711.396,1400,Cass River,,780,205,indm,I37,2304000,5703100,13504428,ntc,,,
+10580,11,1994,Waitaki River,1311006,Hopkins River tributary 3,711.378,1625,Hopkins River,,580,190,docc,H37,2255100,5680300,13508124,obs,,,9
+10594,1,1995,Waitaki River,1311023,Cass River tributary 1,711.396,1000,Cass River tributary,,730,199,docc,I37,2307900,5699800,9,pun,,,1
+10595,1,1995,Waitaki River,1311023,Cass River tributary 1,711.396,1030,Cass River,,730,199,docc,I37,2307900,5699800,13505029,pun,,,1
+10597,1,1995,Waitaki River,1311024,Cass River 1,711.396,930,Cass River, ,730,199,docc,i37,2307600,5700200,13505029,pun, , ,1
+10598,1,1995,Waitaki River,1311024,Cass River 1,711.396,1330,Cass River, ,720,198,docc,i37,2308700,5700200,13505025,pun, , ,1
+10599,1,1995,Waitaki River,1311023,Cass River tributary 1,711.396,1200,Cass River, ,730,198,docc,i37,2308200,5699800,13505029,pun, , ,1
+14267,5,1995,Waitaki River,1311012,Tasman River 1,711.38,1100,Tasman River, ,580,190,docc,h37,2277900,5703400,13504413,pun, , ,1
+14270,10,1995,Waitaki River,1311028,Cass River 2,711.396,1257,Cass River,,850,211,docc,I37,2300500,5707300,13503940,pun,,,1
+14271,10,1995,Waitaki River,1311027,Cass River tributary 4,711.396,1100,Cass River, ,830,210,docc,i37,2300900,5706400,13503976,pun, , ,1
+13858,1,1996,Waitaki River,1311014,Tasman River 3,711.38,1330,Tasman River,,610,195,docc,h37,2278200,5708500,13503672,ef,1,,100
+13859,2,1996,Waitaki River,1311005,Hopkins River tributary 2,711.378,930,Hopkins River,,550,184,docc,H38,2257000,5675000,13508832,efp,1,,50
+14272,2,1996,Waitaki River,1311016,Blue Stream,711.38,1415,Blue Stream,,710,208,docc,H36,2280900,5718700,13502564,ef,1,,
+14476,3,1996,Waitaki River,1311014,Tasman River 3,711.38,1600,Tasman River,,620,195,docc,h37,2278200,5708500,13503672,pun,,,1
+14481,8,1996,Waitaki River,1311009,Dobson River tributary 2,711.378,1100,Dobson River,,555,187,docc,H38,2261400,5677600,13508372,pun,,,1
+14482,8,1996,Waitaki River,1311010,Dobson River tributary 3,711.378,1140,Dobson River,,580,192,docc,H37,2263700,5681700,13507751,pun,,,1
+14483,8,1996,Waitaki River,1311011,Dobson River tributary 4,711.378,1220,Dobson River,,610,197,docc,H37,2264500,5685400,13507419,pun,,,1
+14488,11,1996,Waitaki River,1311036,Godley River lower,711.399,1115,Godley River, ,725,213,docc,i36,2311200,5715300,13502998,pun, , ,1
+18336,8,1999,Waitaki River,1311007,Hopkins River tributary 4,711.378,1130,Hopkins River,,600,192,docc,H37,2254700,5682100,13507704,pun,,,1
+18339,9,1999,Waitaki River,1311032,Cass River 3,711.396,1130,Cass River,,910,217,docc,I36,2301200,5712600,13503266,pun,,,1
+18340,9,1999,Waitaki River,1311028,Cass River 2,711.396,1300,Cass River, ,870,213,docc,i37,2300000,5709100,13503676,pun, , ,1
+18341,5,2000,Waitaki River,1311018,Fork Stream lower,711.393,1100,Fork Stream,,1050,203,docc,I37,2297600,5703000,13504600,pun,,,1
+18342,5,2000,Waitaki River,1311018,Fork Stream lower,711.393,1100,Fork Stream,,1035,202,docc,I37,2297300,5702400,13504690,pun,,,1
+18343,5,2000,Waitaki River,1311018,Fork Stream lower,711.393,1115,Fork Stream, ,1030,201,docc,i37,2297000,5701800,13504722,pun, , ,1
+18344,5,2000,Waitaki River,1311018,Fork Stream lower,711.393,1150,Fork Stream, ,1020,201,docc,i37,2296800,5701300,13504844,pun, , ,1
+18345,5,2000,Waitaki River,1311018,Fork Stream lower,711.393,1230,Fork Stream, ,1010,200,docc,i37,2296800,5700700,13504934,pun, , ,1
+18346,5,2000,Waitaki River,1311018,Fork Stream lower,711.393,1320,Fork Stream, ,1005,200,docc,i37,2296600,5700300,13504934,pun, , ,1
+18347,5,2000,Waitaki River,1311018,Fork Stream lower,711.393,1340,Fork Stream, ,1000,199,docc,i37,2296500,5699700,13505120,pun, , ,1
+20460,5,2001,Waitaki River,1311038,Macaulay River upper,711.399,1400,Macaulay River,,840,227,docc,I36,2318700,5725200,13501757,efp,1,,4
+20463,5,2001,Waitaki River,1311037,Macaulay River lower,711.399,1600,Macaulay River, ,770,217,docc,i36,2314600,5718200,13502573,efp,1, ,6
+20466,5,2001,Waitaki River,1311039,Godley River upper,711.399,1200,Godley River, ,830,229,docc,i36,2308800,5729200,13501493,efp,1, ,2
+20467,5,2001,Waitaki River,1311039,Godley River upper,711.399,1230,Godley River,,820,228,docc,I36,2308400,5728200,13501493,efp,1,,4
+20468,5,2001,Waitaki River,1311039,Godley River upper,711.399,1300,Godley River,,800,225,docc,I36,2307500,5726200,13501852,efp,1,,6
+20469,5,2001,Waitaki River,1311039,Godley River upper,711.399,1330,Godley River,,800,225,docc,I36,2308600,5726100,13501852,efp,1,,2
+20470,5,2001,Waitaki River,1311039,Godley River upper,711.399,1430,Godley River,,770,222,docc,I36,2309600,5723200,13502132,efp,1,,3
+20471,5,2001,Waitaki River,1311039,Godley River upper,711.399,1500,Godley River,,775,222,docc,I36,2308900,5723300,13502132,efp,1,,6
+20490,2,2001,Waitaki River,1311005,Hopkins River tributary 2,711.378,1100,Hopkins River,,550,184,docc,H38,2257200,5675100,13508832,pun,,,5
+21859,6,2001,Waitaki River,1311014,Tasman River 3,711.38,930,Tasman River,,610,196,docc,h37,2278300,5708700,13503669,ef,1,,
+21860,6,2001,Waitaki River,1311014,Tasman River 3,711.38,1020,Tasman River,,605,196,docc,h37,2278500,5707900,13503878,ef,1,,
+21861,6,2001,Waitaki River,1311012,Tasman River 1,711.38,1130,Tasman River, ,575,190,docc,h37,2278300,5703300,13504630,ef,1, ,5
+21862,6,2001,Waitaki River,1311012,Tasman River 1,711.38,1200,Tasman River, ,575,190,docc,h37,2277800,5703000,13504413,ef,1, ,2
+21863,6,2001,Waitaki River,1311012,Tasman River 1,711.38,1230,Tasman River,,555,187,docc,H37,2279000,5700000,13505021,ef,1,,4
+22508,4,2002,Waitaki River,1311015,Tasman River 4,711.38,1500,Tasman River,,640,198,docc,H36,2279800,5710900,13503446,ef,1,,
+22509,4,2002,Waitaki River,1311016,Blue Stream,711.38,1100,Blue Stream,,720,209,docc,H36,2281300,5719400,13502485,ef,1,,
+17508,1,2003,Waitaki River,1311015,Tasman River 4,711.38,1330,Parsons Creek,,625,196,docc,H37,2280800,5709500,9,efp,1,,120
+17510,1,2003,Waitaki River,1311015,Tasman River 4,711.38,1145,Chop Creek,,635,199,docc,H36,2280900,5710500,13503529,efp,1,,60
+17511,1,2003,Waitaki River,1311013,Tasman River 2,711.38,1315,Tasman River,,555,186,docc,H37,2282000,5700500,13504957,efp,1,,150
+17512,1,2003,Waitaki River,1311013,Tasman River 2,711.385,1600,Jollie River, ,570,188,docc,h37,2283000,5701100,13504882,efp,1, ,100
+24887,4,2003,Waitaki River,1311005,Hopkins River tributary 2,711.378,1245,Hopkins River,,550,184,doco,H38,2257100,5674900,13508863,efp,1,,700
+21270,12,2004,Waitaki River,1311014,Tasman River 3,711.38,1325,Tasman River,,605,195,docc,h37,2278438,5707885,13503672,efm,1,,60
+21271,12,2004,Waitaki River,1311014,Tasman River 3,711.38,1440,Tasman River,,605,195,docc,h37,2278273,5707933,13503878,efm,1,,175
+21272,12,2004,Waitaki River,1311014,Tasman River 3,711.38,1350,Tasman River,,605,195,docc,h37,2278383,5707918,13503672,efm,1,,50
+21273,12,2004,Waitaki River,1311014,Tasman River 3,711.38,1245,Tasman River,,605,195,docc,h37,2278491,5707887,13503672,efm,1,,60
+21274,12,2004,Waitaki River,1311014,Tasman River 3,711.38,1730,Tasman River,,595,193,docc,h37,2278021,5706407,13503878,efm,1,,120
+21275,12,2004,Waitaki River,1311014,Tasman River 3,711.38,1815,Tasman River,,595,194,docc,h37,2278198,5706733,13503878,efm,1,,120
+25934,4,2004,Waitaki River,1311028,Cass River 2,711.396,1015,Cass River, ,865,213,docc,i37,2299942,5709135,13503688,efp,1, ,180
+25935,4,2004,Waitaki River,1311028,Cass River 2,711.396,1100,Cass River tributary,,865,213,docc,I37,2299929,5709289,13503643,efp,1,,200
+25936,4,2004,Waitaki River,1311028,Cass River 2,711.396,1145,Cass River tributary,,855,212,docc,I37,2300013,5708418,13503765,efp,1,,80
+25937,4,2004,Waitaki River,1311028,Cass River 2,711.396,1200,Cass River tributary,,855,212,docc,I37,2300125,5708500,0,efp,1,,130
+25944,4,2004,Waitaki River,1311025,Cass River tributary 2,711.396,1500,Cass River tributary, ,790,206,docc,i37,2303410,5703713,13504389,efp,1, ,120
+25945,4,2004,Waitaki River,1311025,Cass River tributary 2,711.396,1525,Cass River tributary, ,795,206,docc,i37,2302999,5703842,13504403,efp,1, ,20
+25946,4,2004,Waitaki River,1311025,Cass River tributary 2,711.396,1530,Cass River tributary, ,795,206,docc,i37,2303327,5703546,13504499,efp,1, ,80
+25947,4,2004,Waitaki River,1311025,Cass River tributary 2,711.396,1540,Cass River tributary, ,795,206,docc,i37,2303033,5703756,13504403,efp,1, ,100
+25948,4,2004,Waitaki River,1311025,Cass River tributary 2,711.396,1555,Cass River tributary, ,795,206,docc,i37,2303160,5703557,13504499,efp,1, ,40
+25949,4,2004,Waitaki River,1311028,Cass River 2,711.396,1205,Cass River tributary,,850,212,docc,I37,2299960,5708402,13503813,efp,1,,30
+25950,2,2004,Waitaki River,1311018,Fork Stream lower,711.393,1000,Fork Stream, ,1040,202,docc,i37,2297443,5702404,13504690,efp,1, ,60
+25951,2,2004,Waitaki River,1311018,Fork Stream lower,711.393,1140,Fork Stream tributary,,1050,203,docc,I37,2297051,5703127,13504549,efp,1,,50
+25952,2,2004,Waitaki River,1311018,Fork Stream lower,711.393,1300,Fork Stream tributary,,1045,203,docc,I37,2297100,5702800,13504544,efp,1,,30
+25953,2,2004,Waitaki River,1311018,Fork Stream lower,711.393,1415,Fork Stream tributary,,1035,202,docc,I37,2297290,5702300,13504544,efp,1,,30
+25954,2,2004,Waitaki River,1311017,Fork Stream tributary 1,711.393,1500,Fork Stream tributary,,1005,199,docc,I37,2296900,5700100,13505084,efp,1,,70
+25955,2,2004,Waitaki River,1311018,Fork Stream lower,711.393,1515,Fork Stream tributary, ,1005,200,docc,i37,2296804,5700800,13504734,efp,1, ,30
+25956,2,2004,Waitaki River,1311017,Fork Stream tributary 1,711.393,1545,Fork Stream tributary, ,1000,198,docc,i37,2297079,5699048,13505084,efp,1, ,70
+25957,2,2004,Waitaki River,1311017,Fork Stream tributary 1,711.393,1625,Fork Stream tributary, ,985,197,docc,i37,2297510,5698950,13505223,efp,1, ,80
+21269,8,2005,Waitaki River,1311014,Tasman River 3,711.38,1540,Tasman River,,605,195,docc,h37,2278226,5707972,13503878,efm,1,,
+21281,8,2005,Waitaki River,1311014,Tasman River 3,711.38,1200,Tasman River,,605,195,docc,h37,2278507,5707908,13503672,efm,1,,38
+21330,11,2005,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River,,605,195,niwa,h37,2278507,5707908,13503878,efp,1,,50
+26553,5,2005,Waitaki River,1311039,Godley River upper,711.399,1240,Godley River,,775,222,doco,I36,2309475,5723361,13502018,efp,1,,150
+26555,5,2005,Waitaki River,1311037,Macaulay River lower,711.399,1415,Macaulay River,,750,217,doco,I36,2314449,5718065,13502573,efp,1,,
+28837,12,2005,Waitaki River,1311035,Cass River tributary 10,711.396,1240,Cass River,,1015,225,docc,I37,2300155,5719680,13502497,efp,1,,120
+28839,12,2005,Waitaki River,1311031,Cass River tributary 7,711.396,1500,Cass River tributary,,885,215,docc,I37,2300709,5710980,13503419,efp,1,,70
+28840,12,2005,Waitaki River,1311028,Cass River 2,711.396,1545,Cass River tributary,,870,213,docc,I37,2299948,5709120,13503676,efp,1,,150
+28841,12,2005,Waitaki River,1311028,Cass River 2,711.396,1615,Cass River tributary,,870,213,docc,I37,2299949,5709217,13503643,efp,1,,180
+28842,12,2005,Waitaki River,1311033,Cass River tributary 8,711.396,1800,Tin Hut Stream,,940,219,docc,I37,2300691,5714381,13502989,efp,1,,60
+28850,12,2005,Waitaki River,1311021,Fork Stream tributary 4,711.393,1530,Fork Stream tributary, ,1110,206,docc,i37,2297897,5705827,13504134,efp,1, ,50
+28851,12,2005,Waitaki River,1311021,Fork Stream tributary 4,711.393,1610,Fork Stream tributary,,1100,206,docc,I37,2297989,5705358,13504178,efp,1,,50
+28853,12,2005,Waitaki River,1311018,Fork Stream lower,711.393,1645,Fork Stream,,1045,203,docc,I37,2297582,5702712,13504643,efp,1,,80
+28854,12,2005,Waitaki River,1311017,Fork Stream tributary 1,711.393,1730,Fork Stream tributary,,1010,199,docc,i37,2296865,5700262,13505084,efp,1,,50
+28858,12,2005,Waitaki River,1311023,Cass River tributary 1,711.396,1330,Cass River, ,720,198,docc,i37,2308307,5699810,13505029,efp,1, ,100
+28863,12,2005,Waitaki River,1311028,Cass River 2,711.396,1030,Cass River, ,850,211,docc,i37,2300227,5707668,13503676,obs, , ,20
+22832,3,2006,Waitaki River,1311007,Hopkins River tributary 4,711.378,1020,Hopkins River tributary,,605,193,docc,H37,2254468,5682675,13507786,efp,1,,80
+22833,3,2006,Waitaki River,1311007,Hopkins River tributary 4,711.378,1115,Hopkins River tributary,,605,193,docc,H37,2254564,5682933,13507779,efp,1,,120
+22834,3,2006,Waitaki River,1311007,Hopkins River tributary 4,711.378,1215,Hopkins River tributary, ,610,194,docc,h37,2254278,5683472,13507593,efp,1, ,2
+22838,3,2006,Waitaki River,1311005,Hopkins River tributary 2,711.378,1610,Hopkins River, ,565,187,docc,h37,2255520,5677249,13508307,efp,1, , 
+28368,12,2006,Waitaki River,1311023,Cass River tributary 1,711.396,1600,Cass River tributary, ,720,197,docc,i37,2308320,5699804,9,efp,1, , 
+28369,12,2006,Waitaki River,1311024,Cass River 1,711.396,1530,Cass River,,730,199,doco,I37,2307419,5700373,13505029,efp,1,,120
+28371,12,2006,Waitaki River,1311039,Godley River upper,711.399,1140,Godley River,,770,222,doco,I36,2309424,5723348,13502132,efp,1,,10
+28372,12,2006,Waitaki River,1311037,Macaulay River lower,711.399,1235,Macaulay River, ,750,217,doco,i36,2314628,5717926,13502573,efp,1, ,250
+28391,12,2006,Waitaki River,1311005,Hopkins River tributary 2,711.378,1205,Hopkins River,,570,188,doco,H38,2255364,5678377,13508307,efp,1,,20
+28392,12,2006,Waitaki River,1311010,Dobson River tributary 3,711.378,1610,Dobson River,,580,193,doco,H37,2264080,5682067,13507751,efp,1,,40
+28393,12,2006,Waitaki River,1311007,Hopkins River tributary 4,711.378,1045,Hopkins River,,600,192,doco,H37,2254534,5682117,13507704,efp,1,,30
+28402,12,2006,Waitaki River,1311016,Blue Stream,711.38,1215,Blue Stream, ,760,210,docc,h36,2281387,5720684,13502364,efp,1, ,50
+28403,12,2006,Waitaki River,1311016,Blue Stream,711.38,1300,Blue Stream, ,740,209,docc,h36,2281252,5719969,13502426,efp,1, ,50
+28404,12,2006,Waitaki River,1311016,Blue Stream,711.38,1325,Blue Stream, ,720,209,docc,h36,2281262,5719334,13502485,efp,1, ,60
+28405,12,2006,Waitaki River,1311016,Blue Stream,711.38,1345,Blue Stream tributary,,715,208,docc,h36,2280974,5719281,13502495,efp,1,,20
+28406,12,2006,Waitaki River,1311016,Blue Stream,711.38,1410,Blue Stream, ,715,208,docc,h36,2280898,5719164,13502564,efp,1, ,40
+28407,12,2006,Waitaki River,1311016,Blue Stream,711.38,1430,Blue Stream, ,710,208,docc,h36,2280901,5718646,13502564,efp,1, ,50
+28408,12,2006,Waitaki River,1311016,Blue Stream,711.38,1500,Blue Stream, ,705,207,docc,h36,2280779,5718535,13502623,obs, , ,2
+28409,12,2006,Waitaki River,1311016,Blue Stream,711.38,1520,Blue Stream tributary, ,700,207,docc,h36,2280574,5717975,13502686,efp,1, , 
+28410,12,2006,Waitaki River,1311016,Blue Stream,711.38,1550,Blue Stream,,685,206,docc,H36,2280106,5716934,13502789,efp,1,,90
+28411,12,2006,Waitaki River,1311016,Blue Stream,711.38,1620,Blue Stream, ,685,206,docc,h36,2280186,5716890,13502789,efp,1, , 
+28412,12,2006,Waitaki River,1311014,Tasman River 3,711.38,1720,Tasman River tributary,,620,197,docc,h37,2278496,5709213,13503669,efp,1,,40
+100591,3,2006,Waitaki River,1311016,Blue Stream,711.38, ,Blue Stream, ,730,209,uoo, ,2281297,5719344,13502485,efp,1, , 
+107132,12,2006,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River,,589,190,doco,H37,2277991,5706032,13503878,efp,,,
+109472,3,2006,Waitaki River,1311007,Hopkins River tributary 4,711.378,,Hopkins River,,590,192,doco,H38,2254518,5682153,13507704,efp,,,
+109476,3,2006,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River,,589,190,doco,H37,2278021,5706407,13503878,efp,,,
+109478,3,2006,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River,,589,190,doco,H37,2278491,5707887,13503878,efp,,,
+22839,1,2007,Waitaki River,1311018,Fork Stream lower,711.393,1531,Fork Stream,,1050,203,docc,I37,2297038,5703088,13504600,efp,1,,10
+22840,1,2007,Waitaki River,1311034,Cass River tributary 9,711.396,915,Cass River,,990,223,docc,I36,2301101,5718694,13502626,efp,1,,80
+22841,1,2007,Waitaki River,1311028,Cass River 2,711.396,955,Cass River,,870,212,docc,I36,2299960,5708405,13503676,efp,1,,70
+22842,1,2007,Waitaki River,1311022,Fork Stream upper,711.393,1110,Fork Stream,,1200,210,docc,I37,2296621,5709080,13503641,efp,1,,40
+28613,3,2007,Waitaki River,1311002,Ahuriri River lower,711.31,1145,Ahuriri River, ,765,189,doco,g38,2239068,5656221,13512005,efp,1, ,20
+28623,3,2007,Waitaki River,1311001,Ahuriri River tributary,711.31,1525,Ahuriri River,,735,182,doco,G38,2239342,5651073,13512946,efp,1,,30
+28624,3,2007,Waitaki River,1311002,Ahuriri River lower,711.31,1205,Ahuriri River,,755,188,doco,G38,2239388,5655931,13512005,efp,1,,20
+28625,3,2007,Waitaki River,1311002,Ahuriri River lower,711.31,1115,Ahuriri River, ,755,189,doco,g38,2238862,5656484,13512005,efp,1, ,100
+28630,3,2007,Waitaki River,1311002,Ahuriri River lower,711.31,1235,Ahuriri River, ,750,188,doco,g38,2239434,5655461,13512149,efp,1, ,20
+29022,11,2007,Waitaki River,1311001,Ahuriri River tributary,711.31,1010,Ahuriri River, ,735,183,doco,g38,2239345,5651174,13512882,efp,1, ,50
+29023,11,2007,Waitaki River,1311001,Ahuriri River tributary,711.31,1035,Ahuriri River, ,735,183,doco,g38,2239271,5651369,13512822,efp,1, ,50
+109473,3,2007,Waitaki River,1311007,Hopkins River tributary 4,711.378,,Hopkins River,,590,192,doco,H38,2254518,5682153,13507704,efp,,,
+109477,3,2007,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River,,589,190,doco,H37,2278021,5706407,13503878,efp,,,
+109479,3,2007,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River,,589,190,doco,H37,2278491,5707887,13503878,efp,,,
+29473,4,2008,Waitaki River,1311003,Ahuriri River upper,711.31,1400,Ahuriri River tributary, ,770,192,doco,g38,2239906,5659055,13511355,efp,1, ,20
+29474,4,2008,Waitaki River,1311003,Ahuriri River upper,711.31,1420,Ahuriri River tributary,,770,192,doco,G38,2240004,5659097,13511355,efp,1,,60
+29475,4,2008,Waitaki River,1311003,Ahuriri River upper,711.31,1535,Ahuriri River tributary,,770,193,doco,G38,2240055,5659194,13511355,efp,1,,40
+29476,4,2008,Waitaki River,1311003,Ahuriri River upper,711.31,1625,Ahuriri River tributary, ,775,193,doco,g38,2240038,5659463,13511355,efp,1, , 
+109474,3,2008,Waitaki River,1311007,Hopkins River tributary 4,711.378,,Hopkins River,,590,192,doco,H38,2254518,5682153,13507704,efp,,,
+109480,4,2008,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River,,589,190,doco,H37,2278021,5706407,13503878,efp,,,
+109481,4,2008,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River,,589,190,doco,H37,2278491,5707887,13503878,efp,,,
+106348,4,2009,Waitaki River,1311002,Ahuriri River lower,711.31,1340,Ahuriri River,,938,188,doco,H39,2239245,5656000,13512137,efp,,,80
+106349,4,2009,Waitaki River,1311002,Ahuriri River lower,711.31,1410,Ahuriri River,,938,188,doco,H39,2239301,5655902,13512137,efp,,,
+106353,4,2009,Waitaki River,1311003,Ahuriri River upper,711.31,1541,Ahuriri River,,771,193,doco,H39,2240458,5659799,13511355,efp,,,50
+106355,4,2009,Waitaki River,1311003,Ahuriri River upper,711.31,1630,Ahuriri River, ,772,193,doco,H39,2240615,5660082,13511297,efp, , , 
+106369,3,2009,Waitaki River,1311012,Tasman River 1,711.38,1130,Tasman River tributary, ,572,190,docc,H38,2277871,5702627,13504661,efp, , , 
+106371,3,2009,Waitaki River,1311012,Tasman River 1,711.38,1006,Acland Lagoon tributary, ,582,191,docc,H37,2277821,5703773,13504339,efp, , , 
+106372,3,2009,Waitaki River,1311012,Tasman River 1,711.38,1230,Tasman River tributary, ,675,190,docc,H37,2277699,5703214,13504610,efp, , , 
+106373,3,2009,Waitaki River,1311012,Tasman River 1,711.38,1350,Tasman River tributary, ,575,190,docc,H37,2277800,5703456,13504482,efp, , , 
+106374,3,2009,Waitaki River,1311012,Tasman River 1,711.38,1045,Tasman River tributary, ,737,190,docc,H37,2278008,5702135,13504719,efp, , , 
+109475,4,2009,Waitaki River,1311007,Hopkins River tributary 4,711.378,,Hopkins River,,590,192,doco,H38,2254518,5682153,13507704,efp,,,
+109482,3,2009,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River,,589,190,doco,H37,2278491,5707887,13503878,efp,,,
+109483,3,2009,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River,,589,190,doco,H37,2278021,5706407,13503878,efp,,,
+32358,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1339,Cass River, ,834,210,uoc,i37,2300726,5706957,13503976,efp,0, ,6
+32359,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1349,Cass River,,835,210,uoc,I37,2300745,5706876,13504008,efp,,,6
+32360,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1401,Cass River, ,836,210,uoc,i37,2300759,5706821,13504008,efp,0, ,6
+32361,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1409,Cass River, ,837,210,uoc,i37,2300790,5706889,13503976,efp,0, ,6
+32362,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1421,Cass River, ,839,210,uoc,i37,2300764,5706994,13503976,efp,0, ,6
+32363,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1441,Cass River, ,842,210,uoc,i37,2300764,5706965,13503976,efp,0, ,6
+32364,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1450,Cass River,,834,210,uoc,I37,2300795,5706858,13504008,efp,,,6
+32365,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1459,Cass River, ,831,210,uoc,i37,2300772,5706796,13504008,efp,0, ,6
+32366,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1507,Cass River,,835,210,uoc,I37,2300774,5706778,13504008,efp,,,6
+32367,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1517,Cass River, ,834,210,uoc,i37,2300784,5706749,13504008,efp,0, ,6
+32368,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1528,Cass River, ,834,210,uoc,i37,2300773,5706682,13504008,efp,0, ,6
+32369,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1546,Cass River,,836,210,uoc,I37,2300821,5706630,13504008,efp,,,6
+32370,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1554,Cass River, ,834,210,uoc,i37,2300842,5706605,13504008,efp,0, ,6
+32371,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1603,Cass River, ,841,210,uoc,i37,2300869,5706529,13504008,efp,0, ,6
+32372,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1612,Cass River, ,848,210,uoc,i37,2300881,5706522,13504008,efp,0, ,6
+32373,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1616,Cass River, ,832,210,uoc,i37,2300915,5706457,13504008,efp,0, ,6
+32374,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1622,Cass River, ,835,210,uoc,i37,2300910,5706501,13504008,efp,0, ,6
+32375,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1628,Cass River, ,840,210,uoc,i37,2300867,5706551,13504008,efp,0, ,6
+32376,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,944,Cass River, ,834,210,uoc,i37,2300911,5706436,13503976,efp,0, ,6
+32377,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,958,Cass River, ,830,210,uoc,i37,2300934,5706319,13504052,efp,0, ,6
+32378,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1004,Cass River, ,830,210,uoc,i37,2300935,5706357,13504052,efp,0, ,6
+32379,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1016,Cass River, ,830,210,uoc,i37,2300921,5706296,13504052,efp,0, ,6
+32380,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1028,Cass River, ,830,210,uoc,i37,2300907,5706296,13504052,efp,0, ,6
+32381,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1034,Cass River, ,832,210,uoc,i37,2300902,5706368,13504052,efp,0, ,6
+32382,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1054,Cass River, ,832,210,uoc,i37,2300854,5706443,13504032,efp,0, ,6
+32383,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1101,Cass River, ,832,210,uoc,i37,2300840,5706437,13504032,efp,0, ,6
+32384,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1115,Cass River, ,831,210,uoc,i37,2300790,5706446,13504032,efp,0, ,6
+32385,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1124,Cass River, ,835,210,uoc,i37,2300751,5706490,13504032,efp,0, ,6
+32386,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1132,Cass River, ,835,210,uoc,i37,2300711,5706571,13504032,efp,0, ,6
+32387,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1143,Cass River, ,837,210,uoc,i37,2300641,5706631,13504032,efp,0, ,6
+32388,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1151,Cass River, ,836,210,uoc,i37,2300594,5706681,13504032,efp,0, ,6
+32389,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1204,Cass River, ,838,210,uoc,i37,2300515,5706671,13504032,efp,0, ,6
+32390,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1208,Cass River, ,834,210,uoc,i37,2300600,5706643,13504032,efp,0, ,6
+32391,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1319,Cass River, ,834,210,uoc,i37,2300652,5706700,13504008,efp,0, ,6
+32392,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1326,Cass River, ,832,210,uoc,i37,2300762,5706627,13504008,efp,0, ,6
+32393,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1339,Cass River, ,835,210,uoc,i37,2300619,5706849,13504008,efp,0, ,6
+32394,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1350,Cass River, ,839,211,uoc,i37,2300484,5706918,13503987,efp,0, ,6
+32395,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1400,Cass River,,841,211,uoc,i37,2300444,5707017,13503987,efp,0,,6
+32396,6,2010,Waitaki River,1311027,Cass River tributary 4,711.396,1415,Cass River,,842,211,uoc,i37,2300375,5707152,13503935,efp,0,,6
+32399,6,2010,Waitaki River,1311026,Cass River tributary 3,711.396,1501,Cass River,,837,211,uoc,I37,2300902,5707273,13503941,efp,,,6
+32400,6,2010,Waitaki River,1311026,Cass River tributary 3,711.396,1519,Cass River, ,840,211,uoc,i37,2300950,5707283,13503941,efp,0, ,6
+32401,6,2010,Waitaki River,1311026,Cass River tributary 3,711.396,1527,Cass River, ,839,211,uoc,i37,2300907,5707147,13503963,efp,0, ,6
+32402,6,2010,Waitaki River,1311026,Cass River tributary 3,711.396,1541,Cass River, ,835,211,uoc,i37,2300884,5707203,13503963,efp,0, ,6
+32487,7,2010,Waitaki River,1311039,Godley River upper,711.399,1124,Godley River tributary,,800,224,uoc,I36,2308933,5725464,13501849,efp,0,,6
+32488,7,2010,Waitaki River,1311039,Godley River upper,711.399,1142,Godley River tributary,,775,224,uoc,I36,2308979,5725443,13501849,efp,0,,6
+32489,7,2010,Waitaki River,1311039,Godley River upper,711.399,1148,Godley River tributary,,790,224,uoc,I36,2308992,5725456,13501849,efp,0,,6
+32490,7,2010,Waitaki River,1311039,Godley River upper,711.399,1157,Godley River tributary,,793,224,uoc,I36,2309025,5725391,13501849,efp,0,,6
+32491,7,2010,Waitaki River,1311039,Godley River upper,711.399,1203,Godley River tributary,,790,224,uoc,I36,2309027,5725325,13501849,efp,0,,6
+32492,7,2010,Waitaki River,1311039,Godley River upper,711.399,1216,Godley River tributary,,790,224,uoc,I36,2309043,5725255,13501849,efp,0,,6
+32493,7,2010,Waitaki River,1311039,Godley River upper,711.399,1235,Godley River tributary,,793,224,uoc,I36,2309055,5725180,13501849,efp,0,,6
+32494,7,2010,Waitaki River,1311039,Godley River upper,711.399,1242,Godley River tributary,,792,224,uoc,I36,2309038,5725112,13501849,efp,0,,6
+32495,7,2010,Waitaki River,1311039,Godley River upper,711.399,1323,Godley River tributary,,790,224,uoc,I36,2309007,5725122,13501849,efp,0,,6
+32496,7,2010,Waitaki River,1311039,Godley River upper,711.399,1335,Godley River tributary,,789,223,uoc,I36,2309008,5725083,13501849,efp,0,,6
+32497,7,2010,Waitaki River,1311039,Godley River upper,711.399,1344,Godley River tributary,,791,224,uoc,I36,2308928,5725146,13501849,efp,0,,6
+32498,7,2010,Waitaki River,1311039,Godley River upper,711.399,1354,Godley River tributary,,793,224,uoc,I36,2308957,5725097,13501849,efp,0,,6
+32499,7,2010,Waitaki River,1311039,Godley River upper,711.399,1408,Godley River tributary,,791,224,uoc,I36,2309031,5725031,13501849,efp,0,,6
+32500,7,2010,Waitaki River,1311039,Godley River upper,711.399,1418,Godley River tributary,,790,224,uoc,I36,2309010,5724998,13501849,efp,0,,6
+32501,7,2010,Waitaki River,1311039,Godley River upper,711.399,1437,Godley River tributary,,792,224,uoc,I36,2308994,5724996,13501849,efp,0,,6
+32502,7,2010,Waitaki River,1311039,Godley River upper,711.399,1446,Godley River tributary,,790,224,uoc,I36,2309013,5724958,13501849,efp,0,,6
+32503,7,2010,Waitaki River,1311039,Godley River upper,711.399,1452,Godley River tributary,,791,224,uoc,I36,2309019,5724941,13501849,efp,0,,6
+32504,7,2010,Waitaki River,1311039,Godley River upper,711.399,1500,Godley River tributary,,788,224,uoc,I36,2309022,5724922,13501849,efp,0,,6
+32505,7,2010,Waitaki River,1311039,Godley River upper,711.399,1511,Godley River tributary,,784,224,uoc,I36,2309016,5724850,13501849,efp,0,,6
+32506,7,2010,Waitaki River,1311039,Godley River upper,711.399,1522,Godley River tributary, ,787,224,uoc,I36,2309072,5724795,13501849,efp,0, ,6
+32507,7,2010,Waitaki River,1311039,Godley River upper,711.399,1528,Godley River tributary, ,787,224,uoc,I36,2309079,5724775,13501849,efp,0, ,6
+32508,7,2010,Waitaki River,1311039,Godley River upper,711.399,1538,Godley River tributary, ,788,223,uoc,I36,2309101,5724685,13501993,efp,0, ,6
+32509,7,2010,Waitaki River,1311039,Godley River upper,711.399,1544,Godley River tributary, ,787,223,uoc,I36,2309088,5724644,13501993,efp,0, ,6
+32510,7,2010,Waitaki River,1311039,Godley River upper,711.399,1553,Godley River tributary, ,785,223,uoc,I36,2309127,5724579,13501993,efp,0, ,6
+32511,7,2010,Waitaki River,1311039,Godley River upper,711.399,1604,Godley River tributary, ,786,223,uoc,I36,2309136,5724595,13501993,efp,0, ,6
+32512,7,2010,Waitaki River,1311039,Godley River upper,711.399,1616,Godley River tributary, ,787,223,uoc,I36,2309130,5724705,13501993,efp,0, ,6
+32513,7,2010,Waitaki River,1311039,Godley River upper,711.399,1638,Godley River tributary,,787,224,uoc,I36,2309157,5725109,13501849,efp,0,,6
+32514,7,2010,Waitaki River,1311039,Godley River upper,711.399,1644,Godley River tributary,,789,224,uoc,I36,2309136,5725002,13501965,efp,0,,6
+32515,7,2010,Waitaki River,1311039,Godley River upper,711.399,1655,Godley River tributary,,787,224,uoc,I36,2309134,5724871,13501965,efp,0,,6
+32516,7,2010,Waitaki River,1311039,Godley River upper,711.399,1705,Godley River tributary, ,786,224,uoc,I36,2309110,5724772,13501965,efp,0, ,8
+32517,7,2010,Waitaki River,1311039,Godley River upper,711.399,1031,Godley River tributary, ,794,224,uoc,I36,2308791,5725586,13501875,efp,0, ,6
+32518,7,2010,Waitaki River,1311039,Godley River upper,711.399,1048,Godley River tributary, ,791,224,uoc,I36,2308791,5725512,13501875,efp,0, ,6
+32519,7,2010,Waitaki River,1311039,Godley River upper,711.399,1056,Godley River tributary, ,791,224,uoc,I36,2308821,5725375,13501875,efp,0, ,8
+32520,7,2010,Waitaki River,1311039,Godley River upper,711.399,1108,Godley River tributary, ,794,224,uoc,I36,2308821,5725325,13501875,efp,0, ,6
+32521,7,2010,Waitaki River,1311039,Godley River upper,711.399,1123,Godley River tributary, ,792,224,uoc,I36,2308811,5725311,13501875,efp,0, ,6
+32522,7,2010,Waitaki River,1311039,Godley River upper,711.399,1132,Godley River tributary, ,793,224,uoc,I36,2308779,5725230,13501875,efp,0, ,6
+32523,7,2010,Waitaki River,1311039,Godley River upper,711.399,1142,Godley River tributary, ,792,224,uoc,I36,2308789,5725135,13501875,efp,0, ,6
+32524,7,2010,Waitaki River,1311039,Godley River upper,711.399,1224,Godley River tributary, ,790,224,uoc,I36,2308754,5725204,13501875,efp,0, ,6
+32525,7,2010,Waitaki River,1311039,Godley River upper,711.399,1239,Godley River tributary, ,796,224,uoc,I36,2308696,5725227,13501875,efp,0, ,6
+32526,7,2010,Waitaki River,1311039,Godley River upper,711.399,1246,Godley River tributary, ,792,224,uoc,I36,2308736,5725165,13501875,efp,0, ,6
+32527,7,2010,Waitaki River,1311039,Godley River upper,711.399,1300,Godley River tributary, ,792,224,uoc,I36,2308760,5725126,13501875,efp,0, ,6
+32528,7,2010,Waitaki River,1311039,Godley River upper,711.399,1308,Godley River tributary,,790,224,uoc,I36,2308752,5725080,13501875,efp,,,6
+32529,7,2010,Waitaki River,1311039,Godley River upper,711.399,1325,Godley River tributary, ,790,224,uoc,I36,2308775,5725056,13501875,efp,0, ,6
+32530,7,2010,Waitaki River,1311039,Godley River upper,711.399,1343,Godley River tributary,,793,224,uoc,I36,2308673,5725042,13501875,efp,,,6
+32531,7,2010,Waitaki River,1311039,Godley River upper,711.399,1355,Godley River tributary,,796,224,uoc,I36,2308595,5725081,13501852,efp,,,6
+32532,7,2010,Waitaki River,1311039,Godley River upper,711.399,1417,Godley River,,792,224,uoc,I36,2308267,5725394,13501852,efp,,,6
+32533,7,2010,Waitaki River,1311039,Godley River upper,711.399,1429,Godley River, ,794,224,uoc,I36,2308296,5725345,13501852,efp,0, ,6
+32534,7,2010,Waitaki River,1311039,Godley River upper,711.399,1437,Godley River, ,798,224,uoc,I36,2308336,5725268,13501852,efp,0, ,6
+32535,7,2010,Waitaki River,1311039,Godley River upper,711.399,1443,Godley River, ,797,224,uoc,I36,2308324,5725238,13501852,efp,0, ,6
+32536,7,2010,Waitaki River,1311039,Godley River upper,711.399,1508,Godley River, ,792,224,uoc,I36,2308410,5725107,13501852,efp,0, ,6
+32537,7,2010,Waitaki River,1311039,Godley River upper,711.399,1523,Godley River, ,798,224,uoc,I36,2308489,5725106,13501852,efp,0, ,6
+32538,7,2010,Waitaki River,1311039,Godley River upper,711.399,1541,Godley River, ,792,224,uoc,I36,2308659,5724993,13501875,efp,0, ,6
+32539,7,2010,Waitaki River,1311039,Godley River upper,711.399,1546,Godley River, ,792,224,uoc,I36,2308696,5724972,13501875,efp,0, ,6
+32540,7,2010,Waitaki River,1311039,Godley River upper,711.399,1605,Godley River tributary,,786,224,uoc,I36,2308817,5724740,13501875,efp,,,6
+32541,7,2010,Waitaki River,1311039,Godley River upper,711.399,1631,Godley River, ,789,223,uoc,I36,2308821,5724646,13501852,efp,0, ,6
+32542,7,2010,Waitaki River,1311039,Godley River upper,711.399,1640,Godley River, ,791,223,uoc,I36,2308818,5724639,13501852,efp,0, ,6
+32543,7,2010,Waitaki River,1311039,Godley River upper,711.399,1651,Godley River tributary, ,788,224,uoc,I36,2308818,5724871,13501875,efp,0, ,6
+32544,7,2010,Waitaki River,1311039,Godley River upper,711.399,1658,Godley River tributary,,788,224,uoc,I36,2308798,5724865,13501875,efp,,,6
+32545,7,2010,Waitaki River,1311039,Godley River upper,711.399,1707,Godley River tributary, ,791,224,uoc,I36,2308788,5724963,13501875,efp,0, ,6
+32546,7,2010,Waitaki River,1311039,Godley River upper,711.399,1715,Godley River tributary, ,790,224,uoc,I36,2308832,5724978,13501875,efp,0, ,6
+32627,6,2010,Waitaki River,1311014,Tasman River 3,711.38,934,Birch Hill Stream tributary,,613,197,uoc,h37,2278246,5708783,13503669,efp,0,,6
+32628,6,2010,Waitaki River,1311014,Tasman River 3,711.38,950,Birch Hill Stream tributary,,612,197,uoc,h37,2278235,5708726,13503669,efp,0,,6
+32629,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1015,Birch Hill Stream tributary,,611,197,uoc,h37,2278227,5708654,13503669,efp,0,,6
+32630,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1017,Birch Hill Stream tributary,,611,197,uoc,h37,2278218,5708624,13503669,efp,0,,6
+32631,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1028,Birch Hill Stream tributary,,610,197,uoc,h37,2278196,5708583,13503669,efp,0,,6
+32632,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1039,Birch Hill Stream tributary,,610,197,uoc,h37,2278147,5708510,13503777,efp,0,,6
+32633,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1102,Birch Hill Stream tributary,,614,197,uoc,h37,2278032,5708737,13503745,efp,0,,6
+32634,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1114,Birch Hill Stream tributary,,614,197,uoc,h37,2278038,5708711,13503745,efp,0,,6
+32635,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1118,Birch Hill Stream tributary,,613,197,uoc,h37,2278077,5708701,13503745,efp,0,,6
+32636,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1141,Birch Hill Stream tributary,,612,197,uoc,h37,2278139,5708651,13503745,efp,0,,6
+32637,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1150,Birch Hill Stream tributary,,610,197,uoc,h37,2278148,5708567,13503745,efp,0,,6
+32638,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1159,Birch Hill Stream tributary,,610,197,uoc,h37,2278114,5708519,13503777,efp,0,,6
+32639,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1335,Birch Hill Stream tributary,,610,196,uoc,h37,2278100,5708417,13503777,efp,0,,6
+32640,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1345,Birch Hill Stream tributary,,611,197,uoc,h37,2278229,5708516,13503669,efp,0,,6
+32641,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1357,Birch Hill Stream tributary,,610,197,uoc,h37,2278219,5708466,13503777,efp,0,,6
+32642,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1408,Birch Hill Stream tributary,,610,196,uoc,h37,2278219,5708412,13503777,efp,0,,6
+32643,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1417,Birch Hill Stream tributary,,609,196,uoc,h37,2278152,5708340,13503777,efp,0,,6
+32644,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1432,Birch Hill Stream tributary,,609,196,uoc,h37,2278172,5708264,13503777,efp,0,,6
+32645,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1439,Birch Hill Stream tributary,,609,196,uoc,h37,2278164,5708231,13503777,efp,0,,6
+32646,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1453,Birch Hill Stream tributary,,609,196,uoc,h37,2278194,5708167,13503777,efp,0,,6
+32647,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1510,Birch Hill Stream tributary,,609,196,uoc,h37,2278215,5708213,13503777,efp,0,,6
+32648,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1519,Birch Hill Stream tributary,,609,196,uoc,h37,2278237,5708118,13503777,efp,0,,6
+32649,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1534,Birch Hill Stream tributary,,608,196,uoc,h37,2278245,5708040,13503777,efp,0,,6
+32650,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1549,Birch Hill Stream tributary,,608,196,uoc,h37,2278245,5707925,13503777,efp,0,,6
+32651,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1607,Birch Hill Stream tributary,,608,196,uoc,h37,2278272,5707960,13503777,efp,0,,6
+32652,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1628,Birch Hill Stream tributary,,608,196,uoc,h37,2278328,5707801,13503777,efp,0,,6
+32653,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1637,Hoophorn Stream,,602,196,uoc,h37,2278373,5707751,13503655,efp,0,,6
+32654,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1700,Hoophorn Stream,,609,196,uoc,h37,2278489,5707871,13503655,efp,0,,6
+32655,6,2010,Waitaki River,1311014,Tasman River 3,711.38,1707,Hoophorn Stream,,610,196,uoc,h37,2278540,5707985,13503655,efp,0,,6
+103850,8,2012,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream, ,1006,199,uoo,I37,2296780,5700420,13504934,efp,1, ,100
+103853,8,2012,Waitaki River,1311012,Tasman River 1,711.38, ,Tasman River, , , ,uoo,H37,2278250,5701950, ,efp,1, ,100
+101363,4,2013,Waitaki River,1311005,Hopkins River tributary 2,711.378, ,Hopkins River, ,541,185,doco,j41,2257243,5675212,13508618,efp,1, , 
+101364,4,2013,Waitaki River,1311005,Hopkins River tributary 2,711.378,,Hopkins River,,540,185,doco,J41,2257259,5675267,13508618,efp,1,,
+101365,4,2013,Waitaki River,1311008,Dobson River tributary 1,711.378,,Dobson River tributary,,556,185,doco,J41,2257819,5676489,13508573,efp,1,,
+101366,4,2013,Waitaki River,1311005,Hopkins River tributary 2,711.378, ,Hopkins River, ,555,185,doco,j41,2257200,5675872,13508618,efp,1, , 
+101367,4,2013,Waitaki River,1311005,Hopkins River tributary 2,711.378,,Hopkins River,,554,185,doco,J41,2257220,5675850,13508618,efp,1,,
+101368,4,2013,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River tributary,,616,196,doco,h37,2278292,5708014,13503777,efp,1,,
+101369,4,2013,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River tributary,,622,196,doco,h37,2278213,5708048,13503777,efp,1,,
+101370,4,2013,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River tributary,,617,196,doco,h37,2278238,5708121,13503777,efp,1,,
+101371,4,2013,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River tributary,,619,196,doco,h37,2278223,5708004,13503777,efp,1,,
+101372,4,2013,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River tributary,,616,196,doco,h37,2278406,5708094,13503777,efp,1,,
+101373,4,2013,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River tributary,,589,191,doco,h37,2279231,5703905,13504373,efp,1,,
+101374,4,2013,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River tributary,,605,194,doco,h37,2278022,5706015,13503945,efp,1,,
+101375,4,2013,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River tributary,,616,196,doco,h37,2278244,5708021,13503777,efp,1,,
+101376,4,2013,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River tributary,,607,194,doco,h37,2278108,5706439,13503945,efp,1,,
+101377,4,2013,Waitaki River,1311012,Tasman River 1,711.38,,Tasman River tributary,,568,186,doco,H37,2278967,5699998,13504980,efp,1,,10
+105116,5,2013,Waitaki River,1311018,Fork Stream lower,711.393,1413,Fork Stream tributary,,1064,203,docc,I37,2297106,5702970,13504549,efp,,,
+105117,5,2013,Waitaki River,1311018,Fork Stream lower,711.393,1440,Fork Stream tributary,,1064,203,docc,I37,2297008,5703150,13504549,efp,,,
+105118,5,2013,Waitaki River,1311018,Fork Stream lower,711.393,1504,Fork Stream tributary,,1064,203,docc,I37,2297036,5703064,13504549,efp,,,
+105119,5,2013,Waitaki River,1311017,Fork Stream tributary 1,711.393,1630,Fork Stream tributary,,986,197,docc,I37,2296875,5700254,13505084,efp,,,
+101794,2,2014,Waitaki River,1311022,Fork Stream upper,711.393, ,Fork Stream tributary, ,1218,209,doco,i37,2296463,5709107,13503641,efp,1, , 
+101795,2,2014,Waitaki River,1311022,Fork Stream upper,711.393, ,Fork Stream, ,1202,209,doco,i37,2296529,5709057,13503641,efp,1, , 
+101796,2,2014,Waitaki River,1311022,Fork Stream upper,711.393, ,Fork Stream, ,1197,209,doco,i37,2296595,5708926,13503641,efp,1, , 
+101797,2,2014,Waitaki River,1311022,Fork Stream upper,711.393, ,Fork Stream tributary, ,1195,209,doco,i37,2296629,5708917,13503641,efp,1, , 
+101798,2,2014,Waitaki River,1311022,Fork Stream upper,711.393,,Fork Stream tributary,,1193,209,doco,I37,2296651,5708860,13503641,efp,1,,
+101799,2,2014,Waitaki River,1311022,Fork Stream upper,711.393, ,Fork Stream tributary, ,1194,209,doco,i37,2296661,5708890,13503731,efp,1, , 
+101800,2,2014,Waitaki River,1311022,Fork Stream upper,711.393,,Fork Stream tributary,,1197,209,doco,I37,2296667,5708931,13503731,efp,1,,
+101801,2,2014,Waitaki River,1311022,Fork Stream upper,711.393,,Fork Stream tributary,,1194,209,doco,I37,2296664,5708898,13503731,efp,1,,
+101802,2,2014,Waitaki River,1311022,Fork Stream upper,711.393, ,Fork Stream, ,1188,209,doco,i37,2296642,5708762,13503740,efp,1, , 
+101803,2,2014,Waitaki River,1311022,Fork Stream upper,711.393, ,Fork Stream, ,72,209,doco,i37,2296685,5708734,13503740,efp,1, , 
+101823,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393, ,Fork Stream tributary, ,1112,205,doco,i37,2297924,5705697,13504140,efp,1, , 
+101824,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393, ,Fork Stream tributary, ,1111,205,doco,i37,2297951,5705667,13504140,efp,1, , 
+101825,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393,,Fork Stream tributary,,1109,205,doco,I37,2297970,5705624,13504140,efp,1,,
+101826,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393, ,Fork Stream tributary, ,1112,205,doco,i37,2297897,5705655,13504140,efp,1, , 
+101827,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393,,Fork Stream tributary,,1102,205,doco,I37,2297992,5705418,13504140,efp,1,,
+101829,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393, ,Fork Stream, ,1114,206,doco,i37,2297764,5705840,13504044,efp,1, , 
+101830,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393, ,Fork Stream tributary, ,1114,205,doco,i37,2297901,5705818,13504140,efp,1, , 
+101831,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393, ,Fork Stream tributary, ,1113,205,doco,i37,2297932,5705745,13504140,efp,1, , 
+101832,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393, ,Fork Stream tributary, ,1112,205,doco,i37,2297947,5705680,13504140,efp,1, , 
+101833,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393,,Fork Stream tributary,,1102,205,doco,I37,2297982,5705340,13504178,efp,1,,
+101834,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393, ,Fork Stream tributary, ,1102,205,doco,i37,2297974,5705373,13504178,efp,1, , 
+101835,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393, ,Fork Stream tributary, ,1102,205,doco,i37,2297961,5705389,13504178,efp,1, , 
+101836,2,2014,Waitaki River,1311021,Fork Stream tributary 4,711.393, ,Fork Stream tributary, ,1100,205,doco,i37,2297912,5705417,13504178,efp,1, , 
+101841,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream, ,1024,199,doco,i37,2296806,5700522,13504934,efp,1, , 
+101842,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream, ,1011,199,doco,i37,2296586,5700149,13504934,efp,1, , 
+101843,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream, ,1003,199,doco,i37,2296530,5699864,13504934,efp,1, , 
+101844,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream, ,1000,198,doco,i37,2296469,5699667,13505120,efp,1, , 
+101847,2,2014,Waitaki River,1311019,Fork Stream tributary 2,711.393,1040,Fork Stream tributary, ,1080,204,doco,i37,2297495,5704276,13504335,efp,1, ,7
+101848,2,2014,Waitaki River,1311020,Fork Stream tributary 3,711.393,1330,Fork Stream tributary,,1109,205,doco,I37,2297593,5705736,13504173,efp,1,,8
+101849,2,2014,Waitaki River,1311020,Fork Stream tributary 3,711.393,1330,Fork Stream tributary, ,1167,205,doco,i37,2297481,5705571,13504173,efp,1, , 
+101850,2,2014,Waitaki River,1311020,Fork Stream tributary 3,711.393,1330,Fork Stream tributary,,1110,205,doco,I37,2297676,5705805,13504173,efp,1,,
+101851,2,2014,Waitaki River,1311019,Fork Stream tributary 2,711.393,1200,Fork Stream tributary,,1072,203,doco,I37,2297550,5703659,13504393,efp,1,,
+101852,2,2014,Waitaki River,1311019,Fork Stream tributary 2,711.393,1115,Fork Stream tributary,,1075,203,doco,I37,2297493,5703893,13504393,efp,1,,15
+101853,2,2014,Waitaki River,1311019,Fork Stream tributary 2,711.393,1100,Fork Stream tributary,,1079,204,doco,I37,2297465,5704214,13504335,efp,1,,
+101854,2,2014,Waitaki River,1311019,Fork Stream tributary 2,711.393,1100,Fork Stream tributary,,1080,204,doco,I37,2297474,5704234,13504335,efp,1,,
+101855,2,2014,Waitaki River,1311018,Fork Stream lower,711.393,,Fork Stream tributary,,1036,201,doco,I37,2296921,5701960,13504722,efp,1,,67
+101856,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1036,201,doco,i37,2296858,5701959,13504721,efp,1, , 
+101857,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1047,201,doco,i37,2296653,5702183,13504721,efp,1, , 
+101858,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1046,201,doco,i37,2296680,5702179,13504721,efp,1, , 
+101859,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1045,201,doco,i37,2296683,5702191,13504721,efp,1, , 
+101860,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1045,201,doco,i37,2296693,5702180,13504721,efp,1, , 
+101861,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1044,201,doco,i37,2296714,5702217,13504721,efp,1, , 
+101862,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1044,201,doco,i37,2296716,5702149,13504721,efp,1, , 
+101863,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1044,201,doco,i37,2296753,5702104,13504721,efp,1, , 
+101864,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1041,201,doco,i37,2296781,5702077,13504721,efp,1, , 
+101865,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1040,201,doco,i37,2296782,5702040,13504721,efp,1, , 
+101866,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1040,201,doco,i37,2296773,5701992,13504721,efp,1, , 
+101867,2,2014,Waitaki River,1311018,Fork Stream lower,711.393,,Fork Stream tributary,,1036,201,doco,I37,2296814,5701757,13504721,efp,1,,1
+101868,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1036,201,doco,i37,2296800,5701774,13504721,efp,1, , 
+101869,2,2014,Waitaki River,1311018,Fork Stream lower,711.393,,Fork Stream tributary,,1035,201,doco,I37,2296825,5701930,13504721,efp,1,,
+101870,2,2014,Waitaki River,1311018,Fork Stream lower,711.393,,Fork Stream tributary,,1052,202,doco,I37,2297195,5702699,13504544,efp,1,,
+101871,2,2014,Waitaki River,1311018,Fork Stream lower,711.393,,Fork Stream tributary,,1046,202,doco,I37,2297203,5702513,13504544,efp,1,,
+101872,2,2014,Waitaki River,1311018,Fork Stream lower,711.393,,Fork Stream tributary,,1042,201,doco,I37,2297135,5702323,13504544,efp,1,,
+101873,2,2014,Waitaki River,1311018,Fork Stream lower,711.393,,Fork Stream tributary,,1039,201,doco,I37,2297051,5702148,13504722,efp,1,,
+101874,2,2014,Waitaki River,1311018,Fork Stream lower,711.393,,Fork Stream,,1028,200,doco,I37,2296925,5701321,13504844,efp,1,,
+101875,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream, ,1029,200,doco,i37,2296847,5701248,13504844,efp,1, , 
+101876,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1066,200,doco,i37,2296990,5701030,13504775,efp,1, , 
+101877,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1034,201,doco,i37,2297018,5701219,13504775,efp,1, , 
+101878,2,2014,Waitaki River,1311017,Fork Stream tributary 1,711.393, ,Fork Stream tributary, ,991,197,doco,i37,2297094,5699229,13505084,efp,1, , 
+101879,2,2014,Waitaki River,1311017,Fork Stream tributary 1,711.393, ,Fork Stream tributary, ,980,196,doco,i37,2297724,5698642,13505223,efp,1, , 
+101880,2,2014,Waitaki River,1311018,Fork Stream lower,711.393,,Fork Stream tributary,,1070,203,doco,I37,2297011,5703116,13504549,efp,1,,77
+101881,2,2014,Waitaki River,1311018,Fork Stream lower,711.393,,Fork Stream tributary,,1061,202,doco,I37,2297158,5702822,13504544,efp,1,,37
+101882,2,2014,Waitaki River,1311017,Fork Stream tributary 1,711.393,,Fork Stream tributary,,1001,197,doco,i37,2297032,5699735,13505084,efp,1,,
+101883,2,2014,Waitaki River,1311017,Fork Stream tributary 1,711.393, ,Fork Stream tributary, ,992,197,doco,i37,2297061,5699345,13505084,efp,1, , 
+101884,2,2014,Waitaki River,1311017,Fork Stream tributary 1,711.393,,Fork Stream tributary,,999,197,doco,i37,2297050,5699621,13505084,efp,1,,
+101885,2,2014,Waitaki River,1311017,Fork Stream tributary 1,711.393,,Fork Stream tributary,,998,197,doco,i37,2297146,5699535,13505084,efp,1,,
+101886,2,2014,Waitaki River,1311017,Fork Stream tributary 1,711.393,,Fork Stream tributary,,998,197,doco,i37,2297146,5699535,13505084,efp,1,,
+101894,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1010,199,doco,i37,2296454,5700073,13504929,efp,1, , 
+101895,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream, ,1034,201,doco,i37,2297007,5701588,13504722,efp,1, , 
+101896,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,996,198,doco,i37,2296584,5699684,13505120,efp,1, , 
+101901,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,996,197,doco,i37,2296584,5699681,13505120,efp,1, , 
+101902,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1013,200,doco,i37,2296679,5700710,13504934,efp,1, , 
+101903,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1015,199,doco,i37,2296629,5700542,13504934,efp,1, , 
+101904,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1015,200,doco,i37,2296660,5700625,13504934,efp,1, , 
+101905,2,2014,Waitaki River,1311018,Fork Stream lower,711.393, ,Fork Stream tributary, ,1015,199,doco,i37,2296600,5700490,13504929,efp,1, , 
+106154,2,2016,Waitaki River,1311017,Fork Stream tributary 1,711.393, ,Fork Stream tributary, ,979,196,ecan,I37,2297223,5698814,13505223,efp, , ,22
+106168,2,2016,Waitaki River,1311018,Fork Stream lower,711.393,,Fork Stream,,1006,199,ecan,I37,2296756,5700270,13504934,han,,,5
+106169,2,2016,Waitaki River,1311017,Fork Stream tributary 1,711.393,,Fork Stream tributary,,986,197,ecan,I37,2297052,5699719,13505084,efp,,,7
+106170,2,2016,Waitaki River,1311017,Fork Stream tributary 1,711.393,,Fork Stream tributary,,986,197,ecan,I37,2297199,5698843,13505084,efp,,,5
+112975,12,2017,Waitaki River,1311018,Fork Stream lower,711.393,1700,Fork Stream tributary, ,1040,201,doco,I37,2296828,5701541,13504721,vbd, , , 
+115715,3,2019,Waitaki River,1311015,Tasman River 4,711.38,1050,Chop Creek, ,646,199,docc,H37,2280886,5710423,13503549,efp, , , 
+115717,3,2019,Waitaki River,1311015,Tasman River 4,711.38,1215,Parsons Creek, ,1074,199,docc,H37,2280860,5709958,13503572,efp, , , 
+118004,3,2020,Waitaki River,1311027,Cass River tributary 4,711.396,1100,Cass River,,835,209,wwcl,I37,2301065,5706159,13503976,efp,,,
+118005,3,2020,Waitaki River,1311027,Cass River tributary 4,711.396,1145,Cass River,,835,209,wwcl,I37,2301266,5706321,13503976,efp,,,
+118006,3,2020,Waitaki River,1311027,Cass River tributary 4,711.396,1215,Cass River,,835,209,wwcl,I37,2301525,5706378,13503976,efp,,,
+118007,3,2020,Waitaki River,1311028,Cass River 2,711.396,1330,Cass River,,862,211,wwcl,I37,2300104,5708415,13503676,efp,,,
+118008,3,2020,Waitaki River,1311028,Cass River 2,711.396,1430,Cass River,,862,211,wwcl,I37,2300191,5708346,13503676,efp,,,
+118009,3,2020,Waitaki River,1311028,Cass River 2,711.396,1520,Cass River,,862,211,wwcl,I37,2300288,5708596,13503676,efp,,,
+118010,3,2020,Waitaki River,1311040,Cass River 4,711.396,1635,Cass River,,887,213,wwcl,I37,2300649,5710520,13503510,efp,,,
+118011,3,2020,Waitaki River,1311028,Cass River 2,711.396,1105,Cass River,,862,211,docc,I37,2300073,5708132,13503676,efp,,,
+118012,3,2020,Waitaki River,1311028,Cass River 2,711.396,1150,Cass River,,862,211,docc,I37,2300139,5708208,13503676,efp,,,
+118013,3,2020,Waitaki River,1311028,Cass River 2,711.396,1235,Cass River,,862,211,docc,I37,2299961,5708408,13503676,efp,,,
+118014,3,2020,Waitaki River,1311028,Cass River 2,711.396,1440,Cass River,,862,211,docc,I37,2299945,5709174,13503676,efp,,,
+118015,3,2020,Waitaki River,1311028,Cass River 2,711.396,1536,Cass River,,862,211,docc,I37,2299933,5709278,13503676,efp,,,
+118016,3,2020,Waitaki River,1311040,Cass River 4,711.396,1635,Cass River,,887,213,docc,I37,2300559,5709691,13503510,efp,,,
+118024,3,2020,Waitaki River,1311027,Cass River tributary 4,711.396,1100,Cass River,,835,209,docc,I37,2301096,5706298,13503976,efp,,,
+118026,3,2020,Waitaki River,1311027,Cass River tributary 4,711.396,1200,Cass River,,835,209,docc,I37,2301251,5706554,13503976,efp,,,
+118027,3,2020,Waitaki River,1311041,Cass River 5,711.396,,Cass River,,956,220,docc,I37,2300852,5715665,13502928,efp,,,
+118028,3,2020,Waitaki River,1311034,Cass River tributary 9,711.396,,Cass River,,1001,223,docc,I37,2300911,5718497,13502621,efp,,,
+118029,3,2020,Waitaki River,1311034,Cass River tributary 9,711.396,,Cass River,,1003,223,docc,I37,2300891,5718669,13502621,efp,,,
+118030,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,1100,Cass River,,788,205,docc,I37,2303958,5703071,13504428,efp,,,
+118035,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,1125,Cass River,,788,205,docc,I37,2303906,5703111,13504428,efp,,,
+118101,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,1145,Cass River,,788,205,docc,I37,2303958,5703102,13504428,efp,,,
+118102,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,,Cass River,,788,205,docc,I37,2304044,5703147,13504428,efp,,,
+118103,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,,Cass River,,788,205,docc,I37,2304118,5703255,13504428,efp,,,
+118104,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,1335,Cass River,,788,205,docc,I37,2304105,5703331,13504428,efp,,,
+118105,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,,Cass River,,788,205,docc,I37,2304289,5703266,13504428,efp,,,
+118106,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,,Cass River,,788,205,docc,I37,2304452,5703203,13504428,efp,,,
+118107,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,,Cass River,,788,205,docc,I37,2304370,5703074,13504428,efp,,,
+118108,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,,Cass River,,780,204,docc,I37,2304437,5702900,13504611,efp,,,
+118119,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,,Cass River,,780,204,docc,I37,2304562,5702865,13504640,efp,,,
+118120,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,,Cass River,,775,203,docc,I37,2304616,5702557,13504678,efp,,,
+118122,3,2020,Waitaki River,1311025,Cass River tributary 2,711.396,,Cass River,,788,205,docc,I37,2303691,5703290,13504428,efp,,,
+118123,3,2020,Waitaki River,1311012,Tasman River 1,711.38,1030,Tasman River,,559,187,docc,H37,2278156,5702227,13504820,efp,,,
+118124,3,2020,Waitaki River,1311012,Tasman River 1,711.38,1050,Tasman River,,559,187,docc,H37,2278285,5702354,13504820,efp,,,
+118125,3,2020,Waitaki River,1311014,Tasman River 3,711.38,1130,Tasman River,,559,187,docc,H37,2279516,5703258,13504820,efp,,,
+118126,3,2020,Waitaki River,1311014,Tasman River 3,711.38,1205,Tasman River,,559,187,docc,H37,2279528,5703244,13504820,efp,,,
+118127,3,2020,Waitaki River,1311014,Tasman River 3,711.38,1300,Tasman River,,559,187,docc,H37,2279201,5703754,13504820,efp,,,
+118128,3,2020,Waitaki River,1311014,Tasman River 3,711.38,1330,Tasman River,,559,187,docc,H37,2279158,5703910,13504820,efp,,,
+118129,3,2020,Waitaki River,1311014,Tasman River 3,711.38,1350,Tasman River,,559,187,docc,H37,2279197,5703993,13504820,efp,,,
+118130,3,2020,Waitaki River,1311014,Tasman River 3,711.38,,Tasman River,,591,190,docc,H37,2277999,5706017,13503878,efp,,,
+118131,3,2020,Waitaki River,1311014,Tasman River 3,711.38,1155,Tasman River,,591,190,docc,H37,2278366,5706132,13503878,efp,,,
+118132,3,2020,Waitaki River,1311015,Tasman River 4,711.38,1300,Tasman River,,591,190,docc,H37,2279917,5706880,13503878,efp,,,
+118133,3,2020,Waitaki River,1311015,Tasman River 4,711.38,,Tasman River,,637,198,docc,H37,2279955,5710825,13503446,efp,,,
+118136,3,2020,Waitaki River,1311018,Fork Stream lower,711.393,1545,Fork Stream,,1053,202,docc,I37,2297207,5702652,13504643,efp,,,
+118137,3,2020,Waitaki River,1311037,Macaulay River lower,711.399,,Macaulay River,,753,214,docc,I36,2314590,5717895,13502573,efp,,,
+118138,3,2020,Waitaki River,1311037,Macaulay River lower,711.399,,Macaulay River,,753,214,docc,I36,2314644,5717930,13502573,efp,,,
+118139,3,2020,Waitaki River,1311037,Macaulay River lower,711.399,,Macaulay River,,753,214,docc,I36,2314572,5717911,13502573,efp,,,
+118140,3,2020,Waitaki River,1311042,Godley River middle,711.399,,Godley River,,757,217,docc,I36,2311667,5720382,13502340,efp,,,
+118146,3,2020,Waitaki River,1311042,Godley River middle,711.399,1340,Godley River,,757,217,docc,I36,2311558,5720366,13502340,efp,,,
+118147,3,2020,Waitaki River,1311042,Godley River middle,711.399,,Godley River,,757,217,docc,I36,2311518,5720476,13502340,efp,,,
+118148,3,2020,Waitaki River,1311042,Godley River middle,711.399,1320,Godley River,,757,217,docc,I36,2311659,5720448,13502340,efp,,,
+120484,3,2019,Waitaki River,1311014,Tasman River 3,711.38,,Lagoon Stream, ,612,197,docc,H37,2278114,5708622,13503745,efp,,,
+120485,3,2019,Waitaki River,1311014,Tasman River 3,711.38,1535,Lagoon Stream, ,612,197,docc,H37,2278142,5708513,13503745,efp,,,
+120486,3,2019,Waitaki River,1311014,Tasman River 3,711.38,1340,Tasman River, ,591,190,docc,H37,2278267,5707923,13503878,efp,,,
+120487,3,2019,Waitaki River,1311016,Blue Stream,711.38,1031,Blue Stream, ,694,206,docc,H37,2280113,5716966,13502789,efp,,,
+120488,3,2020,Waitaki River,1311014,Tasman River 3,711.38,1415,Tasman River, ,616,195,docc,H37,2278241,5708085,13503672,efp,,,
+120489,3,2019,Waitaki River,1311016,Blue Stream,711.38,1045,Blue Stream, ,694,206,docc,H37,2280106,5716924,13502789,efp,,,
+118121,3,2020,Waitaki River,1311043,Cass River 6,711.396,0,Cass River, ,803,206,docc,I37,2302958,5704822,13504275,efp,,,
+119480,9,2004,Waitaki River,1311005,Hopkins River tributary 2,711.378,,Hopkins River, ,557,184,doco, ,2257347,5675068,13508832,efp,1,,
+121138,,2006,Waitaki River,1311005,Hopkins River tributary 2,711.378,,Hopkins River, ,558,185,docc, ,2257142,5674960,13508821,efp,1,,

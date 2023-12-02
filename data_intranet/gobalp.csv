@@ -1,0 +1,25 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+50124,2,1960,Clarence River,1381003,Bowscale Tarn,621.595,,Bowscale Tarn,,1030,224,unk,N30,2506000,5897700,13002550,unk,,,
+50125,5,1962,Clarence River,1381003,Bowscale Tarn,621.595, ,Bowscale Tarn, ,1030,224,unk,n30,2506000,5897700,13002550,unk, , , 
+50118,11,1964,Wairau River,1381001,Fish Lake,601,,Fish Lake,,1008,160,niwa,N30,2504400,5898400,11033245,ef,1,,
+50122,11,1964,Clarence River,1381004,Unnamed tarn Tarndale Brook,621.595,,Unnamed tarn,,1037,225,niwa,N30,2505200,5897800,13002540,ef,1,,
+50126,9,1964,Clarence River,1381003,Bowscale Tarn,621.595, ,Bowscale Tarn, ,1030,224,niwa,n30,2506000,5897700,13002550,unk, , , 
+50129,11,1964,Clarence River,1381003,Bowscale Tarn,621.595,,Bowscale Tarn,,1030,224,niwa,N30,2506000,5897700,13002550,ef,1,,
+2417,11,1986,Clarence River,1381003,Bowscale Tarn,621.595,1100,Bowscale Tarn,,1030,224,niwa,N30,2506000,5897600,13002550,ef,1,,
+17207,,1997,Clarence River,1381005,Unnamed tarn,621.595,,Unnamed tarn,,1050,225,docn,N30,2505500,5898200,0,ntc,,,13
+19643,2,2001,Clarence River,1381002,Island Lake,621.595,1400,Island Lake,,1005,230,docn,N30,2504700,5894600,13003052,efp,1,,50
+19644,2,2001,Wairau River,1381001,Fish Lake,601,1800,Fish Lake,,1008,160,docn,N30,2504400,5898500,11033245,efp,1,,250
+19645,2,2001,Clarence River,1381004,Unnamed tarn Tarndale Brook,621.595,900,Unnamed tarn,,1037,225,docn,N30,2505400,5897700,13002540,efp,1,,50
+19646,2,2001,Clarence River,1381005,Unnamed tarn,621.595,1000,Unnamed tarn,,1055,225,docn,N30,2505600,5898200,0,efp,1,,400
+19647,2,2001,Clarence River,1381003,Bowscale Tarn,621.595,1330,Bowscale Tarn,,1030,224,docn,N30,2505900,5897800,13002550,efp,1,,200
+101212,3,2012,Wairau River,1381001,Fish Lake,601,night,Fish Lake,,1040,159,doc,N30,2504303,5898380,11033259,gmt,,,20
+101213,3,2012,Wairau River,1381001,Fish Lake,601, ,Fish Lake, ,1040,159,doc,N30,2504320,5898375,11033259,fyn, , ,3
+101214,3,2012,Clarence River,1381004,Unnamed tarn Tarndale Brook,621.595,night,Unnamed lake Tarndale Brook,,1040,220,doc,N30,2505230,5897752,13002540,fyn,,,4
+101215,3,2012,Clarence River,1381004,Unnamed tarn Tarndale Brook,621.595,night,Tarndale Brook,,1040,220,doc,N30,2505424,5897503,13002540,gmt,,,4
+101216,3,2012,Clarence River,1381005,Unnamed tarn,621.595,night,Unnamed lake Tarndae Brook,,1040,220,doc,N30,2505467,5898132,13033256,gmt,,,10
+101217,3,2012,Clarence River,1381005,Unnamed tarn,621.595,night,Unnamed lake Tarndale Brook,,1040,160,doc,N30,2505464,5898160,13002540,fyn,,,2
+101218,3,2012,Clarence River,1381003,Bowscale Tarn,621.595, ,Bowscale Tarn, ,1040,220,doc,N30,2505964,5897568,13002540,fyn, , ,6
+101219,3,2012,Clarence River,1381003,Bowscale Tarn,621.595,night,Bowscale Tarn,,1040,220,doc,N30,2505947,5897606,13002540,gmt,,,31
+101220,3,2012,Clarence River,1381002,Island Lake,621.595,night,Island Lake,,1000,227,doc,N30,2504806,5894736,13002869,gmt,,,22
+101221,3,2012,Clarence River,1381002,Island Lake,621.595, ,Island Lake, ,1000,226,doc,N30,2504741,5894531,13003152,fyn, , ,6
+101228,3,2012,Clarence River,1381004,Unnamed tarn Tarndale Brook,621.595,night,Unnamed lake Tarndale Brook,,1040,220,doc,N30,2505200,5897743,13002540,gmt,,,9

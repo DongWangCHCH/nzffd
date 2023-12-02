@@ -1,0 +1,1048 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+1123,2,1978,Waitaki River,1221010,Ahuriri River tributary 3,711.313,1000,Glen Creek, ,415,128,niwa,h39,2269200,5634400,13516282,ef,1, , 
+3942,6,1980,Waitaki River,1221024,Mary Burn lower,711.391, ,Mary Burn, ,490,150,niwa,i38,2296900,5663400,13510599,ef,1, , 
+4336,8,1982,Waitaki River,1221004,Ahuriri River tributary 1,711.312,,Sutherlands Creek,,390,122,docy,h39,2274400,5633800,13516444,ntc,,,
+1353,12,1985,Waitaki River,1221013,Ahuriri River 2,711.318,1430,Ahuriri River East Branch,,660,157,niwa,g39,2248300,5635500,13516082,efp,1,,600
+1361,12,1985,Waitaki River,1221013,Ahuriri River 2,711.318,1130,Ahuriri River East Branch, ,700,159,niwa,g39,2248500,5637200,13515687,efp,1, ,200
+2102,3,1985,Waitaki River,1221025,Mary Burn upper,711.391,1000,Mary Burn tributary, ,590,165,scfg,i38,2295900,5675400,13508799,ef,1, , 
+2103,3,1985,Waitaki River,1221025,Mary Burn upper,711.391,1130,Mary Burn tributary, ,570,162,scfg,i38,2294100,5673800,13508846,ef,1, , 
+2104,3,1985,Waitaki River,1221025,Mary Burn upper,711.391,1200,Mary Burn, ,570,162,scfg,i38,2294100,5673800,13508601,ef,1, , 
+2106,9,1985,Waitaki River,1221025,Mary Burn upper,711.391,1130,Mary Burn tributary, ,570,161,scfg,i38,2293900,5673400,13509022,ef,1, , 
+2107,9,1985,Waitaki River,1221025,Mary Burn upper,711.391,1300,Mary Burn tributary, ,570,162,scfg,i38,2294200,5674000,13508846,ef,1, , 
+1391,3,1987,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1500,Ahuriri River,,770,191,niwa,g38,2239400,5657800,13511700,obs,,,1
+2118,9,1987,Waitaki River,1221031,Fork Stream,711.393,2200,Fork Stream, ,1015,200,scfg,i37,2296900,5700900,13504934,spo, , , 
+5198,7,1989,Waitaki River,1221023,Fraser Stream,711.371,1100,Fraser Stream, ,510,148,niwa,h38,2274100,5660800,13511159,efp,1, , 
+5199,7,1989,Waitaki River,1221023,Fraser Stream,711.371,1130,Fraser Stream, ,510,148,niwa,h38,2273700,5660800,13511159,efp,1, , 
+12809,12,1992,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,510,158,indm,i38,2305800,5661200,13511033,stn, , ,4
+12810,12,1992,Waitaki River,1221017,Unnamed stream Lake Benmore,711, ,Lake Benmore, ,362,125,indm,h39,2288800,5647500,13518638,spo, , , 
+13110,12,1992,Waitaki River,1221023,Fraser Stream,711.371, ,Fraser Stream, ,510,148,indm,h38,2273500,5660900,13511137,han, , ,5
+10577,9,1993,Waitaki River,1221023,Fraser Stream,711.371,1300,Fraser Stream, ,510,148,docc,h38,2273800,5660800,13511159,pun, , ,8
+10523,2,1995,Waitaki River,1221023,Fraser Stream,711.371,1230,Fraser Stream, ,510,148,docc,h38,2273900,5660900,13511159,pun, , ,1
+14260,2,1995,Waitaki River,1221029,Edward Stream,711.392,1100,Edward Stream,,840,190,docc,i37,2315400,5688300,13506858,pun,,,1
+14261,2,1995,Waitaki River,1221029,Edward Stream,711.392,1400,Edward Stream, ,820,188,docc,i37,2315100,5686900,13507050,pun, , ,1
+14264,2,1995,Waitaki River,1221003,Otamatapaio River,711.311,1400,Otamatapaio River, ,850,132,docc,h40,2271100,5612200,13520338,pun, , ,1
+14265,2,1995,Waitaki River,1221003,Otamatapaio River,711.311,1600,Otamatapaio River, ,830,131,docc,h40,2271200,5612500,13520282,pun, , ,1
+14269,5,1995,Waitaki River,1221027,Irishman Creek,711.391,1530,Irishman Creek, ,810,183,docc,i37,2295800,5688900,13506817,pun, , ,1
+14498,1,1999,Waitaki River,1221013,Ahuriri River 2,711.318,1200,Ahuriri River East Branch, ,670,158,docc,g39,2248400,5636000,13515958,pun, , ,2
+14499,1,1999,Waitaki River,1221013,Ahuriri River 2,711.318,1300,Ahuriri River East Branch, ,690,159,docc,g39,2248500,5637200,13515687,pun, , ,2
+18342,5,2000,Waitaki River,1221031,Fork Stream,711.393,1100,Fork Stream, ,1035,202,docc,i37,2297300,5702400,13504690,pun, , ,1
+18343,5,2000,Waitaki River,1221031,Fork Stream,711.393,1115,Fork Stream, ,1030,201,docc,i37,2297000,5701800,13504722,pun, , ,1
+14889,7,2001,Waitaki River,1221010,Ahuriri River tributary 3,711.313, ,Glen Creek tributary, ,440,132,niwa,h39,2270000,5637600,13515486,efp,1, , 
+18350,1,2001,Waitaki River,1221022,Dry Stream,711.371,1215,Dry Stream, ,475,144,docc,h38,2277700,5659600,13511005,obs, , ,2
+20451,4,2001,Waitaki River,1221023,Fraser Stream,711.371,1000,Fraser Stream, ,510,148,docc,h38,2273900,5660900,13511159,gmt, , ,2
+20477,1,2001,Waitaki River,1221024,Mary Burn lower,711.391,1300,Mary Burn, ,480,150,docc,i38,2296900,5662600,9,ef,1, ,30
+20500,3,2001,Waitaki River,1221014,Ahuriri River 3,711.31,1215,Ahuriri River,,715,172,docc,g39,2242500,5643600,13514355,han,,,4
+21854,6,2001,Waitaki River,1221026,Irishman Creek tributary,711.391,1510,Irishman Creek tributary, ,660,169,docc,i38,2298900,5678400,13508364,ef,1, , 
+21877,11,2001,Waitaki River,1221029,Edward Stream,711.392,1130,Edward Stream, ,825,190,docc,i37,2315400,5688200,13506858,efm,1, , 
+21878,11,2001,Waitaki River,1221029,Edward Stream,711.392,1100,Edward Stream, ,830,190,docc,i37,2315600,5688700,13506654,efm,1, , 
+21879,11,2001,Waitaki River,1221029,Edward Stream,711.392,1030,Edward Stream, ,870,191,docc,i37,2316000,5689500,13506611,efm,1, , 
+21880,11,2001,Waitaki River,1221029,Edward Stream,711.392,930,Edward Stream, ,820,189,docc,i37,2315300,5687800,13506959,efm,1, , 
+21889,7,2001,Waitaki River,1221010,Ahuriri River tributary 3,711.313,1300,Glen Creek tributary,,440,132,docc,H39,2269900,5637800,13515556,ef,1,,
+17286,11,2002,Waitaki River,1221029,Edward Stream,711.392,1630,Edward Stream, ,780,185,docc,i37,2313900,5685000,13507446,efp,1, ,100
+17288,11,2002,Waitaki River,1221029,Edward Stream,711.392,1830,Edward Stream tributary,,705,179,docc,I37,2310600,5680400,13508076,efp,1,,40
+17296,11,2002,Waitaki River,1221029,Edward Stream,711.392,1615,Edward Stream tributary, ,670,175,docc,i38,2308100,5678500,13508266,efp,1, ,50
+17297,11,2002,Waitaki River,1221029,Edward Stream,711.392,1245,Edward Stream tributary,,675,176,docc,I38,2308600,5679400,13508056,pun,,,30
+17298,11,2002,Waitaki River,1221029,Edward Stream,711.392,1630,Edward Stream, ,780,186,docc,i37,2313900,5685300,13507402,gmt, , ,5
+22511,6,2002,Waitaki River,1221022,Dry Stream,711.371,1100,Dry Stream tributary,,475,143,docc,H38,2278100,5659300,13511112,efm,1,,
+22512,11,2002,Waitaki River,1221029,Edward Stream,711.392,1145,Edward Stream tributary,,705,179,docc,I37,2310900,5680700,13507982,efm,1,,
+22513,11,2002,Waitaki River,1221029,Edward Stream,711.392,1530,Edward Stream tributary,,715,181,docc,I37,2311100,5682000,13507852,efm,1,,
+22515,2,2003,Waitaki River,1221018,Ohau River tributary,711.37,1600,Ohau River tributary,,430,137,docc,H38,2279200,5653800,13512444,han,,,1
+22516,4,2003,Waitaki River,1221020,Lake Poaka tributary,711.371,1400,Lake Poaka tributary,,520,149,docc,H38,2277500,5663100,13510813,han,,,1
+22524,4,2003,Waitaki River,1221017,Unnamed stream Lake Benmore,711,1300,Lake Benmore tributary, ,365,126,docc,h39,2289100,5648200,13513274,efm,1, , 
+22525,4,2003,Waitaki River,1221017,Unnamed stream Lake Benmore,711,1330,Lake Benmore tributary,,365,126,docc,H39,2289000,5648400,0,efm,1,,
+22534,4,2003,Waitaki River,1221023,Fraser Stream,711.371,1500,Fraser Stream,,510,148,docc,H38,2273800,5660800,13511159,efm,1,,
+22535,6,2003,Waitaki River,1221014,Ahuriri River 3,711.31,1100,Unnamed wetland,,720,172,docc,G39,2242400,5644200,13514104,han,,,1
+22536,6,2003,Waitaki River,1221014,Ahuriri River 3,711.31,1300,Unnamed wetland,,720,172,docc,G39,2242200,5643600,0,han,,,1
+22537,7,2003,Waitaki River,1221009,Ahuriri River 1,711.314,1400,Omarama Stream tributary,,420,127,docc,H39,2269500,5633000,13516656,han,,,1
+25519,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1500,Mary Burn tributary, ,590,165,docc,i38,2295900,5676000,13508722,efp,1, ,45
+25520,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1530,Mary Burn tributary, ,600,166,docc,i38,2295700,5676600,13508587,efp,1, ,70
+25521,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1600,Unnamed wetland, ,590,166,docc,i38,2295500,5676100,0,efp,1, ,100
+25522,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1630,Mary Burn tributary, ,590,165,docc,i38,2295600,5675800,13508662,efp,1, ,60
+25523,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1700,Mary Burn tributary, ,590,165,docc,i38,2295800,5675400,13508799,efp,1, ,60
+25524,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1730,Mary Burn tributary,,590,165,docc,I38,2296000,5675600,13508732,efp,1,,25
+25526,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1200,Mary Burn tributary, ,570,162,docc,i38,2293800,5673700,13509022,obs,1, ,60
+25527,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1230,Unnamed wetland, ,580,162,docc,i38,2293700,5673800,0,obs, , ,120
+25528,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1300,Mary Burn tributary, ,580,162,docc,i38,2293500,5673800,13509028,obs, , ,45
+25529,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1330,Mary Burn tributary, ,590,163,docc,i38,2292800,5674300,13508971,obs, , ,45
+25530,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1230,Unnamed wetland, ,590,163,docc,i38,2294400,5675000,0,obs, , ,120
+25531,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1300,Mary Burn tributary, ,590,163,docc,i38,2294400,5675000,0,obs, , ,45
+25532,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1330,Mary Burn tributary, ,590,163,docc,i38,2294700,5675000,13508846,obs, , ,45
+25533,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1400,Mary Burn tributary, ,585,163,docc,i38,2294300,5674500,13508846,obs, , ,70
+25534,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1430,Mary Burn tributary, ,575,162,docc,i38,2294100,5674000,13508846,obs, , ,120
+25535,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1500,Mary Burn, ,575,162,docc,i38,2294000,5673800,13508601,obs, , ,150
+25538,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1200,Mary Burn, ,600,164,docc,i38,2293400,5675800,13508601,efp, , ,120
+25540,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1500,Mary Burn, ,570,161,docc,i38,2293900,5673400,13509080,efp,1, ,120
+25542,12,2003,Waitaki River,1221025,Mary Burn upper,711.391,1515,Mary Burn, ,570,161,docc,i38,2293800,5673400,13509120,efp,1, ,20
+25543,12,2003,Waitaki River,1221026,Irishman Creek tributary,711.391,1100,Irishman Creek tributary,,660,169,docc,I38,2298900,5678500,13508364,efp,1,,45
+25863,11,2003,Waitaki River,1221004,Ahuriri River tributary 1,711.312,1030,Sutherlands Creek tributary,,395,120,docc,H39,2275857,5633297,13516581,efp,1,,60
+25865,11,2003,Waitaki River,1221004,Ahuriri River tributary 1,711.312,1430,Sutherlands Creek tributary,,375,119,docc,h39,2277210,5632110,13516789,obs,,,150
+25866,11,2003,Waitaki River,1221004,Ahuriri River tributary 1,711.312,1600,Silver Creek,,390,122,docc,H39,2275230,5633550,13516162,efp,1,,40
+25869,11,2003,Waitaki River,1221004,Ahuriri River tributary 1,711.312,1100,Sutherlands Creek,,385,123,docc,h39,2273950,5634450,13516253,efp,1,,300
+25870,3,2004,Waitaki River,1221016,Ahuriri River tributary 5,711.312,1015,Unnamed wetland, ,775,193,docc,g38,2239699,5659260,13511417,efp,1, ,60
+25871,3,2004,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1115,Ahuriri River tributary,,775,192,docc,G38,2238975,5658592,13511557,efp,1,,120
+25872,3,2004,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1130,Canyon Creek,,778,192,docc,G38,2239035,5658240,13511604,efp,1,,20
+25875,3,2004,Waitaki River,1221015,Ahuriri River 4,711.31,1400,Ahuriri River tributary,,740,182,docc,G39,2238968,5649744,13513196,unn,,,30
+25877,3,2004,Waitaki River,1221015,Ahuriri River 4,711.31,1440,Ahuriri River tributary,,740,182,docc,G39,2239121,5649347,13513269,unn,,,5
+25879,3,2004,Waitaki River,1221007,Omarara Stream tributary 2,711.314,1000,Little Cattle Gully, ,465,135,docc,h39,2265437,5626729,13517632,efp,1, ,40
+25880,3,2004,Waitaki River,1221028,Grays River,711.392,1045,Grays River tributary,,495,156,docc,i38,2304252,5659793,13511226,efp,1,,40
+25881,3,2004,Waitaki River,1221028,Grays River,711.392,1145,Grays River, ,495,155,docc,i38,2303651,5660124,13511291,efp,1, ,40
+25882,3,2004,Waitaki River,1221028,Grays River,711.392,1515,Grays River,,540,166,docc,i38,2310335,5666091,13510259,efp,1,,200
+25883,3,2004,Waitaki River,1221028,Grays River,711.392,1600,Grays River tributary,,545,167,docc,I38,2310702,5666672,13510157,efp,1,,100
+25884,3,2004,Waitaki River,1221028,Grays River,711.392,1715,Grays River tributary,,540,166,docc,i38,2310028,5665938,13510060,efp,1,,100
+25885,3,2004,Waitaki River,1221017,Unnamed stream Lake Benmore,711,1015,Lake Benmore tributary, ,365,126,docc,h39,2289267,5648432,13513274,efp,1, ,400
+25886,3,2004,Waitaki River,1221017,Unnamed stream Lake Benmore,711,1130,Lake Benmore tributary, ,365,126,docc,h39,2289464,5648623,13513274,efp,1, ,200
+25887,3,2004,Waitaki River,1221017,Unnamed stream Lake Benmore,711,1230,Lake Benmore tributary,,365,127,docc,H39,2289734,5649058,13513274,efp,1,,150
+25897,3,2004,Waitaki River,1221004,Ahuriri River tributary 1,711.312,1040,Sutherlands Creek tributary,,375,119,docc,h39,2277168,5632228,13516789,efp,1,,100
+25898,3,2004,Waitaki River,1221004,Ahuriri River tributary 1,711.312,1130,Sutherlands Creek,,375,119,docc,h39,2276743,5632253,13516822,efp,1,,100
+25899,3,2004,Waitaki River,1221004,Ahuriri River tributary 1,711.312,1220,Sutherlands Creek, ,375,118,docc,h39,2276876,5631633,13516905,efp,1, ,120
+25900,3,2004,Waitaki River,1221004,Ahuriri River tributary 1,711.312,1320,Sutherlands Creek tributary,,375,118,docc,H39,2277221,5631583,13516943,efp,1,,200
+25903,3,2004,Waitaki River,1221011,Ahuriri River tributary 4,711.316,945,Hen Burn tributary, ,435,132,docc,h39,2265277,5634565,13516281,efp,1, ,80
+25904,3,2004,Waitaki River,1221011,Ahuriri River tributary 4,711.316,1045,Hen Burn tributary, ,435,131,docc,h39,2265598,5634550,13515987,efp,1, ,100
+25906,3,2004,Waitaki River,1221011,Ahuriri River tributary 4,711.316,1300,Hen Burn tributary,,440,132,docc,H39,2265088,5634730,13516281,efp,1,,100
+25907,3,2004,Waitaki River,1221012,Hen Burn tributary,711.316,945,Hen Burn tributary, ,515,138,docc,h39,2259950,5634152,13516439,unn,1, ,70
+25908,3,2004,Waitaki River,1221012,Hen Burn tributary,711.316,1045,Hen Burn tributary,,510,139,docc,H39,2260170,5635963,13516016,efp,1,,150
+25909,3,2004,Waitaki River,1221012,Hen Burn tributary,711.316,1130,Hen Burn tributary, ,515,140,docc,h39,2260243,5636243,13515950,unn,1, ,80
+25910,3,2004,Waitaki River,1221012,Hen Burn tributary,711.316,1230,Hen Burn tributary, ,495,138,docc,h39,2261087,5634936,13516154,efp,1, ,120
+25950,2,2004,Waitaki River,1221031,Fork Stream,711.393,1000,Fork Stream, ,1040,202,docc,i37,2297443,5702404,13504690,efp,1, ,60
+25951,2,2004,Waitaki River,1221031,Fork Stream,711.393,1140,Fork Stream tributary,,1050,203,docc,I37,2297051,5703127,13504549,efp,1,,50
+25952,2,2004,Waitaki River,1221031,Fork Stream,711.393,1300,Fork Stream tributary,,1045,203,docc,I37,2297100,5702800,13504544,efp,1,,30
+25953,2,2004,Waitaki River,1221031,Fork Stream,711.393,1415,Fork Stream tributary,,1035,202,docc,I37,2297290,5702300,13504544,efp,1,,30
+25956,2,2004,Waitaki River,1221031,Fork Stream,711.393,1545,Fork Stream tributary, ,1000,198,docc,i37,2297079,5699048,13505084,efp,1, ,70
+28485,12,2004,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River, ,740,129,doco,h40,2271062,5614678,13519955,efp,1, ,75
+28486,12,2004,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River, ,795,130,doco,h40,2271128,5613255,13520171,efp,1, ,200
+28487,12,2004,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River, ,835,131,doco,h40,2271168,5612450,13520282,efp,1, ,400
+107096,1,2004,Waitaki River,1221032,Grampian Stream,711.146,1403,Grampian Stream,,650,116,rdcl,I39,2318194,5641541,13514665,efp,,,167.5
+20849,7,2005,Waitaki River,1221018,Ohau River tributary,711.37,1425,Unnamed wetland,,450,136,docc,H38,2279277,5653902,0,efm,1,,2
+21265,8,2005,Waitaki River,1221018,Ohau River tributary,711.37,1330,Ohau River tributary,,430,136,docc,H38,2279277,5653902,13512444,efm,3,,1
+21328,11,2005,Waitaki River,1221023,Fraser Stream,711.371, ,Fraser Stream, ,510,148,niwa,h38,2274086,5660891,13511178,efp,1, ,30
+21329,11,2005,Waitaki River,1221023,Fraser Stream,711.371, ,Fraser Stream, ,515,149,niwa,h38,2273200,5660900,13511137,efp,1, ,41
+26129,3,2005,Waitaki River,1221007,Omarara Stream tributary 2,711.314,1620,Little Cattle Gully,,450,133,docc,H39,2266800,5628000,13517632,efp,1,,100
+26130,3,2005,Waitaki River,1221007,Omarara Stream tributary 2,711.314,1700,Omarama Stream,,450,133,docc,h39,2267159,5628393,13517514,efp,1,,70
+26131,3,2005,Waitaki River,1221006,Omarara Stream tributary 1,711.314,1100,Omarama Stream tributary,,450,132,docc,H39,2266954,5628852,13517150,efp,1,,80
+26132,3,2005,Waitaki River,1221006,Omarara Stream tributary 1,711.314,1140,Omarama Stream tributary,,445,132,docc,H39,2267125,5629464,13517150,efp,1,,60
+26133,3,2005,Waitaki River,1221006,Omarara Stream tributary 1,711.314,1200,Omarama Stream tributary,,440,131,docc,H39,2267401,5629957,13517150,efp,1,,50
+26136,3,2005,Waitaki River,1221007,Omarara Stream tributary 2,711.314,1800,Little Cattle Gully,,465,134,docc,H39,2265906,5627296,13517632,efp,1,,50
+26345,2,2005,Waitaki River,1221029,Edward Stream,711.392,1130,Edward Stream tributary,,715,181,docc,I37,2311138,5681992,13507852,efp,1,,50
+26346,2,2005,Waitaki River,1221029,Edward Stream,711.392,day,Edward Stream,,850,190,docc,I37,2315502,5688256,13506858,efp,1,,
+26352,2,2005,Waitaki River,1221023,Fraser Stream,711.371,1155,Fraser Stream, ,515,148,docc,h38,2273642,5660933,13511137,efp,1, ,110
+26353,2,2005,Waitaki River,1221029,Edward Stream,711.392,1250,Edward Stream,,710,180,docc,I37,2310633,5681433,13507974,efp,1,,70
+26423,2,2005,Waitaki River,1221023,Fraser Stream,711.371,1550,Fraser Stream, ,510,148,docc,h38,2274117,5660864,13511178,efp,1, ,230
+26428,2,2005,Waitaki River,1221018,Ohau River tributary,711.37,1030,Ohau River tributary, ,440,136,docc,h38,2279456,5653885,13512444,efp,1, ,130
+26429,2,2005,Waitaki River,1221018,Ohau River tributary,711.37,1000,Ohau River tributary, ,440,136,docc,h38,2279590,5653754,13512444,efp,1, ,300
+26805,12,2005,Waitaki River,1221023,Fraser Stream,711.371,1615,Fraser Stream, ,510,148,doco,h38,2273600,5660800,13511137,efp,1, ,50
+26933,12,2005,Waitaki River,1221023,Fraser Stream,711.371,1520,Fraser Stream tributary,,510,148,docc,H38,2273647,5660971,13511111,efp,1,,30
+26934,12,2005,Waitaki River,1221023,Fraser Stream,711.371,1340,Fraser Stream tributary,,510,148,docc,H38,2273606,5661090,13511111,efp,4,,
+26935,12,2005,Waitaki River,1221023,Fraser Stream,711.371,1150,Fraser Stream, ,510,148,docc,h38,2273638,5660923,13511137,efp,1, ,50
+26936,12,2005,Waitaki River,1221023,Fraser Stream,711.371,1130,Fraser Stream, ,510,148,docc,h38,2273500,5660800,13511137,efp,1, ,50
+26937,12,2005,Waitaki River,1221023,Fraser Stream,711.371,1110,Fraser Stream, ,510,149,docc,h38,2273205,5660885,13511137,efp,1, ,60
+26938,12,2005,Waitaki River,1221023,Fraser Stream,711.371,1050,Fraser Stream, ,515,149,docc,h38,2273071,5660948,13511104,efp,1, ,50
+26942,12,2005,Waitaki River,1221022,Dry Stream,711.371,1600,Dry Stream,,485,144,doco,H38,2276886,5659815,13511223,efp,1,,30
+26943,12,2005,Waitaki River,1221022,Dry Stream,711.371,1520,Fraser Stream tributary,,480,144,doco,H38,2276866,5659560,13511419,efp,1,,20
+26944,12,2005,Waitaki River,1221022,Dry Stream,711.371,1445,Fraser Stream tributary,,480,144,doco,h38,2276728,5659415,13511419,efp,1,,50
+26945,12,2005,Waitaki River,1221022,Dry Stream,711.371,1420,Fraser Stream,,480,144,doco,H38,2276594,5659403,13511404,efp,1,,30
+26946,12,2005,Waitaki River,1221022,Dry Stream,711.371,1350,Fraser Stream, ,475,143,doco,h38,2276940,5659057,13511478,efp,1, ,40
+26947,12,2005,Waitaki River,1221022,Dry Stream,711.371,1330,Fraser Stream, ,480,144,doco,h38,2276514,5659337,13511404,efp,1, ,50
+26948,12,2005,Waitaki River,1221022,Dry Stream,711.371,1250,Fraser Stream, ,485,144,doco,h38,2276291,5659523,13511404,efp,1, ,50
+28844,12,2005,Waitaki River,1221031,Fork Stream,711.393,1210,Fork Stream tributary, ,1170,209,docc,i37,2296785,5708397,13503773,efp,1, ,80
+28845,12,2005,Waitaki River,1221031,Fork Stream,711.393,1230,Fork Stream tributary,,1175,209,docc,I37,2296574,5708235,13503779,efp,1,,15
+28846,12,2005,Waitaki River,1221031,Fork Stream,711.393,1300,Fork Stream tributary,,1155,208,docc,I37,2296598,5707563,13503789,efp,1,,100
+28847,12,2005,Waitaki River,1221031,Fork Stream,711.393,1415,Fork Stream,,1130,207,docc,I37,2297234,5706828,13503962,efp,1,,50
+28848,12,2005,Waitaki River,1221031,Fork Stream,711.393,1450,Fork Stream tributary, ,1120,207,docc,i37,2297463,5706528,13504036,efp,1, ,100
+28849,12,2005,Waitaki River,1221031,Fork Stream,711.393,1500,Fork Stream tributary, ,1120,207,docc,i37,2297475,5706514,13504036,efp,1, ,80
+28850,12,2005,Waitaki River,1221031,Fork Stream,711.393,1530,Fork Stream tributary, ,1110,206,docc,i37,2297897,5705827,13504134,efp,1, ,50
+28851,12,2005,Waitaki River,1221031,Fork Stream,711.393,1610,Fork Stream tributary, ,1100,206,docc,i37,2297989,5705358,13504178,efp,1, ,50
+28854,12,2005,Waitaki River,1221031,Fork Stream,711.393,1730,Fork Stream tributary,,1010,199,docc,I37,2296865,5700262,13505084,efp,1,,50
+109821,12,2005,Waitaki River,1221023,Fraser Stream,711.371,1303,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+109892,11,2005,Waitaki River,1221029,Edward Stream,711.392,,Edward Stream tributary,,716,179,doco,I38,2311138,5681992,13507838,efp,,,
+22870,2,2006,Waitaki River,1221028,Grays River,711.392,1030,Grays River tributary,,550,168,docc,I38,2311037,5666892,13510113,efp,1,,2
+23701,3,2006,Waitaki River,1221003,Otamatapaio River,711.311,1120,Otamatapaio River tributary,,960,132,docn,H40,2270996,5612428,13520293,efp,1,,8
+26705,3,2006,Waitaki River,1221018,Ohau River tributary,711.37,920,Ohau River tributary,,430,136,doco,H38,2279331,5653904,13512444,gmt,,,10
+26706,3,2006,Waitaki River,1221018,Ohau River tributary,711.37,844,Ohau River tributary,,430,136,doco,H38,2279282,5653901,13512444,gmt,,,10
+26707,3,2006,Waitaki River,1221018,Ohau River tributary,711.37,900,Ohau River tributary,,430,136,doco,H38,2279296,5653896,13512444,gmt,,,10
+26708,3,2006,Waitaki River,1221018,Ohau River tributary,711.37,912,Ohau River tributary,,430,136,doco,H38,2279312,5653897,13512444,gmt,,,10
+26713,3,2006,Waitaki River,1221023,Fraser Stream,711.371,1457,Fraser Stream tributary,,510,148,docc,H38,2273315,5661125,13511137,efp,1,,
+26715,3,2006,Waitaki River,1221023,Fraser Stream,711.371,1532,Fraser Stream tributary,,510,148,doco,H38,2273486,5660966,13511137,efp,1,,80
+26716,3,2006,Waitaki River,1221023,Fraser Stream,711.371,1425,Fraser Stream tributary,,510,148,doco,H38,2273438,5661092,13511137,efp,1,,40
+26717,3,2006,Waitaki River,1221023,Fraser Stream,711.371,1442,Fraser Stream tributary,,510,148,doco,H38,2273399,5661136,13511137,efp,1,,60
+26718,3,2006,Waitaki River,1221029,Edward Stream,711.392,1340,Edward Stream,,840,189,doco,i37,2315417,5687753,13507044,efp,1,,50
+26719,3,2006,Waitaki River,1221029,Edward Stream,711.392,1247,Edward Stream, ,840,189,doco,i37,2315302,5687790,13507036,efp,1, ,50
+26720,3,2006,Waitaki River,1221029,Edward Stream,711.392,1343,Edward Stream,,830,189,doco,I37,2315020,5687245,13507050,efp,1,,50
+26721,3,2006,Waitaki River,1221029,Edward Stream,711.392,1520,Edward Stream,,820,188,doco,I37,2315073,5686926,13507050,efp,1,,60
+26722,3,2006,Waitaki River,1221029,Edward Stream,711.392,1550,Edward Stream, ,810,187,doco,i37,2314943,5686427,13507241,efp,1, ,50
+26723,3,2006,Waitaki River,1221029,Edward Stream,711.392,1625,Edward Stream tributary,,800,187,doco,I37,2314475,5685961,13507219,efp,1,,30
+26724,3,2006,Waitaki River,1221029,Edward Stream,711.392,1644,Edward Stream, ,800,187,doco,i37,2314522,5685931,13507241,efp,1, ,50
+26725,3,2006,Waitaki River,1221029,Edward Stream,711.392,1730,Edward Stream,,815,188,doco,I37,2315007,5686617,13507193,efp,1,,60
+26726,3,2006,Waitaki River,1221029,Edward Stream,711.392,1420,Edward Stream, ,820,188,doco,i37,2315084,5687040,13507050,efp,1, ,50
+26727,3,2006,Waitaki River,1221029,Edward Stream,711.392,1245,Edward Stream, ,830,189,doco,i37,2315132,5687476,13507050,efp,1, ,50
+26728,3,2006,Waitaki River,1221029,Edward Stream,711.392,1500,Edward Stream,,880,192,doco,i37,2316381,5689774,13506591,efp,1,,50
+26729,3,2006,Waitaki River,1221029,Edward Stream,711.392,1520,Edward Stream,,880,192,doco,I37,2316456,5689780,13506591,efp,1,,40
+26730,3,2006,Waitaki River,1221029,Edward Stream,711.392,1635,Edward Stream,,895,192,doco,i37,2316978,5690022,13506549,efp,1,,50
+26731,3,2006,Waitaki River,1221029,Edward Stream,711.392,1235,Edward Stream,,850,190,doco,I37,2315571,5688679,13506654,efp,1,,50
+26732,3,2006,Waitaki River,1221029,Edward Stream,711.392,1600,Edward Stream,,890,192,doco,I37,2316721,5689949,13506549,efp,1,,20
+26733,3,2006,Waitaki River,1221029,Edward Stream,711.392,1025,Edward Stream, ,840,189,doco,i37,2315350,5687919,13506959,efp,1, ,100
+26734,3,2006,Waitaki River,1221029,Edward Stream,711.392,1400,Edward Stream,,875,191,doco,i37,2316081,5689562,13506611,efp,1,,80
+26735,3,2006,Waitaki River,1221029,Edward Stream,711.392,1030,Edward Stream tributary,,880,192,doco,I37,2315606,5689981,13506426,efp,1,,50
+26736,3,2006,Waitaki River,1221029,Edward Stream,711.392,1100,Edward Stream tributary,,880,192,doco,i37,2315893,5690058,13506514,efp,1,,50
+26737,3,2006,Waitaki River,1221029,Edward Stream,711.392,1143,Edward Stream tributary,,900,193,doco,I37,2315645,5690599,13506426,efp,1,,50
+26738,3,2006,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream tributary, ,905,193,doco,i37,2315573,5690595,13506426,efp,1, ,50
+26739,3,2006,Waitaki River,1221029,Edward Stream,711.392,1354,Edward Stream tributary,,910,193,doco,I37,2315459,5691081,13506233,efp,1,,60
+26741,3,2006,Waitaki River,1221029,Edward Stream,711.392,1130,Edward Stream,,840,190,doco,I37,2315450,5688088,13506959,efp,1,,70
+26744,3,2006,Waitaki River,1221029,Edward Stream,711.392,1125,Edward Stream tributary,,950,196,doco,I37,2316360,5693023,13505702,efp,1,,30
+26751,3,2006,Waitaki River,1221029,Edward Stream,711.392,1505,Edward Stream tributary,,910,193,doco,I37,2315356,5690944,13506384,efp,1,,60
+26752,3,2006,Waitaki River,1221009,Ahuriri River 1,711.31,1700,Ahuriri River tributary,,430,129,doco,H39,2268123,5633223,13516499,efp,,,5
+26753,3,2006,Waitaki River,1221009,Ahuriri River 1,711.31,1350,Ahuriri River tributary, ,420,128,doco,h39,2268759,5633616,13516499,efp,1, ,30
+26756,3,2006,Waitaki River,1221009,Ahuriri River 1,711.314,1157,Omarama Stream tributary,,420,127,doco,H39,2269534,5632846,13516656,efp,1,,40
+26760,3,2006,Waitaki River,1221009,Ahuriri River 1,711.314,1300,Omarama Stream tributary,,420,127,doco,H39,2268956,5633289,13516615,efp,1,,50
+26761,3,2006,Waitaki River,1221029,Edward Stream,711.392,1500,Edward Stream,,840,189,doco,I37,2315400,5688000,13506959,efp,1,,50
+26762,3,2006,Waitaki River,1221029,Edward Stream,711.392,1420,Edward Stream,,835,189,doco,i37,2315417,5687753,13507044,efp,1,,50
+28367,12,2006,Waitaki River,1221023,Fraser Stream,711.371,day,Fraser Stream tributary,,515,148,doco,H38,2273640,5661066,13511111,efp,3,,
+28374,12,2006,Waitaki River,1221009,Ahuriri River 1,711.31,1015,Ahuriri River tributary, ,435,130,doco,h39,2267215,5632854,13516620,efp,1, ,50
+28375,12,2006,Waitaki River,1221009,Ahuriri River 1,711.31,1115,Ahuriri River tributary, ,450,129,doco,h39,2267432,5633058,13516620,efp,1, ,50
+28376,12,2006,Waitaki River,1221009,Ahuriri River 1,711.31,1155,Ahuriri River tributary, ,425,128,doco,h39,2268227,5633305,13516499,efp,1, ,50
+28385,12,2006,Waitaki River,1221023,Fraser Stream,711.371,1000,Fraser Stream tributary,,515,148,doco,H38,2273601,5661131,13511111,efp,1,,
+28386,12,2006,Waitaki River,1221023,Fraser Stream,711.371,1110,Fraser Stream tributary,,515,148,doco,H38,2273625,5661074,13511111,efp,1,,
+28387,12,2006,Waitaki River,1221023,Fraser Stream,711.371,1300,Fraser Stream tributary,,515,148,doco,H38,2273616,5661045,13511111,efp,1,,150
+28388,12,2006,Waitaki River,1221023,Fraser Stream,711.371,1235,Fraser Stream tributary,,515,148,doco,H38,2273637,5661050,13511111,efp,1,,20
+28389,12,2006,Waitaki River,1221023,Fraser Stream,711.371,1400,Fraser Stream tributary,,515,148,doco,H38,2273626,5661153,13510924,efp,1,,150
+28390,12,2006,Waitaki River,1221018,Ohau River tributary,711.37,1440,Unnamed wetland,,430,136,doco,H38,2279291,5653894,0,efp,3,,
+28413,12,2006,Waitaki River,1221023,Fraser Stream,711.371, ,Fraser Stream, ,515,148,doco,h38,2273633,5660905,13511137,efp,3, , 
+28414,12,2006,Waitaki River,1221018,Ohau River tributary,711.37,,Unnamed wetland,,430,136,doco,H38,2279240,5653905,0,gmt,,,4
+31750,12,2006,Waitaki River,1221009,Ahuriri River 1,711.31,1155,Ahuriri River,,426,128,doco,H39,2268227,5633305,13516499,efp,1,,
+31752,3,2006,Waitaki River,1221009,Ahuriri River 1,711.31,1157,Ahuriri River,,416,127,doco,H39,2269534,5632846,13516656,efp,1,,40
+31753,3,2006,Waitaki River,1221009,Ahuriri River 1,711.31,1300,Ahuriri River,,420,127,doco,H39,2268956,5633289,13516615,efp,1,,50
+100595,3,2006,Waitaki River,1221020,Lake Poaka tributary,711.371,day,Lake Poaka tributary,,480,149,uoo,,2277475,5663025,13510748,efp,1,,
+100596,3,2006,Waitaki River,1221020,Lake Poaka tributary,711.371,night,Lake Poaka tributary,,480,149,uoo,,2277475,5663025,13510748,gmt,,,24
+22839,1,2007,Waitaki River,1221031,Fork Stream,711.393,1531,Fork Stream,,1050,203,docc,I37,2297038,5703088,13504600,efp,1,,10
+22842,1,2007,Waitaki River,1221031,Fork Stream,711.393,1110,Fork Stream,,1200,210,docc,I37,2296621,5709080,13503641,efp,1,,40
+22843,1,2007,Waitaki River,1221031,Fork Stream,711.393,1133,Fork Stream,,1170,209,docc,I37,2296812,5708272,13503802,efp,1,,40
+22845,1,2007,Waitaki River,1221031,Fork Stream,711.393,1420,Fork Stream, ,1150,208,docc,i37,2296903,5707652,13503870,efp,1, ,50
+28614,3,2007,Waitaki River,1221015,Ahuriri River 4,711.31,1550,Ahuriri River,,730,181,doco,G39,2239979,5649756,13513119,efp,1,,
+28615,3,2007,Waitaki River,1221014,Ahuriri River 3,711.31,day,Ahuriri River tributary,,720,169,doco,G39,2243191,5643146,13514500,efp,1,,
+28616,3,2007,Waitaki River,1221014,Ahuriri River 3,711.31,day,Ahuriri River tributary,,720,169,doco,G39,2243665,5643115,13514487,efp,1,,30
+28617,3,2007,Waitaki River,1221014,Ahuriri River 3,711.31,day,Ahuriri River tributary,,720,169,doco,G39,2243613,5643082,13514487,efp,1,,40
+28618,3,2007,Waitaki River,1221014,Ahuriri River 3,711.31,1210,Ahuriri River tributary,,720,169,doco,G39,2243493,5643117,13514487,efp,1,,20
+28619,3,2007,Waitaki River,1221014,Ahuriri River 3,711.31,1238,Ahuriri River tributary,,720,169,doco,G39,2243325,5643119,13514500,efp,1,,10
+28620,3,2007,Waitaki River,1221015,Ahuriri River 4,711.31,1425,Ahuriri River tributary,,740,182,doco,G39,2239666,5651366,13512655,efp,1,,20
+28621,3,2007,Waitaki River,1221015,Ahuriri River 4,711.31,1450,Ahuriri River tributary,,740,182,doco,G39,2239585,5651363,13512655,efp,1,,40
+28623,3,2007,Waitaki River,1221015,Ahuriri River 4,711.31,1525,Ahuriri River, ,735,182,doco,g38,2239342,5651073,13512946,efp,1, ,30
+28631,3,2007,Waitaki River,1221003,Otamatapaio River,711.311,1245,Otamatapaio River tributary,,995,133,doco,H40,2271235,5611516,13520430,efp,1,,50
+28632,3,2007,Waitaki River,1221003,Otamatapaio River,711.311,1220,Otamatapaio River, ,900,133,doco,h40,2271284,5611474,13520431,efp,1, ,50
+28633,3,2007,Waitaki River,1221003,Otamatapaio River,711.311,1010,Otamatapaio River, ,750,129,doco,h40,2271200,5614723,13519905,efp,1, ,50
+28634,3,2007,Waitaki River,1221003,Otamatapaio River,711.311,1356,Otamatapaio River, ,840,131,doco,h40,2271137,5612441,13520282,efp,1, ,50
+28636,3,2007,Waitaki River,1221003,Otamatapaio River,711.311,1430,Otamatapaio River, ,795,130,doco,h40,2271104,5613310,13520171,efp,1, ,50
+28637,3,2007,Waitaki River,1221023,Fraser Stream,711.371,day,Fraser Stream tributary,,515,148,doco,H38,2273670,5660930,13511159,efp,3,,
+28638,3,2007,Waitaki River,1221027,Irishman Creek,711.391,1030,Irishman Creek, ,810,183,docc,i37,2296045,5689070,13506501,efp,1, ,75
+28639,3,2007,Waitaki River,1221027,Irishman Creek,711.391,947,Irishman Creek,,810,183,docc,I37,2295197,5689336,13506501,efp,1,,23
+28640,3,2007,Waitaki River,1221027,Irishman Creek,711.391,1300,Irishman Creek,,955,190,docc,i37,2294751,5694532,13505829,efp,1,,60
+28641,3,2007,Waitaki River,1221027,Irishman Creek,711.391,1515,Irishman Creek tributary, ,840,184,docc,i37,2295108,5689657,13506615,efp,1, ,50
+28642,3,2007,Waitaki River,1221027,Irishman Creek,711.391,1200,Irishman Creek tributary,,970,190,docc,i37,2295362,5694830,13505406,efp,1,,10
+28643,3,2007,Waitaki River,1221027,Irishman Creek,711.391,1345,Irishman Creek tributary,,960,190,docc,i37,2294525,5694410,13505592,efp,1,,10
+28644,3,2007,Waitaki River,1221027,Irishman Creek,711.391, ,Irishman Creek tributary, ,895,186,docc,i37,2294375,5691617,13506201,efp,1, , 
+28645,3,2007,Waitaki River,1221027,Irishman Creek,711.391,1410,Irishman Creek tributary, ,930,187,docc,i37,2294110,5692667,13505542,efp,1, ,15
+28646,3,2007,Waitaki River,1221020,Lake Poaka tributary,711.371,1145,Twizel River tributary,,520,148,docc,H38,2277163,5663090,13510759,efp,1,,30
+28648,3,2007,Waitaki River,1221021,Twizel River,711.371,1650,Twizel River tributary,,620,155,docc,H38,2275425,5668663,0,efp,1,,45
+28651,3,2007,Waitaki River,1221002,Clark Creek,711.311,1000,Otamatapaio River tributary,,420,117,docc,H39,2278088,5621764,13518807,efp,1,,20
+28652,3,2007,Waitaki River,1221002,Clark Creek,711.311,1105,Otamatapaio River tributary,,420,117,docc,H39,2278214,5621665,13518807,efp,1,,
+28653,3,2007,Waitaki River,1221002,Clark Creek,711.311,945,Otamatapaio River tributary,,420,117,docc,H39,2278124,5621668,13518807,efp,1,,3
+29003,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,395,123,doco,H39,2272566,5632252,13516827,efp,1,,50
+29004,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1050,Ahuriri River tributary,,395,123,doco,H39,2272731,5632198,13516827,efp,1,,30
+29005,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1125,Ahuriri River tributary,,395,123,doco,H39,2272822,5632209,13516827,efp,,,20
+29006,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1140,Ahuriri River tributary,,395,123,doco,H39,2272923,5632224,13516827,efp,,,20
+29007,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1240,Ahuriri River tributary,,395,123,doco,H39,2273096,5632277,13516827,efp,1,,
+29008,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1250,Ahuriri River tributary,,395,123,doco,H39,2273064,5632265,13516827,efp,1,,30
+29009,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1310,Ahuriri River tributary,,395,123,doco,H39,2273071,5632252,13516827,efp,1,,60
+29010,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1345,Ahuriri River tributary,,395,123,doco,H39,2273123,5632208,13516827,efp,,,30
+29011,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1405,Ahuriri River tributary,,395,123,doco,H39,2273173,5632191,13516827,efp,,,20
+29012,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1510,Ahuriri River tributary,,415,124,doco,H39,2272461,5630956,13517062,efp,1,,
+29013,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1540,Ahuriri River tributary,,410,124,doco,H39,2272634,5631554,13516837,efp,,,
+29014,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,410,124,doco,H39,2272455,5632285,13516827,efp,1,,
+29015,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,390,124,doco,H39,2272379,5632305,13516827,efp,1,,
+29016,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,390,122,doco,H39,2273547,5632168,13516746,efp,1,,
+29017,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,390,122,doco,H39,2273507,5632190,13516746,efp,,,
+29018,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,390,122,doco,H39,2273463,5632257,13516746,efp,1,,
+29019,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,395,122,doco,H39,2273405,5632182,13516837,efp,,,
+29020,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,395,123,doco,H39,2273316,5632181,13516837,efp,,,
+29021,11,2007,Waitaki River,1221005,Ahuriri River tributary 2,711.31, ,Ahuriri River tributary, ,395,123,doco,h39,2273268,5632180,13516827,efp,0, , 
+29022,11,2007,Waitaki River,1221015,Ahuriri River 4,711.31,1010,Ahuriri River, ,735,183,doco,g38,2239345,5651174,13512882,efp,1, ,50
+29023,11,2007,Waitaki River,1221015,Ahuriri River 4,711.31,1035,Ahuriri River,,735,183,doco,G38,2239271,5651369,13512822,efp,1,,50
+109822,11,2007,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+109834,11,2007,Waitaki River,1221018,Ohau River tributary,711.37,,Unnamed wetland,,431,135,doco,H38,2279283,5653898,13512444,tfu,,,3
+29453,4,2008,Waitaki River,1221029,Edward Stream,711.392,1120,Edward Stream tributary, ,910,193,doco,i37,2315599,5690727,13506426,efp,1, ,10
+29454,4,2008,Waitaki River,1221029,Edward Stream,711.392,1140,Edward Stream tributary,,910,193,doco,I37,2315613,5690699,13506426,efp,1,,10
+29455,4,2008,Waitaki River,1221029,Edward Stream,711.392,1151,Edward Stream tributary,,910,193,doco,I37,2315614,5690681,13506426,efp,1,,75
+29456,4,2008,Waitaki River,1221029,Edward Stream,711.392,day,Edward Stream tributary,,910,192,doco,I37,2315679,5690521,13506426,efp,1,,100
+29457,4,2008,Waitaki River,1221029,Edward Stream,711.392,1245,Edward Stream tributary,,895,192,doco,I37,2315766,5690388,13506426,efp,1,,14
+29458,4,2008,Waitaki River,1221029,Edward Stream,711.392,1410,Edward Stream tributary,,895,192,doco,i37,2315820,5690333,13506514,efp,1,,15
+29459,4,2008,Waitaki River,1221029,Edward Stream,711.392,1442,Edward Stream tributary,,895,192,doco,i37,2315873,5690215,13506514,efp,1,,24
+29460,4,2008,Waitaki River,1221029,Edward Stream,711.392,1520,Edward Stream tributary,,893,192,doco,i37,2315876,5690131,13506514,efp,1,,
+29461,4,2008,Waitaki River,1221014,Ahuriri River 3,711.31,day,Ahuriri River tributary,,735,173,doco,G39,2241133,5643540,13514360,efp,1,,25
+29466,4,2008,Waitaki River,1221022,Dry Stream,711.371,1035,Fraser Stream tributary,,482,144,doco,H38,2277001,5659769,13511223,efp,1,,30
+29467,4,2008,Waitaki River,1221022,Dry Stream,711.371,day,Fraser Stream tributary,,485,144,doco,H38,2276748,5660011,13511223,efp,1,,20
+29469,4,2008,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1115,Canyon Creek, ,778,192,doco,g38,2238640,5658389,13511604,efp,1, ,25
+29470,4,2008,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1150,Ahuriri River tributary, ,770,192,doco,g38,2239528,5658787,13511417,efp,1, ,10
+29471,4,2008,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1210,Ahuriri River tributary,,770,192,doco,G38,2239631,5658732,13511532,efp,1,,13
+29472,4,2008,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1330,Ahuriri River tributary, ,770,192,doco,g38,2239792,5658751,13511532,efp,1, , 
+29473,4,2008,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1400,Ahuriri River tributary, ,770,192,doco,g38,2239906,5659055,13511355,efp,1, ,20
+29474,4,2008,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1420,Ahuriri River tributary,,770,192,doco,G38,2240004,5659097,13511355,efp,1,,60
+29475,4,2008,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1535,Ahuriri River tributary,,770,193,doco,G38,2240055,5659194,13511355,efp,1,,40
+29476,4,2008,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1625,Ahuriri River tributary,,775,193,doco,G38,2240038,5659463,13511355,efp,1,,
+29477,4,2008,Waitaki River,1221002,Clark Creek,711.312,1000,Clark Creek,,392,115,doco,h39,2278310,5623196,13518503,efp,1,,40
+29478,4,2008,Waitaki River,1221002,Clark Creek,711.312,1035,Clark Creek water race,,395,116,doco,h39,2278035,5622832,13518627,efp,1,,90
+29479,4,2008,Waitaki River,1221002,Clark Creek,711.312,1105,Clark Creek tributary,,418,117,doco,h39,2278014,5622047,13518734,efp,1,,10
+29480,4,2008,Waitaki River,1221002,Clark Creek,711.312,1110,Clark Creek tributary,,425,117,doco,h39,2277991,5621727,13518806,efp,1,,50
+29482,4,2008,Waitaki River,1221002,Clark Creek,711.312,1340,Clark Creek water race, ,470,115,doco,h39,2278255,5623376,13518496,efp,1, ,30
+29602,2,2008,Waitaki River,1221013,Ahuriri River 2,711.318,day,Unnamed Spring Ahuriri River East Branch,,680,158,uoc,G39,2248408,5635777,13516034,ef,1,,1
+29603,2,2008,Waitaki River,1221013,Ahuriri River 2,711.318, ,Unnamed tributary Ribbonwood Creek, ,665,158,uoc,g39,2248385,5635650,13515911,ef,1, ,1
+29604,2,2008,Waitaki River,1221013,Ahuriri River 2,711.318,,Ahuriri River East Branch,,660,157,uoc,g39,2248327,5635513,13516082,ef,1,,4
+29605,2,2008,Waitaki River,1221013,Ahuriri River 2,711.318,,Unnamed Stream Ahuriri River East Branch,,700,158,uoc,g39,2248689,5637137,13515688,ef,1,,1
+29606,2,2008,Waitaki River,1221013,Ahuriri River 2,711.318,,Ahuriri River East Branch,,685,159,uoc,g39,2248618,5636747,13515777,ef,1,,5
+29607,2,2008,Waitaki River,1221013,Ahuriri River 2,711.318, ,Ahuriri River East Branch, ,670,158,uoc,g39,2248355,5635931,13515958,ef,1, ,3
+30689,2,2008,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River tributary, ,900,133,uoc,h40,2271245,5611478,13520430,efp,1, , 
+30690,2,2008,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River, ,895,130,uoc,h40,2271093,5613278,13520171,efp,1, , 
+30695,2,2008,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River, ,750,129,uoc,h40,2271003,5614425,13519955,efp,1, , 
+30696,2,2008,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River, ,915,133,uoc,h40,2271280,5611148,13520440,efp,1, , 
+109178,12,2008,Waitaki River,1221001,Hakataramea River tributary,711.14,,Hakataramea River tributary,,258,72,docc,I40,2315832,5610413,13520534,han,,,1
+109805,11,2008,Waitaki River,1221023,Fraser Stream,711.371, ,Fraser Stream, ,519,148,doco,H38,2273633,5660905,13511137,efp, , , 
+109808,4,2008,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273670,5660930,13511111,efp,,,
+109823,11,2008,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+109888,11,2008,Waitaki River,1221018,Ohau River tributary,711.37,,Unnamed wetland,,431,135,doco,H38,2279240,5653905,13512444,tfu,,,9
+30701,2,2009,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River tributary, ,870,132,uoc,h40,2270808,5612417,13520293,efp,1, , 
+30702,2,2009,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River tributary, ,910,132,uoc,h40,2270349,5612352,13520293,efp,1, , 
+30703,2,2009,Waitaki River,1221003,Otamatapaio River,711.311,,Otamatapaio River tributary,,980,133,uoc,h40,2269851,5612263,13520316,efp,1,,
+30704,2,2009,Waitaki River,1221003,Otamatapaio River,711.311,,Otamatapaio River,,1030,133,uoc,h40,2269539,5612028,13520354,efp,1,,
+30723,2,2009,Waitaki River,1221022,Dry Stream,711.371, ,Fraser Stream tributary, ,480,145,uoc,h38,2276737,5660383,13511223,efp,1, , 
+30731,2,2009,Waitaki River,1221022,Dry Stream,711.371, ,Fraser Stream, ,480,144,uoc,h38,2276649,5659294,13511404,efp,1, , 
+31726,11,2009,Waitaki River,1221029,Edward Stream,711.392,1240,Edward Stream,,732,261,doco,H43,2315542,5688678,13506654,efp,1,,70
+31727,11,2009,Waitaki River,1221029,Edward Stream,711.392,1200,Edward Stream,,862,191,doco,I38,2315856,5689021,13506654,efp,1,,30
+31728,11,2009,Waitaki River,1221029,Edward Stream,711.392,1450,Edward Stream,,832,189,doco,I38,2315147,5687471,13507050,efp,1,,40
+31729,11,2009,Waitaki River,1221029,Edward Stream,711.392,1420,Edward Stream, ,840,189,doco,i38,2315271,5687798,13507050,efp,1, ,45
+31730,11,2009,Waitaki River,1221029,Edward Stream,711.392,1050,Edward Stream, ,843,189,doco,i38,2315322,5687921,13506959,efp,1, ,30
+31731,11,2009,Waitaki River,1221029,Edward Stream,711.392,1130,Edward Stream,,874,191,doco,I38,2316185,5689572,13506611,efp,1,,25
+31732,11,2009,Waitaki River,1221018,Ohau River tributary,711.37,day,Ohau River tributary,,436,136,doco,H38,2279300,5653900,13512444,gmt,,,10
+31733,11,2009,Waitaki River,1221023,Fraser Stream,711.371,day,Fraser Stream,,520,148,doco,H38,2273677,5660957,13511111,efp,3,,
+31734,11,2009,Waitaki River,1221023,Fraser Stream,711.371,day,Fraser Stream,,520,148,doco,H38,2273677,5660957,13511111,efp,3,,
+31735,11,2009,Waitaki River,1221023,Fraser Stream,711.371, ,Fraser Stream, ,520,148,doco,h38,2273677,5660957,13511111,efp,3, ,12
+31736,11,2009,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,400,124,doco,H39,2272379,5632305,13516827,efp,1,,
+31737,11,2009,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,398,123,doco,H39,2272566,5632252,13516827,efp,1,,
+31738,11,2009,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,393,123,doco,H39,2273173,5632191,13516827,efp,1,,
+31739,11,2009,Waitaki River,1221005,Ahuriri River tributary 2,711.31,day,Ahuriri River tributary,,393,123,doco,H39,2273268,5632180,13516827,efp,1,,
+31740,11,2009,Waitaki River,1221005,Ahuriri River tributary 2,711.31, ,Ahuriri River tributary, ,393,123,doco,H39,2273268,5632180,13516827,efp,1, , 
+31742,11,2009,Waitaki River,1221009,Ahuriri River 1,711.31, ,Ahuriri River tributary, ,425,128,doco,H39,2268369,5633311,13516499,efp, , , 
+31743,11,2009,Waitaki River,1221009,Ahuriri River 1,711.31,day,Ahuriri River tributary,,434,130,doco,H39,2267215,5632854,13516620,efp,2,,
+31744,11,2009,Waitaki River,1221029,Edward Stream,711.392,day,Edward Stream,,827,188,doco,H39,2315020,5687245,13507050,efp,1,,
+31745,11,2009,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream, ,820,188,doco,i38,2315023,5686926,13507050,efp,1, , 
+31746,11,2009,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream, ,799,186,doco,i38,2314432,5685779,13507357,efp,1, , 
+31747,11,2009,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream, ,801,187,doco,i38,2314522,5685931,13507219,efp,1, , 
+31748,11,2009,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream, ,819,188,doco,i38,2315007,5686617,13507193,efp,1, , 
+106347,4,2009,Waitaki River,1221015,Ahuriri River 4,711.31,1345,Ahuriri River, ,967,182,doco,H39,2239358,5651048,13512946,efp, , , 
+106353,4,2009,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1541,Ahuriri River,,771,193,doco,H39,2240458,5659799,13511355,efp,,,
+106355,4,2009,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1630,Ahuriri River,,772,193,doco,H39,2240615,5660082,13511297,efp,,,
+106362,4,2009,Waitaki River,1221001,Hakataramea River tributary,711.14,1347,Hakataramea River tributary, ,258,72,doco,I40,2315840,5610401,13520534,efp, , , 
+106364,4,2009,Waitaki River,1221001,Hakataramea River tributary,711.14,1240,Hakataramea River tributary, ,258,72,doco,I40,2315885,5610597,13520534,efp, , , 
+106367,4,2009,Waitaki River,1221001,Hakataramea River tributary,711.14,922,Hakataramea River tributary, ,232,72,doco,I40,2315676,5610260,13520588,efp, , , 
+106368,4,2009,Waitaki River,1221001,Hakataramea River tributary,711.14,1416,Hakataramea River tributary, ,232,72,doco,I40,2315463,5610188,13520588,efp, , , 
+109806,11,2009,Waitaki River,1221023,Fraser Stream,711.371, ,Fraser Stream, ,519,148,doco,H38,2273633,5660905,13511137,efp, , , 
+109809,3,2009,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273670,5660930,13511111,efp,,,
+109810,11,2009,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273670,5660930,13511111,efp,,,
+109824,3,2009,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+109825,11,2009,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+32289,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1501,Ahuriri River,,765,191,uoc,g38,2239557,5657808,13511700,efp,0,,2
+32290,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1513,Ahuriri River, ,767,191,uoc,g38,2239591,5657863,13511700,efp,0, ,2
+32291,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1528,Ahuriri River, ,767,191,uoc,g38,2239569,5657952,13511682,efp,0, ,2
+32292,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1535,Ahuriri River, ,766,191,uoc,g38,2239573,5657963,13511682,efp,0, ,2
+32293,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1539,Ahuriri River tributary, ,767,191,uoc,g38,2239590,5658036,13511558,efp,0, ,2
+32294,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1601,Ahuriri River tributary, ,769,191,uoc,g38,2239535,5658138,13511558,efp,0, ,2
+32295,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1619,Canyon Creek, ,770,191,uoc,g38,2239260,5658283,13511604,efp,0, ,2
+32296,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1629,Canyon Creek, ,771,191,uoc,g38,2239315,5658245,13511604,efp,0, ,2
+32297,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1636,Canyon Creek, ,769,191,uoc,g38,2239366,5658246,13511604,efp,0, ,2
+32298,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1644,Canyon Creek, ,773,191,uoc,g38,2239438,5658224,13511558,efp,0, ,2
+32299,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1657,Ahuriri River tributary,,768,191,uoc,G38,2239509,5658214,13511558,efp,,,2
+32300,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1719,Ahuriri River tributary, ,735,190,uoc,g38,2239285,5658380,13511558,efp,0, ,2
+32301,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1726,Ahuriri River tributary, ,770,191,uoc,g38,2239336,5658287,13511558,efp,0, ,2
+32302,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1739,Ahuriri River tributary,,770,191,uoc,G38,2239377,5658255,13511558,efp,,,2
+32303,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1753,Ahuriri River tributary,,775,191,uoc,G38,2239430,5658283,13511558,efp,,,2
+32304,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,958,Ahuriri River tributary,,772,192,uoc,G38,2239241,5658547,13511557,efp,,,2
+32305,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1004,Ahuriri River tributary, ,771,192,uoc,g38,2239287,5658537,13511557,efp,0, ,2
+32306,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1010,Ahuriri River tributary, ,770,192,uoc,g38,2239322,5658540,13511557,efp,0, ,2
+32307,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1015,Ahuriri River tributary, ,770,192,uoc,g38,2239333,5658563,13511557,efp,0, ,2
+32308,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1025,Ahuriri River tributary,,769,192,uoc,G38,2239410,5658584,13511557,efp,,,2
+32309,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1042,Ahuriri River tributary,,768,192,uoc,G38,2239482,5658538,13511558,efp,,,2
+32310,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1059,Ahuriri River tributary,,770,191,uoc,G38,2239529,5658404,13511558,efp,,,2
+32311,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1112,Ahuriri River tributary, ,767,191,uoc,g38,2239516,5658299,13511558,efp,0, ,2
+32312,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1135,Ahuriri River tributary,,769,191,uoc,G38,2239513,5658279,13511558,efp,,,2
+32313,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1154,Ahuriri River tributary,,769,191,uoc,G38,2239562,5658178,13511558,efp,,,2
+32314,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1209,Ahuriri River tributary, ,769,191,uoc,g38,2239570,5658182,13511558,efp,0, ,2
+32315,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1315,Ahuriri River tributary, ,773,192,uoc,g38,2239858,5658480,13511605,efp,0, ,2
+32316,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1329,Ahuriri River, ,770,192,uoc,g38,2239865,5658667,13511532,efp,0, ,2
+32317,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1336,Ahuriri River, ,770,192,uoc,g38,2239846,5658618,13511532,efp,0, ,2
+32318,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1345,Ahuriri River, ,770,192,uoc,g38,2239824,5658575,13511532,efp,0, ,2
+32319,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1400,Ahuriri River, ,768,192,uoc,g38,2239943,5658628,13511519,efp,0, ,2
+32320,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1410,Ahuriri River, ,769,192,uoc,g38,2239929,5658581,13511532,efp,0, ,2
+32321,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1431,Ahuriri River, ,770,192,uoc,g38,2239914,5658563,13511532,efp,0, ,4
+32322,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1448,Ahuriri River, ,771,192,uoc,g38,2239891,5658487,13511605,efp,0, ,6
+32323,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1507,Ahuriri River, ,784,193,uoc,g38,2240112,5658558,13511532,efp,0, ,4
+32324,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1515,Ahuriri River, ,773,193,uoc,g38,2240070,5658603,13511519,efp,0, ,2
+32325,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1523,Ahuriri River, ,773,192,uoc,g38,2240057,5658632,13511519,efp,0, ,4
+32326,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1530,Ahuriri River, ,768,192,uoc,g38,2240030,5658578,13511519,efp,0, ,2
+32327,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1541,Ahuriri River, ,770,192,uoc,g38,2240006,5658529,13511605,efp,0, ,4
+32328,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1608,Ahuriri River, ,768,192,uoc,g38,2239896,5658390,13511605,efp,0, ,6
+32329,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1613,Ahuriri River, ,766,192,uoc,g38,2239855,5658353,13511605,efp,0, ,4
+32330,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1635,Ahuriri River, ,771,191,uoc,g38,2239761,5658272,13511605,efp,0, ,6
+32331,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1647,Ahuriri River, ,777,191,uoc,g38,2239684,5658270,13511532,efp,0, ,4
+32332,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1656,Ahuriri River,,755,191,uoc,G38,2239709,5658326,13511532,efp,,,2
+32333,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1704,Ahuriri River, ,766,191,uoc,g38,2239679,5658309,13511532,efp,0, ,2
+32334,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1728,Ahuriri River,,763,191,uoc,G38,2239655,5658162,13511532,efp,,,6
+32335,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1734,Ahuriri River, ,767,191,uoc,g38,2239650,5658141,13511532,efp,0, ,4
+32336,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,929,Canyon Creek, ,781,192,uoc,g38,2238839,5658340,13511604,efp,0, ,10
+32337,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,934,Canyon Creek, ,780,192,uoc,g38,2238853,5658329,13511604,efp,0, ,4
+32338,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,939,Canyon Creek, ,793,192,uoc,g38,2238869,5658297,13511604,efp,0, ,6
+32339,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,952,Canyon Creek, ,772,191,uoc,g38,2239241,5658127,13511604,efp,0, ,2
+32340,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1008,Canyon Creek, ,773,192,uoc,g38,2239127,5658276,13511604,efp,0, ,2
+32341,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1024,Canyon Creek, ,772,191,uoc,g38,2239237,5658223,13511604,efp,0, ,4
+32342,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1039,Canyon Creek,,770,191,uoc,G38,2239268,5658193,13511604,efp,,,2
+32343,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1052,Canyon Creek, ,766,191,uoc,g38,2239312,5658160,13511604,efp,0, ,4
+32344,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1100,Canyon Creek, ,769,191,uoc,g38,2239347,5658127,13511604,efp,0, ,4
+32345,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1110,Canyon Creek, ,769,191,uoc,g38,2239415,5658107,13511604,efp,0, ,2
+32346,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1121,Canyon Creek, ,766,191,uoc,g38,2239554,5657969,13511604,efp,0, ,2
+32347,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1140,Ahuriri River,,767,191,uoc,g38,2239502,5657795,13511700,efp,0,,8
+32348,4,2010,Waitaki River,1221016,Ahuriri River tributary 5,711.31,1150,Ahuriri River,,765,191,uoc,g38,2239602,5657825,13511700,efp,0,,6
+32409,7,2010,Waitaki River,1221029,Edward Stream,711.392,1235,Edward Stream tributary,,886,192,uoc,i37,2315619,5689932,13506426,efp,0,,6
+32410,7,2010,Waitaki River,1221029,Edward Stream,711.392,1249,Edward Stream tributary,,885,192,uoc,i37,2315643,5689873,13506426,efp,0,,6
+32411,7,2010,Waitaki River,1221029,Edward Stream,711.392,1308,Edward Stream tributary,,883,192,uoc,i37,2315702,5689791,13506426,efp,0,,6
+32412,7,2010,Waitaki River,1221029,Edward Stream,711.392,1315,Edward Stream tributary,,880,192,uoc,i37,2315718,5689769,13506426,efp,0,,4
+32413,7,2010,Waitaki River,1221029,Edward Stream,711.392,1323,Edward Stream tributary,,880,192,uoc,i37,2315801,5689736,13506426,efp,0,,6
+32414,7,2010,Waitaki River,1221029,Edward Stream,711.392,1338,Edward Stream tributary,,878,191,uoc,i37,2315897,5689685,13506610,efp,0,,6
+32415,7,2010,Waitaki River,1221029,Edward Stream,711.392,1409,Edward Stream tributary, ,883,192,uoc,i37,2315773,5689848,13506426,efp,0, ,6
+32416,7,2010,Waitaki River,1221029,Edward Stream,711.392,1418,Edward Stream tributary, ,881,192,uoc,i37,2315807,5689824,13506514,efp,0, ,6
+32417,7,2010,Waitaki River,1221029,Edward Stream,711.392,1426,Edward Stream tributary, ,877,192,uoc,i37,2315852,5689787,13506514,efp,0, ,6
+32418,7,2010,Waitaki River,1221029,Edward Stream,711.392,1458,Edward Stream tributary, ,882,192,uoc,i37,2315856,5689894,13506514,efp,0, ,6
+32419,7,2010,Waitaki River,1221029,Edward Stream,711.392,1510,Edward Stream tributary, ,875,191,uoc,i37,2315953,5689683,13506610,efp,0, ,6
+32420,7,2010,Waitaki River,1221029,Edward Stream,711.392,1525,Edward Stream tributary, ,871,191,uoc,i37,2315946,5689546,13506610,efp,0, ,6
+32421,7,2010,Waitaki River,1221029,Edward Stream,711.392,1545,Edward Stream tributary, ,875,191,uoc,i37,2316160,5689578,13506611,efp,0, ,6
+32422,7,2010,Waitaki River,1221029,Edward Stream,711.392,1558,Edward Stream,,880,192,uoc,i37,2316328,5689751,13506611,efp,0,,6
+32423,7,2010,Waitaki River,1221029,Edward Stream,711.392,1611,Edward Stream, ,884,192,uoc,i37,2316488,5689729,13506591,efp,0, ,6
+32424,7,2010,Waitaki River,1221029,Edward Stream,711.392,1624,Edward Stream, ,879,192,uoc,i37,2316410,5689792,13506591,efp,0, ,6
+32425,7,2010,Waitaki River,1221029,Edward Stream,711.392,1647,Edward Stream,,883,192,uoc,i37,2316308,5689738,13506611,efp,0,,6
+32426,7,2010,Waitaki River,1221029,Edward Stream,711.392,949,Edward Stream, ,861,191,uoc,i37,2315677,5688956,13506654,efp,0, ,6
+32427,7,2010,Waitaki River,1221029,Edward Stream,711.392,1008,Edward Stream, ,864,191,uoc,i37,2315764,5689047,13506654,efp,0, ,6
+32428,7,2010,Waitaki River,1221029,Edward Stream,711.392,1018,Edward Stream,,869,191,uoc,i37,2315814,5689185,13506654,efp,0,,6
+32429,7,2010,Waitaki River,1221029,Edward Stream,711.392,1029,Edward Stream,,867,191,uoc,i37,2315827,5689244,13506654,efp,0,,6
+32430,7,2010,Waitaki River,1221029,Edward Stream,711.392,1044,Edward Stream,,870,191,uoc,i37,2315823,5689268,13506654,efp,0,,6
+32431,7,2010,Waitaki River,1221029,Edward Stream,711.392,1055,Edward Stream,,865,191,uoc,i37,2315827,5689275,13506654,efp,0,,6
+32432,7,2010,Waitaki River,1221029,Edward Stream,711.392,1111,Edward Stream,,870,191,uoc,i37,2315881,5689331,13506654,efp,0,,6
+32433,7,2010,Waitaki River,1221029,Edward Stream,711.392,1129,Edward Stream, ,870,191,uoc,i37,2315952,5689463,13506654,efp,0, ,6
+32434,7,2010,Waitaki River,1221029,Edward Stream,711.392,1201,Edward Stream,,877,191,uoc,i37,2316064,5689553,13506611,efp,0,,6
+32435,7,2010,Waitaki River,1221029,Edward Stream,711.392,1215,Edward Stream, ,876,191,uoc,i37,2316144,5689583,13506611,efp,0, ,6
+32436,7,2010,Waitaki River,1221029,Edward Stream,711.392,1227,Edward Stream, ,910,191,uoc,i37,2316237,5689607,13506611,efp,0, ,6
+32437,7,2010,Waitaki River,1221029,Edward Stream,711.392,1237,Edward Stream, ,880,192,uoc,i37,2316260,5689645,13506611,efp,0, ,6
+32438,7,2010,Waitaki River,1221029,Edward Stream,711.392,1305,Edward Stream tributary,,887,192,uoc,i37,2316422,5689635,13506618,efp,0,,6
+32439,7,2010,Waitaki River,1221029,Edward Stream,711.392,1323,Edward Stream, ,876,191,uoc,i37,2316189,5689567,13506611,efp,0, ,6
+32440,7,2010,Waitaki River,1221029,Edward Stream,711.392,1339,Edward Stream tributary, ,876,191,uoc,i37,2315969,5689684,13506610,efp,0, ,6
+32441,7,2010,Waitaki River,1221029,Edward Stream,711.392,1356,Edward Stream tributary, ,879,191,uoc,i37,2316008,5689627,13506610,efp,0, ,6
+32442,7,2010,Waitaki River,1221029,Edward Stream,711.392,1412,Edward Stream tributary, ,874,191,uoc,i37,2315987,5689527,13506610,efp,0, ,6
+32443,7,2010,Waitaki River,1221029,Edward Stream,711.392,1429,Edward Stream,,865,191,uoc,i37,2315826,5689295,13506654,efp,0,,6
+32444,7,2010,Waitaki River,1221029,Edward Stream,711.392,1452,Edward Stream, ,867,191,uoc,i37,2315713,5689146,13506654,efp,0, ,6
+32445,7,2010,Waitaki River,1221029,Edward Stream,711.392,1505,Edward Stream, ,861,191,uoc,i37,2315713,5689042,13506654,efp,0, ,6
+32446,7,2010,Waitaki River,1221029,Edward Stream,711.392,1515,Edward Stream, ,861,191,uoc,i37,2315702,5688978,13506654,efp,0, ,6
+32447,7,2010,Waitaki River,1221029,Edward Stream,711.392,1524,Edward Stream, ,868,191,uoc,i37,2315766,5689083,13506654,efp,0, ,6
+32448,7,2010,Waitaki River,1221029,Edward Stream,711.392,1536,Edward Stream, ,865,191,uoc,i37,2315788,5689141,13506654,efp,0, ,6
+32449,7,2010,Waitaki River,1221029,Edward Stream,711.392,1550,Edward Stream,,866,191,uoc,i37,2315868,5689303,13506654,efp,0,,6
+32450,7,2010,Waitaki River,1221029,Edward Stream,711.392,1559,Edward Stream,,870,191,uoc,i37,2315895,5689349,13506654,efp,0,,6
+32559,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1210,Fraser Stream, ,520,149,uoc,h38,2273117,5660946,13511104,efp,0, ,6
+32560,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1218,Fraser Stream, ,520,149,uoc,h38,2273102,5660909,13511137,efp,0, ,4
+32562,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1251,Fraser Stream, ,520,149,uoc,h38,2273011,5660960,13511104,efp,0, ,6
+32563,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1308,Fraser Stream, ,520,149,uoc,h38,2273058,5660948,13511104,efp,0, ,4
+32564,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1459,Fraser Stream, ,520,149,uoc,h38,2273150,5660879,13511137,efp,0, ,6
+32565,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1511,Fraser Stream,,520,149,uoc,H38,2273213,5660903,13511137,efp,,,6
+32566,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1531,Fraser Stream, ,520,149,uoc,h38,2273209,5660894,13511137,efp,0, ,6
+32567,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1545,Fraser Stream, ,520,149,uoc,h38,2273202,5660907,13511137,efp,0, ,4
+32568,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1551,Fraser Stream, ,520,149,uoc,h38,2273163,5660920,13511137,efp,0, ,4
+32569,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1604,Fraser Stream, ,520,149,uoc,h38,2273219,5660926,13511137,efp,0, ,6
+32570,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1619,Fraser Stream, ,520,149,uoc,h38,2273233,5660926,13511137,efp,0, ,6
+32571,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1624,Fraser Stream, ,520,149,uoc,h38,2273262,5660939,13511137,efp,0, ,6
+32572,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1631,Fraser Stream, ,520,148,uoc,h38,2273337,5660924,13511137,efp,0, ,6
+32573,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1632,Fraser Stream, ,520,148,uoc,h38,2273385,5660942,13511137,efp,0, ,6
+32574,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1646,Fraser Stream, ,520,148,uoc,h38,2273427,5660927,13511137,efp,0, ,6
+32575,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1651,Fraser Stream, ,520,148,uoc,h38,2273461,5660937,13511137,efp,0, ,6
+32576,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1658,Fraser Stream, ,520,148,uoc,h38,2273480,5660903,13511137,efp,0, ,6
+32577,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1705,Fraser Stream, ,520,148,uoc,h38,2273502,5660869,13511137,efp,0, ,6
+32578,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1714,Fraser Stream, ,520,148,uoc,h38,2273625,5660910,13511137,efp,0, ,6
+32579,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1725,Fraser Stream, ,520,148,uoc,h38,2273674,5660923,13511159,efp,0, ,6
+32580,5,2010,Waitaki River,1221023,Fraser Stream,711.371,820,Fraser Stream, ,520,148,uoc,h38,2273693,5660890,13511159,efp,0, ,6
+32581,5,2010,Waitaki River,1221023,Fraser Stream,711.371,831,Fraser Stream, ,520,148,uoc,h38,2273712,5660827,13511159,efp,0, ,6
+32582,5,2010,Waitaki River,1221023,Fraser Stream,711.371,842,Fraser Stream, ,520,148,uoc,h38,2273736,5660798,13511159,efp,0, ,6
+32583,5,2010,Waitaki River,1221023,Fraser Stream,711.371,857,Fraser Stream, ,520,148,uoc,h38,2273847,5660815,13511159,efp,0, ,6
+32584,5,2010,Waitaki River,1221023,Fraser Stream,711.371,904,Fraser Stream, ,520,148,uoc,h38,2273854,5660863,13511159,efp,0, ,6
+32585,5,2010,Waitaki River,1221023,Fraser Stream,711.371,917,Fraser Stream, ,520,148,uoc,h38,2273935,5660870,13511159,efp,0, ,6
+32586,5,2010,Waitaki River,1221023,Fraser Stream,711.371,922,Fraser Stream, ,520,148,uoc,h38,2273946,5660845,13511159,efp,0, ,6
+32587,5,2010,Waitaki River,1221023,Fraser Stream,711.371,930,Fraser Stream, ,520,148,uoc,h38,2273963,5660823,13511159,efp,0, ,6
+32588,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1029,Fraser Stream tributary, ,520,148,uoc,h38,2273546,5661250,13511070,efp,0, ,4
+32589,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1039,Fraser Stream tributary,,520,148,uoc,H38,2273594,5661184,13511070,efp,,,6
+32590,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1055,Fraser Stream tributary,,520,148,uoc,H38,2273613,5661162,13510924,efp,,,6
+32591,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1107,Fraser Stream tributary,,520,148,uoc,H38,2273593,5661112,13511111,efp,,,6
+32592,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1130,Fraser Stream tributary,,520,148,uoc,H38,2273607,5661085,13511111,efp,,,6
+32593,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1145,Fraser Stream tributary, ,520,148,uoc,h38,2273627,5661029,13511111,efp,0, ,6
+32594,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1308,Fraser Stream tributary, ,520,148,uoc,h38,2273638,5661009,13511111,efp,0, ,6
+32595,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1318,Fraser Stream tributary,,520,148,uoc,H38,2273652,5660977,13511111,efp,,,10
+32596,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1338,Fraser Stream tributary,,520,148,uoc,H38,2273653,5660953,13511111,efp,,,6
+32597,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1434,Fraser Stream tributary,,520,148,uoc,h38,2273401,5661186,13511070,efp,0,,4
+32598,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1438,Fraser Stream tributary,,520,148,uoc,H38,2273393,5661156,13511137,efp,,,6
+32599,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1454,Fraser Stream tributary,,520,148,uoc,H38,2273409,5661117,13511137,efp,,,6
+32600,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1508,Fraser Stream tributary,,520,148,uoc,H38,2273444,5661079,13511137,efp,,,6
+32601,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1516,Fraser Stream tributary,,520,148,uoc,h38,2273447,5661027,13511137,efp,0,,4
+32602,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1526,Fraser Stream tributary, ,520,148,uoc,h38,2273470,5660981,13511137,efp,0, ,6
+32603,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1537,Fraser Stream tributary, ,520,148,uoc,h38,2273512,5660950,13511137,efp,0, ,6
+32604,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1544,Fraser Stream tributary, ,520,148,uoc,h38,2273582,5660939,13511137,efp,0, ,6
+32605,5,2010,Waitaki River,1221023,Fraser Stream,711.371,1552,Fraser Stream tributary, ,520,148,uoc,h38,2273629,5660946,13511111,efp,0, ,6
+101651,12,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1325,Ahuriri River tributary, ,402,122,doco,j41,2273463,5632246,13516746,efp,1, , 
+104352,6,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1420,Ahuriri River tributary,,427,122,unk,H39,2274044,5632488,13516746,efm,1,,
+106618,12,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1000,Ahuriri River, ,427,122,doco,h39,2274177,5632531,13516746,efp,1, , 
+106619,12,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1010,Ahuriri River, ,427,122,doco,h39,2274141,5632533,13516746,efp,1, , 
+106620,12,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1045,Ahuriri River,,427,122,doco,H39,2274049,5632500,13516746,efp,1,,
+106621,12,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1125,Ahuriri River,,427,122,doco,H39,2273972,5632485,13516746,efp,1,,
+106622,12,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1205,Ahuriri River, ,427,122,doco,h39,2273867,5632453,13516746,efp,1, , 
+106623,12,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1225,Ahuriri River,,427,122,doco,H39,2273834,5632418,13516746,efp,1,,
+106624,12,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1240,Ahuriri River, ,427,122,doco,h39,2273719,5632332,13516746,efp,1, , 
+106625,12,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1505,Ahuriri River,,396,123,doco,H39,2272475,5632271,13516827,efp,1,,
+106626,12,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1545,Ahuriri River,,396,123,doco,H39,2272501,5632271,13516827,efp,1,,
+106627,12,2010,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272567,5632232,13516827,efp,1,,
+109807,4,2010,Waitaki River,1221023,Fraser Stream,711.371, ,Fraser Stream, ,519,148,doco,H38,2273633,5660905,13511137,efp, , , 
+109811,4,2010,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273670,5660930,13511111,tfu,,,24
+109812,11,2010,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273670,5660930,13511111,efp,,,
+109826,4,2010,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+109827,4,2010,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,tfu,,,17
+109828,11,2010,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+109889,11,2010,Waitaki River,1221018,Ohau River tributary,711.37,,Unnamed wetland,,431,135,doco,H38,2279283,5653898,13512444,tfu,,,9
+109890,4,2010,Waitaki River,1221018,Ohau River tributary,711.37,,Unnamed wetland,,431,135,doco,H38,2279240,5653905,13512444,tfu,,,11
+104353,11,2011,Waitaki River,1221009,Ahuriri River 1,711.31,1552,Ahuriri River tributary, ,421,128,unk,h39,2267773,5634060,13516436,efm,1, , 
+109813,11,2011,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273670,5660930,13511111,efp,,,
+109829,11,2011,Waitaki River,1221023,Fraser Stream,711.371,,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+109891,11,2011,Waitaki River,1221018,Ohau River tributary,711.37,,Unnamed wetland,,431,135,doco,H38,2279240,5653905,13512444,tfu,,,10
+101293,12,2012,Waitaki River,1221018,Ohau River tributary,711.37,,Ohau River tributary,,434,135,doco,H38,2279282,5653892,13512444,efp,1,,
+102911,12,2012,Waitaki River,1221029,Edward Stream,711.392,750,Edward Stream tributary, ,716,179,doco, ,2310716,5681472,13507838,efp,1, , 
+102912,12,2012,Waitaki River,1221029,Edward Stream,711.392,755,Edward Stream tributary, ,704,179,doco, ,2310729,5681096,13508062,efp,1, , 
+102913,12,2012,Waitaki River,1221029,Edward Stream,711.392,800,Edward Stream tributary,,704,179,doco,,2310715,5681084,13508062,efp,1,,
+102914,12,2012,Waitaki River,1221029,Edward Stream,711.392,805,Edward Stream tributary,,704,179,doco,,2310708,5681067,13508062,efp,1,,
+102915,12,2012,Waitaki River,1221029,Edward Stream,711.392,820,Edward Stream tributary, ,715,179,doco, ,2310765,5681068,13507930,efp,1, , 
+102917,12,2012,Waitaki River,1221029,Edward Stream,711.392,845,Edward Stream tributary,,715,179,doco,,2310854,5681136,13507930,efp,1,,
+102918,12,2012,Waitaki River,1221029,Edward Stream,711.392,900,Edward Stream tributary, ,715,179,doco, ,2310870,5681145,13507930,efp,1, , 
+102920,12,2012,Waitaki River,1221029,Edward Stream,711.392,915,Edward Stream tributary, ,715,179,doco, ,2310934,5681150,13507930,efp,1, , 
+102921,12,2012,Waitaki River,1221029,Edward Stream,711.392,925,Edward Stream tributary, ,715,179,doco, ,2310947,5681135,13507930,efp,1, , 
+102922,12,2012,Waitaki River,1221029,Edward Stream,711.392,930,Edward Stream tributary, ,715,179,doco, ,2310967,5681082,13507930,efp,1, , 
+103849,8,2012,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream tributary, ,896,191,uoo,I37,2315600,5690005,13506426,efp,1, ,100
+103851,8,2012,Waitaki River,1221027,Irishman Creek,711.391, ,Irishman Creek, ,817,182,uoo,I37,2295725,5688925,13506419,efp,1, ,60
+103854,8,2012,Waitaki River,1221023,Fraser Stream,711.371, ,Fraser Stream, ,519,147,uoo,H38,2273950,5660845,13511159,efp,1, ,100
+109814,12,2012,Waitaki River,1221023,Fraser Stream,711.371,1000,Fraser Stream tributary,,520,148,doco,H38,2273670,5660930,13511111,efp,,,
+109830,12,2012,Waitaki River,1221023,Fraser Stream,711.371,1300,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+109963,10,2012,Waitaki River,1221029,Edward Stream,711.392,,Edward Stream tributary,,716,179,doco,I38,2311138,5681992,13507838,efp,,,
+102919,12,2013,Waitaki River,1221029,Edward Stream,711.392,905,Edward Stream tributary,,715,179,doco,,2310902,5681176,13507930,efp,1,,
+105113,5,2013,Waitaki River,1221031,Fork Stream,711.393,1125,Fork Stream tributary,,965,197,docc,I37,2296455,5699356,13505192,efp,,,
+105114,5,2013,Waitaki River,1221031,Fork Stream,711.393,1210,Fork Stream tributary,,1025,200,docc,I37,2296457,5700600,13504933,efp,,,
+105115,5,2013,Waitaki River,1221031,Fork Stream,711.393,1220,Fork Stream tributary,,1025,200,docc,I37,2296469,5700562,13504933,efp,,,
+105116,5,2013,Waitaki River,1221031,Fork Stream,711.393,1413,Fork Stream tributary,,1064,203,docc,I37,2297106,5702970,13504549,efp,,,
+105117,5,2013,Waitaki River,1221031,Fork Stream,711.393,1440,Fork Stream tributary,,1064,203,docc,I37,2297008,5703150,13504549,efp,,,
+105118,5,2013,Waitaki River,1221031,Fork Stream,711.393,1504,Fork Stream tributary,,1064,203,docc,I37,2297036,5703064,13504549,efp,,,
+105119,5,2013,Waitaki River,1221031,Fork Stream,711.393,1630,Fork Stream tributary,,986,197,docc,I37,2296875,5700254,13505084,efp,,,
+109815,11,2013,Waitaki River,1221023,Fraser Stream,711.371,1302,Fraser Stream tributary,,520,148,doco,H38,2273670,5660930,13511111,efp,,,
+109831,11,2013,Waitaki River,1221023,Fraser Stream,711.371,1301,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+101794,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1218,209,doco,i37,2296463,5709107,13503641,efp,1, , 
+101795,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream, ,1202,209,doco,i37,2296529,5709057,13503641,efp,1, , 
+101796,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream, ,1197,209,doco,i37,2296595,5708926,13503641,efp,1, , 
+101797,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1195,209,doco,i37,2296629,5708917,13503641,efp,1, , 
+101798,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1193,209,doco,i37,2296651,5708860,13503641,efp,1, , 
+101799,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1194,209,doco,I37,2296661,5708890,13503731,efp,1,,
+101800,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1197,209,doco,i37,2296667,5708931,13503731,efp,1, , 
+101801,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1194,209,doco,i37,2296664,5708898,13503731,efp,1, , 
+101807,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1154,208,doco,i37,2296876,5707560,13503841,efp,1, , 
+101808,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1162,208,doco,i37,2296916,5707750,13503841,efp,1, , 
+101809,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1163,208,doco,I37,2296924,5707761,13503841,efp,1,,
+101810,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1161,208,doco,i37,2296913,5707736,13503841,efp,1, , 
+101815,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1129,206,doco,i37,2297474,5706539,13504036,efp,1, , 
+101816,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1126,206,doco,I37,2297511,5706431,13504036,efp,1,,
+101817,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1124,206,doco,i37,2297573,5706317,13504036,efp,1, , 
+101818,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1122,206,doco,i37,2297618,5706213,13504074,efp,1, , 
+101819,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1156,208,doco,i37,2296904,5707676,13503841,efp,1, , 
+101822,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream, ,13,207,doco,i37,2297215,5706819,13503962,efp,1, , 
+101823,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1112,205,doco,i37,2297924,5705697,13504140,efp,1, , 
+101824,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1111,205,doco,i37,2297951,5705667,13504140,efp,1, , 
+101825,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1109,205,doco,I37,2297970,5705624,13504140,efp,1,,
+101826,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1112,205,doco,i37,2297897,5705655,13504140,efp,1, , 
+101827,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1102,205,doco,i37,2297992,5705418,13504140,efp,1, , 
+101828,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1121,206,doco,i37,2297682,5706101,13504074,efp,1, , 
+101830,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1114,205,doco,i37,2297901,5705818,13504140,efp,1, , 
+101831,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1113,205,doco,i37,2297932,5705745,13504140,efp,1, , 
+101832,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1112,205,doco,I37,2297947,5705680,13504140,efp,1,,
+101833,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1102,205,doco,i37,2297982,5705340,13504178,efp,1, , 
+101834,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1102,205,doco,i37,2297974,5705373,13504178,efp,1, , 
+101835,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1102,205,doco,i37,2297961,5705389,13504178,efp,1, , 
+101836,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1100,205,doco,i37,2297912,5705417,13504178,efp,1, , 
+101843,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream, ,1003,199,doco,i37,2296530,5699864,13504934,efp,1, , 
+101847,2,2014,Waitaki River,1221031,Fork Stream,711.393,1040,Fork Stream tributary,,1080,204,doco,I37,2297495,5704276,13504335,efp,1,,7
+101851,2,2014,Waitaki River,1221031,Fork Stream,711.393,1200,Fork Stream tributary, ,1072,203,doco,i37,2297550,5703659,13504393,efp,1, , 
+101852,2,2014,Waitaki River,1221031,Fork Stream,711.393,1115,Fork Stream tributary,,1075,203,doco,I37,2297493,5703893,13504393,efp,1,,15
+101853,2,2014,Waitaki River,1221031,Fork Stream,711.393,1100,Fork Stream tributary,,1079,204,doco,I37,2297465,5704214,13504335,efp,1,,
+101854,2,2014,Waitaki River,1221031,Fork Stream,711.393,1100,Fork Stream tributary,,1080,204,doco,I37,2297474,5704234,13504335,efp,1,,
+101855,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1036,201,doco,I37,2296921,5701960,13504722,efp,1,,67
+101856,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1036,201,doco,i37,2296858,5701959,13504721,efp,1, , 
+101857,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1047,201,doco,i37,2296653,5702183,13504721,efp,1, , 
+101858,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1046,201,doco,i37,2296680,5702179,13504721,efp,1, , 
+101859,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1045,201,doco,i37,2296683,5702191,13504721,efp,1, , 
+101860,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1045,201,doco,I37,2296693,5702180,13504721,efp,1,,
+101861,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1044,201,doco,i37,2296714,5702217,13504721,efp,1, , 
+101862,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1044,201,doco,I37,2296716,5702149,13504721,efp,1,,
+101863,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1044,201,doco,I37,2296753,5702104,13504721,efp,1,,
+101864,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1041,201,doco,I37,2296781,5702077,13504721,efp,1,,
+101865,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1040,201,doco,I37,2296782,5702040,13504721,efp,1,,
+101866,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1040,201,doco,I37,2296773,5701992,13504721,efp,1,,
+101867,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1036,201,doco,I37,2296814,5701757,13504721,efp,1,,1
+101868,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1036,201,doco,i37,2296800,5701774,13504721,efp,1, , 
+101869,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1035,201,doco,i37,2296825,5701930,13504721,efp,1, , 
+101870,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1052,202,doco,i37,2297195,5702699,13504544,efp,1, , 
+101871,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1046,202,doco,i37,2297203,5702513,13504544,efp,1, , 
+101872,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1042,201,doco,i37,2297135,5702323,13504544,efp,1, , 
+101873,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1039,201,doco,i37,2297051,5702148,13504722,efp,1, , 
+101876,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1066,200,doco,i37,2296990,5701030,13504775,efp,1, , 
+101877,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1034,201,doco,i37,2297018,5701219,13504775,efp,1, , 
+101878,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,991,197,doco,i37,2297094,5699229,13505084,efp,1, , 
+101880,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1070,203,doco,I37,2297011,5703116,13504549,efp,1,,77
+101881,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1061,202,doco,I37,2297158,5702822,13504544,efp,1,,37
+101883,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,992,197,doco,I37,2297061,5699345,13505084,efp,1,,
+101887,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1019,199,doco,I37,2296396,5700359,13504929,efp,1,,66
+101888,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1016,199,doco,i37,2296433,5700505,13504929,efp,1, , 
+101889,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1023,199,doco,i37,2296389,5700492,13504929,efp,1, , 
+101890,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1022,199,doco,i37,2296385,5700387,13504929,efp,1, , 
+101891,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1040,200,doco,i37,2296305,5700660,13504929,efp,1, , 
+101892,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1016,199,doco,i37,2296480,5700535,13504929,efp,1, , 
+101896,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,996,198,doco,I37,2296584,5699684,13505120,efp,1,,
+101897,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1016,199,doco,I37,2296530,5700535,13504929,efp,1,,
+101898,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1017,199,doco,I37,2296469,5700553,13504929,efp,1,,42
+101899,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1019,200,doco,I37,2296467,5700628,13504933,efp,1,,
+101901,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,996,197,doco,i37,2296584,5699681,13505120,efp,1,,
+101902,2,2014,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,1013,200,doco,I37,2296679,5700710,13504934,efp,1,,
+101903,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1015,199,doco,i37,2296629,5700542,13504934,efp,1, , 
+101904,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1015,200,doco,i37,2296660,5700625,13504934,efp,1, , 
+101905,2,2014,Waitaki River,1221031,Fork Stream,711.393, ,Fork Stream tributary, ,1015,199,doco,i37,2296600,5700490,13504929,efp,1, , 
+102739,10,2014,Waitaki River,1221029,Edward Stream,711.392,1204,Edward Stream tributary,,832,187,doco,,2315063,5687250,13507050,efp,1,,
+102740,10,2014,Waitaki River,1221029,Edward Stream,711.392,1216,Edward Stream tributary, ,832,187,doco, ,2315012,5687316,13507050,efp,1, , 
+102741,10,2014,Waitaki River,1221029,Edward Stream,711.392,1224,Edward Stream tributary, ,832,187,doco, ,2315025,5687240,13507050,efp,1, , 
+102742,10,2014,Waitaki River,1221029,Edward Stream,711.392,1227,Edward Stream tributary, ,939,187,doco, ,2315038,5687222,13507162,efp,1, , 
+102743,10,2014,Waitaki River,1221029,Edward Stream,711.392,1331,Edward Stream tributary,,888,191,doco,,2315893,5690048,13506514,efp,1,,
+102744,10,2014,Waitaki River,1221029,Edward Stream,711.392,1343,Edward Stream tributary,,888,191,doco,,2315887,5690103,13506514,efp,1,,
+102745,10,2014,Waitaki River,1221029,Edward Stream,711.392,1343,Edward Stream tributary,,888,191,doco,,2315887,5690104,13506514,efp,1,,
+102746,10,2014,Waitaki River,1221029,Edward Stream,711.392,1343,Edward Stream tributary,,888,191,doco,,2315886,5690103,13506514,efp,1,,
+102747,10,2014,Waitaki River,1221029,Edward Stream,711.392,1345,Edward Stream tributary,,888,191,doco,,2315903,5690088,13506514,efp,1,,
+102748,10,2014,Waitaki River,1221029,Edward Stream,711.392,1347,Edward Stream tributary,,888,191,doco,,2315913,5690081,13506514,efp,1,,
+102749,10,2014,Waitaki River,1221029,Edward Stream,711.392,1352,Edward Stream tributary,,888,191,doco,,2315923,5690058,13506514,efp,1,,
+102750,10,2014,Waitaki River,1221029,Edward Stream,711.392,1356,Edward Stream tributary,,888,191,doco,,2315933,5690037,13506514,efp,1,,
+102751,10,2014,Waitaki River,1221029,Edward Stream,711.392,1400,Edward Stream tributary,,888,191,doco,,2315936,5690022,13506514,efp,1,,
+102752,10,2014,Waitaki River,1221029,Edward Stream,711.392,1404,Edward Stream tributary,,888,191,doco,,2315929,5689988,13506514,efp,1,,
+102753,10,2014,Waitaki River,1221029,Edward Stream,711.392,1414,Edward Stream tributary,,888,191,doco,,2315947,5689886,13506514,efp,1,,
+102754,10,2014,Waitaki River,1221029,Edward Stream,711.392,1415,Edward Stream tributary,,888,191,doco,,2315947,5689887,13506514,efp,1,,
+102755,10,2014,Waitaki River,1221029,Edward Stream,711.392,1422,Edward Stream tributary,,888,191,doco,,2316010,5689842,13506514,efp,1,,
+102756,10,2014,Waitaki River,1221029,Edward Stream,711.392,1424,Edward Stream tributary,,888,191,doco,,2316018,5689802,13506514,efp,1,,
+102757,10,2014,Waitaki River,1221029,Edward Stream,711.392,1428,Edward Stream tributary,,888,191,doco,,2316021,5689771,13506514,efp,1,,
+102758,10,2014,Waitaki River,1221029,Edward Stream,711.392,1431,Edward Stream tributary,,888,191,doco,,2316010,5689717,13506514,efp,1,,
+102759,10,2014,Waitaki River,1221029,Edward Stream,711.392,1433,Edward Stream tributary, ,888,191,doco, ,2315999,5689675,13506514,efp,1, , 
+102760,10,2014,Waitaki River,1221029,Edward Stream,711.392,1434,Edward Stream tributary, ,888,191,doco, ,2315996,5689663,13506514,efp,1, , 
+102761,10,2014,Waitaki River,1221029,Edward Stream,711.392,1448,Edward Stream tributary, ,888,191,doco, ,2315988,5689660,13506514,efp,1, , 
+102762,10,2014,Waitaki River,1221029,Edward Stream,711.392,1451,Edward Stream tributary, ,894,191,doco, ,2315967,5689675,13506611,efp,1, , 
+102763,10,2014,Waitaki River,1221029,Edward Stream,711.392,1456,Edward Stream tributary, ,894,191,doco, ,2315954,5689672,13506611,efp,1, , 
+102764,10,2014,Waitaki River,1221029,Edward Stream,711.392,1500,Edward Stream tributary, ,894,191,doco, ,2315953,5689687,13506611,efp,1, , 
+102765,10,2014,Waitaki River,1221029,Edward Stream,711.392,1505,Edward Stream tributary, ,877,191,doco, ,2315909,5689725,13506611,efp,1, , 
+102766,10,2014,Waitaki River,1221029,Edward Stream,711.392,1508,Edward Stream tributary, ,877,191,doco, ,2315876,5689736,13506611,efp,1, , 
+102767,10,2014,Waitaki River,1221029,Edward Stream,711.392,1512,Edward Stream tributary, ,888,191,doco, ,2315849,5689779,13506514,efp,1, , 
+102768,10,2014,Waitaki River,1221029,Edward Stream,711.392,1518,Edward Stream tributary, ,888,191,doco, ,2315851,5689793,13506514,efp,1, , 
+102769,10,2014,Waitaki River,1221029,Edward Stream,711.392,1523,Edward Stream tributary, ,888,191,doco, ,2315870,5689794,13506514,efp,1, , 
+102773,10,2014,Waitaki River,1221029,Edward Stream,711.392,1232,Edward Stream tributary,,888,191,doco,,2315878,5690043,13506514,efp,1,,
+102774,10,2014,Waitaki River,1221029,Edward Stream,711.392,1236,Edward Stream tributary,,888,191,doco,,2315882,5690028,13506514,efp,1,,
+102775,10,2014,Waitaki River,1221029,Edward Stream,711.392,1241,Edward Stream tributary,,888,191,doco,,2315870,5690011,13506514,efp,1,,
+102776,10,2014,Waitaki River,1221029,Edward Stream,711.392,1247,Edward Stream tributary,,888,191,doco,,2315874,5689971,13506514,efp,1,,
+102777,10,2014,Waitaki River,1221029,Edward Stream,711.392,1249,Edward Stream tributary,,888,191,doco,,2315875,5689951,13506514,efp,1,,
+102778,10,2014,Waitaki River,1221029,Edward Stream,711.392,1253,Edward Stream tributary,,888,191,doco,,2315860,5689931,13506514,efp,1,,
+102779,10,2014,Waitaki River,1221029,Edward Stream,711.392,1305,Edward Stream tributary, ,888,191,doco, ,2315858,5689917,13506514,efp,1, , 
+102780,10,2014,Waitaki River,1221029,Edward Stream,711.392,1308,Edward Stream tributary, ,888,191,doco, ,2315857,5689901,13506514,efp,1, , 
+102781,10,2014,Waitaki River,1221029,Edward Stream,711.392,1312,Edward Stream tributary, ,888,191,doco, ,2315857,5689885,13506514,efp,1, , 
+102782,10,2014,Waitaki River,1221029,Edward Stream,711.392,1315,Edward Stream tributary, ,888,191,doco, ,2315864,5689852,13506514,efp,1, , 
+102783,10,2014,Waitaki River,1221029,Edward Stream,711.392,1317,Edward Stream tributary, ,888,191,doco, ,2315863,5689842,13506514,efp,1, , 
+102784,10,2014,Waitaki River,1221029,Edward Stream,711.392,1319,Edward Stream tributary, ,888,191,doco, ,2315870,5689819,13506514,efp,1, , 
+102785,10,2014,Waitaki River,1221029,Edward Stream,711.392,1322,Edward Stream tributary, ,888,191,doco, ,2315872,5689805,13506514,efp,1, , 
+102786,10,2014,Waitaki River,1221029,Edward Stream,711.392,1327,Edward Stream tributary, ,888,191,doco, ,2315876,5689798,13506514,efp,1, , 
+102787,10,2014,Waitaki River,1221029,Edward Stream,711.392,1333,Edward Stream tributary, ,888,191,doco, ,2315857,5689778,13506514,efp,1, , 
+102788,10,2014,Waitaki River,1221029,Edward Stream,711.392,1337,Edward Stream tributary, ,888,191,doco, ,2315848,5689790,13506514,efp,1, , 
+102789,10,2014,Waitaki River,1221029,Edward Stream,711.392,1340,Edward Stream tributary, ,888,191,doco, ,2315837,5689803,13506514,efp,1, , 
+102790,10,2014,Waitaki River,1221029,Edward Stream,711.392,1343,Edward Stream tributary, ,888,191,doco, ,2315820,5689806,13506514,efp,1, , 
+102791,10,2014,Waitaki River,1221029,Edward Stream,711.392,1350,Edward Stream tributary, ,888,191,doco, ,2315817,5689815,13506514,efp,1, , 
+102792,10,2014,Waitaki River,1221029,Edward Stream,711.392,1353,Edward Stream tributary,,888,191,doco,,2315805,5689827,13506514,efp,1,,
+102793,10,2014,Waitaki River,1221029,Edward Stream,711.392,1358,Edward Stream tributary,,888,191,doco,,2315779,5689847,13506514,efp,1,,
+102794,10,2014,Waitaki River,1221029,Edward Stream,711.392,1401,Edward Stream tributary,,888,191,doco,,2315754,5689873,13506514,efp,1,,
+102795,10,2014,Waitaki River,1221029,Edward Stream,711.392,1404,Edward Stream tributary, ,888,191,doco, ,2315800,5689846,13506514,efp,1, , 
+102796,10,2014,Waitaki River,1221029,Edward Stream,711.392,1406,Edward Stream tributary, ,888,191,doco, ,2315802,5689864,13506514,efp,1, , 
+102797,10,2014,Waitaki River,1221029,Edward Stream,711.392,1409,Edward Stream tributary,,888,191,doco,,2315800,5689884,13506514,efp,1,,
+102798,10,2014,Waitaki River,1221029,Edward Stream,711.392,1412,Edward Stream tributary,,888,191,doco,,2315799,5689901,13506514,efp,1,,
+102799,10,2014,Waitaki River,1221029,Edward Stream,711.392,1413,Edward Stream tributary, ,888,191,doco, ,2315803,5689909,13506514,efp,1, , 
+102821,12,2014,Waitaki River,1221029,Edward Stream,711.392,1545,Edward Stream tributary, ,793,185,doco, ,2313823,5684864,13507402,efp,1, , 
+102822,12,2014,Waitaki River,1221029,Edward Stream,711.392,1610,Edward Stream tributary, ,793,185,doco, ,2313847,5684875,13507402,efp,1, , 
+102828,12,2014,Waitaki River,1221029,Edward Stream,711.392,830,Edward Stream tributary, ,793,185,doco, ,2313865,5684884,13507402,efp,1, , 
+102829,12,2014,Waitaki River,1221029,Edward Stream,711.392,845,Edward Stream tributary,,793,185,doco,,2313888,5684908,13507402,efp,1,,
+102830,12,2014,Waitaki River,1221029,Edward Stream,711.392,900,Edward Stream tributary,,793,185,doco,,2313910,5684915,13507402,efp,1,,
+102831,12,2014,Waitaki River,1221029,Edward Stream,711.392,915,Edward Stream, ,793,185,doco, ,2314084,5685352,13507402,efp,1, , 
+102832,12,2014,Waitaki River,1221029,Edward Stream,711.392,925,Edward Stream, ,793,185,doco, ,2314110,5685377,13507402,efp,1, , 
+102833,12,2014,Waitaki River,1221029,Edward Stream,711.392,935,Edward Stream tributary, ,793,185,doco, ,2314019,5685296,13507402,efp,1, , 
+102834,12,2014,Waitaki River,1221029,Edward Stream,711.392,940,Edward Stream tributary,,793,185,doco,,2314020,5685301,13507402,efp,1,,
+102835,12,2014,Waitaki River,1221029,Edward Stream,711.392,950,Edward Stream tributary,,793,185,doco,,2314061,5685328,13507402,efp,1,,
+102836,12,2014,Waitaki River,1221029,Edward Stream,711.392,1050,Edward Stream tributary, ,716,179,doco, ,2310819,5681911,13507838,efp,1, , 
+102837,12,2014,Waitaki River,1221029,Edward Stream,711.392,1100,Edward Stream tributary, ,716,179,doco, ,2310879,5681933,13507838,efp,1, , 
+102838,12,2014,Waitaki River,1221029,Edward Stream,711.392,1110,Edward Stream tributary,,716,179,doco,,2310930,5681991,13507838,efp,1,,
+102839,12,2014,Waitaki River,1221029,Edward Stream,711.392,1130,Edward Stream tributary,,716,179,doco,,2311144,5681958,13507838,efp,1,,
+102840,12,2014,Waitaki River,1221029,Edward Stream,711.392,1145,Edward Stream tributary,,716,179,doco,,2311124,5681913,13507838,efp,1,,
+102843,12,2014,Waitaki River,1221029,Edward Stream,711.392,1420,Edward Stream tributary, ,716,179,doco, ,2310672,5681496,13507838,efp,1, , 
+102844,12,2014,Waitaki River,1221029,Edward Stream,711.392,1435,Edward Stream tributary, ,716,179,doco, ,2310676,5681479,13507838,efp,1, , 
+102849,12,2014,Waitaki River,1221029,Edward Stream,711.392,1600,Edward Stream tributary,,793,185,doco,,2313947,5685267,13507402,efp,1,,
+102850,12,2014,Waitaki River,1221029,Edward Stream,711.392,1640,Edward Stream tributary,,793,185,doco,,2313887,5685178,13507402,efp,1,,
+102851,12,2014,Waitaki River,1221029,Edward Stream,711.392,1655,Edward Stream tributary,,793,185,doco,,2313895,5685110,13507402,efp,1,,
+102852,12,2014,Waitaki River,1221029,Edward Stream,711.392,1710,Edward Stream, ,793,185,doco, ,2313934,5685085,13507402,efp,1, , 
+102853,12,2014,Waitaki River,1221029,Edward Stream,711.392,1720,Edward Stream, ,793,185,doco, ,2313988,5685169,13507402,efp,1, , 
+102854,12,2014,Waitaki River,1221029,Edward Stream,711.392,1755,Edward Stream tributary, ,838,186,doco, ,2314259,5685725,13507219,efp,1, , 
+102855,12,2014,Waitaki River,1221029,Edward Stream,711.392,1820,Edward Stream tributary,,819,186,doco,,2314251,5685658,13507357,efp,1,,
+102856,12,2014,Waitaki River,1221029,Edward Stream,711.392,1840,Edward Stream tributary, ,819,186,doco, ,2314198,5685561,13507357,efp,1, , 
+102857,12,2014,Waitaki River,1221029,Edward Stream,711.392,1900,Edward Stream tributary,,819,186,doco,,2314376,5685676,13507357,efp,1,,
+102858,12,2014,Waitaki River,1221029,Edward Stream,711.392,1925,Edward Stream, ,819,186,doco, ,2314395,5685750,13507357,efp,1, , 
+102859,12,2014,Waitaki River,1221029,Edward Stream,711.392,1940,Edward Stream tributary, ,820,186,doco, ,2314212,5685434,13507383,efp,1, , 
+102860,12,2014,Waitaki River,1221029,Edward Stream,711.392,745,Edward Stream tributary, ,820,186,doco, ,2314231,5685455,13507383,efp,1, , 
+102861,12,2014,Waitaki River,1221029,Edward Stream,711.392,800,Edward Stream tributary,,820,186,doco,,2314205,5685441,13507383,efp,1,,
+102862,12,2014,Waitaki River,1221029,Edward Stream,711.392,830,Edward Stream tributary,,820,186,doco,,2314262,5685488,13507383,efp,1,,
+102863,12,2014,Waitaki River,1221029,Edward Stream,711.392,845,Edward Stream tributary, ,820,186,doco, ,2314415,5685546,13507383,efp,1, , 
+102864,12,2014,Waitaki River,1221029,Edward Stream,711.392,940,Edward Stream tributary, ,787,185,doco, ,2313828,5685341,13507295,efp,1, , 
+102865,12,2014,Waitaki River,1221029,Edward Stream,711.392,950,Edward Stream tributary,,787,185,doco,,2313848,5685247,13507295,efp,1,,
+102866,12,2014,Waitaki River,1221029,Edward Stream,711.392,1000,Edward Stream tributary,,787,185,doco,,2313824,5685116,13507295,efp,1,,
+102867,12,2014,Waitaki River,1221029,Edward Stream,711.392,1010,Edward Stream tributary,,787,185,doco,,2313789,5685089,13507295,efp,1,,
+102868,12,2014,Waitaki River,1221029,Edward Stream,711.392,1020,Edward Stream tributary, ,787,185,doco, ,2313603,5684993,13507295,efp,1, , 
+102869,12,2014,Waitaki River,1221029,Edward Stream,711.392,1045,Edward Stream tributary,,787,185,doco,,2313584,5684934,13507295,efp,1,,
+102870,12,2014,Waitaki River,1221029,Edward Stream,711.392,1100,Edward Stream tributary, ,787,185,doco, ,2313654,5685060,13507295,efp,1, , 
+102871,12,2014,Waitaki River,1221029,Edward Stream,711.392,1110,Edward Stream tributary, ,787,185,doco, ,2313696,5685326,13507295,efp,1, , 
+102872,12,2014,Waitaki River,1221029,Edward Stream,711.392,1120,Edward Stream, ,839,184,doco, ,2313610,5684890,13507506,efp,1, , 
+102873,12,2014,Waitaki River,1221029,Edward Stream,711.392,1130,Edward Stream, ,839,184,doco, ,2313649,5684911,13507506,efp,1, , 
+102883,12,2014,Waitaki River,1221029,Edward Stream,711.392,1320,Edward Stream tributary, ,715,179,doco, ,2311494,5681498,13507930,efp,1, , 
+102884,12,2014,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream tributary, ,715,179,doco, ,2311444,5681457,13507930,efp,1, , 
+102885,12,2014,Waitaki River,1221029,Edward Stream,711.392,1330,Edward Stream tributary,,715,179,doco,,2311391,5681447,13507930,efp,1,,
+102886,12,2014,Waitaki River,1221029,Edward Stream,711.392,,Edward Stream tributary,,715,179,doco,,2311311,5681415,13507930,efp,1,,
+102887,12,2014,Waitaki River,1221029,Edward Stream,711.392,,Edward Stream tributary,,718,179,doco,,2310840,5680565,13507930,efp,1,,
+102888,12,2014,Waitaki River,1221029,Edward Stream,711.392,1355,Edward Stream tributary, ,718,179,doco, ,2310875,5680581,13507930,efp,1, , 
+102889,12,2014,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream tributary, ,718,179,doco, ,2310895,5680594,13507930,efp,1, , 
+102890,12,2014,Waitaki River,1221029,Edward Stream,711.392,1405,Edward Stream tributary, ,718,179,doco, ,2311034,5680673,13507930,efp,1, , 
+102891,12,2014,Waitaki River,1221029,Edward Stream,711.392,1415,Edward Stream tributary, ,718,179,doco, ,2310941,5680598,13507930,efp,1, , 
+102892,12,2014,Waitaki River,1221029,Edward Stream,711.392,1420,Edward Stream tributary, ,718,179,doco, ,2310901,5680604,13507930,efp,1, , 
+102893,12,2014,Waitaki River,1221029,Edward Stream,711.392,1435,Edward Stream tributary, ,718,179,doco, ,2310940,5680653,13507930,efp,1, , 
+102894,12,2014,Waitaki River,1221029,Edward Stream,711.392,1450,Edward Stream tributary, ,718,179,doco, ,2310774,5680501,13507930,efp,1, , 
+102895,12,2014,Waitaki River,1221029,Edward Stream,711.392,1505,Edward Stream tributary,,718,179,doco,,2310697,5680507,13507930,efp,1,,
+102896,12,2014,Waitaki River,1221029,Edward Stream,711.392,1520,Edward Stream tributary, ,718,179,doco, ,2310635,5680519,13507930,efp,1, , 
+102897,12,2014,Waitaki River,1221029,Edward Stream,711.392,1535,Edward Stream tributary,,718,179,doco,,2310629,5680667,13507930,efp,1,,
+102898,12,2014,Waitaki River,1221029,Edward Stream,711.392,1540,Edward Stream tributary,,718,179,doco,,2310658,5680704,13507930,efp,1,,
+102899,12,2014,Waitaki River,1221029,Edward Stream,711.392,1615,Edward Stream tributary,,704,179,doco,,2310648,5680717,13508062,efp,1,,
+102900,12,2014,Waitaki River,1221029,Edward Stream,711.392,1620,Edward Stream tributary, ,704,179,doco, ,2310677,5680759,13508062,efp,1, , 
+102901,12,2014,Waitaki River,1221029,Edward Stream,711.392,1630,Edward Stream tributary,,704,179,doco,,2310709,5680788,13508062,efp,1,,
+102902,12,2014,Waitaki River,1221029,Edward Stream,711.392,1635,Edward Stream tributary,,704,179,doco,,2310730,5680792,13508062,efp,1,,
+102903,12,2014,Waitaki River,1221029,Edward Stream,711.392,1640,Edward Stream tributary,,704,179,doco,,2310749,5680771,13508062,efp,1,,
+102904,12,2014,Waitaki River,1221029,Edward Stream,711.392,1655,Edward Stream tributary,,704,179,doco,,2310676,5680779,13508062,efp,1,,
+102905,12,2014,Waitaki River,1221029,Edward Stream,711.392,1700,Edward Stream tributary,,704,179,doco,,2310669,5680814,13508062,efp,1,,
+102906,12,2014,Waitaki River,1221029,Edward Stream,711.392,1710,Edward Stream tributary,,704,179,doco,,2310694,5680848,13508062,efp,1,,
+102907,12,2014,Waitaki River,1221029,Edward Stream,711.392,1715,Edward Stream tributary,,704,179,doco,,2310686,5680932,13508062,efp,1,,
+102908,12,2014,Waitaki River,1221029,Edward Stream,711.392,1725,Edward Stream tributary,,704,179,doco,,2310667,5680818,13508062,efp,1,,
+102909,12,2014,Waitaki River,1221029,Edward Stream,711.392,1730,Edward Stream tributary,,704,179,doco,,2310660,5680860,13508062,efp,1,,
+102910,12,2014,Waitaki River,1221029,Edward Stream,711.392,1740,Edward Stream tributary,,715,179,doco,,2310678,5680959,13507930,efp,1,,
+102923,12,2014,Waitaki River,1221029,Edward Stream,711.392,935,Edward Stream tributary, ,715,179,doco, ,2310818,5681043,13507930,efp,1, , 
+102924,12,2014,Waitaki River,1221029,Edward Stream,711.392,945,Edward Stream tributary,,715,179,doco,,2310690,5681032,13507930,efp,1,,
+102925,12,2014,Waitaki River,1221029,Edward Stream,711.392,1010,Edward Stream tributary,,704,179,doco,,2310642,5680708,13508062,efp,1,,
+102926,12,2014,Waitaki River,1221029,Edward Stream,711.392,1020,Edward Stream tributary,,703,178,doco,,2310562,5680702,13508067,efp,1,,
+102927,12,2014,Waitaki River,1221029,Edward Stream,711.392,1050,Edward Stream tributary, ,703,178,doco, ,2310488,5680651,13508067,efp,1, , 
+102928,12,2014,Waitaki River,1221029,Edward Stream,711.392,1100,Edward Stream tributary,,703,178,doco,,2310416,5680591,13508067,efp,1,,
+102929,12,2014,Waitaki River,1221029,Edward Stream,711.392,1105,Edward Stream, ,703,178,doco, ,2310417,5680641,13508067,efp,1, , 
+102930,12,2014,Waitaki River,1221029,Edward Stream,711.392,1120,Edward Stream,,703,178,doco,,2310362,5680570,13508066,efp,1,,
+102931,12,2014,Waitaki River,1221029,Edward Stream,711.392,1130,Edward Stream,,688,176,doco,,2310347,5680521,13508096,efp,1,,
+102932,12,2014,Waitaki River,1221029,Edward Stream,711.392,1150,Edward Stream, ,703,178,doco, ,2310394,5680561,13508066,efp,1, , 
+102957,12,2014,Waitaki River,1221029,Edward Stream,711.392,725,Edward Stream tributary, ,706,179,doco, ,2310644,5680352,13508076,efp,1, , 
+102958,12,2014,Waitaki River,1221029,Edward Stream,711.392,735,Edward Stream tributary, ,706,179,doco, ,2310623,5680329,13508076,efp,1, , 
+102963,12,2014,Waitaki River,1221029,Edward Stream,711.392,1000,Edward Stream tributary, ,668,174,doco, ,2308563,5679129,13508266,efp,1, , 
+102964,12,2014,Waitaki River,1221029,Edward Stream,711.392,1015,Edward Stream tributary, ,668,174,doco, ,2308552,5679263,13508266,efp,1, , 
+102965,12,2014,Waitaki River,1221029,Edward Stream,711.392,1020,Edward Stream tributary, ,668,174,doco, ,2308569,5679328,13508266,efp,1, , 
+102966,12,2014,Waitaki River,1221029,Edward Stream,711.392,1025,Edward Stream tributary,,668,174,doco,,2308592,5679358,13508266,efp,1,,
+102967,12,2014,Waitaki River,1221029,Edward Stream,711.392,1030,Edward Stream tributary, ,668,174,doco, ,2308607,5679376,13508266,efp,1, , 
+102968,12,2014,Waitaki River,1221029,Edward Stream,711.392,1045,Edward Stream tributary,,668,174,doco,,2308200,5678536,13508266,efp,1,,
+102969,12,2014,Waitaki River,1221029,Edward Stream,711.392,1055,Edward Stream tributary,,668,174,doco,,2307835,5677840,13508266,efp,1,,
+104082,8,2014,Waitaki River,1221029,Edward Stream,711.392,,Edward Stream tributary,,896,191,uoo,I37,2315620,5689910,13506426,efp,1,,100
+104086,9,2014,Waitaki River,1221023,Fraser Stream,711.371, ,Fraser Stream, ,503,144,uoo,H38,2274125,5660830,13511178,efp,1, ,100
+104167,12,2014,Waitaki River,1221029,Edward Stream,711.392,,Edward Stream tributary,,877,191,doco,I37,2316041,5689669,13506611,efp,1,,
+104168,12,2014,Waitaki River,1221029,Edward Stream,711.392,,Edward Stream tributary,,877,191,doco,I37,2316029,5689646,13506611,efp,1,,
+104169,12,2014,Waitaki River,1221029,Edward Stream,711.392,,Edward Stream tributary,,877,191,doco,I37,2316025,5689618,13506611,efp,1,,
+104170,12,2014,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream tributary, ,877,191,doco,i37,2315969,5689516,13506611,efp,1, ,0
+109816,12,2014,Waitaki River,1221023,Fraser Stream,711.371,1601,Fraser Stream tributary,,520,148,doco,H38,2273670,5660930,13511111,efp,,,
+109832,12,2014,Waitaki River,1221023,Fraser Stream,711.371,1600,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+102267,1,2015,Waitaki River,1221010,Ahuriri River tributary 3,711.31,1030,Willow Burn trib,,480,131,crc,H39,2269966,5636979,13515726,tfb,,,2
+102268,1,2015,Waitaki River,1221010,Ahuriri River tributary 3,711.31,1130,Willow Burn trib,,480,131,crc,H39,2270141,5636791,13515835,tfb,,,2
+102726,5,2015,Waitaki River,1221020,Lake Poaka tributary,711,1400,Waterwheel wetland below spring head, , , ,doco,J41,2277465,5663088, ,efp, , , 
+102727,5,2015,Waitaki River,1221020,Lake Poaka tributary,711.371,1500,Waterwheel wetland at spring head,,516,147,doco,H39,2277421,5663081,13510813,efp,,,45
+102728,5,2015,Waitaki River,1221020,Lake Poaka tributary,711.371,1530,Waterwheel wetland,,516,147,doco,H39,2277455,5663041,13510813,efp,,,
+102729,5,2015,Waitaki River,1221020,Lake Poaka tributary,711.371,1345,Waterwheel wetland,,516,147,doco,H39,2277438,5663056,13510813,efp,,,
+102730,5,2015,Waitaki River,1221020,Lake Poaka tributary,711.371,1600,Waterwheel wetland, ,516,147,doco,H39,2277572,5663141,13510813,efp, , , 
+102732,5,2015,Waitaki River,1221020,Lake Poaka tributary,711.371,1330,Waterwheel wetland, ,516,147,doco,H39,2277473,5663022,13510813,efp, , , 
+102733,5,2015,Waitaki River,1221020,Lake Poaka tributary,711.371,1345,Waterwheel wetland, ,516,147,doco,H39,2277597,5663145,13510813,efp, , , 
+102734,5,2015,Waitaki River,1221020,Lake Poaka tributary,711.371, ,Waterwheel wetland, ,516,147,doco,H39,2277554,5663148,13510813,efp, , , 
+102735,5,2015,Waitaki River,1221020,Lake Poaka tributary,711.371, ,Waterwheel springhead, ,516,147,doco,H39,2277556,5663169,13510813,efp, , , 
+102737,5,2015,Waitaki River,1221020,Lake Poaka tributary,711.371,1600,Waterwheel wetland, ,516,147,doco,H39,2277597,5663145,13510813,efp, , , 
+102738,5,2015,Waitaki River,1221020,Lake Poaka tributary,711.371,1600,Waterwheel wetland, ,516,147,doco,H39,2277584,5663156,13510813,efp, , , 
+102802,5,2015,Waitaki River,1221017,Unnamed stream Lake Benmore,711,1200,Lake Benmore unnamed tributary, ,373,125,doco,J41,2289812,5649316,13513229,efp, , , 
+102803,5,2015,Waitaki River,1221017,Unnamed stream Lake Benmore,711,1215,Lake Benmore unnamed tributary, ,373,125,doco,J41,2289809,5649271,13513229,efp, , , 
+102804,5,2015,Waitaki River,1221017,Unnamed stream Lake Benmore,711, ,Lake Benmore unnamed tributary, ,373,125,doco,J41,2289747,5649059,13513229,efp, , , 
+102805,5,2015,Waitaki River,1221017,Unnamed stream Lake Benmore,711, ,Lake Benmore unnamed tributary, ,373,125,doco,J41,2289691,5648959,13513229,efp, , , 
+102806,5,2015,Waitaki River,1221017,Unnamed stream Lake Benmore,711,,Lake Benmore unnamed tributary,,373,125,doco,J41,2289654,5648831,13513229,efp,,,85
+102807,5,2015,Waitaki River,1221017,Unnamed stream Lake Benmore,711,1545,Lake Benmore unnamed tributary,,0,0,doco,J41,2289014,5648455,,efp,,,122.5
+102808,5,2015,Waitaki River,1221017,Unnamed stream Lake Benmore,711,1600,Lake Benmore unnamed tributary, , , ,doco,J41,2289052,5648390, ,efp, , , 
+102809,5,2015,Waitaki River,1221017,Unnamed stream Lake Benmore,711,1610,Lake Benmore unnamed tributary, , , ,doco,J41,2289082,5648369, ,efp, , , 
+102810,5,2015,Waitaki River,1221017,Unnamed stream Lake Benmore,711,1615,Lake Benmore unnamed tributary, , , ,doco,J41,2289072,5648284, ,efp, , , 
+103054,7,2015,Waitaki River,1221010,Ahuriri River tributary 3,711.31,,Willowburn tributary,,0,0,crc,H39,2268749,5634514,,tfb,,,1
+103055,7,2015,Waitaki River,1221004,Ahuriri River tributary 1,711.31,,Sutherlands Creek tributary,,355,118,crc,H39,2277288,5631785,13516943,tfb,,,1
+103056,7,2015,Waitaki River,1221010,Ahuriri River tributary 3,711.31,,Willowburn tributary,,480,131,crc,H39,2269955,5636820,13515726,tfb,,,1
+103057,7,2015,Waitaki River,1221010,Ahuriri River tributary 3,711.31,,Willowburn tributary,,480,131,crc,H39,2269955,5636820,13515726,tfb,,,1
+103058,7,2015,Waitaki River,1221010,Ahuriri River tributary 3,711.31,,Willowburn tributary,,480,131,crc,H39,2269903,5636994,13515726,tfb,,,1
+104356,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31, ,Ahuriri River tributary, ,427,122,unk,h39,2274403,5632607,13516746,efm, , , 
+104357,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31, ,Ahuriri River tributary, ,427,122,unk,h39,2274251,5632537,13516746,efm, , , 
+104358,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31, ,Ahuriri River tributary, ,427,122,unk,h39,2274164,5632540,13516746,efm, , , 
+104359,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31, ,Ahuriri River tributary, ,427,122,unk,h39,2274110,5632518,13516746,efm, , , 
+104360,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1100,Ahuriri River tributary, ,427,122,unk,H39,2274075,5632506,13516746,efm, , , 
+104361,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31, ,Ahuriri River tributary, ,427,122,unk,h39,2273959,5632479,13516746,efm, , , 
+104362,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River tributary,,427,122,unk,H39,2274026,5632479,13516746,efm,,,15
+104363,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31, ,Ahuriri River tributary, ,427,122,unk,h39,2273940,5632467,13516746,vbd, , , 
+104364,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River tributary,,427,122,unk,H39,2273794,5632381,13516746,efm,,,1500
+104365,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River tributary,,427,122,unk,H39,2273729,5632333,13516746,efm,,,60
+104366,12,2015,Waitaki River,1221023,Fraser Stream,711.371,1500,Fraser Stream, ,519,147,unk,h38,2273677,5660923,13511159,efm, , , 
+104367,12,2015,Waitaki River,1221023,Fraser Stream,711.371,1530,Fraser Stream, ,519,148,unk,h38,2273626,5660917,13511137,efm, , , 
+104368,12,2015,Waitaki River,1221023,Fraser Stream,711.371,1550,Fraser Stream tributary,,520,148,unk,H38,2273652,5660955,13511111,efm,,,20
+104505,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272413,5632289,13516827,efp,,,
+104506,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272428,5632284,13516827,efp,,,
+104507,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272445,5632280,13516827,efp,,,
+104508,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272452,5632280,13516827,efp,,,
+104509,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272462,5632279,13516827,efp,,,
+104510,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272470,5632278,13516827,efp,,,
+104511,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272496,5632282,13516827,efp,,,
+104512,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272501,5632279,13516827,efp,,,
+104519,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272514,5632271,13516827,efp,,,
+104520,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272546,5632258,13516827,efp,,,
+104521,12,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272562,5632256,13516827,efp,,,
+106305,9,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1130,Ahuriri River tributary,,396,123,doco,H39,2272573,5632237,13516827,efp,,,90
+106319,9,2015,Waitaki River,1221005,Ahuriri River tributary 2,711.31,1215,Ahuriri River tributary,,396,123,doco,H39,2272481,5632277,13516827,efp,,,9
+109820,11,2015,Waitaki River,1221023,Fraser Stream,711.371,1400,Fraser Stream tributary,,520,148,doco,H38,2273670,5660930,13511111,efp,,,
+109833,12,2015,Waitaki River,1221023,Fraser Stream,711.371,1500,Fraser Stream tributary,,520,148,doco,H38,2273640,5661066,13511111,efp,,,
+104522,1,2016,Waitaki River,1221005,Ahuriri River tributary 2,711.31,,Ahuriri River,,396,123,doco,H39,2272568,5632248,13516827,efp,,,
+106028,2,2016,Waitaki River,1221021,Twizel River,711.371, ,Twizel River, ,591,149,ecan,H38,2275631,5668169,13509666,efp, , ,5
+106111,2,2016,Waitaki River,1221012,Hen Burn tributary,711.316,,Hen Burn tributary,,514,138,ecan,H39,2261005,5634621,13516266,nte,,,8
+106113,2,2016,Waitaki River,1221012,Hen Burn tributary,711.316,,Hen Burn tributary,,502,138,ecan,H39,2261063,5635006,13516154,efp,,,1
+106115,2,2016,Waitaki River,1221012,Hen Burn tributary,711.316, ,Hen Burn tributary, ,514,138,ecan,H39,2261055,5634561,13516266,efp, , ,5
+106116,2,2016,Waitaki River,1221012,Hen Burn tributary,711.316, ,Hen Burn tributary, ,496,136,ecan,H39,2261120,5634589,13516154,efp, , ,10
+106117,2,2016,Waitaki River,1221011,Ahuriri River tributary 4,711.315,,Quail Burn tributary,,510,132,ecan,H39,2265526,5634559,13515987,efp,,,5
+106118,2,2016,Waitaki River,1221012,Hen Burn tributary,711.316,,Hen Burn tributary,,499,138,ecan,H39,2261058,5634888,13516154,efp,,,5
+106119,2,2016,Waitaki River,1221010,Ahuriri River tributary 3,711.31,,Ahuriri River tributary,,428,128,ecan,H39,2266990,5634844,13515828,gmt,,,1
+106121,2,2016,Waitaki River,1221006,Omarara Stream tributary 1,711.314,,Omarama Stream tributary,,434,131,ecan,H39,2267438,5630073,13517150,gmt,,,2
+106122,2,2016,Waitaki River,1221024,Mary Burn lower,711.391,,Mary Burn,,512,151,ecan,I38,2296426,5665600,13510352,efp,,,5
+106123,2,2016,Waitaki River,1221024,Mary Burn lower,711.391,,Mary Burn,,507,150,ecan,I38,2296355,5665431,13510393,efp,,,5
+106124,2,2016,Waitaki River,1221024,Mary Burn lower,711.391,,Irishman Creek tributary,,498,151,ecan,I38,2297227,5664581,13510523,efp,,,5
+106126,2,2016,Waitaki River,1221008,Omarara Stream tributary 3,711.314,,Omarama Stream tributary,,487,143,ecan,H39,2259641,5623929,13518381,efp,,,3
+106127,2,2016,Waitaki River,1221008,Omarara Stream tributary 3,711.314, ,Omarama Stream tributary, ,493,143,ecan,H39,2259737,5623932,13518381,efp, , ,2
+106128,2,2016,Waitaki River,1221010,Ahuriri River tributary 3,711.313,,Glen Creek tributary,,447,132,ecan,H39,2269877,5637666,13515231,gmt,,,1
+106129,2,2016,Waitaki River,1221010,Ahuriri River tributary 3,711.313, ,Glen Creek tributary, ,447,132,ecan,H39,2270104,5638016,13515231,gmt, , ,1
+106130,2,2016,Waitaki River,1221010,Ahuriri River tributary 3,711.313,,Glen Creek tributary,,0,0,ecan,H39,2270115,5638166,,gmt,,,1
+106136,2,2016,Waitaki River,1221021,Twizel River,711.371, ,Twizel River, ,591,149,ecan,H38,2276049,5667176,13509666,efp, , ,5
+106137,2,2016,Waitaki River,1221021,Twizel River,711.371, ,Twizel River, ,591,149,ecan,H38,2275946,5667812,13509666,efp, , ,5
+106138,2,2016,Waitaki River,1221021,Twizel River,711.371, ,Twizel River, ,591,149,ecan,H38,2276111,5667535,13509666,efp, , ,3
+106139,2,2016,Waitaki River,1221021,Twizel River,711.371, ,Twizel River, ,591,149,ecan,H38,2276096,5667464,13509666,efp, , ,5
+106143,2,2016,Waitaki River,1221012,Hen Burn tributary,711.316, ,Hen Burn tributary, ,496,136,ecan,H39,2261417,5634485,13516154,efp, , ,3
+106144,2,2016,Waitaki River,1221012,Hen Burn tributary,711.316, ,Hen Burn tributary, ,496,136,ecan,H39,2261501,5634323,13516154,efp, , ,5
+106145,2,2016,Waitaki River,1221027,Irishman Creek,711.391, ,Irishman Creek tributary, ,872,184,ecan,I37,2294662,5689720,13506564,efp, , ,5
+106146,2,2016,Waitaki River,1221027,Irishman Creek,711.391, ,Irishman Creek tributary, ,821,183,ecan,I37,2295510,5689268,13506393,efp, , ,4
+106147,2,2016,Waitaki River,1221027,Irishman Creek,711.391,,Irishman Creek tributary,,844,183,ecan,I37,2295338,5689536,13506631,efp,,,5
+106149,2,2016,Waitaki River,1221030,Fork Stream tributary,711.393,,Fork Stream tributary,,907,191,ecan,I37,2300225,5695375,13505665,efp,,,1
+106153,2,2016,Waitaki River,1221027,Irishman Creek,711.391,,Irishman Creek tributary,,891,185,ecan,I37,2296184,5693229,13506055,efp,,,1
+106154,2,2016,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,979,196,ecan,I37,2297223,5698814,13505223,efp,,,22
+106155,2,2016,Waitaki River,1221028,Grays River,711.392,,Grays River tributary,,535,163,ecan,I38,2309245,5664956,13510290,efp,,,3
+106156,2,2016,Waitaki River,1221028,Grays River,711.392,,Grays River tributary,,519,159,ecan,I38,2306431,5662788,13510755,efp,,,5
+106158,2,2016,Waitaki River,1221027,Irishman Creek,711.391, ,Irishman Creek tributary, ,920,187,ecan,I37,2295704,5693452,13505909,efp, , ,5
+106159,2,2016,Waitaki River,1221027,Irishman Creek,711.391, ,Irishman Creek, ,879,184,ecan,I37,2295718,5693371,13506004,efp, , ,3
+106162,2,2016,Waitaki River,1221028,Grays River,711.392,,Edward Stream tributary,,519,159,ecan,I38,2306494,5662821,13510755,efp,,,3
+106163,2,2016,Waitaki River,1221028,Grays River,711.392,,Edward Stream tributary,,511,157,ecan,I38,2305924,5662122,13510957,efp,,,5
+106164,2,2016,Waitaki River,1221028,Grays River,711.392,,Edward Stream tributary,,511,157,ecan,I38,2305939,5662079,13510957,efp,,,3
+106165,2,2016,Waitaki River,1221028,Grays River,711.392,,Edward Stream tributary,,512,157,ecan,I38,2305551,5662221,13510979,efp,,,8
+106168,2,2016,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream,,1006,199,ecan,I37,2296756,5700270,13504934,han,,,5
+106170,2,2016,Waitaki River,1221031,Fork Stream,711.393,,Fork Stream tributary,,986,197,ecan,I37,2297199,5698843,13505084,efp,,,5
+106358,5,2016,Waitaki River,1221001,Hakataramea River tributary,711.14,1600,Hakataramea River tributary, ,258,72,doco,I40,2315828,5610352,13520534,efp, , , 
+107247,3,2016,Waitaki River,1221029,Edward Stream,711.392,2205,Edward Stream tributary, ,877,191,doco,I38,2316037,5689655,13506611,efp, , , 
+107248,3,2016,Waitaki River,1221029,Edward Stream,711.392,2205,Edward Stream tributary, ,877,191,doco,I38,2316027,5689646,13506611,efp, , , 
+107249,3,2016,Waitaki River,1221029,Edward Stream,711.392,2207,Edward Stream tributary, ,877,191,doco,I38,2316022,5689635,13506611,efp, , , 
+107250,3,2016,Waitaki River,1221029,Edward Stream,711.392,2207,Edward Stream tributary, ,877,191,doco,I38,2316027,5689627,13506611,efp, , , 
+107251,3,2016,Waitaki River,1221029,Edward Stream,711.392,2222,Edward Stream, ,866,189,doco,I38,2315942,5689475,13506654,efp, , , 
+107252,3,2016,Waitaki River,1221029,Edward Stream,711.392,2222,Edward Stream, ,866,189,doco,I38,2315950,5689478,13506654,efp, , , 
+107253,3,2016,Waitaki River,1221029,Edward Stream,711.392,2232,Edward Stream, ,866,189,doco,I38,2315960,5689493,13506654,efp, , , 
+107254,3,2016,Waitaki River,1221029,Edward Stream,711.392,2243,Edward Stream, ,894,191,doco,I38,2315976,5689513,13506611,efp, , , 
+107255,3,2016,Waitaki River,1221029,Edward Stream,711.392,2249,Edward Stream, ,894,191,doco,I38,2315990,5689527,13506611,efp, , , 
+107256,3,2016,Waitaki River,1221029,Edward Stream,711.392,2255,Edward Stream, ,894,191,doco,I38,2316004,5689537,13506611,efp, , , 
+107257,3,2016,Waitaki River,1221029,Edward Stream,711.392,2259,Edward Stream, ,894,191,doco,I38,2316008,5689539,13506611,efp, , , 
+107258,3,2016,Waitaki River,1221029,Edward Stream,711.392,25,Edward Stream tributary, ,877,191,doco,I38,2316014,5689605,13506611,efp, , , 
+107259,3,2016,Waitaki River,1221029,Edward Stream,711.392,26,Edward Stream tributary, ,877,191,doco,I38,2316018,5689603,13506611,efp, , , 
+107260,3,2016,Waitaki River,1221029,Edward Stream,711.392,44,Edward Stream tributary, ,877,191,doco,I38,2315997,5689640,13506611,efp, , , 
+107261,3,2016,Waitaki River,1221029,Edward Stream,711.392,107,Edward Stream tributary, ,877,191,doco,I38,2315961,5689686,13506611,efp, , , 
+107262,3,2016,Waitaki River,1221029,Edward Stream,711.392,117,Edward Stream tributary, ,877,191,doco,I38,2315959,5689661,13506611,efp, , , 
+107263,3,2016,Waitaki River,1221029,Edward Stream,711.392,123,Edward Stream tributary, ,877,191,doco,I38,2315957,5689673,13506611,efp, , , 
+107264,3,2016,Waitaki River,1221029,Edward Stream,711.392,131,Edward Stream tributary, ,877,191,doco,I38,2315958,5689668,13506611,efp, , , 
+107265,3,2016,Waitaki River,1221029,Edward Stream,711.392,142,Edward Stream tributary, ,877,191,doco,I38,2315951,5689680,13506611,efp, , , 
+107266,3,2016,Waitaki River,1221029,Edward Stream,711.392,149,Edward Stream tributary, ,877,191,doco,I38,2315949,5689698,13506611,efp, , , 
+107267,3,2016,Waitaki River,1221029,Edward Stream,711.392,217,Edward Stream tributary,,877,191,doco,I38,2315911,5689693,13506611,efp,,,
+110611,3,2017,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River tributary, ,807,131,doco,H39,2271090,5613217,13520178,efp, , , 
+110612,3,2017,Waitaki River,1221003,Otamatapaio River,711.311,,Otamatapaio River tributary,,807,131,doco,H39,2271100,5613236,13520178,efp,,,
+110613,3,2017,Waitaki River,1221003,Otamatapaio River,711.311,,Otamatapaio River tributary,,783,131,doco,H39,2271079,5613422,13520134,efp,,,
+110614,3,2017,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River tributary, ,848,130,doco,H39,2271078,5614326,13520065,efp, , , 
+110615,3,2017,Waitaki River,1221003,Otamatapaio River,711.311,,Otamatapaio River tributary,,848,130,doco,H39,2271044,5614210,13520065,efp,,,
+110616,3,2017,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River tributary, ,848,130,doco,H39,2271034,5614236,13520065,efp, , , 
+110617,3,2017,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River tributary, ,848,130,doco,H39,2271048,5614253,13520065,efp, , , 
+110618,3,2017,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River tributary, ,1104,133,doco,H39,2271240,5611510,13520430,vbd, , , 
+110619,3,2017,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River, ,877,133,doco,H39,2271255,5611532,13520414,vbd, , , 
+110620,3,2017,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River tributary, ,855,132,doco,H39,2270990,5612422,13520338,efp, , , 
+110621,3,2017,Waitaki River,1221003,Otamatapaio River,711.311, ,Otamatapaio River tributary, ,855,132,doco,H39,2270813,5612375,13520338,efp, , , 
+110774,3,2017,Waitaki River,1221009,Ahuriri River 1,711.31,1600,Ahuriri River,,420,128,docc,H39,2267498,5633977,13516360,efp,,,40
+110775,3,2017,Waitaki River,1221009,Ahuriri River 1,711.31,1330,Ahuriri River,,420,128,docc,H39,2268166,5633875,13516360,efp,,,
+110823,3,2017,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream tributary, ,888,191,doco,I38,2315573,5690709,13506514,efp, , , 
+110824,3,2017,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream tributary, ,888,191,doco,I38,2315598,5690663,13506514,efp, , , 
+110825,3,2017,Waitaki River,1221029,Edward Stream,711.392,,Edward Stream tributary,,888,191,doco,I38,2315633,5690655,13506514,efp,,,
+110826,3,2017,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream tributary, ,888,191,doco,I38,2315571,5690775,13506514,efp, , , 
+110827,3,2017,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream tributary, ,888,191,doco,I38,2315577,5690828,13506514,efp, , , 
+110828,3,2017,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream, ,957,192,doco,I38,2315517,5690869,13506284,efp, , , 
+110829,3,2017,Waitaki River,1221029,Edward Stream,711.392, ,Edward Stream, ,957,192,doco,I38,2315524,5690923,13506284,vbd, , , 
+110830,3,2017,Waitaki River,1221029,Edward Stream,711.392,445,Edward Stream tributary, ,928,193,doco,I38,2315439,5691069,13506233,efp, , , 
+112618,12,2017,Waitaki River,1221009,Ahuriri River 1,711.31,1015,Ahuriri River tributary, ,421,128,doco,H39,2267743,5634039,13516436,efp, , , 
+112623,12,2017,Waitaki River,1221009,Ahuriri River 1,711.31,1035,Ahuriri River tributary, ,421,128,doco,H39,2267573,5633975,13516436,efp, , , 
+112624,12,2017,Waitaki River,1221009,Ahuriri River 1,711.31,1100,Ahuriri River tributary, ,421,128,doco,H39,2267566,5633988,13516436,efp, , , 
+112625,12,2017,Waitaki River,1221009,Ahuriri River 1,711.31,1140,Ahuriri River tributary, ,421,128,doco,H39,2267497,5633981,13516436,efp, , , 
+112975,12,2017,Waitaki River,1221031,Fork Stream,711.393,1700,Fork Stream tributary, ,1040,201,doco,I37,2296828,5701541,13504721,vbd, , , 
+115335,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303485,5660785,13511133,sfn, , ,1
+115419,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303485,5660785,13511133,sfn, , ,2
+115420,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303485,5660785,13511133,sfn, , ,2
+115425,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307378,5663383,13510742,sfn, , ,2
+115426,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307378,5663383,13510742,sfn, , ,1
+115427,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307378,5663383,13510742,sfn, , ,1
+115429,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307378,5663383,13510742,sfn, , ,1
+115432,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303839,5661045,13511133,sfn, , ,2
+115433,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303839,5661045,13511133,sfn, , ,2
+115434,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303839,5661045,13511133,sfn, , ,2
+115439,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305924,5662030,13510957,sfn, , ,1
+115440,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305924,5662030,13510957,sfn, , ,2
+115441,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305924,5662030,13510957,sfn, , ,1
+115445,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,510,155,crc,I38,2305584,5661386,13511034,sfn, , ,1
+115446,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,510,155,crc,I38,2305584,5661386,13511034,sfn, , ,1
+115447,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307034,5663149,13510742,sfn, , ,3
+115448,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307034,5663149,13510742,sfn, , ,2
+115449,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307034,5663149,13510742,sfn, , ,2
+115454,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,161,crc,I38,2307635,5663547,13510725,sfn, , ,2
+115455,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,161,crc,I38,2307635,5663547,13510725,sfn, , ,2
+115456,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,161,crc,I38,2307635,5663547,13510725,sfn, , ,2
+115461,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2304033,5661027,13511133,sfn, , ,2
+115462,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2304033,5661027,13511133,sfn, , ,2
+115463,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2304033,5661027,13511133,sfn, , ,2
+115468,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,158,crc,I38,2306218,5662215,13510869,sfn, , ,2
+115469,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,158,crc,I38,2306218,5662215,13510869,sfn, , ,2
+115470,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,158,crc,I38,2306218,5662215,13510869,sfn, , ,2
+115475,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,513,156,crc,I38,2305125,5661711,13511008,sfn, , ,2
+115476,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,513,156,crc,I38,2305125,5661711,13511008,sfn, , ,2
+115477,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,513,156,crc,I38,2305125,5661711,13511008,sfn, , ,1
+115482,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,521,160,crc,I38,2306953,5663243,13510752,sfn, , ,2
+115483,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,521,160,crc,I38,2306953,5663243,13510752,sfn, , ,2
+115484,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,521,160,crc,I38,2306953,5663243,13510752,sfn, , ,2
+115491,1,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305580,5662269,13510919,sfn, , ,2
+115492,4,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305580,5662269,13510919,sfn, , ,2
+115493,10,2017,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305580,5662269,13510919,sfn, , ,2
+113276,2,2018,Waitaki River,1221001,Hakataramea River tributary,711.14,1145,Hakataramea River, ,237,72,doco, ,2315919,5610545,13520492,obs,1, ,1
+113277,2,2018,Waitaki River,1221001,Hakataramea River tributary,711.14,1200,Hakataramea River, ,261,71,doco, ,2315654,5610260,13520609,tfu, , ,2
+113278,2,2018,Waitaki River,1221001,Hakataramea River tributary,711.14,1215,Hakataramea River tributary, ,258,72,doco, ,2315836,5610400,13520534,tfu, , ,3
+113279,2,2018,Waitaki River,1221001,Hakataramea River tributary,711.14,1230,Hakataramea River tributary, ,247,72,doco, ,2315820,5610318,13520588,tcu, , ,3
+115421,1,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303485,5660785,13511133,sfn, , ,2
+115422,4,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303485,5660785,13511133,sfn, , ,2
+115423,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303485,5660785,13511133,sfn, , ,2
+115428,4,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307378,5663383,13510742,sfn, , ,1
+115430,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307378,5663383,13510742,sfn, , ,1
+115435,1,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303839,5661045,13511133,sfn, , ,2
+115436,4,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303839,5661045,13511133,sfn, , ,2
+115437,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303839,5661045,13511133,sfn, , ,2
+115442,1,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305924,5662030,13510957,sfn, , ,1
+115443,4,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305924,5662030,13510957,sfn, , ,1
+115444,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305924,5662030,13510957,sfn, , ,1
+115450,1,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307034,5663149,13510742,sfn, , ,3
+115451,4,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307034,5663149,13510742,sfn, , ,3
+115452,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307034,5663149,13510742,sfn, , ,2
+115457,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,161,crc,I38,2307635,5663547,13510725,sfn, , ,1
+115458,4,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,161,crc,I38,2307635,5663547,13510725,sfn, , ,2
+115459,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,161,crc,I38,2307635,5663547,13510725,sfn, , ,1
+115464,1,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2304033,5661027,13511133,sfn, , ,2
+115465,4,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2304033,5661027,13511133,sfn, , ,1
+115466,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2304033,5661027,13511133,sfn, , ,2
+115471,1,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,158,crc,I38,2306218,5662215,13510869,sfn, , ,2
+115472,4,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,158,crc,I38,2306218,5662215,13510869,sfn, , ,3
+115473,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,158,crc,I38,2306215,5662215,13510869,sfn, , ,2
+115478,1,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,513,156,crc,I38,2305125,5661711,13511008,sfn, , ,1
+115479,4,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,513,156,crc,I38,2305125,5661711,13511008,sfn, , ,2
+115480,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,513,156,crc,I38,2305125,5661711,13511008,sfn, , ,2
+115485,1,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,521,160,crc,I38,2306953,5663243,13510752,sfn, , ,2
+115486,4,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,521,160,crc,I38,2306953,5663243,13510752,sfn, , ,2
+115487,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,521,160,crc,I38,2306953,5663243,13510752,sfn, , ,2
+115490,10,2018,Waitaki River,1221008,Omarara Stream tributary 3,711.314, ,Omarama Stream tributary, ,515,143,crc,H39,2259543,5623976,13518381,sfn, , ,1
+115494,1,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305580,5662269,13510919,sfn, , ,2
+115495,4,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305580,5662269,13510919,sfn, , ,2
+115496,10,2018,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305580,5662269,13510919,sfn, , ,2
+115424,1,2019,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303485,5660785,13511133,sfn, , ,1
+115431,1,2019,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307378,5663383,13510742,sfn, , ,1
+115438,1,2019,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2303839,5661045,13511133,sfn, , ,1
+115453,1,2019,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,160,crc,I38,2307034,5663149,13510742,sfn, , ,3
+115460,1,2019,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,161,crc,I38,2307635,5663547,13510725,sfn, , ,2
+115467,1,2019,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,499,153,crc,I38,2304033,5661027,13511133,sfn, , ,1
+115474,1,2019,Waitaki River,1221028,Grays River,711.392, ,Grays River, ,520,158,crc,I38,2306218,5662215,13510869,sfn, , ,2
+115481,1,2019,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,513,156,crc,I38,2305125,5661711,13511008,sfn, , ,2
+115488,1,2019,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,521,160,crc,I38,2306953,5663243,13510752,sfn, , ,2
+115497,1,2019,Waitaki River,1221028,Grays River,711.392, ,Grays River tributary, ,520,157,crc,I38,2305580,5662269,13510919,sfn, , ,2
+117697,2,2020,Waitaki River,1221015,Ahuriri River 4,711.31,,Ahuriri River tributary,,814,181,docc,H39,2238979,5649736,13513196,efp,,,
+118136,3,2020,Waitaki River,1221031,Fork Stream,711.393,1545,Fork Stream,,1053,202,docc,I37,2297207,5702652,13504643,efp,,,
+120619,2,2021,Waitaki River,1221023,Fraser Stream,711.371,1030,Fraser Stream, ,519,148,docc,H38,2273641,5660976,13511111,tfb, , ,1
+121992,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,513,156,crc,I38,2305197,5661731,13511008,sfn,,,2
+122076,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,513,156,crc,I38,2305188,5661728,13511008,sfn,,,2
+122078,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,513,156,crc,I38,2305115,5661709,13511008,sfn,,,2
+122079,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,520,161,crc,I38,2307389,5663400,13510682,sfn,,,2
+122081,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,,,crc,I38,2303528,5660725,,sfn,,,2
+122082,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,,,crc,I38,2303519,5660730,,sfn,,,2
+122083,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,,,crc,I38,2303488,5660778,,sfn,,,2
+122085,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,,,crc,I38,2303479,5660789,,sfn,,,2
+122092,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,,,crc,I38,2303462,5660809,,sfn,,,1
+122093,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,499,153,crc,I38,2303858,5661042,13511133,sfn,,,1
+122094,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,499,153,crc,I38,2303850,5661044,13511133,sfn,,,2
+122096,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,499,153,crc,I38,2303833,5661056,13511133,sfn,,,2
+122097,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,499,153,crc,I38,2303846,5661119,13511133,sfn,,,3
+122098,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,499,153,crc,I38,2303849,5661128,13511133,sfn,,,1
+122114,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,520,157,crc,I38,2305927,5662023,13510957,sfn,,,1
+122115,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,520,157,crc,I38,2305927,5662023,13510957,sfn,,,1
+122116,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,521,160,crc,I38,2307029,5663157,13510752,sfn,,,3
+122118,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,521,160,crc,I38,2307037,5663141,13510752,sfn,,,4
+122119,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,520,161,crc,I38,2307672,5663592,13510682,sfn,,,4
+122120,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,520,161,crc,I38,2307640,5663544,13510682,sfn,,,4
+122122,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,,,crc,I38,2304037,5661055,,sfn,,,1
+122123,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,,,crc,I38,2304033,5661043,,sfn,,,2
+122125,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,,,crc,I38,2304033,5661014,,sfn,,,2
+122126,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,520,158,crc,I38,2306237,5662213,13510856,sfn,,,2
+122127,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,520,158,crc,I38,2306228,5662215,13510856,sfn,,,2
+122129,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,520,158,crc,I38,2306208,5662214,13510856,sfn,,,2
+122130,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,521,160,crc,I38,2306964,5663251,13510752,sfn,,,1
+122138,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,521,160,crc,I38,2306951,5663235,13510752,sfn,,,2
+122139,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,520,157,crc,I38,2305590,5662269,13510919,sfn,,,3
+122141,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,520,157,crc,I38,2305580,5662261,13510919,sfn,,,2
+122142,1,2021,Waitaki River,1221028,Grays River,711.392,,Grays River tributary, ,520,157,crc,I38,2305572,5662253,13510919,sfn,,,2
+121131,2,2006,Waitaki River,1221015,Ahuriri River 4,711.31,,Ahuriri River tributary, ,814,181,docc, ,2239000,5649700,13513196,efp,1,,
+122150,2,2020,Waitaki River,1221008,Omarara Stream tributary 3,711.314,1315,Omarama Stream tributary, ,,,crc,H39,2259533,5623993,,sfn,,,3
+122151,7,2021,Waitaki River,1221008,Omarara Stream tributary 3,711.314,1200,Omarama Stream tributary, ,,,crc,H39,2259501,5624018,,sfn,,,2
+122159,7,2021,Waitaki River,1221008,Omarara Stream tributary 3,711.314,1125,Omarama Stream tributary, ,,,crc,H39,2259543,5623977,,sfn,,,2
+122160,2,2020,Waitaki River,1221008,Omarara Stream tributary 3,711.314,945,Omarama Stream tributary, ,,,crc,H39,2259596,5623963,,sfn,,,2
+122161,4,2019,Waitaki River,1221008,Omarara Stream tributary 3,711.314,950,Omarama Stream tributary, ,,,crc,H39,2259596,5623963,,sfn,,,2
+122162,7,2021,Waitaki River,1221008,Omarara Stream tributary 3,711.314,1602,Omarama Stream tributary, ,,,crc,H39,2259543,5623977,,sfn,,,2
+122163,7,2021,Waitaki River,1221008,Omarara Stream tributary 3,711.314,1251,Omarama Stream tributary, ,,,crc,H39,2259501,5624018,,sfn,,,2
+122164,4,2019,Waitaki River,1221008,Omarara Stream tributary 3,711.314,1351,Omarama Stream tributary, ,,,crc,H39,2259530,5623993,,sfn,,,2

@@ -1,0 +1,932 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+50757,1,1965,Clutha River,1071047,Manuherikia River tributary 2,752.63, ,Manuherikia River tributary, ,300,191,niwa,g41,2243000,5561200,14031404,ef,0, , 
+4303,12,1981,Taieri River,1071006,Kye Burn,743.64,day,Kye Burn,,360,162,otfg,I42,2293900,5556400,14033473,ef,3,,
+4310,12,1981,Taieri River,1071006,Kye Burn,743.64, ,Kye Burn, ,370,165,otfg,i42,2294600,5558500,14032836,ef,1, , 
+4311,12,1981,Taieri River,1071006,Kye Burn,743.64, ,Kye Burn, ,405,170,otfg,i41,2293700,5562500,14030445,ef,1, , 
+2084,1,1982,Clutha River,1071054,Ida Burn,752.636,1500,Ida Burn,,390,211,otfg,H41,2255000,5566600,14028977,efm,1,,174
+4913,12,1983,Clutha River,1071052,Moa Creek lower,752.636,1230,Moa Creek,,440,232,otfg,g42,2246700,5547700,14037440,ef,1,,103
+7294,5,1986,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn, ,420,166,otfg,i42,2296900,5558700,14032414,ef,5, , 
+7803,1,1987,Taieri River,1071006,Kye Burn,743.64,1833,Kye Burn,,405,171,otfg,I41,2293400,5562600,14030445,ef,1,,
+7805,1,1987,Taieri River,1071026,Timber Creek,743.64,1020,Timber Creek, ,650,195,otfg,i41,2299300,5579500,14022626,ef,2, ,74
+7807,1,1987,Taieri River,1071006,Kye Burn,743.64,1240,Kye Burn, ,590,192,otfg,i41,2297500,5578100,14023637,ef,1, ,228
+7808,1,1987,Taieri River,1071025,Healy Creek,743.648,1345,Healy Creek, ,640,194,otfg,i41,2299100,5578800,14023208,ef,2, ,117
+10929,1,1990,Taieri River,1071025,Healy Creek,743.648, ,Healy Creek, ,640,194,uoo,i41,2299000,5578900,14023208,efp,1, ,21
+10979,1,1990,Taieri River,1071006,Kye Burn,743.64, ,Kye Burn, ,590,192,uoo,i41,2297600,5578000,14023624,efp,1, ,52
+10980,1,1990,Taieri River,1071006,Kye Burn,743.64,day,Kye Burn,,590,192,uoo,I41,2297600,5578000,14023637,efp,1,,71
+10982,1,1990,Taieri River,1071025,Healy Creek,743.648,,Healy Creek,,670,194,uoo,i41,2299200,5578700,14023208,efp,1,,20
+10983,1,1990,Taieri River,1071025,Healy Creek,743.648,,Healy Creek,,670,194,uoo,i41,2299200,5578700,14023208,efp,1,,8
+11341,4,1991,Clutha River,1071047,Manuherikia River tributary 2,752.63,1230,Manuherikia River tributary,,300,191,niwa,G41,2243000,5561200,14031404,efp,1,,50
+11343,4,1991,Taieri River,1071025,Healy Creek,743.648,1630,Healy Creek, ,670,194,niwa,i41,2299100,5578800,14023208,efp,1, ,30
+10895,12,1992,Taieri River,1071013,Little Kye Burn lower,743.647,1100,Little Kye Burn,,530,187,otfg,I41,2291500,5574900,14025109,ef,1,,
+10896,12,1992,Taieri River,1071017,Little Kye Burn upper,743.647,1315,Little Kye Burn,,650,193,otfg,I41,2292100,5579500,14022842,ef,1,,
+11734,1,1992,Taieri River,1071018,Nobbler Stream,743.646,1300,Nobbler Stream, ,515,185,otfg,i41,2296000,5571700,14026497,efp,1, ,105
+12363,4,1992,Taieri River,1071017,Little Kye Burn upper,743.647,1000,Little Kye Burn,,650,193,uoo,I41,2292100,5579500,14022842,ef,3,,700
+12364,4,1992,Taieri River,1071013,Little Kye Burn lower,743.647,1400,Little Kye Burn,,540,188,uoo,I41,2291200,5575600,14024831,ef,2,,200
+12365,4,1992,Taieri River,1071006,Kye Burn,743.647,1000,Little Kye Burn,,470,181,uoo,I41,2293700,5570200,14027012,ef,2,,160
+12367,3,1992,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1200,No 2 Spec Gully,,540,185,uoo,H41,2288500,5572300,14026290,ef,2,,25
+12368,3,1992,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1600,Spec Gully,,505,182,uoo,I41,2290400,5570800,14026805,efm,1,,42
+12369,3,1992,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1400,Spec Gully,,440,175,uoo,I41,2293100,5565700,14029385,efp,1,,52
+15585,10,1992,Taieri River,1071025,Healy Creek,743.648,930,Healy Creek,,860,197,uoo,i41,2299300,5576800,14024161,efp,1,,25
+15586,12,1992,Taieri River,1071025,Healy Creek,743.648,900,Healy Creek,,860,197,uoo,i41,2299300,5576800,14024161,efp,3,,55
+15598,1,1992,Taieri River,1071025,Healy Creek,743.648,800,Healy Creek,,930,197,uoo,i41,2299000,5576200,14024373,efp,3,,25
+15599,6,1992,Taieri River,1071025,Healy Creek,743.648,1000,Healy Creek,,930,197,uoo,i41,2299000,5576200,14024373,efp,3,,25
+15600,12,1992,Taieri River,1071025,Healy Creek,743.648,1300,Healy Creek,,930,197,uoo,i41,2299000,5576200,14024373,efp,3,,25
+15618,12,1992,Taieri River,1071025,Healy Creek,743.648,1000,Healy Creek,,700,195,uoo,i41,2299400,5578500,14023208,efp,3,,85
+15624,1,1992,Taieri River,1071025,Healy Creek,743.648,1000,Healy Creek,,860,197,uoo,i41,2299300,5576800,14024161,efp,3,,55
+15625,6,1992,Taieri River,1071025,Healy Creek,743.648,1130,Healy Creek,,860,197,uoo,i41,2299300,5576800,14024161,efp,3,,55
+16138,9,1992,Taieri River,1071011,Unnamed stream Spec Gully,743.645,930,Spec Gully,,440,175,uoo,I41,2293000,5565800,14029385,efp,3,,65
+16139,6,1992,Taieri River,1071011,Unnamed stream Spec Gully,743.645,930,Spec Gully,,440,175,uoo,I41,2293000,5565800,14029385,efp,3,,65
+16140,12,1992,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1000,Spec Gully,,440,175,uoo,I41,2293000,5565800,14029385,efp,3,,65
+16147,3,1992,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1130,Spec Gully,,505,182,uoo,I41,2290300,5570900,14026805,efp,3,,40
+16148,6,1992,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1115,Spec Gully,,505,182,uoo,I41,2290300,5570900,14026805,efp,3,,84
+16149,9,1992,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1130,Spec Gully,,505,182,uoo,I41,2290300,5570900,14026805,efp,2,,120
+16150,12,1992,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1145,Spec Gully,,505,182,uoo,I41,2290300,5570900,14026805,efp,3,,250
+16429,9,1992,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1500,No 2 Spec Gully,,540,185,uoo,H41,2288500,5572300,14026290,efp,3,,110
+10898,1,1993,Taieri River,1071017,Little Kye Burn upper,743.647,day,Little Kye Burn,,630,192,otfg,I41,2291700,5579100,14023159,ef,1,,
+15587,3,1993,Taieri River,1071025,Healy Creek,743.648,900,Healy Creek,,860,197,uoo,i41,2299300,5576800,14024161,efp,3,,55
+15593,6,1993,Taieri River,1071025,Healy Creek,743.648,930,Healy Creek,,860,197,uoo,i41,2299300,5576800,14024161,efp,3,,55
+15594,10,1993,Taieri River,1071025,Healy Creek,743.648,930,Healy Creek,,860,197,uoo,i41,2299300,5576800,14024161,efp,3,,55
+15619,3,1993,Taieri River,1071025,Healy Creek,743.648,1500,Healy Creek,,700,195,uoo,i41,2299400,5578500,14023208,efp,3,,85
+15620,6,1993,Taieri River,1071025,Healy Creek,743.648,1300,Healy Creek,,700,195,uoo,i41,2299400,5578500,14023208,efp,3,,85
+15621,12,1993,Taieri River,1071025,Healy Creek,743.648,1400,Healy Creek,,700,195,uoo,i41,2299400,5578500,14023208,efp,3,,85
+15832,3,1993,Taieri River,1071025,Healy Creek,743.648,1400,Healy Creek,,930,197,uoo,i41,2299000,5576200,14024373,efp,3,,25
+15833,6,1993,Taieri River,1071025,Healy Creek,743.648,1400,Healy Creek,,930,197,uoo,i41,2299000,5576200,14024373,efp,3,,25
+15834,10,1993,Taieri River,1071025,Healy Creek,743.648,1500,Healy Creek,,930,197,uoo,i41,2299000,5576200,14024373,efp,3,,25
+16141,3,1993,Taieri River,1071011,Unnamed stream Spec Gully,743.645,930,Spec Gully,,440,175,uoo,I41,2293000,5565800,14029385,efp,3,,65
+16142,5,1993,Taieri River,1071011,Unnamed stream Spec Gully,743.645,930,Spec Gully,,440,175,uoo,I41,2293000,5565800,14029385,efp,3,,65
+16143,9,1993,Taieri River,1071011,Unnamed stream Spec Gully,743.645,915,Spec Gully,,440,175,uoo,I41,2293000,5565800,14029385,efp,3,,65
+16144,11,1993,Taieri River,1071011,Unnamed stream Spec Gully,743.645,925,Spec Gully,,440,175,uoo,I41,2293000,5565800,14029385,efp,3,,65
+16422,3,1993,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1100,Spec Gully,,505,182,uoo,I41,2290300,5570900,14026805,efp,3,,250
+16423,5,1993,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1115,Spec Gully,,505,182,uoo,I41,2290300,5570900,14026805,efp,3,,250
+16424,9,1993,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1115,Spec Gully,,505,182,uoo,I41,2290300,5570900,14026805,efp,3,,250
+16425,11,1993,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1130,Spec Gully,,505,182,uoo,I41,2290300,5570900,14026805,efp,3,,250
+11769,4,1994,Taieri River,1071013,Little Kye Burn lower,743.647, ,Little Kye Burn, ,520,186,otfg,i41,2292000,5574200,14025248,ef,1, ,240
+15595,1,1994,Taieri River,1071025,Healy Creek,743.648,1000,Healy Creek,,860,197,uoo,i41,2299300,5576800,14024161,efp,3,,55
+15596,4,1994,Taieri River,1071025,Healy Creek,743.648,930,Healy Creek,,860,197,uoo,i41,2299300,5576800,14024161,efp,3,,55
+15597,12,1994,Taieri River,1071025,Healy Creek,743.648,1000,Healy Creek,,860,197,uoo,i41,2299300,5576800,14024161,efp,3,,50
+15622,1,1994,Taieri River,1071025,Healy Creek,743.648,1300,Healy Creek,,700,195,uoo,i41,2299400,5578500,14023208,efp,3,,85
+15623,12,1994,Taieri River,1071025,Healy Creek,743.648,1000,Healy Creek,,700,195,uoo,i41,2299400,5578500,14023208,efp,3,,85
+15835,1,1994,Taieri River,1071025,Healy Creek,743.648,1500,Healy Creek,,930,197,uoo,i41,2299000,5576200,14024373,efp,3,,25
+15836,4,1994,Taieri River,1071025,Healy Creek,743.648,1500,Healy Creek,,930,197,uoo,i41,2299000,5576200,14024373,efp,3,,25
+15837,12,1994,Taieri River,1071025,Healy Creek,743.648,1500,Healy Creek,,930,197,uoo,i41,2299000,5576200,14024373,obs,,,1
+15870,4,1994,Taieri River,1071025,Healy Creek,743.648,1545,Healy Creek,,700,195,uoo,i41,2299400,5578500,14023208,efp,3,,85
+16145,1,1994,Taieri River,1071011,Unnamed stream Spec Gully,743.645,930,Spec Gully,,440,175,uoo,I41,2293000,5565800,14029385,efp,2,,65
+16146,4,1994,Taieri River,1071011,Unnamed stream Spec Gully,743.645,930,Spec Gully,,440,175,uoo,I41,2293000,5565800,14028960,efp,2,,90
+16426,1,1994,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1115,Spec Gully,,505,182,uoo,I41,2290300,5570900,14026805,efp,3,,250
+16427,4,1994,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1100,Spec Gully,,505,182,uoo,I41,2290300,5570900,14026805,efp,3,,120
+16428,12,1994,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1115,Spec Gully,,505,182,uoo,I41,2290300,5570900,14026805,efp,3,,90
+12151,1,1996,Taieri River,1071025,Healy Creek,743.648,1400,Healy Creek,,650,194,uoo,I41,2299200,5578800,14023208,sen,,,2
+15341,1,1996,Clutha River,1071049,Dovedale Creek,752.636,,Dovedale Creek,,415,225,indm,H42,2250400,5553600,14035012,pun,,,2
+15342,1,1996,Clutha River,1071041,Chatto Creek tributary,752.632,,Chatto Creek tributary,,250,183,indm,G42,2236300,5558600,14032746,pun,,,2
+15577,3,1996,Taieri River,1071004,Prices Creek,743.57,1530,Prices Creek,,440,149,doco,I42,2294400,5544300,14039312,efp,1,,30
+15628,3,1996,Taieri River,1071001,Taieri River tributary 1,743,1330,Spratts Creek,,190,96,doco,H43,2284400,5512100,14051122,efp,2,,15
+16184,9,1996,Taieri River,1071036,Ewe Burn West Branch,743.704,1000,West Branch Ewe Burn,,840,207,doco,h41,2281100,5579400,14022754,efp,1,,30
+16185,9,1996,Taieri River,1071036,Ewe Burn West Branch,743.704,1030,West Branch Ewe Burn,,820,207,doco,h41,2281000,5579200,14022754,efp,1,,30
+16186,9,1996,Taieri River,1071036,Ewe Burn West Branch,743.704,1115,West Branch Ewe Burn, ,780,206,doco,h41,2281200,5578300,14023192,efp,1, ,30
+16187,9,1996,Taieri River,1071036,Ewe Burn West Branch,743.704,1145,West Branch Ewe Burn,,760,205,doco,H41,2281100,5577400,14023925,efp,3,,150
+16188,9,1996,Taieri River,1071035,Ewe Burn East Branch,743.703,1315,East Branch Ewe Burn, ,710,203,doco,h41,2282700,5576100,14024464,efp,1, ,100
+16189,9,1996,Taieri River,1071035,Ewe Burn East Branch,743.703,1345,East Branch Ewe Burn,,710,203,doco,H41,2282700,5576100,14024464,efp,1,,10
+16190,9,1996,Taieri River,1071035,Ewe Burn East Branch,743.703,1415,East Branch Ewe Burn, ,740,205,doco,h41,2283500,5576900,14024135,efp,1, ,30
+16389,10,1996,Taieri River,1071009,Boundary Creek,743.641,1100,Boundary Creek, ,740,180,doco,i41,2302900,5564700,14029857,efp,1, ,30
+16390,10,1996,Taieri River,1071009,Boundary Creek,743.641,1145,Boundary Creek,,790,180,doco,i41,2303400,5564900,14029720,efp,1,,20
+16391,10,1996,Taieri River,1071008,Swin Burn,743.63,1230,Swin Burn tributary,,610,175,doco,I41,2302300,5563200,14030504,efp,1,,10
+16392,10,1996,Taieri River,1071008,Swin Burn,743.63,1300,Swin Burn tributary,,620,175,doco,i41,2302700,5562800,14030677,efp,1,,50
+16393,10,1996,Taieri River,1071008,Swin Burn,743.63,1400,Swin Burn tributary,,780,177,doco,i41,2304400,5563700,14030290,efp,1,,30
+16394,10,1996,Taieri River,1071008,Swin Burn,743.63,1420,Swin Burn tributary,,760,177,doco,i41,2304200,5563700,14030290,efp,1,,20
+16395,10,1996,Taieri River,1071008,Swin Burn,743.63,1600,Swin Burn tributary,,660,175,doco,i41,2303200,5562300,14030935,efp,1,,10
+16396,10,1996,Taieri River,1071008,Swin Burn,743.63,1620,Swin Burn tributary,,640,175,doco,I41,2303000,5561800,14031059,efp,1,,10
+16397,10,1996,Taieri River,1071008,Swin Burn,743.63,1645,Swin Burn tributary, ,620,175,doco,i41,2303100,5561200,14031445,efp,1, ,10
+16398,10,1996,Taieri River,1071008,Swin Burn,743.63,1700,Swin Burn tributary,,620,175,doco,I41,2303100,5561000,14031533,efp,1,,5
+16481,11,1996,Taieri River,1071034,Ewe Burn upper,743.704,1500,West Branch Ewe Burn,,550,194,doco,H41,2278500,5568400,14027662,efp,1,,50
+12397,3,1997,Taieri River,1071006,Kye Burn,743.64,1000,Kye Burn, ,430,175,uoo,i41,2293200,5565600,14029250,efp,1, ,50
+16690,2,1997,Taieri River,1071001,Taieri River tributary 1,743.27,1515,Deadbullock Creek tributary,,220,99,doco,H43,2282400,5511800,14051228,efp,1,,9
+16715,5,1998,Taieri River,1071074,Eden Creek lower,743.71,935,Eden Creek, ,380,186,doco,h42,2276400,5554900,14034123,ef,1, ,40
+17550,1,1998,Clutha River,1071051,Maori Creek tributary,752.636,1600,Maori Creek tributary,,800,242,niwa,H42,2260000,5545200,14039085,efp,1,,20
+17405,3,1999,Taieri River,1071025,Healy Creek,743.648,1100,Healy Creek, ,650,194,uoo,i41,2299100,5578900,14023208,efp,1, ,50
+25017,3,1999,Taieri River,1071035,Ewe Burn East Branch,743.703,1430,East Branch Ewe Burn,,750,205,doco,H41,2283600,5577300,14023833,efp,2,,80
+5820,2,2000,Taieri River,1071031,Ewe Burn tributary 2,743.7,2230,Ewe Burn tributary,,430,184,niwa,H41,2281700,5560600,14031351,spo,,,5
+13368,11,2000,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637,1945,Pierces Gorge,,670,242,otfg,h41,2270500,5589000,14019245,ef,1,,66
+13374,11,2000,Clutha River,1071060,Manuherikia River tributary 4,752.63,1100,Manuherikia River tributary,,460,215,otfg,H41,2256700,5574300,14025366,obs,,,1
+13378,11,2000,Taieri River,1071029,Ewe Burn lower,743.7,1445,Ewe Burn,,370,177,otfg,H42,2282500,5555000,14034382,efp,1,,45
+25020,11,2000,Clutha River,1071054,Ida Burn,752.636,day,Ida Burn,,395,211,doco,H41,2254900,5566600,14029037,efp,1,,77
+25021,11,2000,Clutha River,1071054,Ida Burn,752.636,1415,Ida Burn,,410,213,doco,H41,2256500,5567300,14028674,efp,1,,96
+25022,11,2000,Clutha River,1071054,Ida Burn,752.636,day,Ida Burn,,435,218,doco,H41,2260500,5568900,14027870,efp,1,,51
+25023,11,2000,Clutha River,1071054,Ida Burn,752.636,1510,Ida Burn,,460,222,doco,H41,2263600,5570500,14027109,efp,1,,50
+25036,11,2000,Taieri River,1071077,Hog Burn lower,743.65, ,Hog Burn, ,420,181,doco,h41,2286900,5561000,14031257,efp,1, ,38
+25039,11,2000,Taieri River,1071028,Hog Burn upper,743.65,day,Hog Burn,,520,190,doco,H41,2285400,5568900,14027789,efp,1,,35
+25040,11,2000,Taieri River,1071007,Unnamed stream Home Gully,743.642,955,Home Gully,,460,175,doco,H41,2289900,5564600,14029890,efp,1,,20
+25041,11,2000,Taieri River,1071033,Ewe Burn middle,743.7,day,Ewe Burn,,440,186,doco,H41,2280300,5561800,14031033,efp,1,,30
+25043,11,2000,Taieri River,1071034,Ewe Burn upper,743.704,day,West Branch Ewe Burn,,490,190,doco,H41,2279200,5564900,14029687,efp,1,,25
+25050,11,2000,Taieri River,1071036,Ewe Burn West Branch,743.704,1535,West Branch Ewe Burn, ,700,202,doco,h41,2280300,5575400,14024371,obs, , ,1
+25051,11,2000,Taieri River,1071035,Ewe Burn East Branch,743.703, ,East Branch Ewe Burn, ,700,203,doco,h41,2282700,5575900,14024464,efp,1, ,47
+25054,11,2000,Taieri River,1071034,Ewe Burn upper,743.704,1730,West Branch Ewe Burn, ,540,194,doco,h41,2278500,5568500,14027662,obs, , ,1
+25060,11,2000,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637, ,Pierces Gorge, ,740,243,doco,h41,2271500,5589800,14018950,efp,1, ,25
+25061,11,2000,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637,940,Pierces Gorge, ,740,243,doco,h41,2271500,5589900,14018950,efp,1, ,20
+25084,11,2000,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637,1945,Pierces Gorge,,690,242,doco,h41,2270400,5589000,14019245,efp,1,,28
+25094,11,2000,Taieri River,1071029,Ewe Burn lower,743.7,day,Ewe Burn,,370,177,doco,H42,2282600,5555100,14034382,efp,1,,16
+25095,11,2000,Taieri River,1071027,Hog Burn tributary,743.65,1540,Hog Burn tributary,,380,174,doco,H42,2286800,5555400,14034255,efp,1,,33
+25408,12,2000,Clutha River,1071052,Moa Creek lower,752.636,1005,Moa Creek,,440,233,doco,G42,2246600,5547400,14038036,efp,1,,75
+25410,12,2000,Clutha River,1071055,Spain Creek,752.636,1205,Spain Creek,,410,213,doco,H41,2257200,5566900,14028858,efp,1,,40
+25419,12,2000,Clutha River,1071055,Spain Creek,752.636,855,Spain Creek,,420,215,doco,H41,2258400,5566400,14029098,efp,1,,55
+21690,3,2001,Taieri River,1071006,Kye Burn,743.64,1300,Kye Burn, ,430,175,uoo,i41,2293200,5565600,14029250,efp,2, ,150
+25149,3,2001,Clutha River,1071040,Chatto Creek,752.632, ,Buster Creek, ,335,191,doco,g41,2235700,5565700,14029190,efp,1, ,40
+25151,5,2001,Clutha River,1071048,Lauder Creek tributary,752.635,1329,Lauder Creek tributary,,385,213,doco,G41,2249300,5574600,14025363,efp,1,,130
+25157,3,2001,Clutha River,1071045,Thompsons Creek tributary 4,752.634,,Thomsons Creek tributary,,340,197,doco,g41,2240600,5567700,14028469,obs,,,1
+25158,3,2001,Clutha River,1071042,Thompsons Creek tributary 1,752.634,,Thomsons Creek tributary,,305,192,doco,g41,2240900,5562900,14027868,efp,1,,65
+25159,3,2001,Clutha River,1071042,Thompsons Creek tributary 1,752.634,1600,Thomsons Creek, ,305,192,doco,g41,2241500,5562500,14028685,efp,1, ,63
+25162,3,2001,Clutha River,1071043,Thompsons Creek tributary 2,752.634,,Thomsons Creek tributary,,340,198,doco,g41,2239100,5567500,14028163,obs,,,1
+25163,3,2001,Clutha River,1071043,Thompsons Creek tributary 2,752.634,day,Thomsons Creek tributary,,340,197,doco,G41,2239300,5567100,14028752,efp,1,,30
+25164,3,2001,Clutha River,1071045,Thompsons Creek tributary 4,752.634,day,Thomsons Creek tributary,,350,199,doco,G41,2240000,5568500,14028147,efp,1,,45
+25165,3,2001,Clutha River,1071046,Thompsons Creek tributary 5,752.634,1630,Thomsons Creek tributary,,370,200,doco,G41,2239700,5569900,14027311,efp,1,,35
+25190,3,2001,Clutha River,1071053,Moa Creek upper,752.636,day,Moa Creek,,680,247,doco,G42,2248100,5538100,14042271,efp,1,,56
+25200,3,2001,Clutha River,1071079,Dunstan Creek - Beattie Road,752.638,,Dunstan Creek,,430,220,doco,h41,2254700,5580400,14022310,efp,1,,26
+25202,3,2001,Clutha River,1071062,Dunstan Creek - Loop Road,752.638, ,Dunstan Creek, ,515,230,doco,h41,2256600,5587600,14019290,efp,1, ,298
+25245,5,2001,Clutha River,1071040,Chatto Creek,752.632,day,Chatto Creek,,215,181,doco,G42,2235300,5557400,14033252,efp,1,,370
+25248,5,2001,Clutha River,1071059,Manuherikia River tributary 3,752.63,,Manuherikia River tributary,,350,207,doco,h41,2251700,5570700,14026728,efp,1,,78
+25249,5,2001,Clutha River,1071059,Manuherikia River tributary 3,752.63,1145,Manuherikia River tributary,,350,207,doco,H41,2251400,5570400,14026728,efp,1,,55
+25258,5,2001,Clutha River,1071042,Thompsons Creek tributary 1,752.634,day,Thomsons Creek tributary,,310,192,doco,G41,2240600,5562700,14030075,efp,1,,86
+104451,12,2001,Clutha River,1071051,Maori Creek tributary,752.63,1350,Maori Creek Tributary, ,832,251,ind,G42,2259979,5545111,14039332,efp, , , 
+106175,12,2001,Clutha River,1071051,Maori Creek tributary,752.636, ,Maori Creek tributary, ,832,251,doco,H42,2259979,5545111,14039332,efp, , , 
+107707,11,2001,Taieri River,1071017,Little Kye Burn upper,743.647,1700,Little Kye Burn, ,794,192,doco, ,2293100,5581000,14021911,efp,1, ,30
+107708,11,2001,Taieri River,1071017,Little Kye Burn upper,743.647,1600,Little Kye Burn tributary, ,791,191,doco, ,2292300,5580600,14022332,efp,1, ,20
+107709,11,2001,Taieri River,1071017,Little Kye Burn upper,743.647,1500,Little Kye Burn, ,656,190,doco, ,2292000,5579500,14022842,efp,1, ,40
+107710,11,2001,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1200,Spec Gully,,508,179,doco,,2290300,5570900,14026805,efp,1,,
+14523,12,2002,Taieri River,1071037,Shepherds Creek,743.72,1300,Shepherds Creek,,425,189,doco,H42,2280600,5546300,14038535,efm,1,,50
+14603,12,2002,Taieri River,1071037,Shepherds Creek,743.72,1300,Shepherds Creek,,480,191,doco,H42,2281100,5544700,14039071,efm,1,,10
+25289,1,2002,Clutha River,1071047,Manuherikia River tributary 2,752.63,840,Manuherikia River tributary, ,295,191,doco,g41,2242900,5561300,14031404,efp,1, ,274
+26583,5,2002,Clutha River,1071040,Chatto Creek,752.632,day,Chatto Creek,,330,183,doco,G42,2235100,5559300,14032246,efp,1,,50
+107514,4,2002,Clutha River,1071039,Manuherikia River tributary 1,752.636,1001,Long Gully, ,182,176,rdcl,H41,2229645,5548294,14037460,efp, , , 
+107515,4,2002,Clutha River,1071039,Manuherikia River tributary 1,752.636,1009,Long Gully,,182,176,rdcl,H41,2229347,5548470,14037460,efp,,,
+107516,4,2002,Clutha River,1071039,Manuherikia River tributary 1,752.636,1017,Long Gully,,175,176,rdcl,H41,2229400,5548400,14037587,efp,,,
+107599,7,2002,Taieri River,1071030,Ewe Burn tributary 1,743.7,1240,Ewe Burn tributary, ,383,178,doco,H42,2281300,5556000,14033639,efp, , , 
+108260,7,2002,Taieri River,1071029,Ewe Burn lower,743.7,1300,Ewe Burn tributary, ,394,176,doco,H42,2281700,5556000,14032916,efp, , , 
+108263,10,2002,Taieri River,1071008,Swin Burn,743.63,1440,Swin Burn,,366,157,doco,I42,2294800,5556400,14033441,efp,,,
+16766,5,2003,Clutha River,1071057,Hills Creek,752.636,1611,Hills Creek,,570,233,doco,H41,2265900,5578600,14023220,ef,1,,
+16767,5,2003,Clutha River,1071057,Hills Creek,752.636,1500,Hills Creek tributary,,570,233,doco,H41,2266300,5578600,14023241,ef,1,,40
+21704,2,2003,Clutha River,1071067,Manuherikia River West Branch,752.63,1704,Manuherikia River West Branch,,715,251,uoo,H40,2264200,5601700,14014914,ef,1,,
+21708,2,2003,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,1000,Dunstan Creek,,505,230,uoo,H41,2256600,5587600,14019290,ef,3,,
+25198,3,2003,Clutha River,1071063,Unnamed stream Long Gully lower,752.639,day,Long Gully,,410,216,doco,H41,2256400,5576800,14024186,efp,1,,37
+25694,7,2003,Taieri River,1071001,Taieri River tributary 1,743.27,1020,Deadbullock Creek tributary,,210,98,doco,h43,2282900,5512000,14051067,efm,1,,
+25695,7,2003,Taieri River,1071002,Taieri River tributary 2,743,1335,Taieri River tributary,,245,118,doco,H43,2287700,5525300,14046808,efm,1,,25
+26217,2,2003,Clutha River,1071067,Manuherikia River West Branch,752.63,1700,Manuherikia River West Branch, ,715,251,orc,h40,2264340,5601776,14014765,efp,0, , 
+26222,2,2003,Clutha River,1071039,Manuherikia River tributary 1,752.63,1452,Manuherikia River,,150,167,orc,G42,2229830,5547817,14037700,efp,2,,
+26223,2,2003,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,1000,Dunstan Creek,,515,230,orc,H41,2256502,5587611,14019290,efp,3,,
+26224,10,2003,Clutha River,1071079,Dunstan Creek - Beattie Road,752.638,1830,Dunstan Creek,,425,220,orc,h41,2254700,5580300,14022310,efp,4,,
+26226,11,2003,Clutha River,1071042,Thompsons Creek tributary 1,752.634,1545,Thomsons Creek,,305,191,orc,G41,2241100,5562100,14031055,efp,3,,
+26227,10,2003,Clutha River,1071054,Ida Burn,752.636,1100,Ida Burn,,390,210,orc,H41,2254858,5566520,14029037,efp,2,,
+26230,11,2003,Clutha River,1071040,Chatto Creek,752.632,1330,Chatto Creek,,295,189,orc,G41,2235794,5564030,14030086,efp,4,,
+107734,6,2003,Taieri River,1071068,Taieri River tributary 3,743.642,1500,Home Gully, ,464,168,doco, ,2291400,5561200,14031086,efp,1, ,50
+25825,5,2004,Clutha River,1071052,Moa Creek lower,752.636,1500,Moa Creek, ,440,233,doco,g42,2246700,5547400,14038036,efp,1, ,150
+25833,12,2004,Clutha River,1071039,Manuherikia River tributary 1,752.636,1400,Long Gully,,160,168,doco,g42,2229500,5548300,14037587,efp,1,,50
+21658,4,2005,Taieri River,1071032,Ewe Burn tributary 3,743.7,1030,Ewe Burn tributary,,440,187,doco,H41,2279997,5561199,14030491,ef,1,,10
+21660,9,2005,Clutha River,1071055,Spain Creek,752.636, ,Spain Creek, ,415,215,doco,h41,2258745,5566365,14029133,ef,1, ,60
+21661,9,2005,Clutha River,1071055,Spain Creek,752.636, ,Spain Creek, ,420,216,doco,h41,2259355,5566263,14029133,ef,1, ,20
+21662,9,2005,Clutha River,1071055,Spain Creek,752.636, ,Spain Creek, ,415,215,doco,h41,2259090,5566288,14029133,ef,1, ,50
+26519,5,2005,Clutha River,1071050,Maori Creek,752.636, ,Maori Creek, ,560,236,doco,h42,2256200,5548700,14037289,efp,3, ,50
+26865,6,2005,Clutha River,1071055,Spain Creek,752.636,day,Spain Creek,,390,210,doco,H41,2254591,5566267,14029144,efp,1,,41
+26866,6,2005,Clutha River,1071055,Spain Creek,752.636,day,Spain Creek,,405,212,doco,H41,2256129,5566384,14028858,efp,1,,93
+26867,6,2005,Clutha River,1071055,Spain Creek,752.636,day,Spain Creek,,410,213,doco,H41,2257117,5566870,14028858,efp,1,,20
+26869,6,2005,Clutha River,1071050,Maori Creek,752.636, ,Maori Creek, ,520,235,doco,h42,2255708,5548930,14037289,efp,1, ,60
+26870,6,2005,Clutha River,1071050,Maori Creek,752.636,day,Maori Creek,,520,235,doco,H42,2255793,5548805,14037289,efp,1,,
+26875,7,2005,Taieri River,1071077,Hog Burn lower,743.65, ,Hog Burn, ,440,181,doco,h41,2286877,5561103,14031257,efp,1, ,40
+26876,7,2005,Taieri River,1071028,Hog Burn upper,743.65,day,Hog Burn,,520,190,doco,H41,2285457,5568923,14027789,efp,1,,45
+26877,7,2005,Taieri River,1071028,Hog Burn upper,743.65,day,Hog Burn,,510,190,doco,H41,2285587,5568315,14027976,efp,1,,125
+26880,7,2005,Taieri River,1071007,Unnamed stream Home Gully,743.642, ,Home Gully, ,460,175,doco,h41,2289907,5564658,14029890,efp,1, ,90
+26882,7,2005,Taieri River,1071038,Whether Burn,743.742,day,Wether Burn,,435,202,doco,H41,2270830,5562520,14030819,efp,1,,65
+26888,7,2005,Taieri River,1071038,Whether Burn,743.742,day,Wether Burn tributary,,560,206,doco,H41,2267381,5563756,14030261,efp,1,,220
+26889,7,2005,Clutha River,1071054,Ida Burn,752.636,day,Ida Burn,,470,223,doco,H41,2264271,5570744,14026965,efp,1,,408
+26890,7,2005,Taieri River,1071037,Shepherds Creek,743.72,,Shepherds Creek,,560,192,doco,h42,2281382,5543500,14039071,efp,1,,130
+26891,7,2005,Taieri River,1071037,Shepherds Creek,743.72,,Shepherds Creek,,515,191,doco,h42,2281148,5544219,14039071,efp,1,,
+26892,7,2005,Taieri River,1071037,Shepherds Creek,743.72,day,Shepherds Creek,,480,190,doco,H42,2281087,5544805,14039071,efp,1,,60
+104453,3,2005,Clutha River,1071050,Maori Creek,752.63, ,Maori Creek, ,578,244,ind,G42,2256032,5548778,14037289,efp, , , 
+106182,5,2005,Clutha River,1071050,Maori Creek,752.636, ,Maori Creek, ,578,244,doco,H42,2256032,5548778,14037289,efp, , , 
+24835,1,2006,Taieri River,1071003,Scrub Burn,743.55,1600,Scrub Burn tributary, ,520,140,doco,i42,2292600,5539326,14041848,efp,1, ,100
+26831,3,2006,Clutha River,1071055,Spain Creek,752.636,1405,Spain Creek, ,420,215,doco,h41,2259101,5566254,14029133,efp,1, ,25
+26832,3,2006,Clutha River,1071055,Spain Creek,752.636,1440,Spain Creek,,415,215,doco,H41,2258775,5566379,14029133,efp,1,,48
+28472,12,2006,Taieri River,1071001,Taieri River tributary 1,743.27,1545,Deadbullock Creek tributary,,235,100,doco,H43,2281551,5510703,14051569,efp,1,,
+28537,12,2006,Taieri River,1071018,Nobbler Stream,743.646,1125,Nobbler Stream,,495,184,doco,I41,2295065,5571949,14026497,efp,1,,25
+28538,12,2006,Taieri River,1071018,Nobbler Stream,743.646,1240,Nobbler Stream,,495,184,doco,I41,2295085,5571878,14026497,efp,1,,65
+28541,12,2006,Taieri River,1071018,Nobbler Stream,743.646,1750,Nobbler Stream,,540,186,doco,I41,2296975,5571688,14026497,efp,1,,60
+28548,12,2006,Taieri River,1071019,Kye Burn tributary 2,743.64,1130,Kye Burn tributary,,570,186,doco,I41,2296370,5573213,14025745,efp,1,,30
+28549,12,2006,Taieri River,1071020,Kye Burn tributary 3,743.64,1250,Kye Burn tributary,,560,187,doco,I41,2295797,5574282,14025234,efp,1,,10
+28550,12,2006,Taieri River,1071021,Kye Burn tributary 4,743.64,1340,Kye Burn tributary,,560,188,doco,I41,2295928,5575369,14024817,efp,1,,15
+28551,12,2006,Taieri River,1071022,Kye Burn tributary 5,743.64,1408,Kye Burn tributary,,570,189,doco,I41,2296171,5576114,14024660,efp,1,,30
+28552,12,2006,Taieri River,1071024,Kye Burn tributary 6,743.64,1520,Kye Burn tributary, ,710,192,doco,i41,2297685,5576866,14023763,efp,1, ,30
+28554,12,2006,Taieri River,1071025,Healy Creek,743.648,day,Healy Creek,,660,194,doco,I41,2299089,5578843,14023208,efp,1,,
+28555,12,2006,Taieri River,1071025,Healy Creek,743.648,,Healy Creek,,760,196,doco,i41,2299204,5577643,14023779,efp,1,,60
+28556,12,2006,Taieri River,1071024,Kye Burn tributary 6,743.64,day,Kye Burn tributary,,620,192,doco,I41,2297470,5577471,14023763,efp,1,,40
+28557,12,2006,Taieri River,1071024,Kye Burn tributary 6,743.64, ,Kye Burn tributary, ,620,192,doco,i41,2297600,5577597,14023763,efp,1, ,20
+28558,12,2006,Taieri River,1071024,Kye Burn tributary 6,743.64,day,Kye Burn tributary,,625,192,doco,I41,2297483,5577406,14023763,efp,1,,30
+28559,12,2006,Taieri River,1071024,Kye Burn tributary 6,743.64, ,Kye Burn tributary, ,600,191,doco,i41,2297597,5577774,14023763,efp,1, , 
+103456,3,2006,Taieri River,1071018,Nobbler Stream,743.646,1300,Nobbler Stream tributary,,620,183,doco,I41,2297058,5571612,14026663,efp,,,90.5
+104457,5,2006,Clutha River,1071050,Maori Creek,752.63,1300,Maori Creek, ,578,244,doco,G42,2256020,5548978,14037289,efp, , , 
+105950,5,2006,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,Spec Gully,,444,172,doco,I41,2293032,5565925,14028960,efp,4,,169
+105958,4,2006,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,Spec Gully,,508,179,doco,I41,2290332,5570914,14026805,efp,3,,105
+105966,4,2006,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,No 2 Spec Gully,,543,182,doco,H41,2288521,5572278,14026165,efp,3,,105
+28711,8,2007,Clutha River,1071064,Unnamed stream Long Gully upper,752.639,1245,Long Gully,,495,224,doco,H41,2257280,5583196,14021126,efp,1,,50
+28712,8,2007,Clutha River,1071064,Unnamed stream Long Gully upper,752.639,1340,Long Gully,,510,225,doco,H41,2257140,5583818,14021075,efp,1,,50
+31049,4,2007,Clutha River,1071054,Ida Burn,752.636,1130,Ida Burn,,410,213,orc,H41,2256540,5567300,14028270,ef,3,,60
+31061,3,2007,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,1200,Dunstan Creek, ,510,231,orc,h41,2256490,5587690,14019290,efm,3, ,90
+105951,5,2007,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,Spec Gully,,444,172,doco,I41,2293032,5565925,14028960,efp,5,,121
+105959,5,2007,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,Spec Gully,,508,179,doco,I41,2290332,5570914,14026805,efp,4,,119
+105967,5,2007,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,No 2 Spec Gully,,543,182,doco,H41,2288521,5572278,14026165,efp,4,,119
+108300,4,2007,Taieri River,1071018,Nobbler Stream,743.646,1035,Nobbler Stream tributary,,620,183,doco,I41,2297040,5571603,14026663,efp,,,
+31833,12,2008,Taieri River,1071003,Scrub Burn,743.55,1145,Scrub Burn tributary, ,381,140,doco,I42,2292836,5539265,14041672,efp,1, , 
+31834,12,2008,Taieri River,1071003,Scrub Burn,743.55,1400,Scrub Burn tributary, ,424,140,doco,I42,2292692,5538872,14041848,efp,1, ,25
+31835,12,2008,Taieri River,1071003,Scrub Burn,743.55,1500,Scrub Burn tributary, ,495,141,doco,I42,2292287,5538582,14041943,efp,1, ,150
+31836,12,2008,Taieri River,1071003,Scrub Burn,743.55,1530,Scrub Burn tributary,,441,140,doco,I42,2292570,5538700,14041943,efp,1,,150
+31837,12,2008,Taieri River,1071003,Scrub Burn,743.55,1415,Scrub Burn tributary,,417,140,doco,I42,2292684,5538793,14041943,efp,1,,
+31838,12,2008,Taieri River,1071003,Scrub Burn,743.55,1305,Scrub Burn tributary,,400,140,doco,I42,2292818,5538825,14041866,efp,1,,
+105952,4,2008,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,Spec Gully,,444,172,doco,I41,2293032,5565925,14028960,efp,3,,121
+105960,4,2008,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,Spec Gully,,508,179,doco,I41,2290332,5570914,14026805,efp,3,,119
+105968,4,2008,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,No 2 Spec Gully,,543,182,doco,H41,2288521,5572278,14026165,efp,3,,119
+106555,12,2008,Taieri River,1071003,Scrub Burn,743.55,1600,Scrub Burn,,496,138,doco,I42,2292711,5538366,14041992,efp,,,30
+31206,12,2009,Clutha River,1071067,Manuherikia River West Branch,752.63,1045,Manuherikia River West Branch, ,720,251,doco,H40,2264113,5601585,14014914,efp,1, ,50
+31207,12,2009,Clutha River,1071067,Manuherikia River West Branch,752.63,1000,Manuherikia River West Branch, ,740,252,doco,H40,2264113,5601584,14014822,efp,1, ,50
+105953,4,2009,Taieri River,1071011,Unnamed stream Spec Gully,743.645,950,Spec Gully,,444,172,doco,I41,2293032,5565925,14028960,efp,5,,110
+105961,4,2009,Taieri River,1071011,Unnamed stream Spec Gully,743.645,855,Spec Gully,,508,179,doco,I41,2290332,5570914,14026805,efp,3,,87
+105969,4,2009,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,No 2 Spec Gully,,543,182,doco,H41,2288521,5572278,14026165,efp,3,,87
+31216,2,2010,Taieri River,1071038,Whether Burn,743,1100,Wether Burn tributary,,440,202,doco,H41,2270510,5562615,14030606,efm,1,,10
+101437,2,2010,Taieri River,1071025,Healy Creek,743.648,900,Healy Creek,,690,191,doco,I41,2299085,5578902,14023208,efp,1,,150
+101439,2,2010,Taieri River,1071024,Kye Burn tributary 6,743.64,1100,Kye Burn tributary, ,625,189,doco,I41,2297339,5577677,14023763,efp,1, , 
+101440,2,2010,Taieri River,1071008,Swin Burn,743.63,1530,Swin Burn tributary,,529,170,doco,I41,2300790,5561996,14030793,efp,1,,
+101441,2,2010,Taieri River,1071008,Swin Burn,743.63,1550,Swin Burn tributary,,512,169,doco,I41,2300112,5562228,14030561,efp,1,,37.5
+101442,2,2010,Taieri River,1071008,Swin Burn,743.63,1620,Swin Burn tributary,,494,169,doco,I41,2299848,5562054,14030561,efp,1,,15
+101443,2,2010,Taieri River,1071008,Swin Burn,743.63,1700,Swin Burn tributary,,493,169,doco,I41,2299650,5561776,14030561,efp,1,,20
+101612,4,2010,Taieri River,1071022,Kye Burn tributary 5,743.64,1400,Kye Burn tributary,,644,186,doco,I42,2296299,5576125,14024660,efp,1,,
+101613,4,2010,Taieri River,1071022,Kye Burn tributary 5,743.64,1200,Kye Burn tributary,,597,186,doco,I42,2296165,5576115,14024660,efp,1,,
+101614,4,2010,Taieri River,1071022,Kye Burn tributary 5,743.64,900,Kye Burn tributary, ,595,186,doco,i42,2295984,5576091,14024660,efp,1, , 
+105954,3,2010,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1030,Spec Gully,,444,172,doco,I41,2293032,5565925,14028960,efp,5,,95
+105962,8,2010,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1426,Spec Gully,,508,179,doco,I41,2290332,5570914,14026805,efp,6,,138
+105970,8,2010,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1030,No 2 Spec Gully,,543,182,doco,H41,2288521,5572278,14026165,efp,6,,138
+106521,10,2010,Taieri River,1071001,Taieri River tributary 1,743,1100,Spratts Creek,,211,96,doco,I45,2282930,5512142,14051067,efp,,,
+106522,10,2010,Taieri River,1071004,Prices Creek,743.57,1445,Deadwoman Creek,,580,147,doco,I42,2293249,5543880,14039304,efp,,,
+101456,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,628,174,doco,I42,2304169,5558900,14032615,efp,1,,
+101457,5,2011,Taieri River,1071017,Little Kye Burn upper,743.647,1255,Larne Creek tributary, ,674,189,doco,I41,2290681,5579176,14022989,efp,1, , 
+101458,5,2011,Taieri River,1071017,Little Kye Burn upper,743.647,1340,Larne Creek, ,691,189,doco,I41,2290480,5579241,14023075,efp,1, , 
+101459,5,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,480,168,doco,I42,2300403,5560470,14031831,efp,1,,
+101460,5,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,647,172,doco,I42,2303215,5561002,14031533,efp,1,,
+101461,5,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,659,172,doco,I42,2303318,5560989,14031533,efp,1,,
+101462,5,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,650,173,doco,I42,2303304,5561125,14031222,efp,1, , 
+101463,5,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,492,170,doco,I42,2301202,5560283,14031802,efp,1,,
+101464,5,2011,Taieri River,1071014,Little Kye Burn tributary,743.647,1030,Little Kye Burn tributary,,573,184,doco,I41,2291072,5574910,14025016,efp,1,,30
+101465,5,2011,Taieri River,1071013,Little Kye Burn lower,743.647,1000,Little Kye Burn,,537,184,doco,I41,2291523,5574939,14025109,efp,1,,160
+101466,5,2011,Taieri River,1071013,Little Kye Burn lower,743.647,915,Little Kye Burn,,506,179,doco,I41,2292670,5571734,14026368,efp,1,,100
+101467,5,2011,Taieri River,1071017,Little Kye Burn upper,743.647,1600,Little Kye Burn tributary, ,660,190,doco,I41,2291817,5579484,14022755,efp,1, , 
+101468,5,2011,Taieri River,1071017,Little Kye Burn upper,743.647,1500,Little Kye Burn, ,653,190,doco,I41,2292050,5579540,14022842,efp,1, , 
+101469,5,2011,Taieri River,1071017,Little Kye Burn upper,743.647,1400,Little Kye Burn,,733,192,doco,I41,2293053,5581017,14021911,efp,1,,
+101470,5,2011,Taieri River,1071017,Little Kye Burn upper,743.647,1135,Larne Creek, ,619,188,doco,I41,2291057,5577848,14023158,efp,1, , 
+101488,5,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,640,171,doco,I42,2303077,5562260,14030935,efp,1,,
+101489,5,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,620,172,doco,I42,2302748,5562770,14030677,efp,1,,
+101490,5,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,762,172,doco,I42,2303658,5561763,14031059,efp,1,,
+101491,5,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,562,172,doco,I42,2302343,5561649,14031059,efp,1, , 
+101492,5,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,611,172,doco,I42,2302141,5561435,14031366,efp,1, , 
+101493,5,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,810,172,doco,I42,2302560,5561261,14031366,efp,1, , 
+101494,5,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,953,172,doco,I42,2302981,5561020,14031533,efp,1, , 
+101542,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,630,172,doco,I42,2303215,5561002,14031533,efp,1,,
+101543,12,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,491,170,doco,I42,2301497,5560012,14032035,efp,1, , 
+101545,12,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,581,173,doco,I42,2303925,5559175,14032349,efp,1, , 
+101546,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,705,175,doco,I42,2305198,5559394,14032077,efp,1,,25
+101547,12,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,619,173,doco,I42,2304082,5559339,14032349,efp,1, , 
+101548,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,566,173,doco,I42,2302471,5557765,14033173,efp,1,,
+101549,12,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,586,173,doco,I42,2303036,5557410,14033281,efp,1, , 
+101550,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,590,173,doco,I42,2303142,5557585,14033173,efp,1,,
+101551,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,654,173,doco,I42,2304179,5557473,14033281,efp,1,,12.5
+101552,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,492,170,doco,I42,2301202,5560283,14031802,efp,1,,44
+101553,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,659,172,doco,I42,2303318,5560989,14031533,efp,1,,28.5
+101554,12,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,650,173,doco,I42,2303304,5561125,14031222,efp,1, , 
+101555,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,679,174,doco,I42,2304949,5559232,14032530,efp,1,,
+101556,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,716,175,doco,I42,2305563,5559811,14032077,efp,1,,
+101557,12,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn, ,591,173,doco,I42,2303723,5559024,14032581,efp,1, , 
+101558,12,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn, ,501,170,doco,I42,2301405,5560027,14032019,efp,1, , 
+101559,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,480,168,doco,I42,2300403,5560470,14031831,efp,1,,39
+101615,12,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,500,170,doco,i42,2301497,5560012,14032035,efp,1, , 
+101616,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,501,170,doco,I42,2301405,5560027,14032019,efp,1,,42
+101617,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,542,172,doco,I42,2302343,5558895,14032650,efp,1,,39
+101618,12,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,586,173,doco,i42,2303036,5557410,14033281,efp,1, , 
+101619,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,566,173,doco,I42,2302471,5557762,14033173,efp,1,,
+101620,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,590,173,doco,I42,2303142,5557585,14033173,efp,1,,
+101621,12,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,581,173,doco,i42,2303925,5559175,14032349,efp,1, , 
+101622,12,2011,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,619,173,doco,i42,2304082,5559339,14032349,efp,1, , 
+101623,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,654,173,doco,I42,2304179,5557473,14033281,efp,1,,12.5
+101625,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,679,175,doco,I42,2304949,5559232,14032350,efp,1,,
+101626,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,705,175,doco,I42,2305198,5559394,14032077,efp,1,,25
+101628,12,2011,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,716,175,doco,I42,2305563,5559811,14032077,efp,1,,103.5
+101646,7,2011,Taieri River,1071006,Kye Burn,743.64,1145,Kye Burn, ,573,185,doco,i45,2295776,5575409,14024894,efp,1, , 
+101647,7,2011,Taieri River,1071021,Kye Burn tributary 4,743.64,1130,Kye Burn tributary,,606,185,doco,I45,2295931,5575354,14024817,efp,1,,
+101649,7,2011,Taieri River,1071001,Taieri River tributary 1,743.27,1530,Deadbullock Creek tributary, ,235,97,doco,i45,2282509,5511901,14051228,efp,1, , 
+101652,12,2011,Clutha River,1071046,Thompsons Creek tributary 5,752.634, ,Thomsons Creek tributary, ,375,208,doco,g44,2239664,5569870,14026784,efp,1, , 
+102351,4,2011,Clutha River,1071040,Chatto Creek,752.632, ,Chatto Creek, ,227,190,otfg,G42,2235365,5558284,14032776,efp, , , 
+103414,7,2011,Taieri River,1071009,Boundary Creek,743.641,1200,Boundary Creek,,409,167,uoo,I41,2294438,5561920,14030667,efp,,,75
+103417,7,2011,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1200,Spec Gully,,435,172,uoo,I41,2293057,5565300,14029385,efp,,,
+103418,7,2011,Taieri River,1071012,Old Hut Creek,743.646,1200,Old Hut Creek,,514,177,uoo,I41,2295046,5568726,14027663,efp,,,
+103446,9,2011,Clutha River,1071042,Thompsons Creek tributary 1,752,1010,Thomson Creek trib,,313,201,uoo,H46,2240611,5563137,14030488,efp,,,
+103447,9,2011,Clutha River,1071054,Ida Burn,752.636,1013,Ida Burn,,445,219,uoo,H41,2254912,5566537,14028977,efp,,,
+103450,9,2011,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1025,Spec Gully,,508,179,uoo,I41,2290316,5570893,14026805,efp,,,
+103466,9,2011,Taieri River,1071011,Unnamed stream Spec Gully,743.645,846,No 1 Spec Gully,,578,183,uoo,I41,2287463,5572563,14025863,efp,,,
+103467,9,2011,Taieri River,1071011,Unnamed stream Spec Gully,743.645,850,No 2 Spec Gully,,553,183,uoo,I41,2288171,5573360,14026165,efp,,,
+103468,9,2011,Taieri River,1071009,Boundary Creek,743.641,852,Boundary Creek,,403,167,uoo,I41,2294244,5561828,14030769,efp,,,
+103469,9,2011,Taieri River,1071012,Old Hut Creek,743.646,858,Old Hut Creek,,514,177,uoo,I41,2295080,5568727,14027663,efp,,,
+103472,9,2011,Taieri River,1071008,Swin Burn,743.63,906,Swin Burn,,440,166,uoo,I42,2298257,5559413,14032018,efp,,,
+104923,9,2011,Taieri River,1071009,Boundary Creek,743.641, ,Boundary Creek, ,712,176,uoo,I41,2302867,5564668,14029857,efp, , , 
+104924,11,2011,Taieri River,1071009,Boundary Creek,743.641, ,Boundary Creek, ,712,176,uoo,I41,2302867,5564668,14029857,efp, , , 
+104925,12,2011,Taieri River,1071009,Boundary Creek,743.641, ,Boundary Creek, ,712,176,uoo,I41,2302867,5564668,14029857,efp, , , 
+104932,9,2011,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637,,Pierces Gorge,,746,250,uoo,H41,2271496,5589868,14018950,efp,,,
+104933,11,2011,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637, ,Pierces Gorge, ,746,250,uoo,H41,2271496,5589868,14018950,efp, , , 
+104934,12,2011,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637, ,Pierces Gorge, ,746,250,uoo,H41,2271496,5589868,14018950,efp, , , 
+104941,7,2011,Taieri River,1071010,Kye Burn tributary 1,743.64, ,Kye Burn tributary, ,590,175,uoo,I41,2299327,5565673,14029166,efp, , , 
+104942,9,2011,Taieri River,1071010,Kye Burn tributary 1,743.64, ,Kye Burn tributary, ,590,175,uoo,I41,2299327,5565673,14029166,efp, , , 
+104943,11,2011,Taieri River,1071010,Kye Burn tributary 1,743.64, ,Kye Burn tributary, ,590,175,uoo,I41,2299327,5565673,14029166,efp, , , 
+104944,12,2011,Taieri River,1071010,Kye Burn tributary 1,743.64, ,Kye Burn tributary, ,590,175,uoo,I41,2299327,5565673,14029166,efp, , , 
+105955,5,2011,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1000,Spec Gully,,444,172,doco,I41,2293032,5565925,14028960,efp,3,,162
+105963,5,2011,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1115,Spec Gully,,508,179,doco,I41,2290332,5570914,14026805,efp,3,,183
+105971,4,2011,Taieri River,1071011,Unnamed stream Spec Gully,743.645,900,No 2 Spec Gully,,543,182,doco,H41,2288521,5572278,14026165,efp,3,,183
+106607,10,2011,Taieri River,1071003,Scrub Burn,743.55,1230,Scrub Burn,,496,138,doco,I42,2293041,5538570,14041992,han,,,1
+101239,10,2012,Taieri River,1071001,Taieri River tributary 1,743.27,1100,Deadbullock Creek tributary,,251,99,doco,H43,2281556,5510732,14051569,efp,1,,
+101240,10,2012,Taieri River,1071001,Taieri River tributary 1,743.27,1115,Deadbullock Creek tributary,,255,99,doco,H43,2281474,5510656,14051569,efp,1,,
+101241,10,2012,Taieri River,1071001,Taieri River tributary 1,743.27,1130,Deadbullock Creek tributary,,254,99,doco,H43,2281436,5510657,14051569,efp,1,,
+101242,10,2012,Taieri River,1071001,Taieri River tributary 1,743.27,1145,Deadbullock Creek tributary, ,255,99,doco,h43,2281418,5510643,14051569,efp,1, , 
+101243,10,2012,Taieri River,1071001,Taieri River tributary 1,743.27,1200,Deadbullock Creek tributary, ,254,99,doco,h43,2281410,5510641,14051569,efp,1, , 
+101244,10,2012,Taieri River,1071001,Taieri River tributary 1,743.27,1215,Deadbullock Creek tributary,,253,99,doco,H43,2281385,5510641,14051569,efp,1,,
+101245,10,2012,Taieri River,1071001,Taieri River tributary 1,743.27,1230,Deadbullock Creek tributary,,251,99,doco,H43,2281358,5510652,14051569,efp,1,,
+101246,10,2012,Taieri River,1071001,Taieri River tributary 1,743.27,1245,Deadbullock Creek tributary, ,256,99,doco,h43,2281350,5510621,14051569,efp,1, , 
+101247,10,2012,Taieri River,1071001,Taieri River tributary 1,743.27,1300,Deadbullock Creek tributary, ,271,100,doco,h43,2281106,5510658,14051610,efp,1, , 
+101248,10,2012,Taieri River,1071001,Taieri River tributary 1,743.27,1315,Deadbullock Creek tributary, ,272,100,doco,h43,2281154,5510594,14051621,efp,1, , 
+101429,9,2012,Clutha River,1071060,Manuherikia River tributary 4,752.63,1300,Manuherikia River tributary,,425,223,doco,H41,2256455,5574369,14025379,efp,1,,100
+101430,9,2012,Clutha River,1071060,Manuherikia River tributary 4,752.63,1400,Manuherikia River tributary,,440,223,doco,H41,2256559,5574388,14025379,efp,1,,100
+101431,9,2012,Clutha River,1071060,Manuherikia River tributary 4,752.63,1430,Manuherikia River tributary,,444,223,doco,H41,2256654,5574336,14025379,efp,1,,100
+101432,9,2012,Clutha River,1071060,Manuherikia River tributary 4,752.63,1500,Manuherikia River tributary, ,451,223,doco,H41,2256717,5574283,14025379,efp,1, , 
+101433,9,2012,Clutha River,1071060,Manuherikia River tributary 4,752.63,1515,Manuherikia River tributary, ,451,223,doco,H41,2256722,5574286,14025379,efp,1, , 
+101434,9,2012,Clutha River,1071060,Manuherikia River tributary 4,752.63,1530,Manuherikia River tributary, ,460,223,doco,H41,2256760,5574305,14025379,efp,1, , 
+101435,5,2012,Taieri River,1071017,Little Kye Burn upper,743.647,1210,Larne Creek, ,628,188,doco,I41,2291031,5578435,14023158,efp,1, , 
+101436,5,2012,Taieri River,1071017,Little Kye Burn upper,743.647,1050,Larne Creek,,653,188,doco,I41,2290885,5578910,14023158,efp,1,,
+101445,2,2012,Taieri River,1071026,Timber Creek,743.64,1120,Timber Creek, ,707,194,doco,G44,2299692,5581437,14021854,efp,1, ,8
+101446,2,2012,Taieri River,1071026,Timber Creek,743.64,1145,Timber Creek,,707,194,doco,G44,2299691,5581437,14021854,efp,1,,18
+101447,2,2012,Taieri River,1071026,Timber Creek,743.64,1200,Timber Creek tributary, ,752,195,doco,G44,2299998,5582500,14021374,efp,1, ,4
+101448,2,2012,Taieri River,1071026,Timber Creek,743.64,1240,Timber Creek tributary, ,801,195,doco,G44,2299999,5582827,14021374,efp,1, ,3
+101449,2,2012,Taieri River,1071026,Timber Creek,743.64,1300,Timber Creek,,785,196,doco,G44,2299770,5583377,14021177,efp,1,,2
+101450,2,2012,Taieri River,1071026,Timber Creek,743.64,1315,Timber Creek,,787,197,doco,G44,2299682,5583683,14021127,efp,1,,6
+101451,2,2012,Taieri River,1071026,Timber Creek,743.64,1350,Timber Creek tributary,,812,197,doco,G44,2299527,5583998,14020684,efp,1,,4
+101452,2,2012,Taieri River,1071026,Timber Creek,743.64,1405,Timber Creek tributary,,812,197,doco,G44,2299528,5583999,14020684,efp,1,,5
+101453,2,2012,Taieri River,1071026,Timber Creek,743.64, ,Timber Creek tributary, ,718,195,doco,G44,2299725,5581943,14021613,efp,1, ,3
+101454,2,2012,Taieri River,1071026,Timber Creek,743.64,1700,Kye Burn tributary,,673,193,doco,G44,2299574,5580259,14022616,efp,1,,2
+101455,2,2012,Taieri River,1071026,Timber Creek,743.64,1710,Timber Creek tributary,,678,193,doco,G44,2299741,5580243,14022616,efp,1,,2
+101478,10,2012,Taieri River,1071038,Whether Burn,743.742,,Wether Burn tributary,,572,203,doco,H41,2267383,5563731,14030261,efp,1,,16
+101481,10,2012,Taieri River,1071038,Whether Burn,743.742,,Wether Burn,,444,199,doco,H42,2270813,5562511,14030818,efp,1,,12
+101482,5,2012,Taieri River,1071023,German Creek,743.64,,German Creek,,669,190,doco,H45,2293799,5578738,14023360,efp,1,,
+101483,5,2012,Taieri River,1071023,German Creek,743.64,,German Creek tributary,,666,190,doco,H45,2294473,5578377,14022586,efp,1,,400
+101485,5,2012,Taieri River,1071023,German Creek,743.64,,German Creek tributary,,637,190,doco,H45,2293972,5578296,14023517,efp,1,,
+101486,5,2012,Taieri River,1071023,German Creek,743.64,,German Creek,,635,190,doco,H45,2294018,5578059,14023547,efp,1,,
+101487,5,2012,Taieri River,1071023,German Creek,743.64,,German Creek,,639,190,doco,H45,2294143,5577728,14023708,efp,1,,70
+101495,5,2012,Taieri River,1071023,German Creek,743.64,,German Creek,,624,189,doco,H45,2294615,5577565,14023802,efp,1,,
+101496,5,2012,Taieri River,1071023,German Creek,743.64, ,German Creek tributary, ,640,190,doco,H45,2294147,5577702,14023834,efp,1, , 
+101498,5,2012,Taieri River,1071015,Deep Stream,743.647,,Deep Stream,,642,188,doco,I41,2288908,5576659,14024239,efp,1,,112.5
+101501,5,2012,Taieri River,1071015,Deep Stream,743.647,,Near Undaunted Creek,,622,188,doco,I41,2288987,5576748,14023800,efp,1,,
+101502,5,2012,Taieri River,1071015,Deep Stream,743.647,,Deep Stream,,712,189,doco,I41,2287380,5576726,14024109,efp,1,,103.6
+101503,5,2012,Taieri River,1071015,Deep Stream,743.647,,Deep Stream,,690,189,doco,I41,2286933,5576891,14024109,efp,1,,
+101504,5,2012,Taieri River,1071017,Little Kye Burn upper,743.647,,Little Kye Burn tributary,,650,188,doco,I41,2291896,5578468,14023302,efp,1,,
+101505,5,2012,Taieri River,1071015,Deep Stream,743.647,,Deep Stream tributary,,594,187,doco,I41,2290006,5576594,14023590,efp,1,,
+101506,5,2012,Taieri River,1071016,Little Kye Burn tributary 2,743.647,,Little Kye Burn,,609,186,doco,I41,2290601,5576551,14024425,efp,1,,76
+101507,5,2012,Taieri River,1071013,Little Kye Burn lower,743.647, ,Little Kye Burn tributary, ,581,186,doco,I41,2291040,5576872,14024010,efp,1, , 
+101508,5,2012,Taieri River,1071018,Nobbler Stream,743.646,,Nobbler Stream,,520,181,doco,I41,2295430,5571656,14026497,efp,1,,
+101509,5,2012,Taieri River,1071019,Kye Burn tributary 2,743.64,,Kye Burn tributary,,596,183,doco,I42,2296409,5573206,14025831,efp,1,,30
+101510,5,2012,Taieri River,1071019,Kye Burn tributary 2,743.64,,Kye Burn tributary,,588,183,doco,I42,2296149,5573281,14025831,efp,1,,30
+101512,5,2012,Taieri River,1071020,Kye Burn tributary 3,743.64,,Kye Burn tributary,,590,183,doco,I42,2295801,5574278,14025234,efp,1,,8
+101514,5,2012,Taieri River,1071018,Nobbler Stream,743.646,,Nobbler Stream,,536,181,doco,I41,2295916,5571699,14026497,efp,1,,120
+101521,5,2012,Taieri River,1071026,Timber Creek,743.64,,Kye Burn tributary,,659,192,doco,I42,2299225,5579499,14022626,efp,1,,5
+101523,5,2012,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,762,172,doco,I42,2303658,5561763,14031059,efp,1,,
+101524,5,2012,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,626,172,doco,I42,2302748,5562770,14030677,efp,1,,
+101525,5,2012,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,606,172,doco,I42,2302658,5561763,14031059,efp,1, , 
+101526,5,2012,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,562,172,doco,I42,2302343,5561639,14031059,efp,1, , 
+101527,5,2012,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,611,172,doco,I42,2302141,5561435,14031366,efp,1, , 
+101528,5,2012,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,580,172,doco,I42,2302560,5561261,14031366,efp,1, , 
+101529,5,2012,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,953,172,doco,I42,2302981,5561020,14031533,efp,1, , 
+101530,2,2012,Taieri River,1071026,Timber Creek,743.64,,Timber Creek,,687,193,doco,G44,2299740,5580738,14022131,efp,1,,
+101531,2,2012,Taieri River,1071026,Timber Creek,743.64,,Timber Creek tributary,,704,193,doco,G44,2299619,5580669,14022334,efp,1,,
+101532,2,2012,Taieri River,1071026,Timber Creek,743.64,,Timber Creek tributary,,745,193,doco,G44,2299464,5580714,14022334,efp,1,,
+101533,2,2012,Taieri River,1071026,Timber Creek,743.64,,Timber Creek tributary,,746,193,doco,G44,2299431,5580797,14022334,efp,1,,
+101534,2,2012,Taieri River,1071026,Timber Creek,743.64, ,Timber Creek tributary, ,741,194,doco,G44,2299310,5580905,14022333,efp,1, , 
+101535,2,2012,Taieri River,1071026,Timber Creek,743.64,,Timber Creek tributary,,751,194,doco,G44,2299274,5580880,14022333,efp,1,,
+101536,2,2012,Taieri River,1071026,Timber Creek,743.64, ,Timber Creek tributary, ,749,194,doco,G44,2299276,5580885,14022333,efp,1, , 
+101537,2,2012,Taieri River,1071026,Timber Creek,743.64,,Timber Creek tributary,,738,194,doco,G44,2299288,5580966,14022010,efp,1,,
+101538,2,2012,Taieri River,1071026,Timber Creek,743.64,,Timber Creek tributary,,780,194,doco,G44,2298946,5581250,14022010,efp,1,,
+101539,2,2012,Taieri River,1071026,Timber Creek,743.64,,Timber Creek tributary,,1089,195,doco,G44,2298419,5581668,14022010,efp,1,,
+101540,2,2012,Taieri River,1071026,Timber Creek,743.64,,Timber Creek tributary,,871,195,doco,G44,2298527,5581612,14022010,efp,1,,
+101541,2,2012,Taieri River,1071026,Timber Creek,743.64,,Timber Creek tributary,,816,195,doco,G44,2298703,5581909,14021761,efp,1,,
+103332,12,2012,Taieri River,1071006,Kye Burn,743.64,1000,Kye Burn,,358,161,otfg,I42,2293539,5555393,14033957,efp,,,540
+103333,12,2012,Taieri River,1071006,Kye Burn,743.64,1557,Kye Burn,,405,167,otfg,I42,2293489,5562717,14030445,efp,,,
+103334,12,2012,Taieri River,1071006,Kye Burn,743.64,1600,Kye Burn,,433,172,otfg,I42,2293263,5565546,14029250,efp,,,300
+103763,2,2012,Clutha River,1071055,Spain Creek,752.636,,Spain Creek,,404,220,uoo,H41,2256955,5566745,14028858,efp,1,,100
+103764,2,2012,Clutha River,1071055,Spain Creek,752.636,,Spain Creek,,404,220,uoo,H41,2255690,5566235,14028858,efp,1,,100
+103765,2,2012,Clutha River,1071055,Spain Creek,752.636,,Spain Creek,,397,218,uoo,H41,2254560,5566305,14029234,efp,1,,100
+103766,2,2012,Taieri River,1071022,Kye Burn tributary 5,743.64,,Kye Burn tributary,,674,186,uoo,I42,2296000,5576070,14024660,efp,1,,100
+103767,2,2012,Taieri River,1071007,Unnamed stream Home Gully,743.64,,Kye Burn tributary,,446,169,uoo,I41,2290945,5564115,14029767,efp,1,,20
+103768,2,2012,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,405,167,uoo,I41,2294155,5561755,14030445,efp,1,,100
+103769,2,2012,Taieri River,1071009,Boundary Creek,743.641,,Boundary Creek,,409,167,uoo,I41,2294530,5561910,14030667,efp,1,,100
+103770,2,2012,Taieri River,1071009,Boundary Creek,743.641,,Boundary Creek,,469,170,uoo,I41,2296960,5563230,14030392,efp,1,,100
+103771,2,2012,Taieri River,1071009,Boundary Creek,743.641,,Boundary Creek,,550,172,uoo,I41,2299045,5564385,14029848,efp,1,,100
+103797,4,2012,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,,Dunstan Creek,,516,237,uoo,H41,2256555,5587860,14019290,efp,1,,100
+103798,4,2012,Clutha River,1071040,Chatto Creek,752.632,,Chatto Creek,,217,189,uoo,G42,2235440,5557190,14033252,efp,1,,60
+103799,4,2012,Clutha River,1071040,Chatto Creek,752.632,,Chatto Creek,,237,192,uoo,G42,2235040,5559460,14032246,efp,1,,60
+103800,4,2012,Clutha River,1071040,Chatto Creek,752.632,,Chatto Creek,,246,192,uoo,G42,2234890,5560050,14031959,efp,1,,60
+103801,4,2012,Clutha River,1071040,Chatto Creek,752.632,,Chatto Creek,,320,199,uoo,G41,2235750,5565680,14029274,efp,1,,60
+103805,4,2012,Taieri River,1071022,Kye Burn tributary 5,743.64,,Kye Burn tributary,,674,186,uoo,I41,2296225,5576110,14024660,efp,1,,60
+103806,4,2012,Taieri River,1071022,Kye Burn tributary 5,743.64,,Kye Burn tributary,,674,186,uoo,I42,2296425,5576170,14024660,efp,1,,60
+103807,4,2012,Taieri River,1071018,Nobbler Stream,743.646,,Nobbler Stream,,534,181,uoo,,2295075,5571910,14026497,efp,1,,60
+103808,4,2012,Taieri River,1071018,Nobbler Stream,743.646,,Nobbler Stream,,534,181,uoo,I41,2295625,5571770,14026497,efp,1,,60
+103809,4,2012,Taieri River,1071018,Nobbler Stream,743.646,,Nobbler Stream,,595,183,uoo,I41,2296990,5571690,14026291,efp,1,,60
+103810,4,2012,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,569,172,uoo,I42,2302475,5559115,14032466,efp,1,,100
+103811,4,2012,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,566,172,uoo,i42,2302125,5559100,14032313,efp,1, ,100
+103812,4,2012,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,640,173,uoo,I42,2304065,5558905,14032581,efp,1,,100
+103813,4,2012,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,617,174,uoo,I42,2304280,5558880,14032615,efp,1,,80
+103816,6,2012,Clutha River,1071054,Ida Burn,752.636,,Ida Burn,,402,219,uoo,H41,2255230,5566895,14028825,efp,1,,100
+103817,6,2012,Clutha River,1071054,Ida Burn,752.636,,Ida Burn,,421,221,uoo,H41,2256660,5567390,14028270,efp,1,,60
+103819,6,2012,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,433,172,uoo,I41,2293240,5565690,14029250,efp,1,,60
+103822,6,2012,Taieri River,1071037,Shepherds Creek,743.72,,Shepherds Creek,,443,186,uoo,H42,2280585,5546355,14038534,efp,1,,80
+103823,6,2012,Taieri River,1071025,Healy Creek,743.648,,Healy Creek,,700,191,uoo,i41,2299285,5578140,14023208,efp,1,,100
+103824,6,2012,Taieri River,1071025,Healy Creek,743.648,,Healy Creek,,700,191,uoo,I41,2299065,5578925,14023208,efp,1,,80
+103825,6,2012,Taieri River,1071025,Healy Creek,743.64,,Kye Burn,,725,191,uoo,I41,2298980,5579060,14022991,efp,1,,60
+103861,9,2012,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,617,174,uoo,I42,2304300,5558905,14032615,efp,1,,60
+103862,9,2012,Taieri River,1071009,Boundary Creek,743.641,,Boundary Creek,,460,170,uoo,I41,2296770,5562995,14030523,efp,1,,60
+103863,9,2012,Taieri River,1071023,German Creek,743.64,,German Creek,,593,188,uoo,H45,2295890,5577495,14023836,efp,1,,80
+103864,9,2012,Taieri River,1071018,Nobbler Stream,743.646,,Nobbler Stream,,534,181,uoo,I41,2295080,5571940,14026497,efp,1,,60
+103865,9,2012,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,Spec Gully,,435,172,uoo,I41,2293070,5565300,14029385,efp,1,,60
+103866,9,2012,Clutha River,1071055,Spain Creek,752.636,,Spain Creek,,404,220,uoo,H41,2256890,5566780,14028858,efp,1,,80
+103867,9,2012,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,,Dunstan Creek,,516,237,uoo,H41,2256545,5587770,14019290,efp,1,,80
+103868,9,2012,Taieri River,1071010,Kye Burn tributary 1,743.64,,Kye Burn tributary,,590,175,uoo,I41,2298135,5565675,14029166,efp,1,,40
+103901,9,2012,Taieri River,1071009,Boundary Creek,743.641,,Boundary Creek,,460,170,uoo,I41,2296965,5563230,14030523,efp,1,,60
+103902,9,2012,Taieri River,1071018,Nobbler Stream,743.646,,Nobblers Stream,,534,181,uoo,I41,2295065,5571880,14026497,efp,1,,60
+103903,9,2012,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,481,168,uoo,I42,2301100,5560205,14031831,efp,1,,80
+103913,11,2012,Taieri River,1071009,Boundary Creek,743.641,,Boundary Creek,,550,172,uoo,I41,2299020,5564395,14029848,efp,1,,60
+103914,11,2012,Taieri River,1071018,Nobbler Stream,743.646,,Nobblers Stream,,534,181,uoo,I41,2295070,5571875,14026497,efp,1,,60
+103915,11,2012,Taieri River,1071023,German Creek,743.64,,German Creek,,582,187,uoo,I41,2295895,5577450,14023892,efp,1,,60
+103923,12,2012,Taieri River,1071024,Kye Burn tributary 6,743.64,,Kye Burn tributary,,652,189,uoo,I41,2297265,5577720,14023763,efp,1,,100
+104926,2,2012,Taieri River,1071009,Boundary Creek,743.641, ,Boundary Creek, ,712,176,uoo,I41,2302867,5564668,14029857,efp, , , 
+104927,4,2012,Taieri River,1071009,Boundary Creek,743.641, ,Boundary Creek, ,712,176,uoo,I41,2302867,5564668,14029857,efp, , , 
+104928,6,2012,Taieri River,1071009,Boundary Creek,743.641, ,Boundary Creek, ,712,176,uoo,I41,2302867,5564668,14029857,efp, , , 
+104929,11,2012,Taieri River,1071009,Boundary Creek,743.641, ,Boundary Creek, ,712,176,uoo,I41,2302867,5564668,14029857,efp, , , 
+104935,2,2012,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637, ,Pierces Gorge, ,746,250,uoo,H41,2271496,5589868,14018950,efp, , , 
+104936,4,2012,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637, ,Pierces Gorge, ,746,250,uoo,H41,2271496,5589868,14018950,efp, , , 
+104937,6,2012,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637, ,Pierces Gorge, ,746,250,uoo,H41,2271496,5589868,14018950,efp, , , 
+104938,11,2012,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637, ,Pierces Gorge, ,746,250,uoo,H41,2271496,5589868,14018950,efp, , , 
+104945,2,2012,Taieri River,1071010,Kye Burn tributary 1,743.64, ,Kye Burn tributary, ,590,175,uoo,I41,2299327,5565673,14029166,efp, , , 
+104946,4,2012,Taieri River,1071010,Kye Burn tributary 1,743.64,,Kye Burn tributary,,590,175,uoo,I41,2299327,5565673,14029166,efp,,,
+104947,6,2012,Taieri River,1071010,Kye Burn tributary 1,743.64,,Kye Burn tributary,,590,175,uoo,I41,2299327,5565673,14029166,efp,,,
+104948,12,2012,Taieri River,1071010,Kye Burn tributary 1,743.64, ,Kye Burn tributary, ,590,175,uoo,I41,2299327,5565673,14029166,efp, , , 
+105956,4,2012,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,Spec Gully,,444,172,doco,I41,2293032,5565925,14028960,efp,3,,125
+105964,4,2012,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,Spec Gully,,508,179,doco,I41,2290332,5570914,14026805,efp,3,,145
+105972,4,2012,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,No 2 Spec Gully,,543,182,doco,H41,2288521,5572278,14026165,efp,3,,145
+107111,2,2012,Clutha River,1071066,Manuherikia River tributary 5,752.63,1604,Manuherikia River tributary,,612,248,rcl,G42,2265942,5592383,14017643,efp,,,
+101289,4,2013,Clutha River,1071050,Maori Creek,752.636, ,Maori Creek, ,589,244,doco,h41,2255740,5548863,14037289,efp,1, , 
+101290,4,2013,Clutha River,1071050,Maori Creek,752.636, ,Maori Creek, ,571,244,doco,h41,2256028,5548995,14037289,efp,1, , 
+101291,4,2013,Clutha River,1071050,Maori Creek,752.636,,Maori Creek,,570,244,doco,H41,2255975,5548923,14037289,efp,1,,
+103933,2,2013,Taieri River,1071012,Old Hut Creek,743.646,,Old Hut Creek,,514,177,uoo,I41,2295030,5568735,14027663,efp,1,,60
+103951,11,2013,Taieri River,1071026,Timber Creek,743.64, ,Timber Creek, ,677,193,uoo,I41,2299790,5580600,14022589,efp,1, ,30
+103952,11,2013,Taieri River,1071026,Timber Creek,743.64, ,Timber Creek, ,669,192,uoo,I41,2299355,5579615,14022626,efp,1, ,30
+103955,11,2013,Taieri River,1071025,Healy Creek,743.648, ,Healy Creek, ,700,191,uoo,I41,2299115,5578840,14023208,efp,1, ,30
+103956,11,2013,Taieri River,1071025,Healy Creek,743.648,,Healy Creek,,700,191,uoo,I41,2299085,5578910,14023208,efp,1,,30
+103958,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,597,189,uoo,I41,2297215,5577785,14023637,efp,1,,30
+103959,11,2013,Taieri River,1071024,Kye Burn tributary 6,743.64,,Kye Burn tributary,,652,189,uoo,I41,2297270,5577720,14023763,efp,1,,30
+103960,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,628,188,uoo,I41,2297020,5577720,14023762,efp,1,,30
+103961,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,648,186,uoo,I41,2296000,5576420,14024254,efp,1,,30
+103962,11,2013,Taieri River,1071023,German Creek,743.64,,German Creek,,593,188,uoo,I41,2295880,5577520,14023836,efp,1,,30
+103963,11,2013,Taieri River,1071022,Kye Burn tributary 5,743.64,,Kye Burn tributary,,674,186,uoo,I41,2296180,5576105,14024660,efp,1,,30
+103964,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,527,184,uoo,I41,2295220,5574220,14025171,efp,1,,30
+103965,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,506,181,uoo,I41,2295220,5572005,14026379,efp,1,,30
+103966,11,2013,Taieri River,1071018,Nobbler Stream,743.646,,Nobblers Stream,,534,181,uoo,I41,2295075,5571950,14026497,efp,1,,30
+103967,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,496,181,uoo,I41,2294895,5572135,14026313,efp,1,,30
+103968,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,488,178,uoo,I41,2293740,5570505,14026650,efp,1,,30
+103969,11,2013,Taieri River,1071013,Little Kye Burn lower,743.647,,Little Kye Burn,,484,178,uoo,I41,2293485,5570280,14027012,efp,1,,30
+103970,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,459,176,uoo,I41,2293650,5568990,14027977,efp,1,,30
+103971,11,2013,Taieri River,1071012,Old Hut Creek,743.646,,Old Hut Creek,,514,177,uoo,I41,2295020,5568765,14027663,efp,1,,30
+103972,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,439,173,uoo,I41,2293645,5566310,14028862,efp,1,,30
+103973,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,433,172,uoo,I41,2293265,5565645,14029250,efp,1,,30
+103974,11,2013,Taieri River,1071011,Unnamed stream Spec Gully,743.64,,Spec Gully,,435,172,uoo,I41,2293055,5565220,14029385,efp,1,,30
+103975,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,431,171,uoo,I41,2292605,5564625,14029832,efp,1,,30
+103976,11,2013,Taieri River,1071010,Kye Burn tributary 1,743.64,,Kye Burn tributary,,426,169,uoo,I41,2293360,5564095,14029994,efp,1,,30
+103977,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,405,167,uoo,I41,2293540,5562665,14030445,efp,1,,30
+103978,11,2013,Taieri River,1071009,Boundary Creek,743.641,,Boundary Creek,,414,167,uoo,I41,2294245,5561940,14030769,efp,1,,30
+103979,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,405,167,uoo,I41,2294230,5561575,14030445,efp,1,,30
+103980,11,2013,Taieri River,1071009,Boundary Creek,743.641,,Boundary Creek,,469,170,uoo,I41,2297000,5563255,14030392,efp,1,,30
+103981,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,414,165,uoo,I41,2294245,5560875,14031395,efp,1,,30
+103982,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,384,162,uoo,I42,2294660,5558495,14032836,efp,1,,30
+103983,11,2013,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,Spec Gully,,508,179,uoo,I41,2290350,5570950,14026805,efp,1,,30
+103984,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,358,157,uoo,I42,2294050,5556680,14033473,efp,1,,30
+103985,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,358,157,uoo,I42,2293890,5556000,14033473,efp,1,,30
+103986,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,348,159,uoo,I42,2292850,5554290,14034395,efp,1,,30
+103987,11,2013,Taieri River,1071006,Kye Burn,743.64,,Kye Burn,,348,159,uoo,I42,2292240,5553040,14034395,efp,1,,30
+103990,11,2013,Taieri River,1071005,Taieri River,743,,Taieri River,,345,157,uoo,I42,2292920,5552330,14035714,efp,1,,30
+103991,11,2013,Taieri River,1071005,Taieri River,743,,Taieri River,,335,156,uoo,I42,2293730,5552720,14035482,efp,1,,30
+103992,11,2013,Taieri River,1071005,Taieri River,743,,Taieri River,,335,156,uoo,I42,2293995,5552805,14035465,efp,1,,30
+103993,11,2013,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,338,156,uoo,I42,2293855,5552940,14034989,efp,1,,30
+103994,11,2013,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,366,157,uoo,I42,2294875,5556420,14033441,efp,1,,30
+103995,11,2013,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,420,163,uoo,I42,2297790,5559090,14032414,efp,1,,30
+103996,11,2013,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,440,166,uoo,I42,2298250,5559430,14032018,efp,1,,30
+103997,11,2013,Taieri River,1071008,Swin Burn,743.63,,Swin Burn,,481,168,uoo,I41,2301070,5560175,14031831,efp,1,,30
+104601,4,2013,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1030,No 2 Spec Gully,,543,182,doco,I41,2288521,5572278,14026165,efp,,,
+104602,4,2013,Taieri River,1071011,Unnamed stream Spec Gully,743.645,,Spec Gully,,508,179,doco,I41,2290332,5570914,14026805,efp,,,
+104603,4,2013,Taieri River,1071007,Unnamed stream Home Gully,743.645,830,Spec Gully,,546,173,doco,I41,2290332,5565925,14026990,efp,,,
+104930,2,2013,Taieri River,1071009,Boundary Creek,743.641, ,Boundary Creek, ,712,176,uoo,I41,2302867,5564668,14029857,efp, , , 
+104931,4,2013,Taieri River,1071009,Boundary Creek,743.641,,Boundary Creek,,712,176,uoo,I41,2302867,5564668,14029857,efp,,,
+104939,2,2013,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637, ,Pierces Gorge, ,746,250,uoo,H41,2271496,5589868,14018950,efp, , , 
+104940,4,2013,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637, ,Pierces Gorge, ,746,250,uoo,H41,2271496,5589868,14018950,efp, , , 
+104949,2,2013,Taieri River,1071010,Kye Burn tributary 1,743.64, ,Kye Burn tributary, ,590,175,uoo,I41,2299327,5565673,14029166,efp, , , 
+104950,4,2013,Taieri River,1071010,Kye Burn tributary 1,743.64, ,Kye Burn tributary, ,590,175,uoo,I41,2299327,5565673,14029166,efp, , , 
+105957,4,2013,Taieri River,1071011,Unnamed stream Spec Gully,743.645,830,Spec Gully,,444,172,doco,I41,2293032,5565925,14028960,efp,3,,77
+117357,12,2013,Clutha River,1071054,Ida Burn,752.636,0,Ida Burn, ,418,221,otfg,H41,2256662,5567370,14028270,efp,, ,
+117360,12,2013,Clutha River,1071079,Dunstan Creek - Beattie Road,752.638,0,Dunstan Creek, ,429,227,otfg,H41,2254664,5580289,14022310,efp,, ,
+117362,12,2013,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,0,Dunstan Creek, ,524,237,otfg,H41,2256534,5587636,14019290,efp,, ,
+117372,11,2013,Clutha River,1071071,Thompsons Creek tributary 6,752.147,0,Thompsons Creek, ,341,206,otfg,G44,2242343,5567459,14028537,efp,, ,
+117373,12,2013,Clutha River,1071078,Thompsons Creek 1,752.147,0,Thompsons Creek, ,325,200,otfg,G44,2241686,5564239,14029484,efp,, ,
+103470,9,2014,Taieri River,1071011,Unnamed stream Spec Gully,743.645,901,No 1 Spec Gully,,578,183,uoo,I41,2287639,5572486,14025863,efp,,,
+104225,9,2014,Taieri River,1071001,Taieri River tributary 1,743,1440,Taieri River tributary,,211,96,doco,h43,2282952,5512148,14051067,efp,1,,
+104226,9,2014,Taieri River,1071001,Taieri River tributary 1,743,1445,Taieri River tributary,,211,96,doco,h43,2282907,5512102,14051067,efp,1,,
+104228,9,2014,Taieri River,1071001,Taieri River tributary 1,743,1505,Taieri River tributary, ,203,95,doco,h43,2284209,5512471,14051121,efp,1, ,
+104229,9,2014,Taieri River,1071001,Taieri River tributary 1,743,1515,Taieri River tributary, ,203,95,doco,h43,2284173,5512473,14051121,efp,1, ,
+104230,9,2014,Taieri River,1071001,Taieri River tributary 1,743,1520,Taieri River tributary,,203,95,doco,H43,2284152,5512474,14051121,efp,1,,
+104231,9,2014,Taieri River,1071001,Taieri River tributary 1,743,1530,Taieri River tributary,,203,95,doco,H43,2284150,5512470,14051121,efp,1,,
+104232,9,2014,Taieri River,1071001,Taieri River tributary 1,743,1535,Taieri River tributary,,203,95,doco,H43,2284123,5512471,14051121,efp,1,,
+104233,9,2014,Taieri River,1071001,Taieri River tributary 1,743, ,Taieri River tributary, ,203,95,doco,h43,2284483,5512081,14051121,efp,1, ,
+104234,9,2014,Taieri River,1071001,Taieri River tributary 1,743, ,Spratts Creek, ,203,95,doco,h43,2284435,5512073,14051121,efp,1, ,
+104235,9,2014,Taieri River,1071001,Taieri River tributary 1,743, ,Taieri River tributary, ,203,95,doco,h43,2284375,5512206,14051121,efp,1, ,
+104236,9,2014,Taieri River,1071001,Taieri River tributary 1,743,,Taieri River tributary,,203,95,doco,H43,2284339,5512279,14051121,efp,1,,15
+104237,9,2014,Taieri River,1071001,Taieri River tributary 1,743, ,Taieri River tributary, ,203,95,doco,h43,2284316,5512330,14051121,efp,1, ,
+104238,9,2014,Taieri River,1071001,Taieri River tributary 1,743, ,Taieri River tributary, ,203,95,doco,h43,2284300,5512346,14051121,efp,1, ,
+104239,9,2014,Taieri River,1071001,Taieri River tributary 1,743,,Taieri River tributary,,203,95,doco,H43,2283780,5512407,14051121,efp,1,,48
+104240,9,2014,Taieri River,1071001,Taieri River tributary 1,743, ,Taieri River tributary, ,203,95,doco,h43,2283967,5512467,14051121,efp,1, ,
+104263,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1100,Thomsons Creek, ,379,208,doco,g41,2237833,5568617,14028042,efp,1, ,
+104264,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1115,Thomsons Creek,,379,208,doco,G41,2237874,5568622,14028042,efp,1,,
+104265,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1130,Thomsons Creek, ,379,208,doco,g41,2237906,5568632,14028042,efp,1, ,
+104266,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.147,1145,Thompsons Creek, ,379,208,doco,g41,2237923,5568644,14028042,efp,1, ,
+104267,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1200,Thomsons Creek, ,379,208,doco,g41,2237977,5568657,14028042,efp,1, ,
+104268,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1215,Thomsons Creek,,379,208,doco,G41,2238008,5568668,14028042,efp,1,,
+104269,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1230,Thomsons Creek, ,362,208,doco,g41,2238054,5568645,14028025,efp,1, ,
+104270,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1245,Thomsons Creek, ,362,208,doco,g41,2238094,5568642,14028025,efp,1, ,
+104271,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1300,Thomsons Creek,,362,208,doco,G41,2238270,5568580,14028025,efp,1,,
+104272,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1315,Thomsons Creek, ,379,208,doco,g41,2237985,5568685,14028042,efp,1, ,
+104273,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1330,Thomsons Creek,,379,208,doco,G41,2237990,5568728,14028042,efp,1,,
+104274,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1345,Thomsons Creek, ,379,208,doco,g41,2237988,5568736,14028042,efp,1, ,
+107350,5,2014,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1145,Thomsons Creek, ,379,208,doco,G41,2237923,5568644,14028042,efp, , , 
+117358,1,2014,Clutha River,1071054,Ida Burn,752.636,0,Ida Burn, ,437,226,otfg,H41,2260460,5568864,14027870,efp,, ,
+117359,1,2014,Clutha River,1071054,Ida Burn,752.636,0,Ida Burn, ,415,221,otfg,H41,2256545,5567227,14028674,efp,, ,
+117370,2,2014,Clutha River,1071040,Chatto Creek,752.632,0,Chatto Creek, ,215,189,otfg,G42,2235441,5557154,14033426,efp,, ,
+102360,2,2015,Taieri River,1071005,Taieri River,743,1000,Taieri River, ,335,156,otfg,I45,2293805,5552755,14035482,efp, , , 
+103451,9,2015,Clutha River,1071061,Woolshed Creek,752.638, ,Woolshed Creek tributary, ,430,228,ind,H41,2253952,5579570,14022553,efp, , , 
+103452,9,2015,Clutha River,1071061,Woolshed Creek,752.638, ,Woolshed Creek tributary, ,430,228,ind,H41,2254043,5579516,14022553,efp, , , 
+104978,12,2015,Clutha River,1071061,Woolshed Creek,752.638,,Woolshed Creek tributary,,430,228,doco,H41,2254039,5579514,14022553,efp,1,,
+104979,12,2015,Clutha River,1071061,Woolshed Creek,752.638,,Woolshed Creek tributary,,430,228,doco,H41,2254012,5579539,14022553,efp,1,,
+104980,12,2015,Clutha River,1071061,Woolshed Creek,752.638,,Woolshed Creek tributary,,430,228,doco,H41,2253965,5579564,14022553,efp,1,,
+104981,12,2015,Clutha River,1071061,Woolshed Creek,752.638,,Woolshed Creek tributary,,430,228,doco,H41,2253942,5579583,14022553,efp,1,,
+104982,12,2015,Clutha River,1071061,Woolshed Creek,752.638,,Woolshed Creek tributary,,430,228,doco,H41,2253848,5579724,14022553,efp,1,,
+104983,12,2015,Clutha River,1071061,Woolshed Creek,752.638,,Woolshed Creek tributary,,430,228,doco,H41,2253836,5579746,14022553,efp,1,,
+104984,12,2015,Clutha River,1071061,Woolshed Creek,752.638,,Woolshed Creek tributary,,430,228,doco,H41,2253925,5579630,14022553,efp,1,,
+104985,12,2015,Clutha River,1071061,Woolshed Creek,752.638,,Woolshed Creek tributary,,430,228,doco,H41,2254075,5579629,14022553,efp,1,,
+104986,12,2015,Clutha River,1071061,Woolshed Creek,752.638,,Woolshed Creek tributary,,430,228,doco,H41,2254063,5579600,14022553,efp,1,,
+104987,12,2015,Clutha River,1071061,Woolshed Creek,752.638, ,Woolshed Creek, ,436,228,doco,H41,2253692,5579787,14022764,efp,1, , 
+108410,4,2015,Taieri River,1071008,Swin Burn,743.63,1000,Swin Burn tributary,,674,172,doco,I42,2303203,5560992,14031533,efp,,,
+108411,4,2015,Taieri River,1071008,Swin Burn,743.63,1030,Swin Burn tributary, ,674,172,doco,I42,2302788,5561078,14031533,efp, , , 
+108412,4,2015,Taieri River,1071008,Swin Burn,743.63,1040,Swin Burn tributary, ,674,172,doco,I42,2303033,5561003,14031533,efp, , , 
+108413,4,2015,Taieri River,1071008,Swin Burn,743.63,1230,Swin Burn tributary, ,610,172,doco,I42,2302743,5561238,14031445,efp, , , 
+108414,4,2015,Taieri River,1071008,Swin Burn,743.63,1200,Swin Burn tributary,,674,172,doco,I42,2303368,5560992,14031533,efp,,,
+112460,2,2015,Clutha River,1071070,Laheys Creek,752.632,1427,Laheys Creek, ,445,197,wwcl,G42,2232974,5563475,14029157,efp, , , 
+112461,2,2015,Clutha River,1071070,Laheys Creek,752.632,1540,Laheys Creek, ,311,197,wwcl,G42,2233283,5562975,14030471,efp, , , 
+104976,1,2016,Taieri River,1071003,Scrub Burn,743.55,1630,Scrub Burn, ,339,137,doco,I42,2293395,5538704,14041880,obs,1, ,1
+104977,1,2016,Taieri River,1071003,Scrub Burn,743.55,1645,Scrub Burn,,339,137,doco,I42,2293361,5538705,14041880,obs,1,,1
+106027,3,2016,Taieri River,1071010,Kye Burn tributary 1,743.64,1500,Kye Burn tributary,,456,171,doco,I42,2294481,5564634,14029703,han,,,1
+106031,3,2016,Taieri River,1071008,Swin Burn,743.63,1400,Swin Burn tributary,,481,168,doco,I42,2299267,5561099,14031194,efp,,,40
+106032,3,2016,Taieri River,1071008,Swin Burn,743.63,1500,Swin Burn,,481,168,doco,I42,2300007,5560271,14031831,vbd,,,
+106313,2,2016,Taieri River,1071029,Ewe Burn lower,743.7,1630,Ewe Burn,,370,174,doco,H42,2282566,5555018,14034352,efp,,,45
+106314,2,2016,Taieri River,1071029,Ewe Burn lower,743.7,1600,Ewe Burn,,394,176,doco,H42,2281907,5556017,14032916,efp,,,10
+106315,2,2016,Taieri River,1071029,Ewe Burn lower,743.7,1530,Ewe Burn,,394,176,doco,H42,2281873,5556047,14032916,efp,,,140
+106316,2,2016,Taieri River,1071029,Ewe Burn lower,743.7,1500,Ewe Burn,,394,176,doco,H42,2281829,5556078,14032916,efp,,,40
+107429,6,2016,Taieri River,1071008,Swin Burn,743.63,1500,Swin Burn tributary, ,674,172,doco,I42,2303083,5560999,14031533,efp, , , 
+107430,6,2016,Taieri River,1071008,Swin Burn,743.63,1521,Swin Burn tributary,,674,172,doco,I42,2303160,5560995,14031533,efp,,,
+107431,6,2016,Taieri River,1071008,Swin Burn,743.63,1525,Swin Burn tributary,,674,172,doco,I42,2303188,5560999,14031533,efp,,,
+107432,6,2016,Taieri River,1071008,Swin Burn,743.63,1529,Swin Burn tributary,,674,172,doco,I42,2303214,5560996,14031533,efp,,,
+107433,6,2016,Taieri River,1071008,Swin Burn,743.63,1535,Swin Burn tributary,,674,172,doco,I42,2303230,5560993,14031533,efp,,,
+107434,6,2016,Taieri River,1071008,Swin Burn,743.63,1539,Swin Burn tributary,,674,172,doco,I42,2303263,5560994,14031533,efp,,,
+107435,6,2016,Taieri River,1071008,Swin Burn,743.63,1543,Swin Burn tributary,,674,172,doco,I42,2303299,5560986,14031533,efp,,,
+107436,6,2016,Taieri River,1071008,Swin Burn,743.63,1546,Swin Burn tributary,,674,172,doco,I42,2303325,5560988,14031533,efp,,,
+107437,5,2016,Taieri River,1071024,Kye Burn tributary 6,743.64,1550,Kye Burn tributary,,652,189,doco,I42,2297224,5577740,14023763,efp,,,
+107438,5,2016,Taieri River,1071006,Kye Burn,743.64,1600,Kye Burn tributary, ,652,189,doco,I42,2297193,5577752,14023763,efp, , , 
+107439,5,2016,Taieri River,1071006,Kye Burn,743.64,805,Kye Burn,,597,189,doco,I42,2297194,5577778,14023637,efp,,,
+107440,5,2016,Taieri River,1071026,Timber Creek,743.64,810,Kye Burn tributary,,747,193,doco,I42,2299560,5580257,14022616,efp,,,
+107441,5,2016,Taieri River,1071026,Timber Creek,743.64,814,Kye Burn tributary,,747,193,doco,I42,2299526,5580247,14022616,efp,,,
+107442,5,2016,Taieri River,1071026,Timber Creek,743.64,817,Kye Burn tributary, ,747,193,doco,I42,2299607,5580266,14022616,vbd, , , 
+107443,5,2016,Taieri River,1071026,Timber Creek,743.64,820,Kye Burn tributary, ,747,193,doco,I42,2299651,5580254,14022616,vbd, , , 
+107444,5,2016,Taieri River,1071026,Timber Creek,743.64,823,Kye Burn tributary, ,747,193,doco,I42,2299712,5580245,14022616,vbd, , , 
+107445,5,2016,Taieri River,1071026,Timber Creek,743.64,827,Kye Burn tributary,,747,193,doco,I42,2299740,5580276,14022616,efp,,,
+107446,5,2016,Taieri River,1071026,Timber Creek,743.64,845,Kye Burn tributary,,675,193,doco,I42,2299783,5580286,14022589,efp,,,
+107591,8,2016,Clutha River,1071063,Unnamed stream Long Gully lower,752.639,1000,Long Gully, ,406,224,doco,H41,2256275,5576353,14024186,han, , ,1
+107594,8,2016,Clutha River,1071048,Lauder Creek tributary,752.635,1130,Lauder Creek tributary,,382,220,doco,G41,2249321,5574537,14025363,tfu,,,1
+107595,8,2016,Clutha River,1071048,Lauder Creek tributary,752.635,1135,Lauder Creek tributary,,382,220,doco,G41,2249359,5574538,14025363,tfu,,,1
+107596,8,2016,Clutha River,1071048,Lauder Creek tributary,752.635,1145,Lauder Creek tributary,,382,220,doco,G41,2249234,5574533,14025363,tfu,,,1
+108321,9,2016,Taieri River,1071030,Ewe Burn tributary 1,743.7,,Ewe Burn tributary,,383,178,doco,H42,2281299,5555914,14033639,efp,,,
+108322,9,2016,Taieri River,1071030,Ewe Burn tributary 1,743.7, ,Ewe Burn tributary, ,383,178,doco,H42,2281386,5555812,14033639,efp, , , 
+110632,4,2016,Taieri River,1071006,Kye Burn,743.64,1637,Kye Burn,,527,184,docc,I42,2295250,5574189,14025171,efp,,,
+110661,10,2016,Taieri River,1071037,Shepherds Creek,743.72,1421,Shepherds Creek,,539,188,docc,H42,2281072,5544767,14039053,han,,,2
+110671,2,2017,Taieri River,1071002,Taieri River tributary 2,0,1345,Taieri River tributary,,324,116,docc,,2287755,5525287,14046808,efp,,,2
+110677,2,2017,Taieri River,1071074,Eden Creek upper,743.71,1625,Eden Creek,,410,189,docc,H42,2274496,5559224,14032129,han,,,1
+110678,2,2017,Taieri River,1071038,Whether Burn,743.742,1651,Wether Burn,,437,199,docc,H42,2270804,5562495,14030575,efp,,,
+110683,2,2017,Taieri River,1071038,Whether Burn,743.742,1841,Wether Burn tributary,,561,203,docc,H42,2267379,5563746,14030261,vbd,,,
+110714,2,2017,Clutha River,1071066,Manuherikia River tributary 5,752.63,1502,Manuherikia River tributary, ,612,248,docc,G42,2265978,5592330,14017643,efp, , , 
+110715,2,2017,Clutha River,1071066,Manuherikia River tributary 5,752.63,1414,Manuherikia River tributary,,612,248,docc,G42,2265899,5592397,14017643,efp,,,
+110720,2,2017,Clutha River,1071067,Manuherikia River West Branch,752.63,1800,Manuherikia River West Branch, ,750,259,docc,G42,2264230,5601771,14014765,efp, , , 
+110721,2,2017,Clutha River,1071049,Dovedale Creek,752.636,916,Dovedale Creek,,428,233,docc,G42,2250432,5553673,14034488,efp,,,
+110723,2,2017,Clutha River,1071047,Manuherikia River tributary 2,752.63,947,Manuherikia River tributary,,332,200,docc,G42,2243063,5561280,14031404,han,,,1
+110725,2,2017,Clutha River,1071071,Thompsons Creek tributary 6,752.634,1142,Thomsons Creek tributary,,348,206,docc,G41,2242548,5567448,14028255,efp,,,
+110726,2,2017,Clutha River,1071071,Thompsons Creek tributary 6,752.634,1204,Thomsons Creek tributary,,348,206,docc,G41,2242353,5567375,14028255,efp,,,
+110728,2,2017,Clutha River,1071071,Thompsons Creek tributary 6,752.634,1415,Thomsons Creek,,342,206,docc,G41,2242333,5567448,14028537,efp,,,
+110731,2,2017,Clutha River,1071046,Thompsons Creek tributary 5,752.634,1506,Thomsons Creek tributary, ,371,208,docc,G41,2239657,5569836,14026784,efp, , , 
+110733,2,2017,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1538,Thomsons Creek tributary, ,379,208,docc,G41,2237715,5568568,14028042,efp, , , 
+110735,2,2017,Clutha River,1071045,Thompsons Creek tributary 4,752.634,1642,Thomsons Creek tributary,,335,205,docc,G41,2240658,5567694,14028469,han,,,1
+110736,2,2017,Clutha River,1071042,Thompsons Creek tributary 1,752.634,1655,Thomsons Creek tributary, ,316,201,docc,G41,2240466,5563163,14030075,han, , ,1
+110737,2,2017,Clutha River,1071042,Thompsons Creek tributary 1,752.634,1716,Thomsons Creek tributary, ,313,201,docc,G41,2240648,5563052,14030488,vbd, , , 
+110739,2,2017,Clutha River,1071052,Moa Creek lower,752.636,1809,Moa Creek, ,450,241,docc,G42,2246621,5547331,14038036,vbd, , , 
+110741,2,2017,Clutha River,1071042,Thompsons Creek tributary 1,752.634,953,Thomsons Creek tributary,,341,201,docc,G41,2240914,5562890,14027868,tfu,,,4
+110742,2,2017,Clutha River,1071040,Chatto Creek,752.632,1038,Chatto Creek,,217,189,docc,G42,2235439,5557143,14033252,efp,,,
+110743,2,2017,Clutha River,1071070,Laheys Creek,752.632,1222,Laheys Creek,,445,197,docc,G42,2232927,5563392,14029157,vbd,,,
+110744,2,2017,Clutha River,1071070,Laheys Creek,752.632,1249,Laheys Creek,,311,197,docc,G42,2233016,5563088,14030471,vbd,,,
+110751,2,2017,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,1705,Dunstan Creek,,516,237,docc,H41,2256510,5587724,14019290,efp,,,
+110753,2,2017,Taieri River,1071007,Unnamed stream Home Gully,743.642,931,Home Gully,,472,172,docc,I41,2289892,5564671,14029118,han,,,2
+110756,2,2017,Taieri River,1071077,Hog Burn lower,743.65,1023,Hog Burn, ,424,179,docc,H42,2286881,5561142,14031257,vbd, , , 
+110758,2,2017,Taieri River,1071068,Taieri River tributary 3,743.64,1041,Kye Burn tributary,,397,165,docc,I42,2292928,5559525,14031641,efp,,,
+110759,2,2017,Taieri River,1071006,Kye Burn,743.64,1109,Kye Burn,,358,157,docc,I42,2293973,5556671,14033473,efp,,,
+110760,2,2017,Taieri River,1071006,Kye Burn,743.64,1125,Kye Burn,,358,157,docc,I42,2293935,5556395,14033473,efp,,,
+110762,2,2017,Taieri River,1071008,Swin Burn,743.63,1217,Swin Burn, ,366,157,docc,I42,2294882,5556419,14033441,efp, , , 
+110765,2,2017,Taieri River,1071008,Swin Burn,743.63,1300,Swin Burn, ,338,156,docc,I42,2293858,5552936,14034989,vbd, , , 
+112002,5,2017,Taieri River,1071008,Swin Burn,743.63, ,Swin Burn tributary, ,566,172,doco,I42,2302336,5558894,14032313,efp, , , 
+112003,5,2017,Taieri River,1071008,Swin Burn,743.63,,Swin Burn tributary,,539,172,doco,I42,2302371,5558864,14032650,efp,,,
+112314,9,2017,Taieri River,1071072,Taieri River tributary,743.7,1600,Ewe Burn tributary, ,462,182,doco,H42,2282245,5563222,14030288,tfu, , ,1
+112315,9,2017,Taieri River,1071072,Taieri River tributary,743.7,1615,Ewe Burn tributary, ,462,182,doco,H42,2282238,5563226,14030288,tfu, , ,1
+112316,9,2017,Taieri River,1071072,Taieri River tributary,743.7,1630,Ewe Burn tributary, ,462,182,doco,H42,2282234,5563240,14030288,tfu, , ,1
+112317,9,2017,Taieri River,1071072,Taieri River tributary,743.7,1700,Ewe Burn tributary, ,462,182,doco,H42,2282256,5563265,14030288,tfu, , ,1
+112318,9,2017,Taieri River,1071072,Taieri River tributary,743.7,1715,Ewe Burn tributary, ,462,182,doco,H42,2282345,5563249,14030288,han, , ,1
+112420,10,2017,Taieri River,1071013,Little Kye Burn lower,743.647,1000,Little Kye Burn, ,484,178,wwcl,I41,2293573,5570224,14027012,efp, , , 
+112421,10,2017,Taieri River,1071006,Kye Burn,743.64,1130,Kye Burn, ,433,172,wwcl,I42,2293249,5565516,14029250,efp, , , 
+112422,10,2017,Taieri River,1071006,Kye Burn,743.64,1303,Kye Burn, ,405,167,wwcl,I42,2293796,5562016,14030445,efp, , , 
+112423,10,2017,Taieri River,1071006,Kye Burn,743.64,1428,Kye Burn, ,358,157,wwcl,I42,2293990,5556167,14033473,efp, , , 
+112435,9,2017,Clutha River,1071075,Thompsons Creek tributary 7,752.634,,Thomsons Creek tributary,,361,207,doco,G41,2243123,5568917,14027432,tfu,,,1
+112436,9,2017,Clutha River,1071075,Thompsons Creek tributary 7,752.634,,Thomsons Creek tributary,,361,207,doco,G41,2243151,5568961,14027432,tfu,,,1
+112437,9,2017,Clutha River,1071075,Thompsons Creek tributary 7,752.634,,Thomsons Creek tributary,,361,207,doco,G41,2243186,5568992,14027432,tfu,,,1
+112438,9,2017,Clutha River,1071075,Thompsons Creek tributary 7,752.634,,Thomsons Creek tributary,,361,207,doco,G41,2243132,5569017,14027432,tfu,,,1
+112439,9,2017,Clutha River,1071075,Thompsons Creek tributary 7,752.634,,Thomsons Creek tributary,,361,207,doco,G41,2243114,5569083,14027432,tfu,,,1
+112521,9,2017,Clutha River,1071075,Thompsons Creek tributary 7,752.634,,Thomsons Creek unnamed tributary,,369,207,doco,G41,2243114,5569060,14026911,tfu,,,1
+112522,9,2017,Clutha River,1071075,Thompsons Creek tributary 7,752.634,,Thomsons Creek unnamed tributary,,369,207,doco,G41,2243078,5569083,14026911,tfu,,,1
+112523,9,2017,Clutha River,1071075,Thompsons Creek tributary 7,752.634, ,Thomsons Creek unnamed tributary, ,369,207,doco,G41,2243043,5569089,14026911,tfu, , ,1
+112524,9,2017,Clutha River,1071075,Thompsons Creek tributary 7,752.634, ,Thomsons Creek unnamed tributary, ,369,207,doco,G41,2243028,5569132,14026911,tfu, , ,1
+112525,9,2017,Clutha River,1071075,Thompsons Creek tributary 7,752.634, ,Thomsons Creek unnamed tributary, ,369,207,doco,G41,2243046,5569197,14026911,tfu, , ,1
+112626,9,2017,Clutha River,1071075,Thompsons Creek tributary 7,752.634,,Thomsons Creek tributary,,361,207,doco,G41,2243008,5568852,14027432,vbd,,,
+112964,6,2017,Taieri River,1071030,Ewe Burn tributary 1,743, ,Taieri River tributary, ,383,178,rcl,I45,2281280,5556067,14033639,tfb, , ,2
+112965,6,2017,Taieri River,1071029,Ewe Burn lower,743.7, ,Ewe Burn tributary, , , ,rcl,H42,2281613,5556177, ,tfb, , ,3
+113289,1,2018,Taieri River,1071004,Prices Creek,743.57,1100,Prices Creek, ,385,144,doco, ,2294443,5544222,14039312,han,1, ,1
+113290,1,2018,Taieri River,1071004,Prices Creek,743.57,1130,Prices Creek, ,385,144,doco, ,2294392,5544249,14039312,vbd,1, , 
+113292,1,2018,Taieri River,1071028,Hog Burn upper,743.65,1415,Hog Burn, ,529,188,doco, ,2285429,5568920,14027789,vbd,1, , 
+113293,1,2018,Taieri River,1071008,Swin Burn,743.63,1500,Swin Burn tributary, ,674,172,doco, ,2303075,5561001,14031533,efp,1, ,5
+113294,1,2018,Taieri River,1071008,Swin Burn,743.63,1600,Swin Burn tributary, ,674,172,doco, ,2303089,5560999,14031533,efp,1, ,10
+113295,1,2018,Taieri River,1071017,Little Kye Burn upper,743.647,1230,Little Kye Burn, ,794,192,doco, ,2293179,5581524,14021911,efp,1, , 
+113296,1,2018,Taieri River,1071017,Little Kye Burn upper,743.647,1330,Little Kye Burn, ,794,192,doco, ,2293103,5581337,14021911,efp,1, ,8
+113297,1,2018,Taieri River,1071017,Little Kye Burn upper,743.647,1340,Little Kye Burn, ,794,192,doco, ,2293062,5581188,14021911,efp,1, ,7
+113298,1,2018,Taieri River,1071017,Little Kye Burn upper,743.647,1400,Little Kye Burn, ,794,192,doco, ,2293034,5581084,14021911,efp,1, ,2
+113299,1,2018,Taieri River,1071017,Little Kye Burn upper,743.647,1530,Little Kye Burn tributary, ,658,188,doco, ,2291901,5578467,14023302,vbd,1, , 
+113300,1,2018,Taieri River,1071017,Little Kye Burn upper,743.647,1545,Little Kye Burn tributary, ,658,188,doco, ,2291936,5578488,14023302,vbd,1, , 
+113301,1,2018,Taieri River,1071013,Little Kye Burn lower,743.647,1600,Little Kye Burn, ,591,186,doco, ,2290896,5576871,14024028,efp,1, ,5
+113302,1,2018,Taieri River,1071015,Deep Stream,743.647,1630,Deep Stream, ,554,185,doco, ,2290904,5575611,14024815,vbd,1, , 
+113305,1,2018,Taieri River,1071074,Eden Creek lower,743.71,1120,Eden Creek, ,367,180,doco, ,2277533,5553602,14034676,han,1, ,1
+113306,1,2018,Taieri River,1071074,Eden Creek lower,743.71,1130,Eden Creek, ,384,183,doco, ,2276429,5554906,14034123,han,1, ,1
+113312,1,2018,Taieri River,1071073,Ewe Burn tributary 5,743.7,830,Ewe Burn tributary, ,466,183,doco, ,2281546,5564373,14029854,tfu, , ,4
+113313,1,2018,Taieri River,1071035,Ewe Burn East Branch,743.703,1050,East Ewe Burn, ,704,199,doco, ,2282781,5576196,14024464,efp,1, , 
+113314,1,2018,Taieri River,1071035,Ewe Burn East Branch,743.703,1130,East Ewe Burn tributary,,755,201,doco,,2282705,5576360,14024424,efp,1,,
+113315,1,2018,Taieri River,1071035,Ewe Burn East Branch,743.703,1200,East Ewe Burn, ,750,201,doco, ,2283388,5576680,14024135,efp,1, , 
+113316,1,2018,Taieri River,1071035,Ewe Burn East Branch,743.703,1230,East Ewe Burn, ,750,201,doco, ,2283538,5576967,14024135,efp,1, , 
+113317,1,2018,Taieri River,1071035,Ewe Burn East Branch,743.703,1300,East Ewe Burn, ,798,202,doco, ,2283654,5577438,14023667,efp,1, , 
+113680,4,2018,Clutha River,1071067,Manuherikia River West Branch,752.63,1647,Manuherikia River West Branch, ,750,259,wwcl,G42,2264346,5601758,14014765,efp, , , 
+114098,5,2018,Clutha River,1071043,Thompsons Creek tributary 2,752.147,900,Thompsons Creek tributary,,348,206,rdcl,G44,2239336,5567181,14028163,efp,,,
+114106,5,2018,Clutha River,1071076,Pool Burn tributary,752.636, ,Pool Burn tributary, ,412,225,rdcl,G41,2253400,5558300,14031975,efp, , , 
+114114,5,2018,Clutha River,1071040,Chatto Creek,752.632, ,Chatto Creek, ,246,192,rdcl,G42,2234910,5560105,14031959,efp, , , 
+114141,5,2018,Clutha River,1071044,Thompsons Creek tributary 3,752.634,,Thomsons Creek tributary,,362,208,rdcl,G41,2238480,5568375,14028025,efp,,,
+114155,5,2018,Taieri River,1071034,Ewe Burn upper,743.704, ,Ewe Burn West Branch, ,476,184,rdcl,H41,2279331,5564348,14029687,efp, , , 
+114157,5,2018,Taieri River,1071029,Ewe Burn lower,743.7, ,Ewe Burn, ,432,179,rdcl,H42,2280774,5559666,14031033,efp, , , 
+114173,5,2018,Taieri River,1071029,Ewe Burn lower,743.7, ,Ewe Burn, ,394,176,rdcl,H42,2281674,5557054,14032916,efp, , , 
+114175,5,2018,Taieri River,1071029,Ewe Burn lower,743.7, ,Ewe Burn, ,394,176,rdcl,H42,2281864,5556045,14032916,efp, , , 
+114192,6,2018,Clutha River,1071076,Pool Burn tributary,752.636, ,Pool Burn tributary, ,412,225,rdcl,G41,2253679,5558125,14031975,efp, , , 
+114882,11,2018,Taieri River,1071001,Taieri River tributary 1,743,,Spratts Creek,,247,99,doco,,2281595,5510616,14051570,tfu,,,1
+114883,11,2018,Taieri River,1071001,Taieri River tributary 1,743,,Spratts Creek,,247,99,doco,,2281709,5510502,14051570,tfu,,,1
+114884,11,2018,Taieri River,1071001,Taieri River tributary 1,743,,Spratts Creek,,247,99,doco,,2281589,5510694,14051570,tfu,,,1
+114885,11,2018,Taieri River,1071001,Taieri River tributary 1,743,,Spratts Creek,,247,99,doco,,2281573,5510710,14051570,tfu,,,1
+114886,11,2018,Taieri River,1071001,Taieri River tributary 1,743,,Spratts Creek,,247,99,doco,,2281616,5510747,14051570,tfu,,,1
+114887,11,2018,Taieri River,1071001,Taieri River tributary 1,743, ,Spratts Creek, ,241,99,doco, ,2281551,5510726,14051569,tfu, , ,1
+114888,11,2018,Taieri River,1071001,Taieri River tributary 1,743, ,Spratts Creek, ,230,98,doco, ,2281602,5510805,14051304,tfu, , ,1
+114889,11,2018,Taieri River,1071001,Taieri River tributary 1,743, ,Spratts Creek, ,200,95,doco, ,2283959,5512466,14051121,tfu, , ,3
+114890,11,2018,Taieri River,1071001,Taieri River tributary 1,743, ,Spratts Creek, ,200,95,doco, ,2284074,5512466,14051121,tfu, , ,3
+114891,11,2018,Taieri River,1071001,Taieri River tributary 1,743, ,Spratts Creek, ,200,95,doco, ,2284223,5512469,14051121,tfu, , ,3
+114892,11,2018,Taieri River,1071001,Taieri River tributary 1,743, ,Spratts Creek, ,200,95,doco, ,2284363,5512214,14051121,ntc, , ,4
+114893,11,2018,Taieri River,1071001,Taieri River tributary 1,743, ,Taieri River tributary, ,191,94,doco, ,2284855,5511689,14051283,tfu, , ,2
+114894,11,2018,Taieri River,1071001,Taieri River tributary 1,743, ,Taieri River tributary, ,241,99,doco, ,2281551,5510726,14051569,efp,1, , 
+114895,11,2018,Taieri River,1071001,Taieri River tributary 1,743, ,Taieri River tributary, ,230,98,doco, ,2281602,5510805,14051304,obs,1, ,1
+116524,5,2018,Taieri River,1071001,Taieri River tributary 1,743.27,0,Deadbullock Creek, ,241,99,doco, ,2281543,5510749,14051569,efp,1, ,
+115348,1,2019,Clutha River,1071057,Hills Creek,752.636,1601,Hills Creek tributary, ,588,242,doco, ,2266119,5578816,14022832,tfu, , ,2
+115349,1,2019,Clutha River,1071057,Hills Creek,752.636,1606,Hills Creek tributary, ,588,242,doco, ,2266124,5578827,14022832,tfu, , ,1
+115350,1,2019,Clutha River,1071057,Hills Creek,752.636,1608,Hills Creek tributary, ,588,242,doco, ,2266133,5578862,14022832,tfu, , ,1
+115351,1,2019,Clutha River,1071057,Hills Creek,752.636,1652,Hills Creek tributary, ,568,241,doco, ,2266219,5578619,14023220,tfu, , ,2
+115352,1,2019,Clutha River,1071057,Hills Creek,752.636,1700,Hills Creek tributary, ,568,241,doco, ,2266227,5578609,14023220,tfu, , ,2
+115353,1,2019,Clutha River,1071057,Hills Creek,752.636,1710,Hills Creek tributary, ,568,241,doco, ,2266238,5578590,14023220,tfu, , ,1
+115354,1,2019,Clutha River,1071057,Hills Creek,752.636,1750,Hills Creek tributary, ,629,243,doco, ,2267087,5579770,14022263,tfu, , ,2
+115355,1,2019,Clutha River,1071057,Hills Creek,752.636,1800,Hills Creek tributary, ,588,242,doco, ,2267071,5579751,14022832,tcu, , ,2
+115356,1,2019,Clutha River,1071057,Hills Creek,752.636,1000,Hills Creek tributary, ,568,241,doco, ,2266425,5578694,14023220,vbd, , ,10
+115357,1,2019,Clutha River,1071057,Hills Creek,752.636,1016,Hills Creek tributary, ,588,242,doco, ,2266205,5578860,14022832,vbd, , ,10
+115358,1,2019,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637,1327,Johnstones Creek tributary, ,716,250,doco, ,2271524,5589886,14018950,efp,1, ,20
+115359,1,2019,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637,1355,Johnstones Creek tributary, ,778,252,doco, ,2271826,5590071,14018894,efp,1, ,20
+115360,1,2019,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637,1427,Johnstones Creek tributary,,872,252,doco,,2272096,5590250,14018702,efp,1,,5
+115361,1,2019,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637,1435,Johnstones Creek tributary,,872,252,doco,,2272097,5590210,14018702,efp,1,,5
+115362,1,2019,Clutha River,1071065,Unnamed stream Pierces Gorge,752.637,1456,Johnstones Creek tributary,,774,252,doco,,2271622,5590043,14018877,efp,1,,5
+115363,1,2019,Clutha River,1071057,Hills Creek,752.636,916,Hills Creek tributary, ,568,241,doco, ,2266023,5578284,14023220,vbd, , ,5
+115364,1,2019,Clutha River,1071057,Hills Creek,752.636,935,Hills Creek tributary, ,568,241,doco, ,2266366,5578585,14023220,vbd, , ,5
+115365,1,2019,Clutha River,1071054,Ida Burn,752.636,1008,Ida Burn, ,418,221,doco, ,2256546,5567338,14028270,efp,1, ,10
+115366,1,2019,Clutha River,1071054,Ida Burn,752.636,1028,Ida Burn tributary, ,415,221,doco, ,2256849,5567125,14028659,han,1, ,5
+115367,1,2019,Clutha River,1071055,Spain Creek,752.636,1045,Spain Creek, ,407,220,doco, ,2257131,5566872,14028858,efp,1, ,5
+115368,1,2019,Clutha River,1071055,Spain Creek,752.636,1112,Spain Creek, ,419,223,doco, ,2258507,5566326,14029133,efp,1, ,5
+115369,1,2019,Clutha River,1071055,Spain Creek,752.636,1224,Spain Creek tributary,,428,224,doco,,2259702,5566277,14029005,efp,1,,5
+115370,1,2019,Clutha River,1071054,Ida Burn,752.636,1317,Ida Burn, ,437,226,doco, ,2260468,5568862,14027870,efp,1, ,15
+115371,1,2019,Clutha River,1071054,Ida Burn,752.636,1355,Ida Burn tributary, ,429,225,doco, ,2259997,5569252,14027380,efp,1, ,5
+115372,1,2019,Clutha River,1071054,Ida Burn,752.636,1420,Ida Burn tributary, ,429,225,doco, ,2259770,5569468,14027380,han,1, ,5
+115373,1,2019,Clutha River,1071054,Ida Burn,752.636,1503,Ida Burn, ,470,230,doco, ,2263624,5570426,14026939,efp,1, ,15
+115374,1,2019,Clutha River,1071054,Ida Burn,752.636,1555,Ida Burn, ,476,231,doco, ,2264240,5570741,14026965,efp,1, ,15
+115375,1,2019,Clutha River,1071055,Spain Creek,752.636,840,Spain Creek, ,398,218,doco, ,2254587,5566267,14029144,efp,1, ,20
+115376,1,2019,Clutha River,1071054,Ida Burn,752.636,913,Ida Burn, ,401,218,doco, ,2254894,5566530,14029037,efp,1, ,12
+115377,1,2019,Taieri River,1071029,Ewe Burn lower,743.7,1009,Ewe Burn, ,393,176,doco, ,2281430,5557379,14032916,efp,1, ,10
+115378,1,2019,Taieri River,1071029,Ewe Burn lower,743.7,1051,Ewe Burn, ,432,179,doco, ,2280849,5559398,14031033,efp,1, ,25
+115379,1,2019,Taieri River,1071029,Ewe Burn lower,743.7,1107,Ewe Burn, ,432,179,doco, ,2280849,5559460,14031033,efp,1, ,30
+115380,1,2019,Taieri River,1071029,Ewe Burn lower,743.7,1347,Ewe Burn, ,432,179,doco, ,2280841,5558727,14031033,efp,1, ,10
+115381,1,2019,Taieri River,1071077,Hog Burn lower,743.65,1458,Hog Burn, ,427,179,doco, ,2286879,5561142,14031257,vbd,1, ,5
+115382,1,2019,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1524,Spec Gully, ,508,179,doco, ,2290330,5570899,14026805,vbd,1, , 
+115383,1,2019,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1536,Spec Gully, ,567,183,doco, ,2287426,5572560,14025873,han,1, ,1
+115384,1,2019,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1555,Spec Gully, ,551,183,doco, ,2288164,5573346,14025727,vbd,1, , 
+115385,1,2019,Taieri River,1071011,Unnamed stream Spec Gully,743.645,1608,Spec Gully, ,579,184,doco, ,2288189,5573421,14025604,sdn,1, , 
+115386,1,2019,Taieri River,1071034,Ewe Burn upper,743.7,845,Ewe Burn West Branch, ,477,184,doco, ,2279308,5564375,14029687,efp,1, ,18
+115387,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,858,Ewe Burn West Branch, ,477,184,doco, ,2279324,5564352,14029687,efp,1, ,36
+115388,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,918,Ewe Burn West Branch, ,477,184,doco, ,2279315,5564330,14029687,tfu, , ,1
+115389,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,919,Ewe Burn West Branch, ,477,184,doco, ,2279302,5564322,14029687,tfu, , ,1
+115390,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,919,Ewe Burn West Branch, ,477,184,doco, ,2279298,5564314,14029687,tfu, , ,1
+115391,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,919,Ewe Burn West Branch, ,477,184,doco, ,2279286,5564299,14029687,tfu, , ,1
+115392,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,920,Ewe Burn West Branch, ,477,184,doco, ,2279264,5564277,14029687,tfu, , ,1
+115396,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,809,Ewe Burn West Branch, ,477,184,doco, ,2279147,5564822,14029687,efp,1, ,5
+115397,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,901,Ewe Burn West Branch, ,477,184,doco, ,2279411,5564211,14029687,vbd, , ,5
+115398,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,910,Ewe Burn West Branch, ,477,184,doco, ,2279493,5563962,14029687,han, , ,2
+115399,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,917,Ewe Burn West Branch, ,477,184,doco, ,2279505,5563937,14029687,han,1, ,1
+115400,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,934,Ewe Burn West Branch, ,477,184,doco, ,2279512,5563885,14029687,han,1, ,5
+115401,1,2019,Taieri River,1071034,Ewe Burn upper,743.704,944,Ewe Burn West Branch, ,477,184,doco, ,2279285,5564171,14029687,vbd,1, , 
+116151,5,2019,Taieri River,1071025,Healy Creek,743,1107,Healy Creek, ,693,191,doco, ,2299082,5578917,14023553,efp,1, ,4
+116152,5,2019,Taieri River,1071025,Healy Creek,743.648,1152,Healy Creek, ,693,191,doco, ,2299100,5578806,14023553,efp,1, ,4
+116153,5,2019,Taieri River,1071014,Little Kye Burn tributary ,743.647,1620,Kye Burn tributary, ,590,184,doco, ,2291080,5574906,14025016,efp,1, ,4
+116154,5,2019,Taieri River,1071019,Kye Burn tributary 2,743.64,848,Kye Burn tributary, ,576,183,doco, ,2296415,5573196,14025745,efp,1, ,5
+116157,5,2019,Taieri River,1071020,Kye Burn tributary 3,743.64,1030,Kye Burn tributary, ,600,183,doco, ,2295794,5574273,14025234,han,1, ,1
+116158,5,2019,Taieri River,1071020,Kye Burn tributary 3,743.64,1043,Kye Burn tributary, ,600,183,doco, ,2295865,5574302,14025234,efp,1, ,5
+116159,5,2019,Taieri River,1071021,Kye Burn tributary 4,743.64,1130,Kye Burn tributary, ,614,185,doco, ,2295926,5575357,14024817,efp,1, ,5
+116160,5,2019,Taieri River,1071018,Nobbler Stream,743.646,901,Nobbler Stream, ,525,181,doco, ,2295464,5571761,14026497,efp,1, ,9
+117513,6,2019,Taieri River,1071003,Scrub Burn,743.55,1006,Scrub Burn, ,437,138,wild,I42,2292620,5538247,14041992,efp,, ,
+117514,6,2019,Taieri River,1071003,Scrub Burn,743.55,1010,Scrub Burn, ,437,138,wild,I42,2292906,5538483,14041992,efp,, ,
+118534,11,2019,Clutha River,1071079,Ida Burn tributary 1,752.636,922,Ida Burn tributary, ,438,225,doco,H41,2259212,5569329,14027402,tfu, ,,2
+118481,5,2019,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,1537,Dunstan Creek, ,524,237,docc,H41,2256532,5587418,14019290,efp,1,,10
+118480,5,2019,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,1519,Dunstan Creek, ,524,237,docc,H41,2256526,5587465,14019290,efp,1,,7
+117608,1,2020,Clutha River,1071059,Manuherikia River tributary 3,752.63,1335,Manuherikia River tributary, ,355,213,doco, ,2251573,5570446,14026728,han,1,,1
+117607,1,2020,Clutha River,1071059,Manuherikia River tributary 3,752.63,1329,Manuherikia River tributary, ,355,213,doco, ,2251311,5570577,14026728,han,1,,1
+117609,1,2020,Clutha River,1071059,Manuherikia River tributary 3,752.63,1343,Manuherikia River tributary, ,355,213,doco, ,2251700,5571137,14026728,vbd,1,,
+118531,11,2019,Clutha River,1071055,Spain Creek,752.636,856,Spain Creek tributary, ,425,224,doco,H41,2259385,5565946,14029262,tfu, ,,4
+118530,11,2019,Clutha River,1071055,Spain Creek,752.636,848,Spain Creek tributary, ,428,224,doco,H41,2259701,5566278,14029005,tfu, ,,5
+118532,11,2019,Clutha River,1071054,Ida Burn,752.636,906,Ida Burn tributary, ,429,225,doco,H41,2259981,5569261,14027380,tfu, ,,4
+117629,1,2020,Clutha River,1071044,Thompsons Creek tributary 3,752.147,1109,Thomsons Creek tributary, ,380,208,doco, ,2237740,5568570,14028042,efp,1,,
+119335,2,1991,Taieri River,1071025,Healy Creek,743.648,0,Kye Burn, ,693,191,uoo, ,2299300,5578599,14023553,efp,1,,
+120044,2,1991,Taieri River,1071025,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299300,5578600,14023553,efp, ,,
+119330,11,1990,Taieri River,1071025,Healy Creek,743.64,0,Kye Burn, ,639,191,uoo, ,2298999,5578999,14022991,efp,1,,
+120043,1,1991,Taieri River,1071025,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299000,5579000,14023553,efp, ,,
+120042,1,1991,Taieri River,1071025,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299000,5579000,14023553,efp, ,,
+119328,11,1990,Taieri River,1071023,German Creek,743.64,0,German Creek, ,580,188,uoo, ,2295900,5577499,14023848,efp,1,,
+117610,1,2020,Clutha River,1071059,Manuherikia River tributary 3,752.63,1354,Manuherikia River tributary, ,359,217,doco, ,2252004,5571012,14026728,vbd,1,,
+120051,2,1999,Taieri River,1071025,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299100,5578700,14023553,efp, ,,
+120054,1,1993,Clutha River,1071047,Manuherikia River tributary 2,752.63,0,Manuherikia River tributary, ,310,200,uoo,G42,2243000,5561500,14031077,efp, ,,
+119353,10,1991,Taieri River,1071026,Timber Creek,752.148,0,Timber Creek, ,680,193,uoo, ,2299799,5580399,14022469,efp,1,,
+119332,1,1991,Clutha River,1071047,Manuherikia River tributary 2,752.63,0,Manuherikia River tributary, ,310,200,uoo, ,2242999,5561499,14031077,efp,1,,
+120053,1,1991,Clutha River,1071047,Manuherikia River tributary 2,752.63,0,Manuherikia River tributary, ,310,200,uoo,G42,2243000,5561500,14031077,efp, ,,
+120046,11,1992,Taieri River,1071025,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299000,5579000,14023553,efp, ,,
+120045,10,1991,Taieri River,1071025,Healy Creek,743.64,0,Kye Burn tributary, ,693,191,uoo,I42,2299000,5579000,14023553,efp, ,,
+119329,5,1991,Taieri River,1071023,German Creek,743.64,0,German Creek, ,709,190,uoo, ,2294999,5579399,14022586,efp,1,,
+119349,10,1991,Taieri River,1071006,Kye Burn,743.64,0,Kye Burn, ,631,191,uoo, ,2298899,5579099,14023193,efp,1,,
+119350,10,1991,Taieri River,1071006,Kye Burn,743.64,0,Kye Burn, ,641,192,uoo, ,2299199,5579100,14022991,efp,1,,
+118477,5,2019,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,1430,Dunstan Creek, ,524,237,docc,H41,2256538,5587712,14019290,efp,1,,16
+118527,11,2019,Clutha River,1071053,Moa Creek upper,752.636,1415,Moa Creek, ,660,254,doco,G42,2248163,5538116,14042271,efp,1,,22
+118535,11,2019,Clutha River,1071079,Ida Burn tributary 1,752.636,926,Ida Burn tributary, ,437,225,doco,H41,2258917,5569104,14027681,tfu, ,,2
+118474,5,2019,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,1421,Dunstan Creek, ,524,237,docc,H41,2256507,5587886,14019290,efp,1,,105
+118599,6,2020,Taieri River,1071034,Ewe Burn upper,743.704,1151,Ewe Burn West Branch, ,477,184,doco,H41,2279535,5563889,14029687,vbd, ,,
+119361,4,1996,Taieri River,1071003,Scrub Burn,743.55,0,Scrub Burn, ,437,138,uoo, ,2292800,5538399,14041992,efp,1,,
+118533,11,2019,Clutha River,1071080,Ida Burn tributary 2,752.636,912,Ida Burn tributary, ,0,0,doco,H41,2259766,5569464,0,tfu, ,,5
+117627,1,2020,Clutha River,1071042,Thompsons Creek tributary 1,752.147,1406,Thomsons Creek, ,335,204,doco, ,2241774,5566013,14028685,efp,1,,
+119360,3,1996,Taieri River,1071004,Prices Creek,743.57,0,Deadwoman Creek, ,539,147,uoo, ,2293799,5544600,14039304,efp,1,,
+118478,5,2019,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,1449,Dunstan Creek, ,524,237,docc,H41,2256528,5587646,14019290,efp,1,,8
+118529,11,2019,Clutha River,1071055,Spain Creek,752.636,836,Spain Creek, ,415,223,doco,H41,2258494,5566330,14029098,tfu, ,,6
+118479,5,2019,Clutha River,1071062,Dunstan Creek - Loop Road,752.638,1458,Dunstan Creek, ,524,237,docc,H41,2256520,5587628,14019290,efp,1,,14
+117628,1,2020,Clutha River,1071042,Thompsons Creek tributary 1,752.147,1230,Thomsons Creek, ,320,200,doco, ,2241036,5562053,14031055,efp,1,,
+118600,6,2020,Taieri River,1071032,Ewe Burn tributary 3,743,1225,Water race, ,0,0,doco,I45,2279731,5561805,0,han, ,,1
+114088,4,2018,Clutha River,1071042,Thompsons Creek,752.634,900,Thomsons Creek, ,336,204,rdcl,G41,2242028,5566842,14028685,efp, , ,
+120679,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1100,Thomsons Creek tributary, ,347,206,orc, ,2242471,5567380,14028255,efp,1, ,
+120681,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1635,Thomsons Creek, ,325,200,orc, ,2241601,5564673,14029484,efp,1, ,
+120682,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1651,Thomsons Creek, ,325,200,orc, ,2241599,5564899,14029484,efp,1, ,
+120683,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1703,Thomsons Creek, ,325,200,orc, ,2241647,5565096,14029484,efp,1, ,
+120684,1,2021,Clutha River,1071083,Thompsons Creek tributary 8,752.634,1719,Thomsons Creek tributary, ,334,204,orc, ,2241754,5565119,14029484,efp,1, ,
+120685,1,2021,Clutha River,1071083,Thompsons Creek tributary 8,752.634,1731,Thomsons Creek tributary, ,334,204,orc, ,2241738,5565064,14029484,efp,1, ,
+120688,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1756,Thomsons Creek, ,325,200,orc, ,2241699,5564271,14029484,efp,1, ,
+120708,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,906,Thomsons Creek tributary, ,347,206,orc, ,2242933,5568064,14028255,efp,1, ,
+120709,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,934,Thomsons Creek tributary, ,347,206,orc, ,2242966,5568031,14028255,efp,1, ,
+120710,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,947,Thomsons Creek tributary, ,347,206,orc, ,2242936,5567953,14028255,efp,1, ,
+120711,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,1002,Thomsons Creek tributary, ,347,206,orc, ,2242904,5567883,14028255,efp,1, ,
+120712,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,1014,Thomsons Creek tributary, ,347,206,orc, ,2242809,5567789,14028255,efp,1, ,
+120713,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,1021,Thomsons Creek tributary, ,347,206,orc, ,2242750,5567775,14028255,efp,1, ,
+120714,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,1026,Thomsons Creek tributary, ,347,206,orc, ,2242708,5567705,14028255,efp,1, ,
+120715,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,1030,Thomsons Creek tributary, ,347,206,orc, ,2242647,5567696,14028255,efp,1, ,
+120716,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1036,Thomsons Creek, ,371,206,orc, ,2242464,5567590,14026207,efp,1, ,
+120717,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,1042,Thomsons Creek tributary, ,347,206,orc, ,2242570,5567624,14028255,efp,1, ,
+120718,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,1050,Thomsons Creek tributary, ,347,206,orc, ,2242558,5567599,14028255,efp,1, ,
+120719,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1107,Thomsons Creek tributary, ,347,206,orc, ,2242559,5567508,14028255,efp,1, ,
+120720,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1119,Thomsons Creek tributary, ,347,206,orc, ,2242698,5567502,14028255,efp,1, ,
+120721,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1127,Thomsons Creek tributary, ,347,206,orc, ,2242767,5567566,14028255,efp,1, ,
+120722,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1130,Thomsons Creek tributary, ,347,206,orc, ,2242817,5567581,14028255,efp,1, ,
+120723,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1136,Thomsons Creek tributary, ,347,206,orc, ,2242859,5567566,14028255,efp,1, ,
+120724,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1140,Thomsons Creek tributary, ,347,206,orc, ,2242890,5567572,14028255,efp,1, ,
+120725,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1150,Thomsons Creek tributary, ,347,206,orc, ,2242942,5567632,14028255,efp,1, ,
+120726,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1158,Thomsons Creek tributary, ,347,206,orc, ,2243018,5567738,14028255,efp,1, ,
+120727,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1205,Thomsons Creek tributary, ,347,206,orc, ,2243046,5567843,14028255,efp,1, ,
+120728,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1213,Thomsons Creek tributary, ,347,206,orc, ,2243056,5567867,14028255,efp,1, ,
+120729,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1219,Thomsons Creek tributary, ,347,206,orc, ,2243074,5567948,14028255,efp,1, ,
+120730,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1224,Thomsons Creek tributary, ,347,206,orc, ,2243074,5568060,14028255,efp,1, ,
+120731,1,2021,Clutha River,1071084,Thompsons Creek tributary 9,752.634,1338,Thomsons Creek tributary, ,347,206,orc, ,2243042,5568021,14028255,efp,1, ,
+120732,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,1353,Thomsons Creek tributary, ,363,207,orc, ,2242994,5568206,14026911,efp,1, ,
+120733,1,2021,Clutha River,1071085,Thompsons Creek tributary 10,752.634,1357,Thomsons Creek tributary, ,363,207,orc, ,2242996,5568241,14026911,efp,1, ,
+120741,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1445,Thomsons Creek, ,371,206,orc, ,2242465,5567988,14026207,efp,1, ,25
+120742,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1514,Thomsons Creek, ,371,206,orc, ,2242520,5570072,14026207,efp,1, ,
+120743,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1516,Thomsons Creek, ,371,206,orc, ,2242466,5570136,14026207,efp,1, ,
+120747,1,2021,Clutha River,1071044,Thompsons Creek tributary 3,752.634,1330,Thomsons Creek tributary, ,380,208,otfg, ,2237564,5568747,14028042,efp,1, ,
+120748,1,2021,Clutha River,1071088,Thompsons Creek tributary 13,752.634,1445,Thomsons Creek water race, ,0,0,otfg, ,2240885,5567647,0,efp,1, ,
+120763,1,2021,Clutha River,1071043,Thompsons Creek tributary 2,752.634,0,Thomsons Creek tributary, ,345,206,orc, ,2239176,5567136,14028559,efp,1, ,
+120766,1,2021,Clutha River,1071046,Thompsons Creek tributary 5,752.634,0,Thomsons Creek water race, ,0,0,orc, ,2239470,5569404,0,efp,1, ,
+120771,1,2021,Clutha River,1071087,Thompsons Creek tributary 12,752.634,0,Thomsons Creek tributary, ,358,208,orc, ,2238429,5568302,14028025,efp,1, ,
+120772,1,2021,Clutha River,1071086,Thompsons Creek tributary 11,752.634,0,Thomsons Creek water race, ,0,0,orc, ,2239945,5566620,0,efp,1, ,
+120773,1,2021,Clutha River,1071086,Thompsons Creek tributary 11,752.634,0,Thomsons Creek water race, ,0,0,orc, ,2239865,5566765,0,efp,1, ,
+120785,1,2021,Clutha River,1071088,Thompsons Creek tributary 13,752.634,900,Thomsons Creek water race, ,0,0,wwcl, ,2240796,5567579,0,gmt, , ,1
+120786,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1100,Thomsons Creek, ,325,200,wwcl, ,2241651,5564191,14029484,efp,1, ,200
+120794,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,2230,Black Bush Creek, ,322,202,wwcl, ,2240416,5564180,14029616,spo, , ,800
+120795,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,2350,Black Bush Creek, ,318,201,wwcl, ,2240414,5564207,14030075,spo, , ,
+120796,1,2021,Clutha River,1071086,Thompsons Creek tributary 11,752.634,1600,Black Bush Creek, ,335,204,WRM, ,2240072,5567533,14028560,efp,1, ,
+120803,1,2021,Clutha River,1071087,Thompsons Creek tributary 12,752.634,1300,Thomsons Creek water race, ,0,0,WRM, ,2237834,5568542,0,efp,1, ,
+120804,1,2021,Clutha River,1071087,Thompsons Creek tributary 12,752.634,900,Thomsons Creek water race, ,0,0,WRM, ,2237947,5568493,0,gmt, , ,1
+120805,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1000,Thomsons Creek, ,371,206,WRM, ,2242499,5569544,14026207,efp,1, ,
+120806,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1030,Thomsons Creek, ,371,206,WRM, ,2242529,5569252,14026207,efp,1, ,
+120812,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1230,Thomsons Creek tributary, ,317,200,orc, ,2240905,5562402,14030764,efp,1, ,
+120813,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1236,Thomsons Creek tributary, ,317,200,orc, ,2240892,5562441,14030764,efp,1, ,
+120814,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1243,Black Bush Creek, ,319,200,orc, ,2240788,5562231,14030962,efp,1, ,
+120815,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1256,Black Bush Creek tributary, ,318,200,orc, ,2240723,5562277,14030898,efp,1, ,
+120816,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1304,Black Bush Creek tributary, ,318,200,orc, ,2240703,5562295,14030898,efp,1, ,
+120817,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1313,Black Bush Creek, ,318,200,orc, ,2240650,5562356,14030883,efp,1, ,
+120818,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1355,Black Bush Creek, ,318,201,orc, ,2240569,5562648,14030075,efp,1, ,
+120819,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1401,Black Bush Creek, ,318,201,orc, ,2240528,5562777,14030075,efp,1, ,
+120820,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1404,Thomsons Creek tributary, ,318,201,orc, ,2240514,5562838,14030075,efp,1, ,
+120821,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1406,Thomsons Creek tributary, ,318,201,orc, ,2240495,5562909,14030075,efp,1, ,
+120822,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1413,Thomsons Creek tributary, ,318,201,orc, ,2240567,5562756,14030075,efp,1, ,
+120823,1,2021,Clutha River,1071082,Thompsons Creek tributary 1,752.634,1422,Thomsons Creek tributary, ,318,201,orc, ,2240532,5562485,14030047,efp,1, ,
+120824,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1452,Thomsons Creek, ,325,200,orc, ,2241051,5562076,14029484,efp,1, ,
+120825,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1514,Thomsons Creek, ,325,200,orc, ,2241154,5562180,14029484,efp,1, ,
+120826,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1612,Thomsons Creek, ,325,200,orc, ,2241692,5564275,14029484,efp,1, ,
+120827,1,2021,Clutha River,1071042,Thompsons Creek,752.634,1625,Thomsons Creek, ,325,200,orc, ,2241645,5564393,14029484,efp,1, ,
+121307,2,2021,Taieri River,1071025,Healy Creek,743.648,0,Healy Creek, ,693,191,doco,I41,2299106,5578853,14023553,efp, , ,
+121311,2,2021,Taieri River,1071025,Healy Creek,743.648,1100,Healy Creek, ,693,191,doco,I41,2299081,5578913,14023553,vbd, , ,
+121312,2,2021,Taieri River,1071025,Healy Creek,743.648,1000,Healy Creek, ,693,191,doco,I41,2299109,5578785,14023553,efp, , ,
+121313,2,2021,Taieri River,1071025,Healy Creek,743.648,1322,Healy Creek, ,693,191,doco,I41,2299107,5578795,14023553,efp, , ,
+121314,2,2021,Taieri River,1071025,Healy Creek,743.648,1329,Healy Creek, ,693,191,doco,I41,2299109,5578815,14023553,vbd, , ,
+121315,2,2021,Taieri River,1071025,Healy Creek,743.648,1436,Healy Creek, ,693,191,doco,I41,2299090,5578920,14023553,efp, , ,
+121316,2,2021,Taieri River,1071025,Healy Creek,743.648,1502,Healy Creek, ,693,191,doco,I41,2299062,5578903,14023553,efp, , ,
+121317,2,2021,Taieri River,1071025,Healy Creek,743.648,1516,Healy Creek, ,693,191,doco,I41,2299009,5578893,14023553,efp, , ,
+121318,2,2021,Taieri River,1071025,Healy Creek,743.648,1600,Healy Creek, ,693,191,doco,I41,2298971,5578991,14023553,efp, , ,
+121319,2,2021,Taieri River,1071025,Healy Creek,743.648,1620,Healy Creek, ,693,191,doco,I41,2298990,5578921,14023553,efp, , ,
+121399,10,2008,Taieri River,1071003,Scrub Burn,743.55,0,Scrub Burn tributary, ,605,139,doco, ,2292711,5538866,14041749,efp,1, ,
+121419,3,2011,Taieri River,1071025,Healy Creek,743.648,0,Healy Creek, ,693,191,uoo, ,2299081,5578920,14023553,efp,1, ,
+121425,4,2013,Clutha River,1071054,Ida Burn,752.636,0,Ida Burn, ,418,221,doco, ,2256588,5567385,14028270,efp,1, ,
+121982,6,2021,Taieri River,1071003,Scrub Burn,743.55,1130,Scrub Burn, ,319,137,doco,I42,2293478,5538762,14041879,efp, , ,
+121983,6,2021,Taieri River,1071003,Scrub Burn,743.55,1200,Scrub Burn, ,319,137,doco,I42,2293389,5538714,14041879,efp, , ,
+121984,6,2021,Taieri River,1071004,Prices Creek,743.57,1400,Prices Creek, ,380,144,doco,I42,2294481,5544155,14039312,efp, , ,
+122329,6,2021,Taieri River,1071003,Scrub Burn,743.55,1200,Scrub Burn, ,319,137,doco,I42,2293369,5538711,14041879,dna, , ,
+122517,3,2021,Clutha River,1071042,Thompsons Creek,752.634,908,Thomsons Creek, ,371,206,orc,G41,2242496,5569121,14026207,efp, , ,
+122518,3,2021,Clutha River,1071042,Thompsons Creek,752.634,0,Thomsons Creek, ,371,206,orc,G41,2242480,5568901,14026207,efp, , ,
+122519,3,2021,Clutha River,1071042,Thompsons Creek,752.634,0,Thomsons Creek, ,371,206,orc,G41,2242476,5568629,14026207,efp, , ,
+122523,3,2021,Clutha River,1071042,Thompsons Creek,752.634,0,Thomsons Creek, ,371,206,orc,G41,2242473,5568370,14026207,efp, , ,
+122524,3,2021,Clutha River,1071042,Thompsons Creek,752.634,0,Thomsons Creek, ,335,204,WRM,G41,2242204,5567233,14028685,efp, , ,
+122525,3,2021,Clutha River,1071042,Thompsons Creek,752.634,0,Thomsons Creek, ,335,204,WRM,G41,2242098,5567004,14028685,efp, , ,
+122526,3,2021,Clutha River,1071042,Thompsons Creek,752.634,0,Thomsons Creek, ,335,204,WRM,G41,2241875,5566634,14028685,efp, , ,
+122527,3,2021,Clutha River,1071042,Thompsons Creek,752.634,0,Thomsons Creek, ,335,204,WRM,G41,2241818,5566184,14028685,efp, , ,
+122685,12,2020,Taieri River,1071081,White Sow Creek tributary,743.747,1030,White Sow Creek tributary, ,628,211,WRM,H41,2271170,5572334,14025981,efp, , ,
+122686,12,2020,Taieri River,1071081,White Sow Creek tributary,743.747,1200,White Sow Creek tributary, ,628,211,WRM,H41,2271037,5572464,14025981,efp, , ,
+122687,12,2020,Taieri River,1071081,White Sow Creek tributary,743.747,130,White Sow Creek tributary, ,628,211,WRM,H41,2270831,5572545,14025981,efp, , ,
+122690,12,2020,Taieri River,1071081,White Sow Creek tributary,743.747,930,White Sow Creek tributary, ,563,209,WRM,H41,2271286,5572197,14026289,efp, , ,
+25161,3,2001,Clutha River,1071086,Thompsons Creek tributary 11,752.634,day,Thomsons Creek tributary,,340,197.8,doco,,2240000,5567700,14221817,efp,1,,55
+120048,2,1999,Taieri River,1071025,Healy Creek,743.64,,Kye Burn tributary,,693,191.14,uoo,,2299100,5578900,14215628,efp,,,
+120050,2,1999,Taieri River,1071025,Healy Creek,743.64,,Kye Burn tributary,,693,191.14,uoo,,2299100,5578800,14215628,efp,,,
+101484,5,2012,Taieri River,1071023,German Creek,743.64,,German Creek tributary,,716,190,doco,,2295057,5579594,14214755,efp,1,20,57
+103454,4,2007,Taieri River,1071018,Nobbler Stream,743.646,10:35,Nobbler Stream tributary,,620,183.14,doco,,2297040,5571603,14220409,efp,,50,77

@@ -1,0 +1,135 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+7252,3,1985,Clutha River,1261001,Manuherikia River,752.63,1330,Manuherikia River, ,670,247,otfg,h40,2265900,5598300,14015980,efm,1, ,68
+7257,3,1985,Clutha River,1261001,Manuherikia River,752.63,1200,Manuherikia River, ,695,249,otfg,h40,2265100,5600600,14015309,efm,1, , 
+7260,3,1985,Clutha River,1261001,Manuherikia River,752.639,1630,Rocks Creek, ,590,240,otfg,h40,2266300,5592700,14017360,efm,1, , 
+7262,6,1985,Clutha River,1261001,Manuherikia River,752.637,1115,Gate Creek, ,580,238,otfg,h40,2266600,5590300,14018852,ef,1, ,110
+7267,6,1985,Clutha River,1261001,Manuherikia River,752.639,1140,Otago Water Race,,630,245,otfg,h40,2265700,5596400,14016701,ef,1,,120
+17948,12,1998,Clutha River,1261001,Manuherikia River,752.63,1000,Otago Water Race,,630,243,doco,h40,2265900,5595300,14016701,ef,1,,30
+25069,11,2000,Clutha River,1261001,Manuherikia River,752.637,1445,Shepherds Hut Creek, ,780,248,doco,h40,2268300,5598300,14015964,efp,1, ,35
+25078,11,2000,Clutha River,1261001,Manuherikia River,752.637, ,Shepherds Hut Creek, ,680,246,doco,h40,2266500,5597800,14015964,obs, , ,1
+25079,11,2000,Clutha River,1261001,Manuherikia River,752.637, ,Trinity Creek, ,650,245,doco,h40,2266800,5596500,14016491,obs, , ,1
+25194,3,2001,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River, ,620,243,doco,h40,2266800,5594500,14017389,efp,1, ,50
+25193,3,2003,Clutha River,1261001,Manuherikia River,752.63,day,Manuherikia River,,690,247,doco,H40,2266000,5598600,14015980,efp,1,,25
+26217,2,2003,Clutha River,1261001,Manuherikia River,752.63,1700,Manuherikia River West Branch,,715,251,orc,H40,2264340,5601776,14014765,efp,,,
+107423,3,2003,Clutha River,1261001,Manuherikia River,752.63,1418,Manuherikia River tributary,,701,255,doco,G42,2265953,5598768,14015819,efp,,,
+31179,11,2009,Clutha River,1261001,Manuherikia River,752.63,1630,Manuherikia River,,590,239,doco,H40,2266214,5591631,14018315,efp,1,,50
+31180,11,2009,Clutha River,1261001,Manuherikia River,752.63,1625,Manuherikia River, ,575,239,doco,H40,2266189,5591414,14018315,efp,1, ,50
+31181,11,2009,Clutha River,1261001,Manuherikia River,752.63,1535,Manuherikia River,,570,239,doco,H40,2266166,5591152,14018509,efp,1,,50
+31182,11,2009,Clutha River,1261001,Manuherikia River,752.63,1515,Manuherikia River, ,570,238,doco,H40,2266293,5590697,14018584,efp,1, ,50
+31183,11,2009,Clutha River,1261001,Manuherikia River,752.63,1500,Manuherikia River, ,570,238,doco,H40,2266293,5590697,14018584,efp,1, ,50
+31184,11,2009,Clutha River,1261001,Manuherikia River,752.63,1430,Manuherikia River, ,720,251,doco,H40,2264271,5601955,14014765,efp,1, ,0
+31185,12,2009,Clutha River,1261001,Manuherikia River,752.63,1130,Manuherikia River, ,720,251,doco,H40,2264271,5601955,14014765,efp,1, ,50
+31186,12,2009,Clutha River,1261001,Manuherikia River,752.63,1040,Manuherikia River,,720,251,doco,H40,2264376,5602064,14014765,efp,1,,50
+31187,12,2009,Clutha River,1261001,Manuherikia River,752.63,1645,Manuherikia River, ,690,249,doco,H40,2265312,5600292,14015309,efp,1, ,50
+31188,12,2009,Clutha River,1261001,Manuherikia River,752.637,1020,Manuherikia River East Branch,,720,252,doco,H40,2264479,5602256,14014524,efp,1,,50
+31189,12,2009,Clutha River,1261001,Manuherikia River,752.63,1400,Manuherikia River, ,720,251,doco,H40,2264457,5601701,14014928,efp,1, ,50
+31192,12,2009,Clutha River,1261001,Manuherikia River,752.63,1530,Manuherikia River, ,700,250,doco,H40,2264712,5600843,14015200,efp,1, ,50
+31193,12,2009,Clutha River,1261001,Manuherikia River,752.63,1600,Manuherikia River, ,690,249,doco,H40,2265312,5600292,14015309,efp,1, ,50
+31194,12,2009,Clutha River,1261001,Manuherikia River,752.63,1615,Manuherikia River, ,690,249,doco,H40,2265104,5600591,14015309,efp,1, ,50
+31196,12,2009,Clutha River,1261001,Manuherikia River,752.63,930,Manuherikia River,,675,247,doco,H40,2265982,5598609,14015660,efp,1,,50
+31197,12,2009,Clutha River,1261001,Manuherikia River,752.63,1115,Manuherikia River,,650,245,doco,H40,2266295,5596670,14016585,efp,1,,50
+31198,12,2009,Clutha River,1261001,Manuherikia River,752.63,1030,Manuherikia River,,655,245,doco,H40,2266135,5597139,14016334,efp,1,,50
+31199,12,2009,Clutha River,1261001,Manuherikia River,752.63,1615,Manuherikia River,,690,248,doco,H40,2265601,5599738,14015567,efp,1,,50
+31200,12,2009,Clutha River,1261001,Manuherikia River,752.63,1545,Manuherikia River tributary,,700,249,doco,H40,2265780,5599938,14015287,efp,1,,50
+31201,12,2009,Clutha River,1261001,Manuherikia River,752.63,1500,Manuherikia River,,685,248,doco,H40,2265819,5599423,14015660,efp,1,,50
+31202,12,2009,Clutha River,1261001,Manuherikia River,752.63,1430,Manuherikia River,,677,248,doco,H40,2265803,5599034,14015660,efp,1,,50
+31203,12,2009,Clutha River,1261001,Manuherikia River,752.63,1345,Manuherikia River,,675,247,doco,H40,2265886,5598911,14015660,efp,1,,50
+107111,2,2012,Clutha River,1261001,Manuherikia River,752.63,1604,Manuherikia River tributary,,612,248,rcl,G42,2265942,5592383,14017643,efp,,,
+107112,2,2012,Clutha River,1261001,Manuherikia River,752.63,1610,Manuherikia River tributary, ,784,253,rcl,G42,2266473,5597881,14015964,vbd, , , 
+100798,7,2013,Clutha River,1261001,Manuherikia River,752.63,1300,Manuherikia River,,677,254,docc,G42,2265956,5598731,14015980,efp,,,375
+100966,5,2014,Clutha River,1261001,Manuherikia River,752.63,1109,Manuherikia River,,677,254,doc,H40,2265956,5598731,14015980,efp,1,,8
+108543,11,2014,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River, ,576,246,doco,H40,2266128,5590261,14018701,efp, , ,159
+108544,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,576,246,doco,H40,2266182,5590346,14018701,efp,,,164
+108545,11,2014,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,576,246,doco,H40,2266450,5590341,14018701,efp, , ,69
+108546,11,2014,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,580,246,doco,H40,2266542,5590648,14018693,efp, , ,119
+108547,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,577,246,doco,H40,2266289,5590719,14018584,efp,,,167
+108548,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,577,246,doco,H40,2266274,5590926,14018584,efp,,,140
+108549,11,2014,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River, ,581,247,doco,H40,2266471,5591025,14018315,efp, , ,114
+108550,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,577,246,doco,H40,2266274,5590926,14018584,efp,,,121
+108551,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,581,247,doco,H40,2266173,5591357,14018315,efp,,,143
+108552,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,581,247,doco,H40,2266210,5591584,14018315,efp,,,200
+108553,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,581,247,doco,H40,2266252,5591702,14018315,efp,,,161
+108554,11,2014,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,590,247,doco,H40,2266099,5592000,14018058,efp, , ,163
+108555,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,590,247,doco,H40,2266287,5591998,14018058,efp,,,198
+108556,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,590,247,doco,H40,2266384,5592190,14018058,efp,,,85
+108557,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,590,247,doco,H40,2266476,5592513,14018058,efp,,,198
+108558,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River tributary,,654,248,doco,H40,2266091,5593074,14017829,efp,,,123
+108559,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,609,248,doco,H40,2266479,5593077,14017389,efp,,,272
+108560,11,2014,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River, ,609,248,doco,H40,2266580,5593659,14017389,efp, , ,31
+108561,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,609,248,doco,H40,2266745,5593810,14017389,efp,,,122
+108562,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,609,248,doco,H40,2266778,5594300,14017389,efp,,,138
+108563,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,626,251,doco,H40,2266794,5594840,14017261,efp,,,93
+108564,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,638,251,doco,H40,2266742,5595506,14016814,efp,,,192
+108565,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,638,251,doco,H40,2266748,5595933,14016814,efp,,,99
+108566,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,641,251,doco,H40,2266563,5596171,14016334,efp,,,77
+108567,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,641,251,doco,H40,2266362,5596668,14016334,efp,,,216
+108568,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,654,253,doco,H40,2266116,5597120,14016334,efp,,,158
+108569,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,654,253,doco,H40,2266186,5597508,14016334,efp,,,117
+108570,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,666,254,doco,H40,2266073,5597814,14015980,efp,,,82
+108571,11,2014,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,666,254,doco,H40,2265992,5598440,14015980,efp,,,104
+107457,5,2016,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,682,255,doco,G42,2265815,5599007,14015660,efp,,,
+107466,5,2016,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,682,255,doco,G42,2265799,5599201,14015660,efp, , , 
+107473,5,2016,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,689,256,doco,G42,2265867,5599531,14015441,efp,,,
+107486,5,2016,Clutha River,1261001,Manuherikia River,752.637,,Kirkwoods Creek,,703,257,doco,H40,2265644,5599930,14015441,efp,,,
+107488,5,2016,Clutha River,1261001,Manuherikia River,752.637,,Kirkwoods Creek,,703,257,doco,H40,2265657,5599975,14015441,efp,,,
+107489,5,2016,Clutha River,1261001,Manuherikia River,752.637,,Kirkwoods Creek,,703,257,doco,H40,2265650,5600047,14015441,efp,,,
+107493,5,2016,Clutha River,1261001,Manuherikia River,752.637,,Kirkwoods Creek,,720,257,doco,H40,2265753,5600292,14014963,efp,,,
+107500,5,2016,Clutha River,1261001,Manuherikia River,752.63,,Manuherikia River,,714,257,doco,G42,2265461,5600033,14015309,efp,,,
+107581,5,2016,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,733,256,doco,G42,2265831,5599399,14015408,efp, , , 
+107582,5,2016,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,733,256,doco,G42,2265937,5599434,14015408,efp, , , 
+107583,5,2016,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,836,255,doco,G42,2265976,5599203,14015459,efp, , , 
+107584,5,2016,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,836,255,doco,G42,2265998,5599237,14015459,efp, , , 
+107585,5,2016,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,836,255,doco,G42,2266061,5599171,14015459,efp, , , 
+107586,5,2016,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,836,255,doco,G42,2266062,5599096,14015459,efp, , , 
+107587,5,2016,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,836,255,doco,G42,2266053,5599040,14015459,efp, , , 
+107588,5,2016,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,836,255,doco,G42,2266040,5598966,14015459,efp, , , 
+107589,5,2016,Clutha River,1261001,Manuherikia River,752.63, ,Manuherikia River tributary, ,836,255,doco,G42,2266033,5598938,14015459,efp, , , 
+110694,2,2017,Clutha River,1261001,Manuherikia River,752.63,900,Manuherikia River tributary, ,580,246,docc,G42,2266529,5590595,14018693,efp, , , 
+110695,2,2017,Clutha River,1261001,Manuherikia River,752.63,914,Manuherikia River tributary, ,580,246,docc,G42,2266523,5590600,14018693,efp, , , 
+110696,2,2017,Clutha River,1261001,Manuherikia River,752.63,918,Manuherikia River tributary, ,580,246,docc,G42,2266473,5590598,14018693,efp, , , 
+110700,2,2017,Clutha River,1261001,Manuherikia River,752.63,923,Manuherikia River tributary, ,580,246,docc,G42,2266463,5590601,14018693,efp, , , 
+110701,2,2017,Clutha River,1261001,Manuherikia River,752.63,926,Manuherikia River tributary, ,575,245,docc,G42,2266391,5590608,14018509,efp, , , 
+110702,2,2017,Clutha River,1261001,Manuherikia River,752.63,935,Manuherikia River tributary, ,575,245,docc,G42,2266334,5590604,14018509,efp, , , 
+110703,2,2017,Clutha River,1261001,Manuherikia River,752.63,953,Manuherikia River,,576,246,docc,G42,2266268,5590685,14018701,efp,,,
+110704,2,2017,Clutha River,1261001,Manuherikia River,752.63,1159,Manuherikia River tributary, ,575,245,docc,G42,2266242,5590633,14018509,efp, , , 
+110705,2,2017,Clutha River,1261001,Manuherikia River,752.63,1202,Manuherikia River tributary, ,575,245,docc,G42,2266204,5590651,14018509,efp, , , 
+110706,2,2017,Clutha River,1261001,Manuherikia River,752.63,1206,Manuherikia River tributary, ,575,245,docc,G42,2266105,5590657,14018509,efp, , , 
+110707,2,2017,Clutha River,1261001,Manuherikia River,752.63,1210,Manuherikia River tributary, ,575,245,docc,G42,2266044,5590675,14018509,efp, , , 
+110708,2,2017,Clutha River,1261001,Manuherikia River,752.63,1312,Manuherikia River tributary, ,590,247,docc,G42,2266362,5592166,14018058,efp, , , 
+110709,2,2017,Clutha River,1261001,Manuherikia River,752.63,1325,Manuherikia River tributary,,590,247,docc,G42,2266345,5592180,14018058,efp,,,
+110710,2,2017,Clutha River,1261001,Manuherikia River,752.63,1441,Manuherikia River, ,590,247,docc,G42,2266315,5592201,14018058,efp, , , 
+110711,2,2017,Clutha River,1261001,Manuherikia River,752.63,1444,Manuherikia River, ,590,247,docc,G42,2266268,5592216,14018058,efp, , , 
+110712,2,2017,Clutha River,1261001,Manuherikia River,752.63,1449,Manuherikia River,,590,247,docc,G42,2266148,5592239,14018058,efp,,,
+110713,2,2017,Clutha River,1261001,Manuherikia River,752.63,1457,Manuherikia River,,590,247,docc,G42,2266115,5592277,14018058,efp,,,
+110714,2,2017,Clutha River,1261001,Manuherikia River,752.63,1502,Manuherikia River tributary,,612,248,docc,G42,2265978,5592330,14017643,efp,,,
+110715,2,2017,Clutha River,1261001,Manuherikia River,752.63,1414,Manuherikia River tributary,,612,248,docc,G42,2265899,5592397,14017643,efp,,,
+113554,3,2018,Clutha River,1261001,Manuherikia River,752.63,1337,Manuherikia River, ,666,254,doco,h40,2265926,5598731,14015980,efp,1, ,34
+113555,3,2018,Clutha River,1261001,Manuherikia River,752.63,1434,Manuherikia River, ,609,248,doco,h40,2266856,5594291,14017389,efp,1, ,13
+113556,3,2018,Clutha River,1261001,Manuherikia River,752.63,1451,Manuherikia River, ,609,248,doco,h40,2266824,5594287,14017389,efp,1, ,4
+113557,3,2018,Clutha River,1261001,Manuherikia River,752.63,1458,Manuherikia River, ,609,248,doco,h40,2266804,5594291,14017389,efp,1, ,10
+113558,3,2018,Clutha River,1261001,Manuherikia River,752.63,1519,Manuherikia River tributary, ,609,248,doco,h40,2266645,5593797,14017389,efp,1, ,4
+113559,3,2018,Clutha River,1261001,Manuherikia River,752.63,1553,Manuherikia River, ,609,248,doco,h40,2266688,5593759,14017389,efp,1, ,18
+113560,3,2018,Clutha River,1261001,Manuherikia River,752.63,1608,Manuherikia River, ,609,248,doco,h40,2266751,5593809,14017389,efp,1, ,16
+113561,3,2018,Clutha River,1261001,Manuherikia River,752.63,1635,Manuherikia River tributary, ,609,248,doco,h40,2266871,5594076,14017389,efp,1, ,2
+113562,3,2018,Clutha River,1261001,Manuherikia River,752.63,1643,Manuherikia River tributary, ,609,248,doco,h40,2266940,5594203,14017389,efp,1, ,5
+113584,3,2018,Clutha River,1261001,Manuherikia River,752.63,1652,Manuherikia River, ,755,257,doco,h40,2265032,5600641,14015200,efp,1, ,30
+113585,3,2018,Clutha River,1261001,Manuherikia River,752.63,1113,Manuherikia River, ,581,247,doco,h40,2266237,5591782,14018315,efp,1, ,23
+113586,3,2018,Clutha River,1261001,Manuherikia River,752.63,1145,Manuherikia River, ,581,247,doco,h40,2266160,5591740,14018315,efp,1, ,10
+113587,3,2018,Clutha River,1261001,Manuherikia River,752.63,1156,Rocks Creek, ,585,247,doco,h40,2266127,5591720,14018202,efp,1, ,12
+113588,3,2018,Clutha River,1261001,Manuherikia River,752.63,1216,Manuherikia River, ,581,247,doco,h40,2266150,5591397,14018315,efp,1, ,10
+113642,4,2018,Clutha River,1261001,Manuherikia River,752.637,1204,Manuherikia River East Branch, ,728,259,wwcl,H40,2264254,5601999,14014765,efp, , , 
+113650,4,2018,Clutha River,1261001,Manuherikia River,752.63,1315,Manuherikia River unnamed tributary, ,733,256,wwcl,G42,2265923,5599612,14015408,efp, , , 
+113651,4,2018,Clutha River,1261001,Manuherikia River,752.637,1425,Big Bremner Creek, ,836,255,wwcl,H40,2265894,5599684,14015459,efp, , , 
+113652,4,2018,Clutha River,1261001,Manuherikia River,752.63,1331,Manuherikia River stable side braid, ,689,256,wwcl,G42,2265829,5599681,14015441,efp, , , 
+113653,4,2018,Clutha River,1261001,Manuherikia River,752.63,1550,Manuherikia River unstable main braid, ,689,256,wwcl,G42,2265814,5599684,14015441,efp, , , 
+113671,4,2018,Clutha River,1261001,Manuherikia River,752.63,1002,Manuherikia River tributary, ,583,247,wwcl,G42,2266361,5591194,14018380,efp, , , 
+113672,4,2018,Clutha River,1261001,Manuherikia River,752.63,1107,Manuherikia River main braid, ,576,247,wwcl,G42,2266267,5591193,14018577,efp, , , 
+113673,4,2018,Clutha River,1261001,Manuherikia River,752.63,1212,Manuherikia River tributary, ,580,246,wwcl,G42,2266537,5590791,14018693,efp, , , 
+113674,4,2018,Manuherikia River,1261001,Manuherikia River,752.637,1417,Hut Creek, ,577,246,wwcl,H40,2266494,5590840,14018584,efp, , , 
+113675,4,2018,Clutha River,1261001,Manuherikia River,752.63,1422,Manuherikia River main braid, ,576,247,wwcl,G42,2266263,5591194,14018577,efp, , , 
+113676,4,2018,Clutha River,1261001,Manuherikia River,752.63,1528,Manuherikia River main braid, ,576,246,wwcl,G42,2266243,5590557,14018701,efp, , , 
+113677,4,2018,Clutha River,1261001,Manuherikia River,752.63,1557,Manuherikia River main braid, ,576,246,wwcl,G42,2266241,5590559,14018701,efp, , , 
+113678,4,2018,Clutha River,1261001,Manuherikia River,752.63,1631,Manuherikia River minor braid, ,590,247,wwcl,G42,2266359,5592080,14018058,efp, , , 
+113679,4,2018,Clutha River,1261001,Manuherikia River,752.63,1642,Manuherikia River main braid, ,590,247,wwcl,G42,2266269,5592407,14018058,efp, , , 
+113680,4,2018,Clutha River,1261001,Manuherikia River,752.63,1647,Manuherikia River West Branch, ,750,259,wwcl,G42,2264346,5601758,14014765,efp, , , 
+118473,5,2019,Clutha River,1261001,Manuherikia River,752.63,944,Manuherikia River, ,667,254,docc,H40,2265946,5598755,14015980,efp,1, ,24

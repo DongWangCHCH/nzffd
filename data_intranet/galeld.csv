@@ -1,0 +1,548 @@
+﻿Card,Date,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+3665,,1981,Taieri River,1161026,Stony Creek,743.256,,Stony Creek,,805,121,unk,H43,2268300,5508900,14052098,unk,,,
+7813,1,1987,Taieri River,1161017,Canton Stream,743.139,1445,Canton Stream,,510,85,otfg,H44,2272100,5490700,14057667,ef,2,,40
+7814,1,1987,Taieri River,1161016,Lee Stream,743.13,1600,Lee Stream,,450,81,otfg,H44,2274800,5490600,14057733,ef,1,,53
+11201,6,1989,Taieri River,1161011,Whare Creek,743.09,1000,Whare Creek,,340,52,uoo,I44,2312300,5485400,14058877,han,,,20
+10930,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Ratty Creek,,790,120,uoo,H43,2268900,5509400,14051945,efp,1,,5
+10931,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Ratty Creek,,790,120,uoo,H43,2268900,5509400,14051945,efp,1,,24
+10932,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Ratty Creek,,790,120,uoo,H43,2268800,5509500,14051945,efp,1,,11
+10933,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Ratty Creek,,810,121,uoo,H43,2268300,5509900,14051725,efp,1,,11
+10934,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Ratty Creek,,790,120,uoo,H43,2268800,5509500,14051945,efp,1,,5
+10935,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Ratty Creek,,810,121,uoo,H43,2268300,5509900,14051725,efp,1,,10
+10936,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Stony Creek tributary,,870,124,uoo,H43,2266600,5508300,14051890,efp,1,,4
+10937,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Stony Creek tributary,,880,124,uoo,H43,2266400,5508800,14051890,efp,1,,4
+10938,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Stony Creek tributary,,880,124,uoo,H43,2266500,5508800,14051890,efp,1,,21
+10939,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Stony Creek tributary,,880,124,uoo,H43,2266500,5508800,14051890,efp,1,,3
+10940,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Stony Creek tributary,,890,125,uoo,H43,2266100,5509100,14051890,efp,1,,8
+10941,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Stony Creek tributary,,890,125,uoo,H43,2266100,5509100,14051890,efp,1,,3
+10965,1,1990,Taieri River,1161016,Lee Stream,743.13,day,Lee Stream,,430,82,uoo,H44,2274500,5490500,14057755,efp,1,,18
+10973,1,1990,Taieri River,1161017,Canton Stream,743.139,day,Canton Stream,,480,83,uoo,H44,2273600,5490800,14057539,efp,1,,6
+10974,1,1990,Taieri River,1161017,Canton Stream,743.139,day,Canton Stream,,480,83,uoo,H44,2273600,5490800,14057539,efp,1,,18
+10975,1,1990,Taieri River,1161017,Canton Stream,743.139,day,Canton Stream,,490,84,uoo,H44,2273000,5490500,14057718,efp,1,,11
+10976,1,1990,Taieri River,1161017,Canton Stream,743.139,day,Canton Stream,,510,85,uoo,H44,2272100,5490600,14057667,efp,1,,7
+10977,1,1990,Taieri River,1161017,Canton Stream,743.139,day,Canton Stream,,510,85,uoo,H44,2272100,5490600,14057667,efp,1,,15
+10978,1,1990,Taieri River,1161017,Canton Stream,743.139,day,Canton Stream,,510,85,uoo,H44,2272100,5490600,14057667,efp,1,,
+10993,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Stony Creek,,805,121,uoo,H43,2268200,5508900,14052098,efp,1,,33
+10994,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Stony Creek,,805,121,uoo,H43,2268200,5508900,14052098,efp,1,,33
+10995,1,1990,Taieri River,1161026,Stony Creek,743.256,day,Stony Creek,,870,124,uoo,H43,2266500,5508200,14052274,efp,1,,14
+11811,1,1990,Taieri River,1161012,Smugglers Creek,743.12,day,Smugglers Creek,,170,43,uoo,I44,2293600,5483000,14060065,efp,1,,35
+11812,1,1990,Taieri River,1161012,Smugglers Creek,743.12,day,Smugglers Creek,,170,43,uoo,I44,2293600,5483000,14060065,efp,1,,11
+11813,1,1990,Taieri River,1161012,Smugglers Creek,743.12,day,Smugglers Creek,,200,43,uoo,I44,2293200,5483300,14059655,efp,1,,17
+11814,1,1990,Taieri River,1161012,Smugglers Creek,743.12,day,Smugglers Creek,,200,43,uoo,I44,2293200,5483300,14059655,efp,1,,18
+11817,2,1990,Taieri River,1161002,Shepard Stream,743.05, ,Shepherd Stream, ,380,41,uoo,h44,2273700,5473800,14062661,efp,1, ,13
+11818,2,1990,Taieri River,1161002,Shepard Stream,743.05,day,Shepherd Stream,,380,41,uoo,H44,2273700,5473800,14062661,efp,1,,9
+11819,2,1990,Taieri River,1161002,Shepard Stream,743.05, ,Shepherd Stream tributary, ,400,42,uoo,h44,2272800,5473600,14062637,efp,1, ,20
+11820,2,1990,Taieri River,1161002,Shepard Stream,743.05,day,Shepherd Stream tributary,,400,42,uoo,H44,2272800,5473600,14062742,efp,1,,11
+11821,2,1990,Taieri River,1161002,Shepard Stream,743.05,day,Shepherd Stream tributary,,420,42,uoo,H44,2273200,5473200,14062755,efp,1,,3
+5810,2,1992,Taieri River,1161021,Deep Stream,743.18,1130,Deep Stream,,730,132,uoo,H44,2262700,5492700,14057061,efp,1,,30
+5811,2,1992,Taieri River,1161021,Deep Stream,743.18,1430,Barbours Stream,,700,133,uoo,H44,2265000,5490500,14057536,efp,1,,12
+15617,12,1992,Taieri River,1161011,Whare Creek,743.09,1400,Whare Creek,,340,52,uoo,I44,2312300,5485600,14058877,han,,,1
+15922,2,1992,Taieri River,1161017,Canton Stream,743.139,1200,Canton Stream,,540,87,uoo,H44,2271300,5491000,14057537,efp,3,,48
+15923,6,1992,Taieri River,1161017,Canton Stream,743.139,930,Canton Stream,,540,87,uoo,H44,2271300,5491000,14057537,efp,3,,48
+15924,9,1992,Taieri River,1161017,Canton Stream,743.139,930,Canton Stream,,540,87,uoo,H44,2271300,5491000,14057537,efp,3,,48
+15925,12,1992,Taieri River,1161017,Canton Stream,743.139,930,Canton Stream,,540,87,uoo,H44,2271300,5491000,14057537,efp,3,,48
+12370,7,1993,Taieri River,1161014,Broad Stream,743.136,900,Broad Stream, ,520,92,uoo,h44,2268500,5488100,14058363,efp,1, ,6
+12371,7,1993,Taieri River,1161014,Broad Stream,743.136,900,Broad Stream, ,520,92,uoo,h44,2268500,5488100,14058363,efp,0, ,100
+16126,3,1993,Taieri River,1161017,Canton Stream,743.139,930,Canton Stream,,540,87,uoo,H44,2271300,5491000,14057537,efp,3,,48
+16127,9,1993,Taieri River,1161017,Canton Stream,743.139,930,Canton Stream,,540,87,uoo,H44,2271300,5491000,14057537,efp,3,,48
+16128,9,1993,Taieri River,1161017,Canton Stream,743.139,930,Canton Stream,,540,87,uoo,H44,2271300,5491000,14057537,efp,3,,48
+16129,11,1993,Taieri River,1161017,Canton Stream,743.139,930,Canton Stream,,540,87,uoo,H44,2271300,5491000,14057537,efp,3,,48
+16130,1,1994,Taieri River,1161017,Canton Stream,743.139,930,Canton Stream,,540,87,uoo,H44,2271300,5491000,14057537,efp,3,,48
+16131,4,1994,Taieri River,1161017,Canton Stream,743.139,930,Canton Stream,,540,87,uoo,H44,2271300,5491000,14057550,efp,3,,48
+12374,9,1995,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,1000,Lake Mahinerangi tributary, ,470,48,doco,h44,2277800,5477500,14061772,efp,1, ,80
+5812,1,1996,Taieri River,1161004,Post Office Creek,743.053,1600,Post Office Creek tributary,,540,52,niwa,H44,2280500,5477500,14061688,efp,1,,25
+5813,1,1996,Taieri River,1161004,Post Office Creek,743.053,1430,Post Office Creek tributary,,570,53,niwa,H44,2280700,5476800,0,efp,1,,20
+5814,1,1996,Taieri River,1161004,Post Office Creek,743.053,1500,Post Office Creek,,550,53,niwa,H44,2281000,5477200,14061739,efp,1,,30
+5815,1,1996,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,1100,Lake Mahinerangi tributary, ,420,47,niwa,h44,2277200,5477300,14061792,obs, , ,6
+15642,3,1996,Taieri River,1161006,Lake Mahinerangi tributary 3,743.05,1430,Lake Mahinerangi tributary,,420,51,doco,H44,2271600,5475300,14062196,efp,1,,20
+15643,3,1996,Taieri River,1161007,Lake Mahinerangi tributary 4,743.05,1515,Lake Mahinerangi tributary,,420,52,doco,H44,2270500,5475400,14062055,efp,1,,1
+15902,5,1996,Taieri River,1161006,Lake Mahinerangi tributary 3,743.05,night,Lake Mahinerangi tributary,,420,51,doco,H44,2271700,5475300,14062196,gmt,,,1
+15903,5,1996,Taieri River,1161008,Lake Mahinerangi tributary 5,743.054,night,Pioneer Stream tributary,,420,53,doco,H44,2270300,5475200,14062236,gmt,,,1
+15904,5,1996,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,night,Lake Mahinerangi tributary,,440,47,doco,H44,2277500,5477000,14061876,gmt,,,1
+15905,5,1996,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,night,Lake Mahinerangi tributary,,450,47,doco,H44,2277500,5477200,14061772,gmt,,,1
+15906,5,1996,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,night,Lake Mahinerangi tributary,,460,48,doco,H44,2277800,5477000,14061876,gmt,,,2
+15921,5,1996,Taieri River,1161011,Whare Creek,743.09,1600,Whare Creek,,340,52,doco,I44,2312300,5485500,14058877,efp,1,,10
+117567,9,1996,Tokomairiro River,1161031,Tokomairiro River West Branch tributary 1,748,1400,Tokomairiro River West Branch tributary, ,438,51,doco, ,2268700,5466000,14064164,han,1, ,1
+109036,5,1999,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264613,5491648,14057270,efp,,,
+109049,5,1999,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264501,5491891,14057270,efp,,,
+109062,5,1999,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,621,128,doco,I44,2264504,5492860,14056886,efp,,,
+109087,5,1999,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312760,5486534,14058877,efp, , , 
+109100,6,1999,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312901,5485948,14058877,efp, , , 
+109113,4,1999,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312357,5485553,14058877,efp, , , 
+109037,5,2000,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264613,5491648,14057270,efp,,,
+109050,4,2000,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264501,5491891,14057270,efp,,,
+109063,6,2000,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,621,128,doco,I44,2264504,5492860,14056886,efp,,,
+109088,4,2000,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312760,5486534,14058877,efp, , , 
+109101,5,2000,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312901,5485948,14058877,efp, , , 
+109115,3,2000,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312357,5485553,14058877,efp, , , 
+21687,3,2001,Taieri River,1161012,Smugglers Creek,743.12,1320,Smugglers Creek,,160,42,uoo,I44,2293800,5482700,14060065,efp,2,,30
+109038,5,2001,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264613,5491648,14057270,efp,,,
+109102,6,2001,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312901,5485948,14058877,efp, , , 
+109116,6,2001,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312357,5485553,14058877,efp, , , 
+109039,6,2002,Taieri River,1161021,Deep Stream,743.18, ,Barbours Stream, ,706,130,rdcl,I44,2264613,5491648,14057270,efp, , , 
+109051,6,2002,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,rdcl,I44,2264501,5491891,14057270,efp,,,136.2
+109064,6,2002,Taieri River,1161021,Deep Stream,743.18, ,Barbours Stream, ,621,128,rdcl,I44,2264504,5492860,14056886,efp, , , 
+109089,6,2002,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312760,5486534,14058877,efp, , , 
+109103,5,2002,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312901,5485948,14058877,efp, , , 
+109117,5,2002,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312357,5485553,14058877,efp, , , 
+109040,3,2003,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,rdcl,I44,2264613,5491648,14057270,efp,,,141.6
+109052,3,2003,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,rdcl,I44,2264501,5491891,14057270,efp,,,154.8
+109065,4,2003,Taieri River,1161021,Deep Stream,743.18, ,Barbours Stream, ,621,128,rdcl,I44,2264504,5492860,14056886,efp, , , 
+109090,4,2003,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,rdcl,I44,2312760,5486534,14058877,efp, , , 
+109104,3,2003,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,rdcl,I44,2312901,5485948,14058877,efp, , , 
+109119,4,2003,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,rdcl,I44,2312357,5485553,14058877,efp, , , 
+26473,3,2004,Taieri River,1161026,Stony Creek,743.256,1245,Stony Creek,,805,121,orc,H43,2268200,5508900,14052098,efp,1,,
+26504,11,2004,Taieri River,1161008,Lake Mahinerangi tributary 5,743.054,1400,Pioneer Stream tributary, ,440,53,doco,h44,2270200,5475500,14062235,efp,1, ,250
+109041,3,2004,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264613,5491648,14057270,efp,,,204
+109053,3,2004,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264501,5491891,14057270,efp,,,151.8
+109066,4,2004,Taieri River,1161021,Deep Stream,743.18, ,Barbours Stream, ,621,128,doco,I44,2264504,5492860,14056886,efp, , , 
+109091,4,2004,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312760,5486534,14058877,efp, , , 
+109105,3,2004,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312901,5485948,14058877,efp, , , 
+109120,2,2004,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312357,5485553,14058877,efp, , , 
+26028,2,2005,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1000,Lake Mahinerangi tributary,,420,48,doco,H44,2272200,5474700,14062282,efp,1,,
+26029,2,2005,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1300,Lake Mahinerangi tributary,,420,48,doco,H44,2272200,5474700,14062282,efp,1,,
+26030,2,2005,Taieri River,1161004,Post Office Creek,743.053,1540,Post Office Creek,,615,54,doco,H44,2282000,5476900,14061820,han,,,3
+26031,2,2005,Taieri River,1161004,Post Office Creek,743.053,1500,Post Office Creek,,630,54,doco,H44,2282100,5476800,14061820,han,,,2
+26032,2,2005,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,1251,Lake Mahinerangi tributary, ,420,47,doco,h44,2277300,5477000,14061876,efp,1, , 
+26034,2,2005,Taieri River,1161009,Pioneer Stream tributary,743.054,1325,Pioneer Stream tributary,,415,54,doco,H44,2268300,5476200,14061674,han,,,30
+26040,2,2005,Taieri River,1161009,Pioneer Stream tributary,743.054,1325,Pioneer Stream tributary, ,415,54,doco,h44,2268700,5476300,14061867,han, , ,1
+26041,2,2005,Taieri River,1161006,Lake Mahinerangi tributary 3,743.05,1630,Lake Mahinerangi tributary,,410,51,doco,H44,2271700,5475400,14062196,han,,,1
+26194,3,2005,Tokomairiro River,1161028,Tokomairiro River East Branch tributary 1,748.04,1310,Tokomairiro River East Branch tributary,,435,45,doco,H45,2275000,5467000,14064104,han,,,35
+26195,3,2005,Tokomairiro River,1161028,Tokomairiro River East Branch tributary 1,748.04,1230,Tokomairiro River East Branch tributary,,460,45,doco,H45,2274900,5466900,14064104,han,,,60
+26437,3,2005,Taieri River,1161001,Meggat Burn tributary,743.05,1425,Meggat Burn tributary,,580,36,doco,H45,2271100,5469900,14063619,efp,1,,50
+26438,3,2005,Tokomairiro River,1161032,Tokomairiro River West Branch tributary 2,748,1300,Tokomairiro River West Branch tributary,,600,56,doco,H45,2270300,5468600,14063889,han,,,2
+26443,3,2005,Tokomairiro River,1161030,Tokomairiro River East Branch tributary 3,748.04,1615,Tokomairiro River East Branch tributary, ,500,49,doco,h45,2272700,5468500,14063864,han, , ,50
+26444,3,2005,Tokomairiro River,1161030,Tokomairiro River East Branch tributary 3,748.04,1540,Tokomairiro River East Branch tributary,,515,49,doco,H45,2272400,5468500,0,han,,,50
+26445,3,2005,Tokomairiro River,1161033,Tokomairiro River West Branch tributary 3,748,1500,Tokomairiro River West Branch tributary,,540,57,doco,H45,2271100,5468900,14063754,han,,,40
+26447,3,2005,Tokomairiro River,1161031,Tokomairiro River West Branch tributary 1,748,1230,Tokomairiro River West Branch tributary,,460,53,doco,H45,2268600,5466000,14064164,han,1,,30
+26455,2,2005,Taieri River,1161008,Lake Mahinerangi tributary 5,743.054, ,Pioneer Stream tributary, ,420,53,doco,h44,2270300,5475200,14062236,gmt, , ,1
+26461,2,2005,Taieri River,1161006,Lake Mahinerangi tributary 3,743.05,1145,Lake Mahinerangi tributary, ,415,51,doco,h44,2271600,5475500,14062196,gmt, , ,2
+26510,1,2005,Taieri River,1161021,Deep Stream,743.18,day,Barbours Stream,,680,132,doco,H44,2264615,5491649,14057271,efp,1,,
+26511,1,2005,Taieri River,1161011,Whare Creek,743.096,1200,Whare Creek,,390,53,doco,I44,2312600,5485800,14058877,efp,3,,
+26512,3,2005,Taieri River,1161011,Whare Creek,743.096,1100,Whare Creek,,340,52,doco,I44,2312300,5485500,14058877,efp,3,,
+26515,3,2005,Taieri River,1161021,Deep Stream,743.18,day,Barbours Stream,,665,132,doco,H44,2264400,5491800,14057271,efp,3,,
+26516,4,2005,Taieri River,1161021,Deep Stream,743.18,day,Barbours Stream,,600,131,doco,H44,2264503,5492874,14056887,efp,3,,
+26562,4,2005,Taieri River,1161021,Deep Stream,743.18,day,Barbours Stream,,600,131,doco,H44,2264500,5492800,14056887,efp,3,,
+26997,3,2005,Taieri River,1161001,Meggat Burn tributary,743.05,1645,Meggat Burn tributary,,495,35,doco,H45,2272747,5469358,14063609,efp,1,,50
+109054,3,2005,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264501,5491891,14057270,efp,,,161.4
+109092,5,2005,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312760,5486534,14058877,efp, , , 
+109042,3,2006,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264613,5491648,14057270,efp,,,184
+109055,3,2006,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264501,5491891,14057270,efp,,,131.4
+109067,5,2006,Taieri River,1161021,Deep Stream,743.18, ,Barbours Stream, ,621,128,doco,I44,2264504,5492860,14056886,efp, , , 
+109074,5,2006,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05, ,Lake Mahinerangi tributary, ,415,47,doco,H44,2272260,5474735,14062282,tfu, , ,1
+109080,5,2006,Taieri River,1161004,Post Office Creek,743.053, ,Post Office Creek tributary, ,600,52,doco,H44,2282062,5477121,14061820,tfu, , ,1
+109093,2,2006,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312760,5486534,14058877,efp, , , 
+109106,3,2006,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312901,5485948,14058877,efp, , , 
+109121,2,2006,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312357,5485553,14058877,efp, , , 
+28488,5,2007,Taieri River,1161024,Three O'Clock Stream tributary 2,743.16,1130,Three O'clock Stream tributary,,500,92,doco,I43,2307679,5508649,14052155,efp,1,,50
+28489,5,2007,Taieri River,1161024,Three O'Clock Stream tributary 2,743.16,1200,Three O'clock Stream tributary, ,510,92,doco,i43,2307734,5508614,14052155,efp,1, ,50
+28490,5,2007,Taieri River,1161023,Three O'Clock Stream tributary 1,743.16,1230,Three O'clock Stream tributary,,510,82,doco,I43,2307485,5507872,14052302,efp,1,,50
+31036,4,2007,Taieri River,1161025,Sutton Stream lower,744,1400,Sutton Stream, ,220,96,orc,h43,2283200,5508400,14052240,ef,3, ,80
+109043,2,2007,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264613,5491648,14057270,efp,,,150.4
+109056,2,2007,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264501,5491891,14057270,efp,,,122.4
+109068,3,2007,Taieri River,1161021,Deep Stream,743.18, ,Barbours Stream, ,621,128,doco,I44,2264504,5492860,14056886,efp, , , 
+109075,3,2007,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05, ,Lake Mahinerangi tributary, ,415,47,doco,H44,2272260,5474735,14062282,tfu, , ,1
+109081,3,2007,Taieri River,1161004,Post Office Creek,743.053, ,Post Office Creek tributary, ,600,52,doco,H44,2282062,5477121,14061820,tfu, , ,1
+109094,2,2007,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312760,5486534,14058877,efp, , , 
+109107,2,2007,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312901,5485948,14058877,efp, , , 
+109122,2,2007,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312357,5485553,14058877,efp, , , 
+31804,10,2008,Taieri River,1161019,Deep Stream tributary 1,743.18,1300,Deep Stream tributary,,525,123,doco,H44,2266649,5498311,14055371,efp,1,,
+31805,10,2008,Taieri River,1161019,Deep Stream tributary 1,743.18,1300,Deep Stream tributary, ,525,123,doco,H44,2266650,5498315,14055371,efp,1, , 
+31806,10,2008,Taieri River,1161018,Deep Creek,743.187,1300,Deep Creek tributary,,777,126,doco,H43,2266368,5504565,14053492,efp,1,,
+31807,10,2008,Taieri River,1161018,Deep Creek,743.059,1355,Flat Creek,,888,129,doco,H43,2264724,5503973,14053670,efp,1,,
+31808,10,2008,Taieri River,1161020,Deep Stream tributary 2,743.18,1600,Deep Stream tributary,,551,126,doco,H44,2267297,5495543,14056164,efp,1,,
+31809,10,2008,Taieri River,1161022,Clarkes Stream tributary,743.188,1330,Clarkes Stream tributary,,599,131,doco,H44,2266300,5492617,14056975,efp,1,,
+31810,10,2008,Taieri River,1161022,Clarkes Stream tributary,743.188, ,Clarkes Stream tributary, ,585,131,doco,H44,2266410,5492800,14056975,efp,1, , 
+31811,10,2008,Taieri River,1161022,Clarkes Stream tributary,743.188,1400,Clarkes Stream tributary,,640,132,doco,H44,2265813,5492206,14056975,obs,,,1
+31812,10,2008,Taieri River,1161021,Deep Stream,743.189,1125,Devils Creek,,851,136,doco,H44,2261648,5490050,14057651,efp,1,,
+31813,10,2008,Taieri River,1161021,Deep Stream,743.189,1045,Fiddlers Creek,,848,135,doco,H44,2262258,5490293,14057664,efp,1,,
+31814,10,2008,Taieri River,1161021,Deep Stream,743.189,1240,Devils Creek tributary,,840,136,doco,H44,2261367,5490801,14057617,efp,1,,
+31815,10,2008,Taieri River,1161021,Deep Stream,743.18,1420,Deep Stream tributary,,535,128,doco,H44,2265595,5494536,14056526,efp,1,,
+31816,10,2008,Taieri River,1161021,Deep Stream,743.18,1200,Deep Stream,,572,130,doco,H44,2264340,5493368,14056886,efp,1,,
+31817,10,2008,Taieri River,1161021,Deep Stream,743.18,1200,Deep Stream, ,571,130,doco,H44,2264360,5493370,14056886,efp,1, , 
+31818,10,2008,Taieri River,1161015,Lee Stream tributary,743.18,1600,Lee Stream tributary,,505,84,doco,H44,2274875,5493677,14056694,efp,1,,
+31820,10,2008,Taieri River,1161020,Deep Stream tributary 2,743.18,1500,Deep Stream tributary,,510,125,doco,H44,2267489,5496144,14056007,efp,1,,
+31821,10,2008,Taieri River,1161021,Deep Stream,743.189,1020,Devils Creek tributary, ,18,21,doco,H44,2262698,5490877,14057578,efp,1, , 
+31822,10,2008,Taieri River,1161020,Deep Stream tributary 2,743.18,1600,Deep Stream tributary, ,523,126,doco,H44,2267460,5495901,14056164,efp,1, , 
+31823,10,2008,Taieri River,1161020,Deep Stream tributary 2,743.18,1600,Deep Stream tributary, ,523,126,doco,H44,2267460,5495885,14056164,efp,1, , 
+109044,3,2008,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264613,5491648,14057270,efp,,,152.8
+109057,3,2008,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264501,5491891,14057270,efp,,,122.4
+109069,3,2008,Taieri River,1161021,Deep Stream,743.18, ,Barbours Stream, ,621,128,doco,I44,2264504,5492860,14056886,efp, , , 
+109076,3,2008,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05, ,Lake Mahinerangi tributary, ,415,47,doco,H44,2272260,5474735,14062282,tfu, , ,1
+109082,3,2008,Taieri River,1161004,Post Office Creek,743.053, ,Post Office Creek tributary, ,600,52,doco,H44,2282062,5477121,14061820,tfu, , ,1
+109095,3,2008,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312760,5486534,14058877,efp, , , 
+109108,3,2008,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312901,5485948,14058877,efp, , , 
+109123,2,2008,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312357,5485553,14058877,efp, , , 
+31762,9,2009,Taieri River,1161002,Shepard Stream,743.05,1645,Shepherd Stream tributary,,476,43,doco,H44,2272300,5473800,14062637,efp,1,,
+31763,9,2009,Taieri River,1161002,Shepard Stream,743.05,1200,Shepherd Stream tributary, ,451,42,doco,H44,2272500,5473300,14062712,efp, , , 
+31764,9,2009,Taieri River,1161002,Shepard Stream,743.05,1200,Shepherd Stream tributary,,402,41,doco,H44,2273400,5473400,14062755,efp,,,
+31765,9,2009,Taieri River,1161002,Shepard Stream,743.05,1530,Shepherd Stream tributary, ,489,43,doco,H44,2272200,5473000,14062812,efp,1, , 
+31766,9,2009,Taieri River,1161002,Shepard Stream,743.05,1530,Shepherd Stream tributary, ,487,43,doco,H44,2272215,5473020,14062812,efp,1, , 
+31774,9,2009,Taieri River,1161013,Traquair Burn,743.12,1200,Traquair Burn,,446,53,doco,H44,2286805,5483291,14059955,efp,1,,
+31776,8,2009,Tokomairiro River,1161030,Tokomairiro River East Branch tributary 3,748.04,1520,Tokomairiro River East Branch tributary, ,505,49,doco,H45,2272690,5468552,14063864,efp,1, , 
+31777,8,2009,Tokomairiro River,1161030,Tokomairiro River East Branch tributary 3,748.04,1435,Tokomairiro River East Branch tributary, ,484,48,doco,H45,2272526,5467912,14063864,efp,1, , 
+31778,8,2009,Tokomairiro River,1161029,Tokomairiro River East Branch tributary 2,748.04, ,Tokomairiro River East Branch tributary, ,397,46,doco,H45,2271934,5466208,14064337,efp,1, , 
+31779,8,2009,Tokomairiro River,1161029,Tokomairiro River East Branch tributary 2,748.04,day,Tokomairiro River East Branch tributary,,405,46,doco,H45,2271792,5466238,14064336,efp,1,,
+31780,8,2009,Tokomairiro River,1161029,Tokomairiro River East Branch tributary 2,748.04,day,Tokomairiro River East Branch tributary,,407,46,doco,H45,2271800,5466490,14064308,efp,1,,
+31781,8,2009,Tokomairiro River,1161028,Tokomairiro River East Branch tributary 1,748.04,day,Tokomairiro River East Branch tributary,,418,44,doco,H45,2275252,5466536,14064104,efp,1,,
+31782,8,2009,Tokomairiro River,1161028,Tokomairiro River East Branch tributary 1,748.04, ,Tokomairiro River East Branch tributary, ,414,44,doco,H45,2275285,5466503,14064104,efp,1, , 
+31783,7,2009,Tokomairiro River,1161033,Tokomairiro River West Branch tributary 3,748.04,1115,Tokomairiro River East Branch tributary, ,540,57,doco,H45,2271016,5468659,14063855,efp,1, , 
+31784,8,2009,Tokomairiro River,1161033,Tokomairiro River West Branch tributary 3,748.04, ,Tokomairiro River East Branch tributary, ,546,57,doco,H45,2270907,5468594,14063754,efp,1, , 
+31786,8,2009,Taieri River,1161012,Smugglers Creek,743.12,day,Smugglers Creek,,139,42,doco,I44,2293792,5482721,14060065,efp,1,,
+31795,7,2009,Taieri River,1161001,Meggat Burn tributary,743.05,1150,Meggat Burn tributary,,495,35,doco,H45,2272733,5469366,14063609,efp,1,,
+31796,7,2009,Taieri River,1161001,Meggat Burn tributary,743.05, ,Meggat Burn tributary, ,495,35,doco,H45,2272750,5469410,14063609,efp, , , 
+31800,7,2009,Taieri River,1161036,Waipori River tributary 3,743.133, ,Boundary Creek tributary, ,171,27,doco,H45,2277747,5464099,14064754,efp,1, , 
+109045,2,2009,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264613,5491648,14057270,efp,,,118.4
+109058,2,2009,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264501,5491891,14057270,efp,,,132
+109070,2,2009,Taieri River,1161021,Deep Stream,743.18, ,Barbours Stream, ,621,128,doco,I44,2264504,5492860,14056886,efp, , , 
+109077,3,2009,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05, ,Lake Mahinerangi tributary, ,415,47,doco,H44,2272260,5474735,14062282,tfu, , ,1
+109083,3,2009,Taieri River,1161004,Post Office Creek,743.053, ,Post Office Creek tributary, ,600,52,doco,H44,2282062,5477121,14061820,tfu, , ,1
+109096,2,2009,Taieri River,1161011,Whare Creek,743.09,1000,Whare Creek, ,355,50,doco,I44,2312760,5486534,14058877,efp, , , 
+109109,2,2009,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312901,5485948,14058877,efp, , , 
+109124,2,2009,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312357,5485553,14058877,efp, , , 
+101397,2,2010,Taieri River,1161026,Stony Creek,743.256,1330,Stony Creek,,828,119,niwa,H43,2268250,5508900,14052098,efp,1,,10
+109046,3,2010,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264613,5491648,14057270,efp,,,142.4
+109059,3,2010,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,doco,I44,2264501,5491891,14057270,efp,,,114.6
+109071,3,2010,Taieri River,1161021,Deep Stream,743.18, ,Barbours Stream, ,621,128,doco,I44,2264504,5492860,14056886,efp, , , 
+109078,5,2010,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05, ,Lake Mahinerangi tributary, ,415,47,doco,H44,2272260,5474735,14062282,tfu, , ,1
+109084,7,2010,Taieri River,1161004,Post Office Creek,743.053,1100,Post Office Creek tributary, ,600,52,doco,H44,2282062,5477121,14061820,tfu, , ,1
+109097,1,2010,Taieri River,1161011,Whare Creek,743.09,1000,Whare Creek, ,355,50,doco,I44,2312760,5486534,14058877,efp, , , 
+109110,2,2010,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312901,5485948,14058877,efp, , , 
+109125,2,2010,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,doco,I44,2312357,5485553,14058877,efp, , , 
+109146,3,2010,Taieri River,1161026,Stony Creek,743.256,1130,Stony Creek, ,1053,130,doco,H43,2261541,5504779,14053414,efp, , , 
+109147,3,2010,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,916,126,doco,H43,2263987,5506552,14052853,efp, , , 
+109148,3,2010,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,854,119,doco,H43,2267068,5508151,14052274,efp, , , 
+109149,3,2010,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,854,119,doco,H43,2268250,5508882,14052274,efp, , , 
+102695,5,2011,Taieri River,1161021,Deep Stream,743.18,1000,Deep Stream Tributary,,905,135,doco,I44,2260651,5490723,14057615,efp,,,
+102697,5,2011,Taieri River,1161021,Deep Stream,743.189,1445,Devils Creek,,860,133,doco,H44,2261611,5490053,14057651,efp,,,
+102698,5,2011,Taieri River,1161021,Deep Stream,743,1204,Water Race, , , ,doco,I45,2259129,5489624, ,efp, , , 
+102699,5,2011,Taieri River,1161021,Deep Stream,743.18,1216,Deep Stream,,1010,136,doco,I44,2259006,5489687,14057916,efp,,,
+102700,5,2011,Taieri River,1161021,Deep Stream,743.18,1309,Deep Stream,,948,137,doco,I44,2259251,5492240,14057227,efp,,,
+102701,5,2011,Taieri River,1161021,Deep Stream,743.18,1345,Deep Stream,,933,137,doco,I44,2259313,5492325,14057038,efp,,,
+102702,5,2011,Taieri River,1161021,Deep Stream,743.18,1405,Deep Stream,,1053,140,doco,I44,2258767,5494327,14056547,efp,,,
+102703,5,2011,Taieri River,1161018,Deep Creek,743.18,1423,Deep Stream,,1089,139,doco,I44,2257425,5495734,14056034,efp,,,
+102704,5,2011,Taieri River,1161021,Deep Stream,743.18,1450,Deep Stream,,967,137,doco,I44,2260014,5492820,14056878,efp,,,
+102705,5,2011,Taieri River,1161021,Deep Stream,743.18,1310,Deep Stream,,873,134,doco,I44,2260764,5490936,14057615,efp,,,
+102706,5,2011,Taieri River,1161021,Deep Stream,743.189,1443,Devils Creek,,888,136,doco,H44,2260553,5489035,14058190,efp,,,
+102707,5,2011,Taieri River,1161021,Deep Stream,743.189,1500,Devils Creek tributary,,899,136,doco,H44,2261798,5488460,14058272,efp,,,
+102708,5,2011,Taieri River,1161021,Deep Stream,743.18,1510,Old Mining Pond,,899,136,doco,I44,2261761,5488431,14058272,efp,,,
+102709,5,2011,Taieri River,1161021,Deep Stream,743.189,1530,Fiddlers Creek water race,,0,0,doco,H44,2262367,5489552,,efp,,,
+102710,6,2011,Taieri River,1161018,Deep Creek,743.187,1039,Deep Creek,,957,133,doco,H43,2261761,5497503,14055600,efp,,,78
+102711,6,2011,Taieri River,1161018,Deep Creek,743.187,1130,Deep Creek,,1012,135,doco,H43,2260417,5499201,14055047,efp,,,100
+103429,9,2011,Taieri River,1161021,Deep Stream,743.18,934,Barbours Stream tributary,,728,130,uoo,I44,2264497,5491521,14057408,efp,,,
+103432,9,2011,Taieri River,1161027,Sutton Stream upper,743.25,946,Sutton Stream tributary,,947,125,uoo,H43,2264646,5505016,14053347,efp,,,
+103433,9,2011,Taieri River,1161018,Deep Creek,743.873,950,Flat Creek,,999,129,uoo,H43,2262690,5503437,14053824,efp,,,
+103747,9,2011,Taieri River,1161011,Whare Creek,743.09,,Whare Creek,,355,50,uoo,I44,2312255,5485535,14058877,efp,1,,100
+103748,9,2011,Taieri River,1161001,Meggat Burn tributary,743.05, ,Meggat Burn tributary, ,510,34,uoo,H45,2272750,5469360,14063609,efp,1, ,40
+103749,9,2011,Taieri River,1161001,Meggat Burn tributary,743.05,,Meggat Burn tributary,,510,34,uoo,H45,2272685,5469320,14063609,efp,1,,100
+103753,9,2011,Taieri River,1161023,Three O'Clock Stream tributary 1,743.16,,Three O'clock Stream tributary,,538,80,uoo,I43,2307430,5507955,14052341,efp,1,,60
+103754,9,2011,Taieri River,1161024,Three O'Clock Stream tributary 2,743.16,,Three O'clock Stream tributary,,514,89,uoo,I43,2307930,5508870,14051992,efp,1,,20
+103755,9,2011,Taieri River,1161017,Canton Stream,743.139,,Canton Stream,,524,84,uoo,H44,2272095,5490805,14057750,efp,1,,100
+109047,3,2011,Taieri River,1161021,Deep Stream,743.18,1030,Barbours Stream,,706,130,doco,I44,2264613,5491648,14057270,efp,,,129.6
+109060,3,2011,Taieri River,1161021,Deep Stream,743.18,1325,Barbours Stream,,706,130,doco,I44,2264501,5491891,14057270,efp,,,120.6
+109072,3,2011,Taieri River,1161021,Deep Stream,743.18,1310,Barbours Stream, ,621,128,doco,I44,2264504,5492860,14056886,efp, , , 
+109079,3,2011,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05, ,Lake Mahinerangi tributary, ,415,47,doco,H44,2272260,5474735,14062282,tfu, , ,1
+109085,3,2011,Taieri River,1161004,Post Office Creek,743.053,1000,Post Office Creek tributary, ,600,52,doco,H44,2282062,5477121,14061820,tfu, , ,1
+109098,5,2011,Taieri River,1161011,Whare Creek,743.09,1100,Whare Creek, ,355,50,doco,I44,2312760,5486534,14058877,efp, , , 
+109111,4,2011,Taieri River,1161011,Whare Creek,743.09,150,Whare Creek, ,355,50,doco,I44,2312901,5485948,14058877,efp, , , 
+109126,4,2011,Taieri River,1161011,Whare Creek,743.09,930,Whare Creek, ,355,50,doco,I44,2312357,5485553,14058877,efp, , , 
+109128,3,2011,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,1053,130,doco,H43,2261523,5504832,14053414,efp, , , 
+109134,3,2011,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,854,119,doco,H43,2266806,5508234,14052274,efp, , , 
+109137,2,2011,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,854,119,doco,H43,2268161,5508731,14052274,efp, , , 
+109140,2,2011,Taieri River,1161026,Stony Creek,743.256,1030,Stony Creek, ,854,119,doco,H43,2267965,5508757,14052274,efp, , , 
+109143,3,2011,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,854,119,doco,H43,2268288,5508947,14052274,efp, , , 
+109150,3,2011,Taieri River,1161026,Stony Creek,743.256,1030,Stony Creek, ,818,118,doco,H43,2268678,5509211,14051970,efp, , , 
+101271,11,2012,Taieri River,1161026,Stony Creek,743.058,,Stony Creek tributary,,1015,129,doco,H44,2262530,5503985,14053456,efp,1,,
+101663,1,2012,Taieri River,1161014,Broad Stream,743.136, ,Broad Stream, ,610,90,doco,h44,2268417,5488693,14058123,efp,1, , 
+101665,1,2012,Taieri River,1161014,Broad Stream,743.136, ,Broad Stream, ,605,90,doco,h44,2268467,5488915,14058123,efp,1, , 
+101666,1,2012,Taieri River,1161014,Broad Stream,743.136, ,Broad Stream, ,601,90,doco,h44,2268442,5488943,14058123,efp,1, , 
+101668,1,2012,Taieri River,1161014,Broad Stream,743.136, ,Broad Stream, ,648,91,doco,h44,2268570,5489353,14057749,efp,1, , 
+101669,1,2012,Taieri River,1161014,Broad Stream,743.136, ,Broad Stream, ,648,91,doco,h44,2268560,5489612,14057749,efp,1, , 
+101670,1,2012,Taieri River,1161014,Broad Stream,743.136, ,Broad Stream tributary, ,653,91,doco,h44,2268618,5489467,14057749,efp,1, , 
+101671,1,2012,Taieri River,1161014,Broad Stream,743.136,,Broad Stream tributary,,635,91,doco,h44,2268406,5489163,14057749,efp,1,,
+101672,1,2012,Taieri River,1161014,Broad Stream,743.136, ,Broad Stream tributary, ,651,91,doco,h44,2268200,5489190,14058123,obs,1, ,1
+101673,1,2012,Taieri River,1161014,Broad Stream,743.136, ,Broad Stream tributary, ,643,91,doco,h44,2268235,5489090,14058123,efp,1, , 
+101674,1,2012,Taieri River,1161014,Broad Stream,743.136, ,Broad Stream, ,512,90,doco,h44,2268599,5487970,14058494,efp,1, , 
+103760,2,2012,Taieri River,1161012,Smugglers Creek,743.12,,Smugglers Creek,,170,42,uoo,I44,2293670,5482815,14060065,efp,1,,100
+103775,2,2012,Taieri River,1161012,Smugglers Creek,743.12,,Smugglers Creek,,170,42,uoo,I44,2293800,5482670,14060065,efp,1,,200
+103776,2,2012,Taieri River,1161013,Traquair Burn,743.12,,Traquair Burn,,480,52,uoo,H44,2286760,5483125,14059889,efp,1,,60
+103777,3,2012,Taieri River,1161001,Meggat Burn tributary,743.05,,Meggat Burn tributary,,547,35,uoo,h45,2272030,5469825,14063585,efp,1,,40
+103778,3,2012,Taieri River,1161001,Meggat Burn tributary,743.05,,Meggat Burn tributary,,547,35,uoo,H45,2271905,5469770,14063585,efp,1,,60
+103779,3,2012,Taieri River,1161002,Shepard Stream,743.05,,Shepherd Stream tributary,,506,42,uoo,H44,2272195,5473015,14062812,efp,1,,20
+103780,3,2012,Taieri River,1161002,Shepard Stream,743.05,,Shepherd Stream tributary,,490,41,uoo,H44,2272425,5473930,14062637,efp,1,,20
+103781,3,2012,Taieri River,1161002,Shepard Stream,743.05,,Shepherd Stream tributary,,456,40,uoo,H44,2273250,5473350,14062755,efp,1,,100
+103782,3,2012,Taieri River,1161002,Shepard Stream,743.05, ,Shepherd Stream tributary, ,456,40,uoo,H44,2273340,5473410,14062755,efp,1, ,100
+103787,3,2012,Taieri River,1161017,Canton Stream,743.139,,Canton Stream,,524,84,uoo,H44,2272105,5490620,14057750,efp,1,,100
+103788,3,2012,Taieri River,1161014,Broad Stream,743.136,,Broad Stream,,578,90,uoo,H44,2268560,5488165,14058123,efp,1,,60
+103789,3,2012,Taieri River,1161014,Broad Stream,743.136,,Broad Stream,,578,90,uoo,H44,2268545,5488355,14058123,efp,1,,60
+103877,9,2012,Taieri River,1161012,Smugglers Creek,743.12,,Smugglers Creek,,252,42,uoo,I44,2292970,5483755,14059655,efp,1,,100
+103878,9,2012,Taieri River,1161017,Canton Stream,743.139,,Canton Stream,,524,84,uoo,H44,2272100,5490775,14057750,efp,1,,60
+103879,9,2012,Taieri River,1161011,Whare Creek,743.09,,Whare Creek,,355,50,uoo,I44,2312325,5485550,14058877,efp,1,,40
+103883,9,2012,Taieri River,1161014,Broad Stream,743.136,,Broad Stream tributary,,578,90,uoo,H44,2268450,5488630,14058123,efp,1,,80
+103884,9,2012,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,728,130,uoo,H44,2264490,5491520,14057408,efp,1,,60
+103885,9,2012,Taieri River,1161015,Lee Stream tributary,743.13,,Lee Stream tributary,,521,81,uoo,H44,2274900,5493625,14056803,efp,1,,80
+103886,9,2012,Tokomairiro River,1161028,Tokomairiro River East Branch tributary 1,748.04,,Tokomairiro River East Branch tributary,,438,41,uoo,H45,2275075,5467100,14064104,efp,1,,60
+103905,9,2012,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,676,130,uoo,H44,2264665,5491280,14057418,efp,1,,100
+103906,9,2012,Taieri River,1161021,Deep Stream,743.18,,Deep Stream,,799,130,uoo,H44,2262745,5492575,14057061,efp,1,,40
+103907,9,2012,Taieri River,1161021,Deep Stream,743.189,,Fiddlers Creek,,847,133,uoo,H44,2262240,5490300,14057664,efp,1,,80
+103908,9,2012,Taieri River,1161021,Deep Stream,743.189,,Devils Creek,,860,133,uoo,H44,2261605,5490075,14057651,efp,1,,60
+103924,12,2012,Taieri River,1161017,Canton Stream,743.139,,Canton Stream,,524,84,uoo,H44,2272120,5490705,14057750,efp,1,,60
+103925,12,2012,Taieri River,1161011,Whare Creek,743.09,,Whare Creek,,355,50,uoo,I44,2312280,5485520,14058877,efp,1,,60
+109132,2,2012,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,1053,130,doco,H43,2261523,5504832,14053414,efp, , , 
+109135,3,2012,Taieri River,1161026,Stony Creek,743.256,1140,Stony Creek, ,854,119,doco,H43,2266806,5508234,14052274,efp, , , 
+109138,2,2012,Taieri River,1161026,Stony Creek,743.256,1100,Stony Creek, ,854,119,doco,H43,2268161,5508731,14052274,efp, , , 
+109141,2,2012,Taieri River,1161026,Stony Creek,743.256,1030,Stony Creek, ,854,119,doco,H43,2267965,5508757,14052274,efp, , , 
+109144,2,2012,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,854,119,doco,H43,2268288,5508947,14052274,efp, , , 
+109151,2,2012,Taieri River,1161026,Stony Creek,743.256,1030,Stony Creek, ,818,118,doco,H43,2268678,5509211,14051970,efp, , , 
+103929,1,2013,Taieri River,1161026,Stony Creek,743.256,,Ratty Creek,,831,120,uoo,H43,2268265,5510325,14051724,efp,1,,60
+103930,1,2013,Taieri River,1161026,Stony Creek,743.256,,Ratty Creek,,831,120,uoo,H43,2268265,5510325,14051724,efp,1,,60
+103945,2,2013,Taieri River,1161021,Deep Stream,743.189,,Devils Creek,,860,133,uoo,H44,2261610,5490080,14057651,efp,1,,100
+103946,2,2013,Taieri River,1161021,Deep Stream,743.189,,Fiddlers Creek,,847,133,uoo,H44,2262240,5490285,14057664,efp,1,,100
+103947,2,2013,Taieri River,1161021,Deep Stream,743.18,,Deep Stream tributary,,823,132,uoo,H44,2262700,5490875,14057511,efp,1,,40
+103948,3,2013,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,uoo,H44,2264600,5491695,14057270,efp,1,,60
+109133,2,2013,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,1053,130,doco,H43,2261523,5504832,14053414,efp, , , 
+109136,2,2013,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,854,119,doco,H43,2266806,5508234,14052274,efp, , , 
+109139,3,2013,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,854,119,doco,H43,2268161,5508731,14052274,efp, , , 
+109142,3,2013,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,854,119,doco,H43,2267965,5508757,14052274,efp, , , 
+109145,2,2013,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,854,119,doco,H43,2268288,5508947,14052274,efp, , , 
+109152,2,2013,Taieri River,1161026,Stony Creek,743.256, ,Stony Creek, ,818,118,doco,H43,2268678,5509211,14051970,efp, , , 
+102356,12,2014,Taieri River,1161025,Sutton Stream lower,743.25,1100,Sutton Stream,,249,96,otfg,H43,2282956,5508400,14052246,efp,,,
+105942,5,2014,Taieri River,1161026,Stony Creek,743.058,1230,Stony Creek,,854,119,doco,H44,2268288,5508947,14052274,efp,,,
+105943,3,2014,Taieri River,1161026,Stony Creek,743.256,1100,Stony Creek,,1053,130,doco,H43,2261523,5504832,14053414,efp,,,
+105944,3,2014,Taieri River,1161026,Stony Creek,743.256,1130,Stony Creek,,854,119,doco,H43,2266806,5508234,14052274,efp,,,
+109048,3,2014,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,rdcl,I44,2264613,5491648,14057270,efp,,,93.5
+109061,3,2014,Taieri River,1161021,Deep Stream,743.18,,Barbours Stream,,706,130,rdcl,I44,2264501,5491891,14057270,efp,,,94.5
+109073,3,2014,Taieri River,1161021,Deep Stream,743.18, ,Barbours Stream, ,621,128,rdcl,I44,2264504,5492860,14056886,efp, , , 
+109086,9,2014,Taieri River,1161004,Post Office Creek,743.053,1100,Post Office Creek tributary, ,600,52,doco,H44,2282062,5477121,14061820,tfu, , ,1
+109099,3,2014,Taieri River,1161011,Whare Creek,743.09,1402,Whare Creek, ,355,50,rdcl,I44,2312760,5486534,14058877,efp, , , 
+109112,2,2014,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,rdcl,I44,2312901,5485948,14058877,efp, , , 
+109127,3,2014,Taieri River,1161011,Whare Creek,743.09, ,Whare Creek, ,355,50,rdcl,I44,2312357,5485553,14058877,efp, , , 
+103297,3,2015,Taieri River,1161025,Sutton Stream lower,743.25,1000,Sutton Stream, ,249,96,otfg,H43,2282926,5508456,14052246,efp, , , 
+105921,2,2016,Taieri River,1161009,Pioneer Stream tributary,743.054,,Pioneer Stream tributary,,408,51,doco,H44,2268318,5476354,14061674,han,1,,5
+105922,2,2016,Taieri River,1161009,Pioneer Stream tributary,743.054,,Pioneer Stream tributary,,408,51,doco,H44,2268239,5476263,14061674,han,1,,5
+105923,2,2016,Taieri River,1161009,Pioneer Stream tributary,743.054,,Pioneer Stream tributary,,406,52,doco,H44,2268778,5476375,14061867,han,1,,5
+105924,2,2016,Taieri River,1161009,Pioneer Stream tributary,743.054,,Pioneer Stream tributary,,406,52,doco,H44,2268757,5476318,14061867,han,1,,5
+109676,5,2016,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,2030,Lake Mahinerangi unnamed tributary, ,480,46,wwcl,H44,2277988,5476788,14061876,spo, , , 
+109677,5,2016,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,2200,Lake Mahinerangi unnamed tributary, ,480,46,wwcl,H44,2277342,5477094,14061876,spo, , , 
+109679,5,2016,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,1,Lake Mahinerangi unnamed tributary, ,489,46,wwcl,H44,2277743,5477358,14061772,spo, , , 
+109680,5,2016,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,30,Lake Mahinerangi unnamed tributary, ,489,46,wwcl,H44,2277432,5477221,14061772,spo, , , 
+111587,1,2017,Taieri River,1161006,Lake Mahinerangi tributary 3,743.05, ,Lake Mahinerangi tributary, ,416,50,doco,H44,2271753,5475272,14062196,han, , ,1
+111588,1,2017,Taieri River,1161006,Lake Mahinerangi tributary 3,743.05, ,Lake Mahinerangi tributary, ,416,50,doco,H44,2271669,5475178,14062196,han, , ,1
+111589,1,2017,Taieri River,1161007,Lake Mahinerangi tributary 4,743.05, ,Lake Mahinerangi tributary, ,411,50,doco,H44,2270572,5475469,14062055,han, , ,1
+111590,1,2017,Taieri River,1161007,Lake Mahinerangi tributary 4,743.05, ,Lake Mahinerangi tributary, ,411,50,doco,H44,2270599,5475467,14062055,han, , ,1
+111592,1,2017,Taieri River,1161007,Lake Mahinerangi tributary 4,743.05, ,Lake Mahinerangi tributary, ,411,50,doco,H44,2270621,5475318,14062055,han, , ,1
+111593,1,2017,Taieri River,1161008,Lake Mahinerangi tributary 5,743.05, ,Lake Mahinerangi tributary, ,446,52,doco,H44,2270290,5475276,14062082,vbd, , , 
+111594,1,2017,Taieri River,1161008,Lake Mahinerangi tributary 5,743.05, ,Lake Mahinerangi tributary, ,446,52,doco,H44,2270329,5475191,14062082,han, , ,1
+111596,1,2017,Taieri River,1161008,Lake Mahinerangi tributary 5,743.05, ,Lake Mahinerangi tributary, ,446,52,doco,H44,2270297,5475253,14062082,tfu, , ,1
+111597,1,2017,Taieri River,1161008,Lake Mahinerangi tributary 5,743.05, ,Lake Mahinerangi tributary, ,446,52,doco,H44,2270299,5475231,14062082,tfu, , ,1
+111600,1,2017,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1000,Lake Mahinerangi tributary, ,415,47,doco,H44,2272267,5474752,14062282,tfu, , ,1
+111601,1,2017,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1000,Lake Mahinerangi tributary, ,415,47,doco,H44,2272276,5474763,14062282,tfu, , ,1
+111602,1,2017,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1000,Lake Mahinerangi tributary, ,415,47,doco,H44,2272286,5474770,14062282,tfu, , ,1
+111604,1,2017,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1000,Lake Mahinerangi tributary, ,415,47,doco,H44,2272288,5474778,14062282,tfu, , ,1
+111605,1,2017,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1000,Lake Mahinerangi tributary, ,415,47,doco,H44,2272292,5474788,14062282,tfu, , ,1
+111606,1,2017,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1000,Lake Mahinerangi tributary, ,415,47,doco,H44,2272297,5474793,14062282,tfu, , ,1
+111607,1,2017,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1000,Lake Mahinerangi tributary, ,415,47,doco,H44,2272307,5474804,14062282,tfu, , ,1
+111608,1,2017,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1000,Lake Mahinerangi tributary, ,415,47,doco,H44,2272314,5474807,14062282,tfu, , ,1
+111609,1,2017,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1000,Lake Mahinerangi tributary, ,415,47,doco,H44,2272320,5474812,14062282,tfu, , ,1
+111610,1,2017,Taieri River,1161005,Lake Mahinerangi tributary 2,743.05,1000,Lake Mahinerangi tributary, ,415,47,doco,H44,2272327,5474820,14062282,tfu, , ,1
+111613,5,2017,Taieri River,1161001,Meggat Burn tributary,743.05,1400,Meggat Burn Tributary, ,547,35,doco,H45,2271929,5469782,14063585,efp, , , 
+111638,5,2017,Taieri River,1161001,Meggat Burn tributary,743.05,1300,Meggat Burn Tributary,,547,35,doco,H45,2272050,5469816,14063585,efp,,,
+111639,6,2017,Tokomairiro River,1161031,Tokomairiro River West Branch tributary 1,748,1000,Tokomairiro River West Branch Tributary, ,457,51,doco,H46,2268694,5466009,14064164,efp, , , 
+111642,6,2017,Tokomairiro River,1161031,Tokomairiro River West Branch tributary 1,748,930,Tokomairiro River West Branch Tributary, ,457,51,doco,H46,2268666,5466086,14064164,efp, , , 
+111645,6,2017,Tokomairiro River,1161032,Tokomairiro River West Branch tributary 2,748,1200,Tokomairiro River West Branch Tributary, ,582,54,doco,H46,2270356,5468706,14063889,efp, , , 
+111649,6,2017,Tookomairiro River,1161032,Tokomairiro River West Branch tributary 2,748,1230,Tokomairiro River West Branch Tributary, ,582,54,doco,H46,2270353,5468670,14063889,efp, , , 
+112932,4,2017,Taieri River,1161017,Canton Stream,743.139, ,Canton Stream, ,524,84,rcl,H44,2272116,5490663,14057750,efp, , , 
+112564,4,2018,Taieri River,1161035,Waipori River tributary 2,743.05,1330,Unnamed stream, ,185,25,wwcl,H45,2277775,5464534,14064658,efp, , , 
+113365,2,2018,Taieri River,1161034,Waipori River tributary 1,743.05,2330,Lake Waipori unnamed tributary, ,227,24,wwcl,H45,2278974,5465908,14064413,sdn, , , 
+113366,2,2018,Taieri River,1161035,Waipori River tributary 2,743.05,140,Lake Waipori unnamed tributary, ,248,26,wwcl,H45,2277613,5465011,14064503,spo, , , 
+113843,5,2018,Taieri River,1161035,Waipori River tributary 2,743.05,1100,Lake Waipori unnamed tributary, ,185,25,wwcl,H45,2278616,5464630,14064658,efp, , , 
+113846,3,2018,Taieri River,1161001,Meggat Burn tributary,743.05,1630,Meggat Burn tributary, ,510,34,wwcl,H45,2272736,5469336,14063609,efp, , , 
+114812,11,2018,Taieri River,1161036,Waipori River tributary 3,743.05,930,Waipori River unnamed tributary, ,195,25,wwcl,H45,2276746,5462799,14064754,tcb, , ,1
+114813,11,2018,Taieri River,1161036,Waipori River tributary 3,743.05,1533,Waipori River unnamed tributary, ,195,25,wwcl,H45,2277767,5464065,14064754,efp, , , 
+114814,11,2018,Taieri River,1161034,Waipori River tributary 1,743.05,1000,Waipori River unnamed tributary, ,212,25,wwcl,H45,2278626,5465752,14064439,unk, , , 
+114815,11,2018,Taieri River,1161035,Waipori River tributary 2,743.05,1800,Waipori River unnamed tributary, ,213,27,wwcl,H45,2277087,5464253,14064717,efp, , , 
+114817,11,2018,Taieri River,1161035,Waipori River tributary 2,743.05,1000,Waipori River unnamed tributary,,229,27,wwcl,H45,2276799,5464026,14064717,efp,,,
+114818,11,2018,Taieri River,1161035,Waipori River tributary 2,743.05,1220,Waipori River unnamed tributary,,244,27,wwcl,H45,2276990,5464533,14064656,unk,,,
+114820,2,2018,Taieri River,1161035,Waipori River tributary 2,743.05,1530,Waipori River unnamed tributary, ,210,26,wwcl,H45,2277118,5465457,14064503,vbd, , , 
+114821,1,2018,Taieri River,1161035,Waipori River tributary 2,743.05,1436,Waipori River unnamed tributary,,274,27,wwcl,H45,2277091,5465656,14064431,vbd,,,
+115502,2,2019,Taieri River,1161035,Waipori River tributary 2,743.05,1225,Waipori River unnamed tributary,,244,27,wwcl,H45,2276970,5464548,14064656,efp,,,
+115503,2,2019,Taieri River,1161035,Waipori River tributary 2,743.05,1400,Waipori River unnamed tributary,,244,27,wwcl,H45,2277208,5464508,14064656,efp,,,
+115504,2,2019,Taieri River,1161035,Waipori River tributary 2,743.05,1534,Waipori River unnamed tributary,,244,27,wwcl,H45,2277136,5464517,14064656,efp,,,
+116122,5,2019,Taieri River,1161035,Waipori River tributary 2,743.05,1030,Waipori River unnamed tributary, ,101,25,wwcl,H45,2278861,5464580,14064690,efp, , , 
+116167,4,2019,Tokomairiro River,1161031,Tokomairiro River West Branch tributary 1,748,1726,Tokomairiro River West Branch tributary, ,438,51,wwcl,H46,2268721,5465976,14064164,efp, , , 
+116467,7,2019,Taieri River,1161004,Post Office Creek,743.05,2215,Post Office Creek, ,548,51,wwcl,H45,2280707,5476771,14061929,spo,, ,
+116473,7,2019,Taieri River,1161004,Post Office Creek,743.05,2315,Post Office Creek tributary, ,548,51,wwcl,H45,2280635,5476523,14061929,spo,, ,
+116474,7,2019,Taieri River,1161004,Post Office Creek,743.05,15,Post Office Creek tributary, ,565,52,wwcl,H45,2281317,5476655,14061841,spo,, ,
+116475,7,2019,Taieri River,1161004,Post Office Creek,743.05,126,Post Office Creek tributary, ,565,52,wwcl,H45,2281291,5476781,14061841,spo,, ,
+116476,7,2019,Taieri River,1161004,Post Office Creek,743.05,129,Post Office Creek tributary, ,565,52,wwcl,H45,2281063,5476917,14061841,sdn,, ,
+116599,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,409,51,doco, ,2268380,5476331,14061674,tfu,, ,1
+116600,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,409,51,doco, ,2268335,5476383,14061674,tfu,, ,1
+116601,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,409,51,doco, ,2268337,5476388,14061674,tfu,, ,2
+116602,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,409,51,doco, ,2268388,5476411,14061674,tfu,, ,2
+116603,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,409,51,doco, ,2268747,5476892,14061674,tfu,, ,2
+116604,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,409,51,doco, ,2268750,5476906,14061674,tfu,, ,2
+116605,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,409,51,doco, ,2268767,5476929,14061674,tfu,, ,1
+116606,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,409,51,doco, ,2268774,5476933,14061674,tfu,, ,2
+116607,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,409,51,doco, ,2268776,5476938,14061674,tfu,, ,2
+116608,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,409,51,doco, ,2268757,5476913,14061674,tfu,, ,1
+116609,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,410,52,doco, ,2268758,5476337,14061867,tfu,, ,1
+116610,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,410,52,doco, ,2268763,5476353,14061867,tfu,, ,1
+116611,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,410,52,doco, ,2268765,5476448,14061867,tfu,, ,1
+116612,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,410,52,doco, ,2268796,5476489,14061867,tfu,, ,1
+116613,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,410,52,doco, ,2268866,5476533,14061867,tfu,, ,1
+116614,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,410,52,doco, ,2268927,5476730,14061867,tfu,, ,1
+116615,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,410,52,doco, ,2268989,5476840,14061867,tfu,, ,1
+116616,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,410,52,doco, ,2269019,5476892,14061867,tfu,, ,1
+116617,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,410,52,doco, ,2269075,5476946,14061867,tfu,, ,1
+116618,4,2019,Taieri River,1161009,Pioneer Stream tributary,743.054,0,Pioneer Stream tributary, ,409,52,doco, ,2269112,5476944,14061868,tfu,, ,1
+120101,12,1991,Taieri River,1161011,Whare Creek,743.09,0,Whare Creek, ,341,50,uoo,I44,2312400,5485500,14058877,ef, , , 
+119356,3,1992,Taieri River,1161021,Deep Stream,743.18,0,Barbours Stream, ,669,130,uoo, ,2264700,5491600,14057271,efp,1, , 
+119348,10,1991,Taieri River,1161011,Whare Creek,743.09,0,Whare Creek, ,341,50,uoo, ,2312400,5485500,14058877,efp,1, , 
+120040,7,2020,Taieri River,1161011,Whare Creek,743.09,1543,Whare Creek, ,341,50,doco,I44,2312291,5485500,14058877,efp, , , 
+119336,3,1991,Taieri River,1161012,Smugglers Creek,743.12,0,Smugglers Creek, ,148,42,uoo, ,2293599,5483000,14060065,efp,1, , 
+119337,3,1991,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Creek, ,410,40,uoo, ,2272799,5473699,14062742,efp,1, , 
+119359,12,1995,Taieri River,1161004,Post Office Creek,743.05,0,Post Office Creek, ,565,52,doco, ,2280799,5476799,14061841,efp,1, , 
+120082,10,2020,Taieri River,1161026,Stony Creek,743.058,1153,Stony Creek, ,870,122,uoo,H44,2266400,5508300,14052274,efp, , , 
+119341,4,1991,Taieri River,1161026,Stony Creek,752.745,0,Stony Creek, ,839,119,uoo, ,2268400,5508900,14052098,efp,1, , 
+119340,3,1991,Taieri River,1161017,Canton Stream,743.13,0,Canton Creek, ,481,82,uoo, ,2273499,5490800,14057539,efp,1, , 
+118808,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,490,89,rel,H44,2268801,5487619,14058652,tfb, , ,1
+118807,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,490,89,rel,H44,2268763,5487637,14058652,efp, , , 
+118811,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,616,90,rel,H44,2268043,5487747,14058556,tfb, , ,2
+118806,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,490,89,rel,H44,2268711,5487764,14058652,efp, , , 
+118805,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,490,89,rel,H44,2268666,5487770,14058652,tfb, , ,1
+118804,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,510,90,rel,H44,2268680,5487787,14058494,tfb, , ,1
+118815,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,616,90,rel,H44,2268150,5487805,14058556,efp, , , 
+118814,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,616,90,rel,H44,2268105,5487808,14058556,tfb, , ,1
+118803,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,510,90,rel,H44,2268664,5487903,14058494,tfb, , ,1
+118802,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,510,90,rel,H44,2268614,5487940,14058494,efp, , , 
+118801,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,510,90,rel,H44,2268565,5487974,14058494,efp, , , 
+118800,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,510,90,rel,H44,2268559,5487980,14058494,tfb, , ,1
+118809,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,570,90,rel,H44,2268147,5488139,14058460,tfb, , ,1
+118799,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,560,90,rel,H44,2268562,5488177,14058236,efp, , , 
+118798,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,560,90,rel,H44,2268566,5488196,14058236,tfb, , ,1
+118797,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,560,90,rel,H44,2268492,5488632,14058236,tfb, , ,1
+118795,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,560,90,rel,H44,2268415,5488690,14058236,tfb, , ,1
+118794,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,560,90,rel,H44,2268418,5488768,14058236,tfb, , ,1
+118793,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,560,90,rel,H44,2268503,5488857,14058236,tfb, , ,1
+118792,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,649,91,rel,H44,2268452,5488922,14058123,tfb, , ,1
+118791,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,612,91,rel,H44,2268500,5488924,14058209,efp, , , 
+118788,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,612,91,rel,H44,2268505,5488931,14058209,efp, , , 
+118790,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,612,91,rel,H44,2268528,5488931,14058209,efp, , , 
+118789,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,612,91,rel,H44,2268548,5488932,14058209,tfb, , ,1
+118787,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,612,91,rel,H44,2268548,5488932,14058209,tfb, , ,1
+118786,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,623,91,rel,H44,2268513,5488981,14058171,efp, , , 
+118785,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,623,91,rel,H44,2268519,5489131,14058171,tfb, , ,1
+118784,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,623,91,rel,H44,2268501,5489260,14058171,tfb, , ,1
+118822,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,441,41,rel,H45,2272479,5473213,14062712,tfb, , ,1
+118823,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,441,41,rel,H45,2272496,5473229,14062712,tfb, , ,1
+118824,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,441,41,rel,H45,2272504,5473244,14062712,tfb, , ,1
+118829,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,441,41,rel,H45,2272516,5473256,14062712,tfb, , ,1
+118830,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,441,41,rel,H45,2272537,5473260,14062712,tfb, , ,1
+118825,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,441,41,rel,H45,2272511,5473266,14062712,tfb, , ,1
+118826,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,441,41,rel,H45,2272518,5473272,14062712,tfb, , ,1
+118828,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,441,41,rel,H45,2272515,5473274,14062712,tfb, , ,1
+118827,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,441,41,rel,H45,2272517,5473276,14062712,tfb, , ,1
+118831,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,441,41,rel,H45,2272538,5473287,14062712,tfb, , ,1
+117244,6,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,441,41,rel,H45,2272508,5473367,14062712,efp, , , 
+118841,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,410,40,rel,H45,2273035,5473516,14062742,tfb, , ,1
+118840,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,410,40,rel,H45,2273020,5473517,14062742,tfb, , ,1
+118839,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,410,40,rel,H45,2273016,5473519,14062742,tfb, , ,1
+118838,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,410,40,rel,H45,2272990,5473556,14062742,tfb, , ,1
+118837,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,410,40,rel,H45,2272959,5473562,14062742,tfb, , ,1
+118832,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,410,40,rel,H45,2272902,5473579,14062742,tfb, , ,1
+118836,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,410,40,rel,H45,2272932,5473592,14062742,tfb, , ,1
+118833,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,410,40,rel,H45,2272911,5473604,14062742,tfb, , ,1
+118834,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,410,40,rel,H45,2272918,5473604,14062742,tfu, , ,1
+118835,12,2019,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Stream, ,410,40,rel,H45,2272931,5473605,14062742,tfb, , ,1
+120041,3,1991,Taieri River,1161002,Shepard Stream,743.05,0,Shepherd Creek tributary, ,428,40,uoo,H45,2273200,5473300,14062926,efp, , , 
+117217,1,2019,Taieri River,1161026,Stony Creek,743.256,0,Stony Creek, ,839,119,rel,H43,2267322,5508236,14052098,efp, , , 
+118818,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,591,90,rel,H44,2267968,5487578,14058586,tfb, , ,1
+118819,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,591,90,rel,H44,2268014,5487595,14058586,tfb, , ,1
+118820,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,591,90,rel,H44,2268056,5487613,14058586,efp, , , 
+118821,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,591,90,rel,H44,2268158,5487659,14058586,tfb, , ,1
+118817,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,527,90,rel,H44,2268247,5487706,14058566,efp, , , 
+118816,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,616,90,rel,H44,2268240,5487761,14058556,efp, , , 
+118812,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,616,90,rel,H44,2268068,5487775,14058556,tfb, , ,1
+118813,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,616,90,rel,H44,2268090,5487804,14058556,efp, , , 
+118810,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream tributary, ,570,90,rel,H44,2268225,5488121,14058460,tfb, , ,1
+118796,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,560,90,rel,H44,2268427,5488678,14058236,tfb, , ,1
+118783,10,2019,Taieri River,1161014,Broad Stream,743.136,0,Broad Stream, ,623,91,rel,H44,2268528,5489080,14058171,tfb, , ,1
+121866,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1000,Three O'clock Stream tributary, ,542,91,doco,I44,2307238,5511612,14051240,vbd,,,
+121867,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1041,Three O'clock Stream tributary, ,542,91,doco,I44,2307291,5511560,14051240,efp,,,
+121868,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1132,Three O'clock Stream tributary, ,542,91,doco,I44,2307439,5511526,14051240,efp,,,
+121869,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1202,Three O'clock Stream tributary, ,542,91,doco,I44,2307506,5511531,14051240,efp,,,
+121870,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1301,Three O'clock Stream tributary, ,542,91,doco,I44,2307540,5511531,14051240,efp,,,
+121871,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1303,Three O'clock Stream tributary, ,542,91,doco,I44,2307577,5511603,14051240,efp,,,
+121872,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1339,Three O'clock Stream tributary, ,542,91,doco,I44,2307602,5511618,14051240,efp,,,
+121873,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1408,Three O'clock Stream tributary, ,460,91,doco,I44,2307719,5511635,14051308,efp,,,
+121874,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1711,Three O'clock Stream tributary, ,460,91,doco,I44,2307726,5511634,14051308,efp,,,
+121875,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1447,Three O'clock Stream tributary, ,460,91,doco,I44,2307937,5511596,14051308,vbd,,,
+121876,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1500,Three O'clock Stream tributary, ,496,91,doco,I44,2307996,5511527,14051552,efp,,,
+121877,3,2020,Taieri River,1161038,Three O'Clock Stream tributary 3,743.16,1452,Three O'clock Stream tributary, ,425,90,doco,I44,2308056,5511584,14051288,efp,,,
+121551,9,1996,Tokomairiro River,1161037,Fishers Stream tributary,748,1500,Fishers Stream tributary, ,371,40,doco,H46,2269600,5463700,14064706,han,,,1
+120669,2,2021,Taieri River,1161036,Waipori River tributary 3,743.05,2345,Waipori River tributary, ,195,25,wwcl,H45,2276719,5462799,14064754,spo,,,
+120670,2,2021,Taieri River,1161036,Waipori River tributary 3,743.05,800,Waipori River tributary, ,299,29,wwcl,H45,2276160,5462799,14065019,tcb,,,1
+121398,5,2021,Taieri River,1161013,Traquair Burn,743.12,1336,Traquair Burn, ,484,52,doco,I44,2286690,5483021,14059955,efp,,,
+121390,3,2021,Taieri River,1161012,Smugglers Creek,743.12,1005,Smugglers Creek, ,293,44,doco,I44,2292526,5484520,14059596,efp,,,
+121391,3,2021,Taieri River,1161012,Smugglers Creek,743.12,1220,Smugglers Creek, ,228,42,doco,I44,2292711,5484332,14059655,efp,,,
+121392,3,2021,Taieri River,1161012,Smugglers Creek,743.12,1100,Smugglers Creek, ,148,42,doco,I44,2293794,5482677,14060065,efp,,,
+121393,3,2021,Taieri River,1161012,Smugglers Creek,743.12,1210,Smugglers Creek, ,148,42,doco,I44,2293724,5482768,14060065,vbd,,,
+121394,3,2021,Taieri River,1161012,Smugglers Creek,743.12,1224,Smugglers Creek, ,148,42,doco,I44,2293637,5482948,14060065,efp,,,
+121667,4,2021,Taieri River,1161011,Whare Creek,743.09,1000,Whare Creek, ,341,50,doco,I44,2312115,5485516,14058877,efp,,,
+121668,4,2021,Taieri River,1161011,Whare Creek,743.09,1034,Whare Creek, ,341,50,doco,I44,2312061,5485516,14058877,efp,,,
+121669,4,2021,Taieri River,1161011,Whare Creek,743.09,1124,Whare Creek, ,341,50,doco,I44,2311988,5485516,14058877,vbd,,,
+121670,6,2021,Taieri River,1161011,Whare Creek,743.09,1144,Whare Creek, ,341,50,doco,I44,2311933,5485507,14058877,efp,,,
+121671,4,2021,Taieri River,1161011,Whare Creek,743.09,1203,Whare Creek, ,341,50,doco,I44,2312289,5485500,14058877,vbd,,,
+121672,4,2021,Taieri River,1161011,Whare Creek,743.09,1252,Whare Creek, ,341,50,doco,I44,2312302,5485516,14058877,efp,,,
+121736,2,2021,Taieri River,1161009,Pioneer Stream tributary,743.054,1035,Pioneer Stream tributary, ,410,52,doco,H44,2268774,5476344,14061867,tfu,,,2
+121737,2,2021,Taieri River,1161009,Pioneer Stream tributary,743.054,1104,Pioneer Stream tributary, ,400,51,doco,H44,2269219,5477119,14061675,tfu,,,5
+121738,2,2021,Taieri River,1161009,Pioneer Stream tributary,743.054,1115,Pioneer Stream tributary, ,400,51,doco,H44,2269115,5476997,14061675,tfu,,,5
+121739,2,2021,Taieri River,1161009,Pioneer Stream tributary,743.054,1224,Pioneer Stream tributary, ,410,52,doco,H44,2269049,5476937,14061867,tfu,,,3
+121740,2,2021,Taieri River,1161009,Pioneer Stream tributary,743.054,1307,Pioneer Stream tributary, ,400,51,doco,H44,2269275,5477185,14061675,tfu,,,5
+121741,2,2021,Taieri River,1161009,Pioneer Stream tributary,743.054,1334,Pioneer Stream tributary, ,400,51,doco,H44,2269317,5477246,14061675,tfu,,,5
+121742,2,2021,Taieri River,1161009,Pioneer Stream tributary,743.054,1514,Pioneer Stream tributary, ,400,51,doco,H44,2269362,5477323,14061675,tfu,,,5
+121745,6,2021,Taieri River,1161009,Pioneer Stream tributary,743.054,1303,Pioneer Stream tributary, ,409,51,doco,H44,2268236,5476264,14061674,tfu,,,2
+121746,6,2021,Taieri River,1161009,Pioneer Stream tributary,743.054,1337,Pioneer Stream tributary, ,409,51,doco,H44,2268378,5476284,14061674,tfu,,,1
+121747,6,2021,Taieri River,1161009,Pioneer Stream tributary,743.054,1401,Pioneer Stream tributary, ,410,52,doco,H44,2268756,5476326,14061867,tfu,,,2
+121920,6,2020,Taieri River,1161009,Pioneer Stream tributary,743.054,1124,Pioneer Stream tributary, ,409,51,doco,H44,2268233,5476262,14061674,efp,,,
+121921,6,2020,Taieri River,1161009,Pioneer Stream tributary,743.054,1128,Pioneer Stream tributary, ,410,52,doco,H44,2268760,5476325,14061867,efp,,,
+121967,6,2020,Taieri River,1161009,Pioneer Stream tributary,743.054,1352,Pioneer Stream tributary, ,410,52,doco,H44,2269042,5476935,14061867,efp,,,
+121968,6,2020,Taieri River,1161009,Pioneer Stream tributary,743.054,1352,Pioneer Stream tributary, ,410,52,doco,H44,2269042,5476935,14061867,efp,,,
+121673,2,2021,Taieri River,1161008,Lake Mahinerangi tributary 5,743.054,1005,Pioneer Stream tributary, ,448,52,doco,H44,2270175,5475767,14062236,efp,,,
+121674,2,2021,Taieri River,1161008,Lake Mahinerangi tributary 5,743.054,1042,Pioneer Stream tributary, ,448,52,doco,H44,2270191,5475703,14062236,efp,,,
+121675,2,2021,Taieri River,1161008,Lake Mahinerangi tributary 5,743.054,1101,Pioneer Stream tributary, ,448,52,doco,H44,2270195,5475650,14062236,efp,,,
+121676,2,2021,Taieri River,1161008,Lake Mahinerangi tributary 5,743.054,1309,Pioneer Stream tributary, ,448,52,doco,H44,2270247,5475478,14062236,efp,,,
+121918,6,2020,Taieri River,1161007,Lake Mahinerangi tributary 4,743.054,1307,Pioneer Stream tributary, ,417,50,doco,H44,2270569,5475480,14062055,efp,,,
+121919,6,2020,Taieri River,1161006,Lake Mahinerangi tributary 3,743.05,1116,Loch Luella tributary, ,413,50,doco,H44,2271750,5475264,14062196,efp,,,
+121423,9,2012,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,0,Lake Mahinerangi tributary, ,461,46,doco, ,2277400,5477207,14061772,efp,1,,
+121424,9,2012,Taieri River,1161003,Lake Mahinerangi tributary 1,743.05,0,Lake Mahinerangi tributary, ,461,46,doco, ,2277327,5477068,14061876,efp,1,,
+121581,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1000,Meggat Burn tributary, ,500,34,doco,H45,2272748,5469370,14063609,vbd,,,
+121582,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1032,Meggat Burn tributary, ,500,34,doco,H45,2272720,5469356,14063609,efp,,,
+121583,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1054,Meggat Burn tributary, ,500,34,doco,H45,2272683,5469338,14063609,efp,,,
+121584,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1100,Meggat Burn tributary, ,500,34,doco,H45,2272678,5469232,14063609,efp,,,
+121585,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1200,Meggat Burn tributary, ,500,34,doco,H45,2272508,5469253,14063609,efp,,,
+121586,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1216,Meggat Burn tributary, ,500,34,doco,H45,2272468,5469220,14063609,efp,,,
+121587,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1249,Meggat Burn tributary, ,500,34,doco,H45,2272443,5469123,14063609,efb,,,
+121588,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1307,Meggat Burn tributary, ,500,34,doco,H45,2272409,5469111,14063609,vbd,,,
+121589,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1411,Meggat Burn tributary, ,500,34,doco,H45,2272371,5469095,14063609,efp,,,
+121590,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1427,Meggat Burn tributary, ,500,34,doco,H45,2272271,5469000,14063609,efp,,,
+121594,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1444,Meggat Burn tributary, ,500,34,doco,H45,2272273,5468978,14063609,efp,,,
+121595,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1510,Meggat Burn tributary, ,500,34,doco,H45,2272208,5468877,14063609,efp,,,
+121596,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1531,Meggat Burn tributary, ,500,34,doco,H45,2272265,5468947,14063609,efp,,,
+121597,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,918,Meggat Burn tributary, ,532,35,doco,H45,2271717,5469645,14063585,efp,,,
+121598,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,942,Meggat Burn tributary, ,532,35,doco,H45,2271832,5469745,14063585,efp,,,
+121599,1,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1006,Meggat Burn tributary, ,532,35,doco,H45,2271848,5469760,14063585,vbd,,,
+121600,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1031,Meggat Burn tributary, ,532,35,doco,H45,2271835,5469779,14063585,efp,,,
+121601,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1101,Meggat Burn tributary, ,532,35,doco,H45,2271810,5469794,14063585,efp,,,
+121602,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1136,Meggat Burn tributary, ,532,35,doco,H45,2271782,5469805,14063585,efp,,,
+121603,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1150,Meggat Burn tributary, ,532,35,doco,H45,2271884,5469766,14063585,efp,,,
+121604,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1155,Meggat Burn tributary, ,532,35,doco,H45,2271966,5469800,14063585,efp,,,
+121605,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1200,Meggat Burn tributary, ,532,35,doco,H45,2271962,5469828,14063585,efp,,,
+121606,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1236,Meggat Burn tributary, ,532,35,doco,H45,2272004,5469833,14063585,efp,,,
+121607,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1255,Meggat Burn tributary, ,532,35,doco,H45,2272134,5469795,14063585,efp,,,
+121608,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1300,Meggat Burn tributary, ,537,35,doco,H45,2272336,5469690,14063619,efp,,,
+121609,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1529,Meggat Burn tributary, ,537,35,doco,H45,2272263,5469622,14063619,efp,,,
+121610,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1536,Meggat Burn tributary, ,537,35,doco,H45,2272137,5469558,14063619,efp,,,
+121611,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1540,Meggat Burn tributary, ,537,35,doco,H45,2272084,5469538,14063619,efp,,,
+121612,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1543,Meggat Burn tributary, ,537,35,doco,H45,2271977,5469549,14063619,efp,,,
+121613,9,2021,Taieri River,1161001,Meggat Burn tributary,743.05,1549,Meggat Burn tributary, ,537,35,doco,H45,2271760,5469452,14063619,efp,,,

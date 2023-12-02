@@ -1,0 +1,17 @@
+"field","title","sorter","width","headerFilter","frozen"
+"Catchment","Catchment","string",350,"input",true
+"Total_Num_Fragment","Total_Num_Fragment","number",,,
+"Percent_Frag_HighCPUE","Percent_Frag_HighCPUE","number",,,
+"Percent_Frag_SmallFish","Percent_Frag_SmallFish","number",,,
+"Percent_Frag_LargeFish","Percent_Frag_LargeFish","number",,,
+"Percent_Frag_LargeRange","Percent_Frag_LargeRange","number",,,
+"Frag_Remain","Frag_Remain","string",,,
+"Percent_Frag_Extinct","Percent_Frag_Extinct","string",,,
+"Percent_Frag_Concern","Percent_Frag_Concern","string",,,
+"Percent_Frag_Unsure","Percent_Frag_Unsure","string",,,
+"Percent_Frag_Ok","Percent_Frag_Ok","string",,,
+"Percent_Frag_Secure","Percent_Frag_Secure","string",,,
+"Percent_Frag_Trapped","Percent_Frag_Trapped","number",,,
+"Percent_Frag_survey_5Yrs","Percent_Frag_survey_5Yrs","number",,,
+"Number_neobur_in_catchment","Number_neobur_in_catchment","number",,,
+"Number_NZFFD_Rec_in_catchment","Number_NZFFD_Rec_in_catchment","number",,,

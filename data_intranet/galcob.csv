@@ -1,0 +1,908 @@
+﻿Card,Month,Year,Catchment name,Fragment number,Fragment name,Catch No,Time,Locality,Observer,Altitude,Distance,Organisation,Map no,Easting,Northing,REC number,Fishing method,Passes,Length fished,Area fished
+50756,10,1961,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,30,15,niwa,j41,2338800,5563300,14030148,ef,1,,
+1143,1,1979,Kakanui River,1101001,Kakanui River,717,1100,Kakanui River,,10,10,niwa,j42,2340100,5558400,14032399,efm,1,,
+1150,4,1979,Kakanui River,1101001,Kakanui River,717,1430,Kakanui River,,30,15,niwa,j41,2338800,5563300,14030148,ef,1,,
+1151,4,1979,Kakanui River,1101001,Kakanui River,717,1340,Kakanui River, ,70,27,niwa,j41,2333400,5570000,14027482,ef,1, , 
+1152,4,1979,Kakanui River,1101001,Kakanui River,717,1430,Kakanui River,,10,10,niwa,j42,2339900,5558400,14032872,efm,1,,
+1169,8,1979,Kakanui River,1101003,Kauru River,717.04,1000,Kauru River,,70,24,niwa,J41,2334700,5566800,14028881,ef,1,,
+1170,8,1979,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,100,28,niwa,j41,2332300,5564200,14029391,ef,1, , 
+1171,8,1979,Kakanui River,1101003,Kauru River,717.04,1110,Kauru River,,55,25,niwa,J41,2336500,5567400,14028492,ef,1,,
+1174,9,1979,Kakanui River,1101001,Kakanui River,717,930,Kakanui River, ,70,27,niwa,j41,2333400,5570000,14027482,ef,1, , 
+1175,9,1979,Kakanui River,1101001,Kakanui River,717,1130,Kakanui River,,10,9,niwa,j42,2340200,5558400,14032872,efm,1,,
+1184,12,1979,Kakanui River,1101001,Kakanui River,717,930,Kakanui River,,10,9,niwa,j42,2340200,5558400,14032872,efm,1,,
+1185,12,1979,Kakanui River,1101001,Kakanui River,717,1030,Kakanui River,,30,15,niwa,j41,2338800,5563300,14030148,ef,1,,
+1188,12,1979,Kakanui River,1101001,Kakanui River,717,1300,Kakanui River, ,70,27,niwa,j41,2333400,5570000,14027482,ef,1, , 
+1189,12,1979,Kakanui River,1101003,Kauru River,717.04,1340,Kauru River,,70,24,niwa,J41,2334700,5566800,14028881,ef,1,,
+1190,12,1979,Kakanui River,1101003,Kauru River,717.04,1430,Kauru River, ,55,25,niwa,j41,2336500,5567400,14028492,ef,1, , 
+1197,3,1980,Kakanui River,1101001,Kakanui River,717,930,Kakanui River, ,70,27,niwa,j41,2333400,5570000,14027482,ef,1, , 
+1198,3,1980,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,55,25,niwa,j41,2336500,5567400,14028492,ef,1, , 
+1199,3,1980,Kakanui River,1101003,Kauru River,717.04,1130,Kauru River, ,70,24,niwa,j41,2334700,5566800,14028881,ef,1, , 
+1200,3,1980,Kakanui River,1101001,Kakanui River,717,1230,Kakanui River,,30,15,niwa,J41,2338800,5563300,14030148,ef,1,,
+1201,3,1980,Kakanui River,1101001,Kakanui River,717,1330,Kakanui River,,10,9,niwa,j42,2340200,5558400,14032872,efm,1,,
+1212,10,1980,Kakanui River,1101001,Kakanui River,717,1330,Kakanui River, ,70,27,niwa,j41,2333400,5570000,14027482,ef,1, , 
+1213,10,1980,Kakanui River,1101003,Kauru River,717.04,1300,Kauru River, ,100,28,niwa,j41,2332300,5564200,14029391,ef,1, , 
+1214,10,1980,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,55,23,niwa,j41,2336300,5567400,14028492,ef,1, , 
+3759,9,1981,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,100,28,niwa,j41,2332300,5564300,14029391,ef,1, , 
+3760,9,1981,Kakanui River,1101003,Kauru River,717.04,day,Kauru River,,70,25,niwa,J41,2334200,5566400,14029106,ef,1,,
+1394,11,1988,Kakanui River,1101004,Kakanui River South Branch,717.103,1030,Quinns Creek, ,450,60,niwa,i41,2318300,5563800,14030125,ef,1, , 
+7385,2,1992,Kakanui River,1101001,Kakanui River,717,1100,Kakanui River, ,20,13,niwa,j41,2339100,5560700,14031278,efm,1, , 
+12624,5,1993,Kakanui River,1101001,Kakanui River,717,1000,Kakanui River,,30,15,doco,j41,2338800,5563300,14030148,efp,1,,150
+12625,5,1993,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River,,55,25,doco,J41,2336500,5567400,14028492,efp,1,,5000
+15840,4,1996,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River,,55,22,doco,J41,2336500,5567500,14028492,efp,2,,40
+15841,4,1996,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River,,70,25,doco,J41,2334200,5566400,14029106,efp,1,,20
+15842,4,1996,Kakanui River,1101003,Kauru River,717.04,1500,Kauru River,,100,28,doco,J41,2332300,5564200,14029391,efp,1,,60
+16194,9,1996,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1330,North Branch Waianakarua River, ,50,13,doco,j42,2334300,5549900,14037021,efp,1, ,100
+17931,6,1998,Kakanui River,1101003,Kauru River,717.04,1430,Kauru River, ,100,28,doco,j41,2332400,5564300,14029391,ef,2, ,60
+17932,6,1998,Kakanui River,1101003,Kauru River,717.04,1500,Kauru River,,70,25,doco,J41,2334200,5566400,14029106,ef,2,,20
+17933,6,1998,Kakanui River,1101003,Kauru River,717.04,1530,Kauru River,,55,22,doco,J41,2336500,5567500,14028492,ef,2,,30
+8840,11,2001,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,60,23,niwa,j41,2336000,5567400,14028492,efp,0, ,2110
+14883,1,2001,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,55,22,niwa,j41,2336600,5567500,14028492,efp,1, , 
+14884,1,2001,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,70,25,niwa,j41,2334200,5566400,14029106,efp,1, , 
+14885,2,2001,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,55,22,niwa,j41,2336600,5567500,14028492,han, , ,1
+17418,1,2001,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River, ,95,29,uoo,j41,2332200,5564200,14029391,efp,2, ,24
+106993,10,2001,Kakanui River,1101003,Kauru River,717.04,1518,Kauru River,,58,21,rdcl,J41,2336368,5567486,14028492,efp,,,
+106994,10,2001,Kakanui River,1101001,Kakanui River,717,1527,Kakanui River, ,48,21,rdcl,J42,2336824,5567623,14028365,efp, , , 
+107019,5,2001,Kakanui River,1101003,Kauru River,717.04,1350,Kauru River, ,58,21,doco,J41,2336235,5567481,14028492,efp, , , 
+107195,5,2002,Kakanui River,1101003,Kauru River,717.04,1445,Kauru River,,47,21,rdcl,J41,2337107,5567623,14028493,efp,,,
+107196,10,2002,Kakanui River,1101001,Kakanui River,717,1053,Kakanui River,,47,21,rdcl,J42,2337179,5567582,14028493,efp,,,
+107197,10,2002,Kakanui River,1101001,Kakanui River,717,1059,Kakanui River,,47,21,rdcl,J42,2337115,5567568,14028493,efp,,,
+107198,10,2002,Kakanui River,1101001,Kakanui River,717,1103,Kakanui River,,47,21,rdcl,J42,2337305,5567615,14028493,efp,,,
+107199,10,2002,Kakanui River,1101001,Kakanui River,717,1108,Kakanui River, ,72,18,rdcl,J42,2337851,5566819,14028593,vbd, , , 
+107200,10,2002,Kakanui River,1101001,Kakanui River,717,1113,Kakanui River,,68,15,rdcl,J42,2339072,5563333,14030148,efp,,,
+107201,10,2002,Kakanui River,1101001,Kakanui River,717,1121,Kakanui River,,72,18,rdcl,J42,2337893,5566707,14028593,efp,,,
+107202,10,2002,Kakanui River,1101001,Kakanui River,717,1128,Kakanui River,,68,15,rdcl,J42,2339098,5563520,14030148,efp,,,
+107203,10,2002,Kakanui River,1101001,Kakanui River,717,1133,Kakanui River,,35,14,rdcl,J42,2338860,5562657,14030148,efp,,,
+107204,10,2002,Kakanui River,1101001,Kakanui River,717,930,Kakanui River, ,35,14,rdcl,J42,2338842,5562624,14030148,efp, , , 
+107205,10,2002,Kakanui River,1101001,Kakanui River,717,1149,Kakanui River, ,68,15,rdcl,J42,2339000,5563270,14030148,vbd, , , 
+107206,10,2002,Kakanui River,1101003,Kauru River,717.04,1159,Kauru River, ,103,28,rdcl,J41,2332235,5564071,14029391,efp, , , 
+109200,11,2002,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,93,27,rdcl,J41,2332454,5564197,14029391,efp,,,406.5
+109338,12,2002,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,rdcl,J41,2336646,5567488,14028492,efp,,,474
+109580,12,2002,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,72,18,rdcl,J42,2337546,5567449,14028593,efp,,,367
+109606,11,2002,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,68,15,rdcl,J42,2339190,5563528,14030148,efp,,,
+109629,11,2002,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,rdcl,J41,2333915,5566078,14029204,efp,,,530.5
+109670,11,2002,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,rdcl,J41,2334372,5566619,14028881,efp,,,614.5
+109781,11,2002,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,rdcl,J41,2335817,5567331,14028492,efp,,,805
+111555,1,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111556,3,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111557,4,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111558,5,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111559,6,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111560,8,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111561,9,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111562,10,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111563,11,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111564,12,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111616,1,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111617,3,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111618,4,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111619,5,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111620,6,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111621,7,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111622,8,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111623,9,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111624,10,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111625,11,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111626,12,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111628,2,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,vbd, , , 
+111653,1,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111654,3,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111655,4,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111656,5,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111657,6,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111658,8,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111659,9,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111660,10,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111661,11,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111662,12,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111676,3,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111677,4,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111678,5,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111680,6,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111681,7,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111682,8,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111683,9,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111685,10,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111686,11,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111687,12,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111719,4,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111720,5,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111721,6,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111722,7,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111723,8,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111724,9,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111725,10,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111726,11,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111727,12,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111739,4,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111740,5,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111741,6,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111742,7,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111743,8,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111744,9,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111745,10,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111746,11,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111747,12,2002,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+24873,5,2003,Kakanui River,1101001,Kakanui River,717,1100,Kakanui River,,50,22,doco,J41,2336700,5567700,14028365,efp,1,,100
+24874,5,2003,Kakanui River,1101001,Kakanui River,717,1115,Kakanui River, ,50,22,doco,j41,2336700,5567900,14028365,efp,1, ,80
+24875,5,2003,Kakanui River,1101001,Kakanui River,717,1140,Kakanui River,,50,23,doco,J41,2336600,5568200,14028121,efp,1,,260
+24877,5,2003,Kakanui River,1101001,Kakanui River,717,1140,Kakanui River,,70,26,doco,J41,2333700,5569700,14027482,efp,1,,100
+24878,5,2003,Kakanui River,1101001,Kakanui River,717,1230,Kakanui River, ,70,27,doco,j41,2333500,5569900,14027482,efp, , ,250
+24879,5,2003,Kakanui River,1101003,Kauru River,717.04,1430,Kauru River,,100,29,doco,J41,2332300,5564100,14029391,efp,1,,100
+24881,6,2003,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,10,9,doco,j42,2340100,5558300,9,efp,1,,120
+24882,6,2003,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,10,10,doco,j42,2340000,5558400,9,efp,1,,80
+24883,5,2003,Kakanui River,1101001,Kakanui River,717,day,Kakanui River,,30,15,doco,J41,2338800,5562800,14030148,efp,1,,180
+24884,5,2003,Kakanui River,1101001,Kakanui River,717,1140,Kakanui River, ,30,15,doco,j41,2338900,5562400,14030148,efp,1, ,80
+24885,5,2003,Kakanui River,1101001,Kakanui River,717,1245,Kakanui River, ,25,14,doco,j41,2339100,5562000,14030148,efp,1, ,200
+24915,6,2003,Kakanui River,1101001,Kakanui River,717,day,Kakanui River,,40,19,doco,J41,2338600,5566100,14028593,efp,1,,20
+24916,6,2003,Kakanui River,1101001,Kakanui River,717, ,Kakanui River, ,40,19,doco,j41,2338500,5566300,14028593,efp,1, ,18
+24917,6,2003,Kakanui River,1101001,Kakanui River,717,day,Kakanui River,,40,19,doco,J41,2338300,5566300,14028593,efp,1,,264
+24918,6,2003,Kakanui River,1101001,Kakanui River,717, ,Kakanui River, ,50,19,doco,j41,2338700,5565800,14028593,efp,1, , 
+24919,6,2003,Kakanui River,1101001,Kakanui River,717, ,Kakanui River, ,35,17,doco,j41,2339400,5565000,14029709,efp,1, ,130
+24920,6,2003,Kakanui River,1101001,Kakanui River,717, ,Kakanui River, ,35,18,doco,j41,2339200,5565400,14029525,efp,1, ,140
+24928,2,2003,Kakanui River,1101001,Kakanui River,717,day,Kakanui River,,45,23,doco,J41,2337500,5567400,14028593,efp,1,,
+24929,2,2003,Kakanui River,1101001,Kakanui River,717,day,Kakanui River,,45,23,doco,J41,2337500,5567400,14028593,efp,1,,
+24930,2,2003,Kakanui River,1101001,Kakanui River,717,day,Kakanui River,,45,21,doco,J41,2337500,5567400,14028593,efp,1,,
+24931,5,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,60,23,doco,j41,2335800,5567300,14028492,efp,1, , 
+24935,5,2003,Kakanui River,1101001,Kakanui River,717, ,Kakanui River, ,85,31,doco,j41,2332700,5572700,14026079,efp,1, , 
+24940,6,2003,Kakanui River,1101001,Kakanui River,717,day,Kakanui River,,45,19,doco,J41,2338300,5566400,14028593,efp,1,,52
+24941,6,2003,Kakanui River,1101001,Kakanui River,717,day,Kakanui River,,40,20,doco,J41,2337900,5566700,14028593,efp,1,,55
+24942,6,2003,Kakanui River,1101001,Kakanui River,717,day,Kakanui River,,40,20,doco,J41,2337900,5566700,14028593,efp,1,,
+24943,6,2003,Kakanui River,1101001,Kakanui River,717, ,Kakanui River, ,35,18,doco,j41,2339200,5565400,14029525,efp,1, ,70
+24944,6,2003,Kakanui River,1101001,Kakanui River,717,day,Kakanui River,,35,17,doco,J41,2339300,5564300,14029818,efp,1,,60
+25509,11,2003,Kakanui River,1101004,Kakanui River South Branch,717.103,1315,Quinns Creek,,460,60,doco,i41,2318500,5563700,14030125,efp,1,,110
+25510,11,2003,Kakanui River,1101004,Kakanui River South Branch,717.1,1420,South Branch Kakanui River, ,450,60,doco,i41,2318200,5563800,14030124,efp,1, ,110
+25703,7,2003,Kakanui River,1101001,Kakanui River,717,1230,Kakanui River,,25,15,doco,J41,2338800,5562400,14030148,efm,1,,
+107372,6,2003,Kakanui River,1101001,Kakanui River,717, ,Kakanui River, ,68,15,doco,J42,2339280,5563873,14030148,efp, , , 
+109202,11,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,93,27,rdcl,J41,2332454,5564197,14029391,efp, , , 
+109350,12,2003,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,rdcl,J41,2336646,5567488,14028492,efp,,,
+109581,12,2003,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,72,18,rdcl,J42,2337546,5567449,14028593,efp,,,367
+109607,12,2003,Kakanui River,1101001,Kakanui River,717, ,Kakanui River, ,68,15,rdcl,J42,2339166,5563517,14030148,efp, , , 
+109631,11,2003,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,rdcl,J41,2333915,5566078,14029204,efp,,,444
+109671,11,2003,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,rdcl,J41,2334372,5566619,14028881,efp,,,374
+109783,12,2003,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,rdcl,J41,2335817,5567331,14028492,efp,,,443.5
+111565,1,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111566,2,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111567,3,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111568,4,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111570,5,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111571,6,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111572,7,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111573,8,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111574,9,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111575,10,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111576,11,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111627,1,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111629,3,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,vbd, , , 
+111630,4,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111631,5,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111632,6,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111633,7,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111634,8,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111635,9,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111637,10,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111640,11,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111641,12,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,vbd, , , 
+111663,2,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,vbd, , , 
+111664,3,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,vbd, , , 
+111665,4,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111666,5,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111667,6,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111668,7,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111669,8,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111670,9,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111671,10,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111672,11,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111688,1,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111690,2,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111691,3,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111692,4,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111694,5,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111695,6,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111696,7,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111697,8,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111698,9,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111699,10,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111700,11,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111728,1,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111729,2,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,vbd, , , 
+111730,3,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,vbd, , , 
+111731,4,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111732,5,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111733,6,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111734,8,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111735,9,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111736,10,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111737,11,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111748,1,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111749,2,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,vbd, , , 
+111750,3,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,vbd, , , 
+111751,4,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111752,5,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111753,6,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111754,7,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111755,8,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111756,9,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111757,10,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111758,11,2003,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+26462,3,2004,Kakanui River,1101002,Kakanui River tributary,717,1415,Kakanui River tributary,,50,21,orc,J41,2337200,5566900,14029323,efp,3,,2
+26474,3,2004,Kakanui River,1101002,Kakanui River tributary,717,1630,Kakanui River tributary, ,50,21,orc,j41,2337300,5566900,14029323,efp,1, , 
+26476,3,2004,Kakanui River,1101002,Kakanui River tributary,717,1215,Unnamed pond,,50,20,orc,J41,2337600,5566900,0,efp,3,,
+107016,5,2004,Kakanui River,1101003,Kauru River,717.04,1025,Kauru River,,58,21,doco,J41,2336004,5567335,14028492,efp,,,303.12
+107017,5,2004,Kakanui River,1101003,Kauru River,717.04,1125,Kauru River,,58,21,doco,J41,2336065,5567455,14028492,efp,,,468.084
+107018,5,2004,Kakanui River,1101003,Kauru River,717.04,1302,Kauru River,,58,21,doco,J41,2336238,5567458,14028492,efp,,,202.5
+107020,5,2004,Kakanui River,1101003,Kauru River,717.04,1420,Kauru River,,58,21,doco,J41,2336321,5567461,14028492,efp,,,143.64
+107021,5,2004,Kakanui River,1101003,Kauru River,717.04,1445,Kauru River,,58,21,doco,J41,2336435,5567460,14028492,efp,,,270
+107025,6,2004,Kakanui River,1101001,Kakanui River,717,1415,Kakanui River, ,34,13,doco,J42,2339052,5561610,14030148,efp, , , 
+107026,6,2004,Kakanui River,1101001,Kakanui River,717,1400,Kakanui River,,34,13,doco,J42,2339180,5561777,14030148,efp,,,33
+107027,6,2004,Kakanui River,1101001,Kakanui River,717,1330,Kakanui River, ,34,13,doco,J42,2339137,5561955,14030148,efp, , , 
+107028,6,2004,Kakanui River,1101001,Kakanui River,717,1245,Kakanui River, ,34,13,doco,J42,2339090,5562037,14030148,efp, , , 
+107029,6,2004,Kakanui River,1101001,Kakanui River,717,1145,Kakanui River, ,19,9,doco,J42,2340344,5559391,14032297,efp, , , 
+107041,8,2004,Kakanui River,1101002,Kakanui River tributary,717,1040,Kakanui River tributary,,57,22,doco,J42,2337158,5567138,14028621,efp,,,251.2
+107048,11,2004,Kakanui River,1101003,Kauru River,717.04,1235,Kauru River,,58,21,doco,J41,2336001,5567336,14028492,efp,,,
+107049,11,2004,Kakanui River,1101003,Kauru River,717.04,1406,Kauru River,,58,21,doco,J41,2336067,5567454,14028492,efp,,,295.92
+107050,11,2004,Kakanui River,1101003,Kauru River,717.04,1512,Kauru River,,58,21,doco,J41,2336478,5567465,14028492,efp,,,153.18
+107051,10,2004,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River,,58,21,doco,J41,2336001,5567335,14028492,efp,,,275.8
+107053,10,2004,Kakanui River,1101003,Kauru River,717.04,1317,Kauru River,,58,21,doco,J41,2336475,5567469,14028492,efp,,,189.6
+107054,5,2004,Kakanui River,1101003,Kauru River,717.04,1155,Kauru River, ,72,24,doco,J41,2334501,5566807,14028881,efp, , , 
+107055,5,2004,Kakanui River,1101003,Kauru River,717.04,846,Kauru River,,72,24,doco,J41,2334202,5566564,14028881,efp,,,875
+107056,5,2004,Kakanui River,1101003,Kauru River,717.04,1115,Kauru River,,72,24,doco,J41,2334312,5566596,14028881,efp,,,19.5
+107057,5,2004,Kakanui River,1101003,Kauru River,717.04,1140,Kauru River,,72,24,doco,J41,2334423,5566641,14028881,efp,,,55
+107058,12,2004,Kakanui River,1101003,Kauru River,717.04,1246,Kauru River,,75,25,doco,J41,2334065,5566326,14029106,efp,,,
+107059,12,2004,Kakanui River,1101003,Kauru River,717.04,1310,Kauru River, ,77,25,doco,J41,2334009,5566146,14029204,efp, , , 
+107060,12,2004,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,77,25,doco,J41,2333940,5566064,14029204,efp,,,
+107070,9,2004,Kakanui River,1101003,Kauru River,717.04,1037,Kauru River,,58,21,doco,J41,2335998,5567329,14028492,efp,,,252.7
+107071,9,2004,Kakanui River,1101003,Kauru River,717.04,1139,Kauru River,,58,21,doco,J41,2336001,5567467,14028492,efp,,,220.32
+107072,9,2004,Kakanui River,1101003,Kauru River,717.04,1228,Kauru River,,58,21,doco,J41,2336475,5567469,14028492,efp,,,150.48
+107073,7,2004,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,58,21,doco,J41,2336000,5567329,14028492,efp,,,201.28
+107074,7,2004,Kakanui River,1101003,Kauru River,717.04,140,Kauru River,,58,21,doco,J41,2336481,5567462,14028492,efp,,,133
+107075,7,2004,Kakanui River,1101003,Kauru River,717.04,1242,Kauru River,,58,21,doco,J41,2336067,5567446,14028492,efp,,,283.62
+107076,6,2004,Kakanui River,1101003,Kauru River,717.04,1105,Kauru River,,58,21,doco,J41,2336003,5567332,14028492,efp,,,252.7
+107077,6,2004,Kakanui River,1101003,Kauru River,717.04,1105,Kauru River,,58,21,doco,J41,2336069,5567449,14028492,efp,,,423.64
+107079,6,2004,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River,,58,21,doco,J41,2336242,5567451,14028492,efp,,,141.04
+107080,6,2004,Kakanui River,1101003,Kauru River,717.04,100,Kauru River, ,58,21,doco,J41,2336228,5567492,14028492,efp, , , 
+107081,6,2004,Kakanui River,1101003,Kauru River,717.04,128,Kauru River,,58,21,doco,J41,2336317,5567471,14028492,efp,,,121.08
+107082,6,2004,Kakanui River,1101003,Kauru River,717.04,148,Kauru River,,58,21,doco,J41,2336439,5567460,14028492,efp,,,228
+107090,8,2004,Kakanui River,1101002,Kakanui River tributary,717,1250,Kakanui River tributary,,57,22,doco,J42,2337251,5566984,14028621,efp,,,332
+107091,8,2004,Kakanui River,1101002,Kakanui River tributary,717,1324,Kakanui River tributary,,57,22,doco,J42,2337617,5566956,14028621,efp,,,166
+109224,11,2004,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,93,27,rdcl,J41,2332454,5564197,14029391,efp,,,565.5
+109359,11,2004,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,rdcl,J41,2336646,5567488,14028492,efp,,,391.5
+109582,11,2004,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,72,18,rdcl,J42,2337546,5567449,14028593,efp,,,298.5
+109644,11,2004,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,rdcl,J41,2333915,5566078,14029204,efp,,,326.5
+109675,11,2004,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,rdcl,J41,2334372,5566619,14028881,efp,,,502.5
+111578,1,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111580,2,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111581,8,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111582,9,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111583,12,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111643,1,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,vbd, , , 
+111644,2,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111646,8,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111647,10,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111648,12,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111673,2,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336238,5567454,14028492,efp, , , 
+111701,1,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111718,5,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336232,5567488,14028492,efp, , , 
+111738,1,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336318,5567466,14028492,efp, , , 
+111759,1,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,vbd, , , 
+111760,7,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111761,8,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111762,11,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+111763,12,2004,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+107035,3,2005,Kakanui River,1101003,Kauru River,717.04,1150,Kauru River, ,103,28,doco,J41,2332310,5564115,14029391,efp, , , 
+107036,3,2005,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River, ,103,28,doco,J41,2332245,5564097,14029391,efp, , , 
+107037,3,2005,Kakanui River,1101003,Kauru River,717.04,1310,Kauru River,,103,28,doco,J41,2332063,5564002,14029391,efp,,,
+107038,3,2005,Kakanui River,1101001,Kakanui River,717,1435,Kakanui River, ,75,26,doco,J42,2333528,5569810,14027482,efp, , , 
+107039,3,2005,Kakanui River,1101001,Kakanui River,717,1510,Kakanui River,,62,23,doco,J42,2333835,5569762,14027775,efp,,,
+107040,3,2005,Kakanui River,1101001,Kakanui River,717,1100,Kakanui River, ,35,14,doco,J42,2338853,5562659,14030148,efp, , , 
+107042,5,2005,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,77,25,doco,J41,2333937,5566073,14029204,efp,,,54.3
+107043,5,2005,Kakanui River,1101003,Kauru River,717.04,1140,Kauru River,,77,25,doco,J41,2334002,5566181,14029204,efp,,,75.2
+107044,5,2005,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River,,75,25,doco,J41,2334062,5566313,14029106,efp,,,76.2
+107045,3,2005,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,77,25,doco,J41,2333916,5566082,14029204,efp,,,47.7
+107046,3,2005,Kakanui River,1101003,Kauru River,717.04,1145,Kauru River,,77,25,doco,J41,2334017,5566183,14029204,efp,,,51.3
+107047,3,2005,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River,,75,25,doco,J41,2334065,5566317,14029106,efp,,,
+107052,10,2005,Kakanui River,1101003,Kauru River,717.04,1145,Kauru River,,58,21,doco,J41,2336067,5567454,14028492,efp,,,358.56
+107061,6,2005,Kakanui River,1101003,Kauru River,717.04,1220,Kauru River,,75,25,doco,J41,2334062,5566313,14029106,efp,,,
+107062,6,2005,Kakanui River,1101003,Kauru River,717.04,1147,Kauru River, ,77,25,doco,J41,2334000,5566183,14029204,efp, , , 
+107063,6,2005,Kakanui River,1101003,Kauru River,717.04,1115,Kauru River,,77,25,doco,J41,2333937,5566073,14029204,efp,,,
+107064,4,2005,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River,,77,25,doco,J41,2333937,5566532,14029204,efp,,,
+107065,4,2005,Kakanui River,1101003,Kauru River,717.04,1150,Kauru River,,77,25,doco,J41,2334000,5566183,14029204,efp,,,
+107066,4,2005,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River,,75,25,doco,J41,2334062,5566313,14029106,efp,,,
+107067,1,2005,Kakanui River,1101003,Kauru River,717.04,1450,Kauru River,,75,25,doco,J41,2334062,5566313,14029106,efp,,,
+107068,1,2005,Kakanui River,1101003,Kauru River,717.04,1021,Kauru River,,77,25,doco,J41,2334000,5566183,14029204,efp,,,
+107069,1,2005,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River,,77,25,doco,J41,2333937,5566073,14029204,efp,,,
+107088,5,2005,Kakanui River,1101003,Kauru River,717.04,1305,Kauru River,,58,21,doco,J41,2336503,5567461,14028492,efp,,,
+107089,5,2005,Kakanui River,1101003,Kauru River,717.04,912,Kauru River,,72,24,doco,J41,2334620,5566922,14028881,efp,,,
+109226,10,2005,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,93,27,doco,J41,2332442,5564219,14029391,efp, , , 
+109366,10,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2336695,5567526,14028492,efp,,,964
+109583,11,2005,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,72,18,doco,J42,2337582,5567479,14028593,efp,,,1175.5
+109609,11,2005,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,68,15,doco,J42,2339190,5563528,14030148,efp,,,529
+109645,10,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333915,5566078,14029204,efp,,,613.5
+109678,10,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,doco,J41,2334372,5566619,14028881,efp,,,597
+109784,1,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,rdcl,J41,2335817,5567331,14028492,efp,,,826.5
+109785,11,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2335817,5567331,14028492,efp,,,952.5
+110124,4,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110125,7,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110126,8,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110127,9,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110128,10,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110129,11,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110130,12,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110145,7,2005,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334000,5566150,14029204,efp, , , 
+110146,8,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110147,9,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110148,10,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110149,11,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110150,12,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110165,7,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110166,8,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110167,9,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110168,10,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110169,11,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110170,12,2005,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+111584,1,2005,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336000,5567331,14028492,efp, , , 
+111652,1,2005,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336066,5567449,14028492,efp, , , 
+111764,1,2005,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,rdcl,J41,2336452,5567458,14028492,efp, , , 
+107099,10,2006,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1422,Waianakarua River North Branch, ,104,12,rdcl,J42,2334336,5549652,14037021,efp, , , 
+109246,10,2006,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,93,27,doco,J41,2332442,5564219,14029391,efp, , , 
+109396,10,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,rdcl,J41,2336695,5567526,14028492,efp,,,229
+109588,11,2006,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,72,18,rdcl,J42,2337582,5567479,14028593,efp,,,
+109646,10,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333915,5566078,14029204,efp,,,286.5
+109689,10,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,doco,J41,2334372,5566619,14028881,efp,,,320
+109787,10,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2335817,5567331,14028492,efp,,,494
+110131,1,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110132,2,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110133,5,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110134,6,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110135,7,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110136,8,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110137,9,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110138,10,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110139,11,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110140,12,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110151,1,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110152,2,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110153,5,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110154,6,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110155,7,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110156,8,2006,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334000,5566150,14029204,efp, , , 
+110157,9,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110158,10,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110159,11,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110160,12,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110171,1,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110172,2,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110173,5,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110174,6,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110175,7,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110176,8,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110177,9,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110178,10,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110179,11,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110180,12,2006,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+27131,2,2007,Kakanui River,1101004,Kakanui River South Branch,717.1,900,South Branch Kakanui River,,450,60,orc,I41,2318280,5563854,14030124,ef,3,,
+27132,2,2007,Kakanui River,1101001,Kakanui River,717, ,Kakanui River, ,85,30,orc,j41,2332800,5572720,14026079,efm,3, , 
+28251,5,2007,Kakanui River,1101001,Kakanui River,717,1210,Kakanui River, ,25,15,doco,j41,2338880,5562533,14030148,efp,3, ,135
+28252,5,2007,Kakanui River,1101001,Kakanui River,717,1350,Kakanui River, ,20,14,doco,j41,2339189,5561793,14030148,efp,3, ,100
+28253,5,2007,Kakanui River,1101001,Kakanui River,717,1500,Kakanui River,,20,13,doco,J41,2339007,5561283,14031278,efp,3,,95
+28254,5,2007,Kakanui River,1101001,Kakanui River,717,1637,Kakanui River,,20,13,doco,j41,2339157,5560893,14031278,efp,3,,90
+28255,5,2007,Kakanui River,1101001,Kakanui River,717,1200,Kakanui River, ,20,12,doco,j41,2338898,5560264,14031278,efp,3, ,62
+28256,5,2007,Kakanui River,1101001,Kakanui River,717,1320,Kakanui River, ,15,11,doco,j42,2339516,5559922,14031894,efp,3, ,74
+28257,5,2007,Kakanui River,1101001,Kakanui River,717,1426,Kakanui River, ,15,10,doco,j41,2340036,5560137,14031894,efp,3, ,80
+28258,5,2007,Kakanui River,1101001,Kakanui River,717, ,Kakanui River, ,15,9,doco,j42,2340339,5559383,14032297,efp,3, , 
+28259,5,2007,Kakanui River,1101001,Kakanui River,717,845,Kakanui River,,15,9,doco,j42,2340096,5558368,9,efp,3,,72
+109250,10,2007,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,93,27,doco,j41,2332442,5564219,14029391,efp, , , 
+109431,5,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2336695,5567526,14028492,efp,,,511.5
+109562,11,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2336695,5567526,14028492,efp,,,613.5
+109589,11,2007,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,72,18,doco,J42,2337582,5567479,14028593,efp,,,615
+109611,11,2007,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,68,15,doco,J42,2339166,5563517,14030148,efp,,,1548
+109647,5,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333915,5566078,14029204,efp,,,339.5
+109648,10,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333915,5566078,14029204,efp,,,200
+109649,11,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333952,5566198,14029204,efp,,,738
+109690,5,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,doco,J41,2334372,5566619,14028881,efp,,,397
+109691,10,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,doco,J41,2334372,5566619,14028881,efp,,,172.4
+109692,10,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,doco,J41,2334391,5566626,14028881,efp,,,675.5
+109788,5,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2335817,5567331,14028492,efp,,,612.5
+109791,11,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2335817,5567331,14028492,efp,,,640
+110141,1,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110142,2,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110143,3,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110144,4,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333936,5566064,14029204,efp,,,
+110161,1,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110162,2,2007,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334000,5566150,14029204,efp, , , 
+110163,3,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2334000,5566150,14029204,efp,,,
+110164,4,2007,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334000,5566150,14029204,efp, , , 
+110181,1,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110182,2,2007,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334070,5566320,14029106,vbd, , , 
+110183,3,2007,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,75,25,doco,J41,2334070,5566320,14029106,efp,,,
+110184,4,2007,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334070,5566320,14029106,vbd, , , 
+110893,5,2007,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334061,5566317,14029106,vbd, , , 
+110894,6,2007,Kakanui River,1101003,Kauru River,717.04,1330,Kauru River, ,75,25,doco,J41,2334061,5566317,14029106,vbd, , , 
+110895,8,2007,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River, ,75,25,doco,J41,2334061,5566317,14029106,efp, , , 
+110896,9,2007,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334061,5566317,14029106,efp, , , 
+110897,11,2007,Kakanui River,1101003,Kauru River,717.04,1330,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+110898,12,2007,Kakanui River,1101003,Kauru River,717.04,1320,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111169,10,2007,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,75,25,doco,J41,2334061,5566317,14029106,efp, , , 
+111170,5,2007,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334036,5566199,14029204,efp, , , 
+111171,6,2007,Kakanui River,1101003,Kauru River,717.04,1310,Kauru River, ,77,25,doco,J41,2334036,5566199,14029204,efp, , , 
+111172,7,2007,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334036,5566199,14029204,efp, , , 
+111446,8,2007,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River, ,77,25,doco,J41,2334036,5566199,14029204,vbd, , , 
+111447,11,2007,Kakanui River,1101003,Kauru River,717.04,1140,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111448,12,2007,Kakanui River,1101003,Kauru River,717.04,1125,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111498,10,2007,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River, ,77,25,doco,J41,2334012,5566235,14029204,efp, , , 
+111499,5,2007,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566423,14029204,efp, , , 
+111500,6,2007,Kakanui River,1101003,Kauru River,717.04,1125,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111501,7,2007,Kakanui River,1101003,Kauru River,717.04,1040,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111502,8,2007,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+111503,11,2007,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111504,12,2007,Kakanui River,1101003,Kauru River,717.04,1040,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+30860,3,2008,Kakanui River,1101001,Kakanui River,717,1035,Kakanui River, ,85,30,orc,j41,2332800,5572720,14026079,efm,3, ,120
+109251,11,2008,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River,,93,27,doco,J41,2332442,5564219,14029391,efp,,,350.5
+109563,6,2008,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,58,21,doco,J41,2336695,5567526,14028492,efp,,,564.5
+109564,11,2008,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2336695,5567526,14028492,efp,,,530
+109590,11,2008,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,72,18,doco,J42,2337582,5567479,14028593,efp,,,1242.5
+109617,11,2008,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,68,15,doco,J42,2339166,5563517,14030148,efp,,,1394.5
+109650,5,2008,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333952,5566198,14029204,efp,,,
+109651,11,2008,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,77,25,doco,J41,2333952,5566198,14029204,efp,,,860.5
+109693,5,2008,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,doco,J41,2334372,5566619,14028881,efp,,,485.5
+109694,11,2008,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,doco,J41,2334372,5566619,14028881,efp,,,104
+109792,5,2008,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2335817,5567331,14028492,efp,,,321.25
+109795,11,2008,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2335817,5567331,14028492,efp,,,663.5
+110899,1,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+110900,2,2008,Kakanui River,1101003,Kauru River,717.04,1515,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+110901,3,2008,Kakanui River,1101003,Kauru River,717.04,1500,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+110902,4,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+110903,5,2008,Kakanui River,1101003,Kauru River,717.04,1210,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+110904,6,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111028,8,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111029,8,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111030,9,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111031,10,2008,Kakanui River,1101003,Kauru River,717.04,1040,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111032,11,2008,Kakanui River,1101003,Kauru River,717.04,1310,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111033,12,2008,Kakanui River,1101003,Kauru River,717.04,1430,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111449,1,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111450,2,2008,Kakanui River,1101003,Kauru River,717.04,1300,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111451,3,2008,Kakanui River,1101003,Kauru River,717.04,1115,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111452,4,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,vbd, , , 
+111453,5,2008,Kakanui River,1101003,Kauru River,717.04,1320,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111454,6,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111455,8,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111456,8,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111457,9,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111458,10,2008,Kakanui River,1101003,Kauru River,717.04,1040,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111459,11,2008,Kakanui River,1101003,Kauru River,717.04,1050,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111460,2,2008,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111505,1,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111506,2,2008,Kakanui River,1101003,Kauru River,717.04,1050,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111507,3,2008,Kakanui River,1101003,Kauru River,717.04,1050,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+111508,4,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+111509,5,2008,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111510,6,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111511,8,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111512,8,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111513,9,2008,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111514,10,2008,Kakanui River,1101003,Kauru River,717.04,1040,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111515,11,2008,Kakanui River,1101003,Kauru River,717.04,1040,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+111516,12,2008,Kakanui River,1101003,Kauru River,717.04,1130,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+107241,11,2009,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,915,Waianakarua River North Branch, ,52,9,doco,J42,2335963,5548843,14037255,efp, , , 
+107242,11,2009,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,804,Waianakarua River North Branch, ,52,9,doco,J42,2335974,5548924,14037255,efp, , , 
+107243,11,2009,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,814,Waianakarua River North Branch, ,52,9,doco,J42,2335824,5548666,14037255,efp, , , 
+107244,11,2009,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,822,Waianakarua River North Branch, ,52,9,doco,J42,2335767,5548682,14037255,efp, , , 
+107245,12,2009,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1030,Waianakarua River North Branch, ,52,9,doco,J42,2335767,5548682,14037255,efp, , , 
+107246,12,2009,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1610,Waianakarua River North Branch, ,52,9,doco,J42,2335974,5548924,14037255,efp, , , 
+109263,10,2009,Kakanui River,1101003,Kauru River,717.04,1106,Kauru River,,93,27,doco,J41,2332442,5564219,14029391,efp,,,391
+109566,6,2009,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2336695,5567526,14028492,efp,,,417.5
+109567,11,2009,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2336695,5567526,14028492,efp,,,592.5
+109592,11,2009,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,72,18,doco,J42,2337582,5567479,14028593,efp,,,1454
+109623,11,2009,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,68,15,doco,J42,2339166,5563517,14030148,efp,,,714
+109652,6,2009,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,77,25,doco,J41,2333952,5566198,14029204,efp,,,402.5
+109653,10,2009,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River,,77,25,doco,J41,2333915,5566078,14029204,efp,,,484
+109707,6,2009,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,doco,J41,2334372,5566619,14028881,efp,,,730.5
+109746,11,2009,Kakanui River,1101003,Kauru River,717.04,1042,Kauru River,,72,24,doco,J41,2334372,5566619,14028881,efp,,,745
+109796,6,2009,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2335817,5567331,14028492,efp,,,591.5
+109797,11,2009,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2335817,5567331,14028492,efp,,,556
+111034,1,2009,Kakanui River,1101003,Kauru River,717.04,1322,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,vbd, , , 
+111035,3,2009,Kakanui River,1101003,Kauru River,717.04,1515,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111036,4,2009,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111037,6,2009,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111039,6,2009,Kakanui River,1101003,Kauru River,717.04,1340,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111041,8,2009,Kakanui River,1101003,Kauru River,717.04,1353,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111042,9,2009,Kakanui River,1101003,Kauru River,717.04,1430,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111044,10,2009,Kakanui River,1101003,Kauru River,717.04,1320,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111046,11,2009,Kakanui River,1101003,Kauru River,717.04,1404,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111048,12,2009,Kakanui River,1101003,Kauru River,717.04,1350,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111461,1,2009,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111462,3,2009,Kakanui River,1101003,Kauru River,717.04,1320,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111463,4,2009,Kakanui River,1101003,Kauru River,717.04,1130,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111464,6,2009,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111465,6,2009,Kakanui River,1101003,Kauru River,717.04,1145,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111466,7,2009,Kakanui River,1101003,Kauru River,717.04,1300,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111467,8,2009,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111468,9,2009,Kakanui River,1101003,Kauru River,717.04,1325,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111469,10,2009,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111470,11,2009,Kakanui River,1101003,Kauru River,717.04,1153,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111471,12,2009,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111517,1,2009,Kakanui River,1101003,Kauru River,717.04,1150,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+111518,3,2009,Kakanui River,1101003,Kauru River,717.04,1130,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111519,4,2009,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+111520,6,2009,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111521,6,2009,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111522,7,2009,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111523,8,2009,Kakanui River,1101003,Kauru River,717.04,1045,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111524,9,2009,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111525,10,2009,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111526,11,2009,Kakanui River,1101003,Kauru River,717.04,1118,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111527,12,2009,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+107135,7,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1400,Waianakarua River North Branch, ,104,12,rdcl,J42,2334303,5549714,14037021,efp, , , 
+107213,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1025,Waianakarua River North Branch, ,52,9,rdcl,J42,2335945,5548814,14037255,efp, , , 
+107214,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1050,Waianakarua River North Branch,,52,9,rdcl,J42,2335957,5548774,14037255,efp,,,51.29
+107215,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1100,Waianakarua River North Branch, ,52,9,rdcl,J42,2335957,5548774,14037255,efp, , , 
+107216,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1107,Waianakarua River North Branch, ,52,9,rdcl,J42,2335902,5548739,14037255,efp, , , 
+107217,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1120,Waianakarua River North Branch, ,52,9,rdcl,J42,2335860,5548665,14037255,efp, , , 
+107218,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1125,Waianakarua River North Branch,,52,9,rdcl,J42,2335821,5548666,14037255,efp,,,27.7
+107219,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1337,Waianakarua River North Branch, ,52,9,rdcl,J42,2335760,5548681,14037255,efp, , , 
+107220,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1206,Waianakarua River North Branch, ,52,9,rdcl,J42,2335758,5548677,14037255,efp, , , 
+107221,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1217,Waianakarua River North Branch, ,52,9,rdcl,J42,2335630,5548696,14037255,efp, , , 
+107222,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1225,Waianakarua River North Branch, ,52,9,rdcl,J42,2335617,5548688,14037255,efp, , , 
+107223,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1256,Waianakarua River North Branch,,69,9,rdcl,J42,2335634,5548534,14037473,efp,,,
+107224,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1236,Waianakarua River North Branch,,52,9,rdcl,J42,2335610,5548658,14037255,efp,,,43.69
+107225,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1320,Waianakarua River North Branch,,69,9,rdcl,J42,2335745,5548462,14037473,efp,,,
+107226,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1328,Waianakarua River North Branch,,69,9,rdcl,J42,2335821,5548424,14037473,efp,,,
+107227,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1341,Waianakarua River North Branch,,69,9,rdcl,J42,2335944,5548387,14037473,efp,,,
+107228,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1350,Waianakarua River North Branch,,69,9,rdcl,J42,2335947,5548323,14037473,efp,,,
+107229,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1358,Waianakarua River North Branch,,39,8,rdcl,J42,2336081,5548285,14037558,efp,,,
+107230,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1410,Waianakarua River North Branch,,39,8,rdcl,J42,2336128,5548334,14037558,efp,,,
+107231,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1441,Waianakarua River North Branch,,39,8,rdcl,J42,2336201,5548333,14037558,efp,,,
+107232,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1448,Waianakarua River North Branch,,39,8,rdcl,J42,2336255,5548311,14037558,efp,,,
+107233,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1025,Waianakarua River North Branch,,104,12,rdcl,J42,2334327,5549682,14037021,efp,,,366.5
+107234,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1106,Waianakarua River North Branch, ,104,12,rdcl,J42,2334319,5549621,14037021,efp, , , 
+107235,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1119,Waianakarua River North Branch, ,104,12,rdcl,J42,2334353,5549586,14037021,efp, , , 
+107236,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1128,Waianakarua River North Branch, ,104,12,rdcl,J42,2334471,5549535,14037021,efp, , , 
+107237,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1133,Waianakarua River North Branch,,104,12,rdcl,J42,2334483,5549507,14037021,efp,,,
+107238,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1218,Waianakarua River North Branch, ,68,11,rdcl,J42,2334608,5549531,14037012,efp, , , 
+107239,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1242,Waianakarua River North Branch, ,104,12,rdcl,J42,2334308,5549796,14037021,efp, , , 
+107240,2,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1248,Waianakarua River North Branch, ,104,12,rdcl,J42,2334306,5549828,14037021,efp, , , 
+107268,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1057,Waianakarua River North Branch, ,52,9,doco,J42,2335881,5549026,14037255,efp, , , 
+107269,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1106,Waianakarua River North Branch, ,52,9,doco,J42,2336008,5548974,14037255,efp, , , 
+107270,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1110,Waianakarua River North Branch,,52,9,doco,J42,2336058,5548795,14037255,efp,,,
+107271,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1113,Waianakarua River North Branch, ,52,9,doco,J42,2336075,5548707,14037255,efp, , , 
+107272,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1116,Waianakarua River North Branch, ,52,9,doco,J42,2335978,5548637,14037255,efp, , , 
+107273,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1119,Waianakarua River North Branch, ,52,9,doco,J42,2335915,5548647,14037255,efp, , , 
+107274,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1123,Waianakarua River North Branch, ,52,9,doco,J42,2335881,5548670,14037255,efp, , , 
+107275,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1125,Waianakarua River North Branch, ,52,9,doco,J42,2335736,5548694,14037255,efp, , , 
+107276,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1128,Waianakarua River North Branch, ,52,9,doco,J42,2335610,5548638,14037255,efp, , , 
+107277,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1131,Waianakarua River North Branch,,69,9,doco,J42,2335653,5548522,14037473,efp,,,
+107278,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1136,Waianakarua River North Branch,,69,9,doco,J42,2335732,5548456,14037473,efp,,,
+107279,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1139,Waianakarua River North Branch,,69,9,doco,J42,2335756,5548457,14037473,efp,,,
+107280,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1142,Waianakarua River North Branch,,69,9,doco,J42,2335948,5548352,14037473,efp,,,
+107281,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1145,Waianakarua River North Branch,,39,8,doco,J42,2336091,5548306,14037558,efp,,,
+107282,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1147,Waianakarua River North Branch,,39,8,doco,J42,2336125,5548337,14037558,efp,,,
+107283,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1150,Waianakarua River North Branch,,39,8,doco,J42,2336215,5548347,14037558,efp,,,
+107287,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1203,Waianakarua River North Branch, ,57,10,doco,J42,2335401,5548933,14037012,efp, , , 
+107288,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1207,Waianakarua River North Branch, ,57,10,doco,J42,2335232,5548935,14037012,efp, , , 
+107289,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1210,Waianakarua River North Branch, ,57,10,doco,J42,2335124,5548902,14037012,efp, , , 
+107290,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1212,Waianakarua River North Branch, ,57,10,doco,J42,2335086,5548906,14037012,efp, , , 
+107291,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1215,Waianakarua River North Branch, ,57,10,doco,J42,2335027,5548904,14037012,efp, , , 
+107292,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1218,Waianakarua River North Branch, ,57,10,doco,J42,2334927,5548864,14037012,efp, , , 
+107293,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1221,Waianakarua River North Branch, ,57,10,doco,J42,2334858,5548865,14037012,efp, , , 
+107294,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1224,Waianakarua River North Branch, ,68,11,doco,J42,2334818,5548974,14037012,efp, , , 
+107295,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1226,Waianakarua River North Branch, ,104,12,doco,J42,2334304,5549697,14037021,efp, , , 
+107296,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1230,Waianakarua River North Branch, ,104,12,doco,J42,2334329,5549577,14037021,efp, , , 
+107297,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1234,Waianakarua River North Branch, ,104,12,doco,J42,2334504,5549521,14037021,efp, , , 
+107298,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1236,Waianakarua River North Branch, ,104,12,doco,J42,2334565,5549509,14037021,efp, , , 
+107299,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1239,Waianakarua River North Branch, ,68,11,doco,J42,2334614,5549582,14037012,efp, , , 
+107300,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1242,Waianakarua River North Branch, ,68,11,doco,J42,2334692,5549579,14037012,efp, , , 
+107301,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1301,Waianakarua River North Branch, ,68,11,doco,J42,2334804,5549582,14037012,efp, , , 
+107302,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1304,Waianakarua River North Branch, ,68,11,doco,J42,2334818,5549515,14037012,efp, , , 
+107303,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1306,Waianakarua River North Branch, ,68,11,doco,J42,2334935,5549373,14037012,efp, , , 
+107304,9,2010,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1310,Waianakarua River North Branch, ,68,11,doco,J42,2334845,5549207,14037012,efp, , , 
+109272,11,2010,Kakanui River,1101003,Kauru River,717.04,1115,Kauru River, ,93,27,doco,j41,2332444,5564207,14029391,efp, , , 
+109304,7,2010,Kakanui River,1101003,Kauru River,717.04,930,Kauru River,,85,26,doco,J41,2333573,5565677,14029391,efp,,,663
+109308,11,2010,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,85,26,doco,J41,2333573,5565677,14029391,efp,,,669
+109509,1,2010,Kakanui River,1101003,Kauru River,717.04,1130,Kauru River, ,93,27,doco,J41,2332515,5564344,14029391,efp, , , 
+109510,1,2010,Kakanui River,1101003,Kauru River,717.04,1145,Kauru River, ,93,27,doco,J41,2332600,5564470,14029391,efp, , , 
+109511,1,2010,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River,,93,27,doco,J41,2332662,5564452,14029391,efp,,,60
+109512,1,2010,Kakanui River,1101003,Kauru River,717.04,1250,Kauru River,,93,27,doco,J41,2332766,5564430,14029391,efp,,,79
+109513,1,2010,Kakanui River,1101003,Kauru River,717.04,1300,Kauru River, ,93,27,doco,J41,2332831,5564461,14029391,efp, , , 
+109514,1,2010,Kakanui River,1101003,Kauru River,717.04,1345,Kauru River,,93,27,doco,J41,2332836,5564581,14029391,efp,,,23
+109515,1,2010,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River,,85,26,doco,J41,2332963,5564673,14029391,efp,,,70
+109516,1,2010,Kakanui River,1101003,Kauru River,717.04,1445,Kauru River,,85,26,doco,J41,2333114,5564797,14029391,efp,,,118
+109517,1,2010,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River,,85,26,doco,J41,2333104,5565034,14029391,efp,,,134
+109518,1,2010,Kakanui River,1101003,Kauru River,717.04,1540,Kauru River,,79,25,doco,J41,2333663,5565866,14029204,efp,,,108
+109519,1,2010,Kakanui River,1101003,Kauru River,717.04,1600,Kauru River,,85,26,doco,J41,2333261,5565187,14029391,efp,,,62
+109520,1,2010,Kakanui River,1101003,Kauru River,717.04,1700,Kauru River,,85,26,doco,J41,2333392,5565528,14029391,efp,,,52.3
+109568,7,2010,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2336695,5567526,14028492,efp,,,464
+109569,11,2010,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2336651,5567509,14028492,efp,,,448.5
+109601,11,2010,Kakanui River,1101001,Kakanui River,717,1100,Kakanui River,,72,18,doco,J42,2337550,5567462,14028593,efp,,,1324
+109624,11,2010,Kakanui River,1101001,Kakanui River,717,1055,Kakanui River, ,68,15,doco,J42,2339166,5563517,14030148,efp, , , 
+109654,7,2010,Kakanui River,1101003,Kauru River,717.04,920,Kauru River, ,77,25,doco,J41,2333915,5566078,14029204,efp, , , 
+109655,11,2010,Kakanui River,1101003,Kauru River,717.04,1045,Kauru River,,77,25,doco,J41,2333952,5566198,14029204,efp,,,770
+109759,7,2010,Kakanui River,1101003,Kauru River,717.04,1255,Kauru River,,72,24,doco,J41,2334372,5566619,14028881,efp,,,1091.3
+109767,11,2010,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,72,24,doco,J41,2334391,5566626,14028881,efp, , , 
+109798,7,2010,Kakanui River,1101003,Kauru River,717.04,1250,Kauru River,,58,21,doco,J41,2335817,5567331,14028492,efp,,,638
+109799,11,2010,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River,,58,21,doco,J41,2335844,5567309,14028492,efp,,,480
+111049,1,2010,Kakanui River,1101003,Kauru River,717.04,1330,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111050,2,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,vbd, , , 
+111051,3,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,vbd, , , 
+111052,4,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,vbd, , , 
+111053,6,2010,Kakanui River,1101003,Kauru River,717.04,1410,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111054,7,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111055,8,2010,Kakanui River,1101003,Kauru River,717.04,1340,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111056,9,2010,Kakanui River,1101003,Kauru River,717.04,1300,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111057,10,2010,Kakanui River,1101003,Kauru River,717.04,1500,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111058,12,2010,Kakanui River,1101003,Kauru River,717.04,1340,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,vbd, , , 
+111059,12,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,vbd, , , 
+111472,1,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,vbd, , , 
+111473,2,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,vbd, , , 
+111474,3,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,vbd, , , 
+111475,4,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,vbd, , , 
+111476,6,2010,Kakanui River,1101003,Kauru River,717.04,1315,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111477,7,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111478,9,2010,Kakanui River,1101003,Kauru River,717.04,1130,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111479,10,2010,Kakanui River,1101003,Kauru River,717.04,1320,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111480,12,2010,Kakanui River,1101003,Kauru River,717.04,1120,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111481,12,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,vbd, , , 
+111528,1,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+111529,2,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+111530,3,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+111531,4,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+111532,6,2010,Kakanui River,1101003,Kauru River,717.04,1215,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111533,7,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111534,8,2010,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111535,9,2010,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111536,10,2010,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111537,12,2010,Kakanui River,1101003,Kauru River,717.04,1120,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+111538,12,2010,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,vbd, , , 
+104774,9,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104775,10,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104776,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104785,12,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+107207,6,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1205,Waianakarua River North Branch, ,52,9,rdcl,J42,2335949,5548827,14037255,efp, , , 
+107208,6,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1219,Waianakarua River North Branch, ,52,9,rdcl,J42,2335599,5548648,14037255,efp, , , 
+107209,6,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1223,Waianakarua River North Branch,,69,9,rdcl,J42,2335638,5548580,14037473,efp,,,
+107210,6,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1237,Waianakarua River North Branch,,52,9,rdcl,J42,2335818,5548709,14037255,efp,,,30
+107211,6,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1241,Waianakarua River North Branch, ,52,9,rdcl,J42,2335885,5548748,14037255,efp, , , 
+107212,6,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1244,Waianakarua River North Branch, ,104,12,rdcl,J42,2334307,5549703,14037021,efp, , , 
+107306,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1317,Waianakarua River North Branch, ,104,12,doco,J42,2334311,5549694,14037021,efp, , , 
+107307,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1334,Waianakarua River North Branch, ,104,12,doco,J42,2334319,5549665,14037021,efp, , , 
+107308,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1341,Waianakarua River North Branch, ,104,12,doco,J42,2334355,5549568,14037021,efp, , , 
+107309,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1348,Waianakarua River North Branch, ,104,12,doco,J42,2334440,5549535,14037021,efp, , , 
+107310,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1400,Waianakarua River North Branch, ,57,10,doco,J42,2335410,5548939,14037012,efp, , , 
+107311,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1410,Waianakarua River North Branch, ,52,9,doco,J42,2335986,5548953,14037255,efp, , , 
+107312,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1422,Waianakarua River North Branch, ,52,9,doco,J42,2335884,5548759,14037255,efp, , , 
+107313,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1429,Waianakarua River North Branch, ,52,9,doco,J42,2335949,5548649,14037255,efp, , , 
+107314,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1435,Waianakarua River North Branch, ,52,9,doco,J42,2335960,5548628,14037255,efp, , , 
+107315,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1441,Waianakarua River North Branch, ,52,9,doco,J42,2335668,5548698,14037255,efp, , , 
+107316,11,2011,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,1447,Waianakarua River North Branch,,69,9,doco,J42,2335625,5548541,14037473,efp,,,
+109275,10,2011,Kakanui River,1101003,Kauru River,717.04,1035,Kauru River, ,93,27,doco,j41,2332444,5564207,14029391,efp, , , 
+109309,10,2011,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,85,26,doco,J41,2333573,5565677,14029391,efp,,,557
+109571,11,2011,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2336651,5567509,14028492,efp,,,514
+109602,11,2011,Kakanui River,1101001,Kakanui River,717,1030,Kakanui River,,72,18,doco,J42,2337550,5567462,14028593,efp,,,1244.5
+109625,11,2011,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,68,15,doco,J42,2339166,5563517,14030148,efp,,,559.5
+109656,10,2011,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River,,77,25,doco,J41,2333952,5566198,14029204,efp,,,695.6
+109772,10,2011,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River,,72,24,doco,J41,2334391,5566626,14028881,efp,,,588.5
+109800,10,2011,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2335844,5567309,14028492,efp,,,85.5
+110185,8,2011,Kakanui River,1101003,Kauru River,717.04,1045,Kauru River,,85,26,doco,J41,2333251,5565172,14029391,efp,,,207.7
+110186,9,2011,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River,,85,26,doco,J41,2333251,5565172,14029391,efp,,,
+110187,10,2011,Kakanui River,1101003,Kauru River,717.04,1050,Kauru River,,85,26,doco,J41,2333251,5565172,14029391,efp,,,
+110188,11,2011,Kakanui River,1101003,Kauru River,717.04,1050,Kauru River,,85,26,doco,J41,2333251,5565172,14029391,efp,,,
+110189,11,2011,Kakanui River,1101003,Kauru River,717.04,1050,Kauru River,,85,26,doco,J41,2333251,5565172,14029391,efp,,,
+110190,12,2011,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,85,26,doco,J41,2333251,5565172,14029391,efp,,,
+111060,1,2011,Kakanui River,1101003,Kauru River,717.04,1600,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111107,2,2011,Kakanui River,1101003,Kauru River,717.04,1330,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111146,3,2011,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111151,4,2011,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111155,5,2011,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111156,6,2011,Kakanui River,1101003,Kauru River,717.04,1600,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111157,7,2011,Kakanui River,1101003,Kauru River,717.04,1630,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111158,8,2011,Kakanui River,1101003,Kauru River,717.04,1530,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111159,9,2011,Kakanui River,1101003,Kauru River,717.04,1555,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111160,11,2011,Kakanui River,1101003,Kauru River,717.04,1500,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111161,11,2011,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111162,12,2011,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111482,1,2011,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111483,2,2011,Kakanui River,1101003,Kauru River,717.04,1445,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111484,3,2011,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111485,4,2011,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111486,5,2011,Kakanui River,1101003,Kauru River,717.04,1221,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111487,6,2011,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111488,7,2011,Kakanui River,1101003,Kauru River,717.04,1450,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111489,8,2011,Kakanui River,1101003,Kauru River,717.04,1350,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111490,9,2011,Kakanui River,1101003,Kauru River,717.04,1504,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111491,11,2011,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111492,11,2011,Kakanui River,1101003,Kauru River,717.04,1440,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111493,12,2011,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111539,1,2011,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111540,2,2011,Kakanui River,1101003,Kauru River,717.04,1530,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111541,3,2011,Kakanui River,1101003,Kauru River,717.04,1130,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111542,4,2011,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111543,5,2011,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111544,6,2011,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111545,7,2011,Kakanui River,1101003,Kauru River,717.04,1312,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111546,8,2011,Kakanui River,1101003,Kauru River,717.04,1300,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111547,9,2011,Kakanui River,1101003,Kauru River,717.04,1300,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111548,11,2011,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111549,11,2011,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111550,12,2011,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+103841,8,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334805,5548950,14037012,efp,1, ,100
+103842,8,2012,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,uoo,j41,2336500,5567505,14028492,efp,1, ,100
+104777,10,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104779,11,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104780,12,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104781,6,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104782,9,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104783,7,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104784,3,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104786,5,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104787,2,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104788,4,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+104789,1,2012,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+109279,10,2012,Kakanui River,1101003,Kauru River,717.04,1121,Kauru River, ,93,27,doco,j41,2332444,5564207,14029391,efp, , , 
+109321,10,2012,Kakanui River,1101003,Kauru River,717.04,1041,Kauru River,,85,26,doco,J41,2333573,5565677,14029391,efp,,,804.5
+109575,11,2012,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2336651,5567509,14028492,efp,,,491.5
+109603,11,2012,Kakanui River,1101001,Kakanui River,717,1030,Kakanui River,,72,18,doco,J42,2337550,5567462,14028593,efp,,,1458.5
+109626,11,2012,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,68,15,doco,J42,2339166,5563517,14030148,efp,,,628.5
+109659,10,2012,Kakanui River,1101003,Kauru River,717.04,1000,Kauru River,,77,25,doco,J41,2333952,5566198,14029204,efp,,,514.5
+109777,11,2012,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,doco,J41,2334391,5566626,14028881,efp,,,423
+109801,11,2012,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2335844,5567309,14028492,efp,,,451.5
+110191,1,2012,Kakanui River,1101003,Kauru River,717.04,1000,Kauru River,,85,26,doco,J41,2333251,5565172,14029391,efp,,,
+110192,2,2012,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,85,26,doco,J41,2333251,5565172,14029391,efp,,,
+110193,3,2012,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,85,26,doco,J41,2333251,5565172,14029391,efp,,,
+110194,4,2012,Kakanui River,1101003,Kauru River,717.04,1000,Kauru River,,85,26,doco,J41,2333251,5565172,14029391,efp,,,
+111163,1,2012,Kakanui River,1101003,Kauru River,717.04,1515,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111165,2,2012,Kakanui River,1101003,Kauru River,717.04,1530,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111167,3,2012,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111168,4,2012,Kakanui River,1101003,Kauru River,717.04,1530,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+111494,1,2012,Kakanui River,1101003,Kauru River,717.04,1415,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111495,2,2012,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111496,3,2012,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111497,4,2012,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,75,25,doco,J41,2334059,5566307,14029106,efp, , , 
+111551,1,2012,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111552,2,2012,Kakanui River,1101003,Kauru River,717.04,1000,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111553,3,2012,Kakanui River,1101003,Kauru River,717.04,1330,Kauru River, ,77,25,doco,J41,2334008,5566243,14029204,efp, , , 
+111554,4,2012,Kakanui River,1101003,Kauru River,717.04,1300,Kauru River, ,77,25,doco,J41,2334088,5566243,14029204,efp, , , 
+104778,1,2013,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,uoo,j42,2334823,5548914,14037012,efp, , , 
+109280,10,2013,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,93,27,doco,j41,2332444,5564207,14029391,efp, , , 
+109330,11,2013,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River,,85,26,doco,J41,2333573,5565677,14029391,efp,,,740.5
+109576,11,2013,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River,,58,21,doco,J41,2336651,5567509,14028492,efp,,,406
+109608,12,2013,Kakanui River,1101001,Kakanui River,717,1100,Kakanui River,,72,18,doco,J42,2337550,5567462,14028593,efp,,,880
+109627,11,2013,Kakanui River,1101001,Kakanui River,717,1100,Kakanui River,,68,15,doco,J42,2339166,5563517,14030148,efp,,,695.5
+109662,11,2013,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River,,77,25,doco,J41,2333952,5566198,14029204,efp,,,494.5
+109778,11,2013,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,72,24,doco,J41,2334391,5566626,14028881,efp,,,251.5
+109802,11,2013,Kakanui River,1101003,Kauru River,717.04,1130,Kauru River,,58,21,doco,J41,2335844,5567309,14028492,efp,,,539
+104051,8,2014,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River, ,68,11,uoo,J42,2334790,5548950,14037012,efp,1, ,100
+109292,10,2014,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,93,27,doco,j41,2332444,5564207,14029391,efp, , , 
+109333,10,2014,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,85,26,doco,J41,2333573,5565677,14029391,efp,,,347.5
+109578,11,2014,Kakanui River,1101003,Kauru River,717.04,,Kauru River,,58,21,doco,J41,2336651,5567509,14028492,efp,,,189
+109604,11,2014,Kakanui River,1101001,Kakanui River,717,1015,Kakanui River,,72,18,doco,J42,2337550,5567462,14028593,efp,,,1270
+109628,11,2014,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,68,15,doco,J42,2339166,5563517,14030148,efp,,,551
+109666,11,2014,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,77,25,doco,J41,2333952,5566198,14029204,efp, , , 
+109779,11,2014,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,72,24,doco,J41,2334391,5566626,14028881,vbd, , , 
+109803,11,2014,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,58,21,doco,J41,2335844,5567309,14028492,efb,,,284.5
+106323,11,2015,Kakanui River,1101003,Kauru River,717.04,1440,Kauru River,,93,27,doco,J41,2332528,5564393,14029391,efp,,,
+109301,11,2015,Kakanui River,1101003,Kauru River,717.04, ,Kauru River, ,93,27,doco,j41,2332444,5564207,14029391,efp, , , 
+109337,12,2015,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,85,26,doco,J41,2333573,5565677,14029391,efp,,,659
+109605,12,2015,Kakanui River,1101001,Kakanui River,717,,Kakanui River,,72,18,doco,J42,2337550,5567462,14028593,efp,,,1364
+109668,11,2015,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,77,25,doco,J41,2333952,5566198,14029204,efp,,,188
+109780,12,2015,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,72,24,doco,J41,2334391,5566626,14028881,efp,,,542.5
+109804,12,2015,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River,,58,21,doco,J41,2335844,5567309,14028492,efp,,,320
+106033,3,2016,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River,,58,21,doco,J41,2335388,5567123,14028492,vbd,,,45
+106034,3,2016,Kakanui River,1101001,Kakanui River,717,1315,Kakanui River,,62,23,doco,J42,2335840,5568686,14027775,efp,,,250
+106035,3,2016,Kakanui River,1101001,Kakanui River,717,1500,Kakanui River, ,62,23,doco,J42,2335796,5568742,14027775,efp, , , 
+106322,1,2016,Kakanui River,1101001,Kakanui River,717, ,Kakanui River, ,48,21,doco,J42,2336771,5567682,14028365,efp, , , 
+111040,7,2017,Kakanui River,1101003,Kauru River,717.04,1430,Kauru River, ,58,21,doco,J41,2335955,5567296,14028492,efp, , , 
+112596,9,2017,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,57,10,doco, ,2334801,5548896,14037012,efp,1, , 
+112597,9,2017,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,doco, ,2334809,5549022,14037012,efp,1, , 
+112598,9,2017,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,doco, ,2334806,5549114,14037012,efp,1, , 
+112600,9,2017,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720, ,Waianakarua River North Branch, ,68,11,doco, ,2334808,5548982,14037012,efp,1, , 
+113005,11,2017,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River, ,93,27,doco, ,2332460,5564225,14029391,efp,1, ,10
+113006,11,2017,Kakanui River,1101003,Kauru River,717.04,1146,Kauru River, ,85,26,doco, ,2332843,5564620,14029391,efp,1, ,10
+113007,11,2017,Kakanui River,1101003,Kauru River,717.04,1300,Kauru River, ,85,26,doco, ,2333232,5565145,14029391,efp,1, ,10
+113008,11,2017,Kakanui River,1101003,Kauru River,717.04,1345,Kauru River, ,85,26,doco, ,2333516,5565668,14029391,efp,1, ,10
+113009,11,2017,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,79,25,doco, ,2333819,5566045,14029204,efp,1, ,10
+113010,11,2017,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,72,24,doco, ,2334191,5566528,14028881,efp,1, ,10
+113011,11,2017,Kakanui River,1101003,Kauru River,717.04,1315,Kauru River, ,72,24,doco, ,2334698,5566916,14028881,efp,1, ,10
+113012,11,2017,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River, ,58,21,doco, ,2335244,5567205,14028492,efp,1, ,10
+113013,11,2017,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River, ,58,21,doco, ,2335799,5567360,14028492,efp,1, ,10
+113014,11,2017,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,58,21,doco, ,2336401,5567473,14028492,efp,1, ,10
+113015,11,2017,Kakanui River,1101003,Kauru River,717.04,1330,Kauru River, ,58,21,doco, ,2336660,5567509,14028492,efp,1, ,10
+113016,11,2017,Kakanui River,1101001,Kakanui River,717,1100,Kakanui River, ,94,30,doco, ,2332981,5572638,14026079,efp,1, ,10
+113017,11,2017,Kakanui River,1101001,Kakanui River,717,1330,Kakanui River, ,72,18,doco, ,2337952,5566623,14028593,efp,1, ,10
+113018,11,2017,Kakanui River,1101001,Kakanui River,717,1430,Kakanui River, ,68,15,doco, ,2338985,5563201,14030148,efp,1, ,10
+113019,11,2017,Kakanui River,1101001,Kakanui River,717,1515,Kakanui River,,17,7,doco,,2340095,5558391,14032399,efp,1,,10
+113020,11,2017,Kakanui River,1101001,Kakanui River,717,1145,Kakanui River, ,94,30,doco, ,2332752,5572688,14026079,efp,1, ,11
+113021,11,2017,Kakanui River,1101001,Kakanui River,717,1530,Kakanui River,,17,7,doco,,2340037,5558431,14032399,efp,1,,15
+116517,11,2018,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,100,28,doco, ,2332077,5563978,14029391,efp,1, ,20
+116518,11,2018,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,100,28,doco, ,2332225,5564065,14029391,efp,1, ,20
+116519,11,2018,Kakanui River,1101003,Kauru River,717.04,1315,Kauru River, ,98,27,doco, ,2332447,5564226,14029391,efp,1, ,20
+116520,11,2018,Kakanui River,1101003,Kauru River,717.04,1345,Kauru River, ,98,27,doco, ,2332523,5564372,14029391,efp,1, ,20
+116521,11,2018,Kakanui River,1101003,Kauru River,717.04,1100,Kauru River, ,98,27,doco, ,2332881,5564658,14029391,efp,1, ,20
+116522,11,2018,Kakanui River,1101003,Kauru River,717.04,1230,Kauru River, ,88,26,doco, ,2333187,5565114,14029444,efp,1, ,20
+116523,11,2018,Kakanui River,1101003,Kauru River,717.04,1430,Kauru River, ,88,26,doco, ,2333539,5565697,14029444,efp,1, ,20
+116526,11,2018,Kakanui River,1101004,Kakanui River South Branch,717.103,0,Quinns Creek, ,459,59,doco, ,2318472,5563705,14030350,efp,1, ,25
+116527,11,2018,Kakanui River,1101004,Kakanui River South Branch,717.103,0,Quinns Creek, ,459,59,doco, ,2318485,5563790,14030350,efp,1, ,
+116528,11,2018,Kakanui River,1101004,Kakanui River South Branch,717.103,0,Quinns Creek, ,459,59,doco, ,2318480,5563895,14030350,efp,1, ,
+116529,11,2018,Kakanui River,1101004,Kakanui River South Branch,717.1,0,Kakanui River South Branch Tributary, ,488,59,doco, ,2318009,5563677,14030305,efp,1, ,
+116530,11,2018,Kakanui River,1101004,Kakanui River South Branch,717.1,0,Kakanui River South Branch tributary, ,488,59,doco, ,2317955,5563661,14030305,efp,1, ,
+116531,11,2018,Kakanui River,1101004,Kakanui River South Branch,717.1,0,Kakanui River South Branch tributary, ,488,59,doco, ,2318126,5563677,14030305,efp,1, ,
+116532,11,2018,Kakanui River,1101004,Kakanui River South Branch,717.1,0,Kakanui River South Branch, ,450,59,doco, ,2318225,5563832,14030124,efp,1, ,
+116533,11,2018,Kakanui River,1101004,Kakanui River South Branch,717.1,0,Kakanui River South Branch, ,450,59,doco, ,2318314,5563927,14030124,efp,1, ,
+116534,12,2018,Kakanui River,1101003,Kauru River,717.04,1030,Kauru River, ,80,25,doco, ,2333775,5566068,14029290,efp,1, ,20
+116535,12,2018,Kakanui River,1101003,Kauru River,717.04,1145,Kauru River, ,78,25,doco, ,2334058,5566306,14029106,efp,1, ,20
+116536,12,2018,Kakanui River,1101003,Kauru River,717.04,1245,Kauru River, ,73,24,doco, ,2334439,5566812,14028881,efp,1, ,20
+116537,12,2018,Kakanui River,1101003,Kauru River,717.04,1400,Kauru River, ,64,21,doco, ,2335162,5567000,14028492,efp,1, ,20
+116538,12,2018,Kakanui River,1101003,Kauru River,717.04,1115,Kauru River, ,64,21,doco, ,2335598,5567346,14028492,efp,1, ,20
+116539,12,2018,Kakanui River,1101003,Kauru River,717.04,1200,Kauru River, ,64,21,doco, ,2335855,5567363,14028492,efp,1, ,20
+116540,12,2018,Kakanui River,1101003,Kauru River,717.04,1300,Kauru River, ,64,21,doco, ,2336206,5567424,14028492,efp,1, ,20
+116541,12,2018,Kakanui River,1101003,Kauru River,717.04,1345,Kauru River, ,64,21,doco, ,2336439,5567375,14028492,efp,1, ,20
+116542,2,2019,Kakanui River,1101001,Kakanui River,717,1000,Kakanui River, ,90,30,doco, ,2332715,5572729,14026079,efp,1, ,20
+116543,2,2019,Kakanui River,1101001,Kakanui River,717,1117,Kakanui River, ,90,30,doco, ,2332666,5572731,14026079,efp,1, ,20
+116544,2,2019,Kakanui River,1101001,Kakanui River,717,1200,Kakanui River, ,80,27,doco, ,2333431,5570105,14027227,efp,1, ,20
+116545,2,2019,Kakanui River,1101001,Kakanui River,717,1300,Kakanui River, ,50,18,doco, ,2337951,5566636,14028593,efp,1, ,20
+116546,2,2019,Kakanui River,1101001,Kakanui River,717,1400,Kakanui River, ,38,15,doco, ,2338961,5563245,14030148,efp,1, ,20
+116547,2,2019,Kakanui River,1101001,Kakanui River,717,1430,Kakanui River, ,20,9,doco, ,2340028,5558427,14032872,efp,1, ,20
+116654,2,2019,Kakanui River,1101004,Kakanui River South Branch,717.1,1033,Kakanui River South Branch, ,438,58,doco, ,2318734,5564396,14029943,efp,1, ,5
+116655,2,2019,Kakanui River,1101004,Kakanui River South Branch,717.1,1105,Kakanui River South Branch, ,441,58,doco, ,2318685,5564204,14030031,efp,1, ,5
+116656,2,2019,Kakanui River,1101004,Kakanui River South Branch,717.1,1135,Kakanui River South Branch tributary, ,459,59,doco, ,2318478,5563786,14030350,vbd,1, ,5
+116657,2,2019,Kakanui River,1101004,Kakanui River South Branch,717.1,1254,Kakanui River South Branch tributary, ,487,60,doco, ,2318789,5562686,14030809,efp,1, ,5
+116658,2,2019,Kakanui River,1101004,Kakanui River South Branch,717.1,1341,Kakanui River South Branch tributary, ,487,60,doco, ,2318777,5562851,14030809,efp,1, ,5
+116659,2,2019,Kakanui River,1101004,Kakanui River South Branch,717.1,1405,Kakanui River South Branch tributary, ,459,59,doco, ,2318675,5563463,14030350,efp,1, ,5
+116660,2,2019,Kakanui River,1101004,Kakanui River South Branch,717.1,1415,Kakanui River South Branch tributary, ,459,59,doco, ,2318512,5563637,14030350,obs,1, ,1
+116661,2,2019,Kakanui River,1101004,Kakanui River South Branch,717.1,1418,Kakanui River South Branch tributary, ,459,59,doco, ,2318474,5563681,14030350,efp,1, ,5
+116662,2,2019,Kakanui River,1101004,Kakanui River South Branch,717.1,947,Kakanui River South Branch tributary, ,459,59,doco, ,2318517,5563960,14030350,efp,1, ,5
+116663,2,2019,Kakanui River,1101004,Kakanui River South Branch,717.1,,Kakanui River South Branch tributary, ,498,60,doco, ,2318889,5562443,14030823,efp,1, ,5
+119325,11,1995,Waianakarua River,1101005,Waianakarua River North Branch (Translocation),720,,Waianakarua River North Branch, ,61,12,uoo, ,2334176,5550197,14037021,efp,1,,
+120603,11,2002,Kakanui River,1101003,Kauru River,717.04,,Kauru River, ,64,21,doco,J41,2335389,5567245,14028492,efp, ,,
+119456,11,2002,Kakanui River,1101001,Kakanui River,717,,Kakanui River, ,20,9,doco, ,2340099,5558299,14032872,efp,1,,
+119455,5,2003,Kakanui River,1101001,Kakanui River,717,,Kakanui River, ,50,18,doco, ,2338100,5566599,14028593,efp,1,,
+119439,5,2003,Kakanui River,1101001,Kakanui River,717,,Kakanui River, ,59,21,doco, ,2337127,5567570,14028528,efp,1,,
+119470,8,2003,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,64,21,doco, ,2335516,5567304,14028492,han,1,,1
+119471,9,2004,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,73,24,doco, ,2334715,5566909,14028881,han,1,,1
+119472,8,2003,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,64,21,doco, ,2336068,5567467,14028492,han,1,,1
+119473,9,2003,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,73,24,doco, ,2334419,5566633,14028881,han,1,,1
+119474,9,2003,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,64,21,doco, ,2336120,5567480,14028492,han,1,,1
+119475,9,2003,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,64,21,doco, ,2335596,5567349,14028492,han,1,,1
+119476,9,2003,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,64,21,doco, ,2335369,5567249,14028492,han,1,,1
+119477,9,2003,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,64,21,doco, ,2336853,5567608,14028492,han,1,,1
+119478,9,2003,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,64,21,doco, ,2336305,5567447,14028492,han,1,,1
+119479,9,2003,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,64,21,doco, ,2335370,5567254,14028492,han,1,,1
+121080,8,2002,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,64,21,doco, ,2335233,5566920,14028492,efp,1,,
+121081,8,2002,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,78,25,doco, ,2334102,5566361,14029106,han,1,,1
+121099,6,2005,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,79,25,doco, ,2333866,5566072,14029204,han,,,1
+121147,11,2006,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,64,21,doco, ,2335844,5567317,14028492,efp,1,,
+121179,6,2007,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,78,25,doco, ,2334080,5566189,14029106,han,1,,1
+121181,6,2007,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,79,25,doco, ,2334080,5566189,14029204,efp,1,,
+121183,3,2008,Kakanui River,1101003,Kauru River,717.04,0,Kauru River, ,64,21,doco, ,2335685,5567365,14028492,efp,1,,
+121677,11,2020,Kakanui River,1101003,Kauru River,717.04,1019,Kauru River, ,111,29,doco,J41,2331403,5563777,14030211,efp,,,
+121678,11,2020,Kakanui River,1101003,Kauru River,717.04,1029,Kauru River, ,111,29,doco,J41,2331639,5563817,14030211,vbd,,,
+121679,11,2020,Kakanui River,1101003,Kauru River,717.04,1121,Kauru River, ,111,29,doco,J41,2331834,5563899,14030211,efp,,,
+121680,11,2020,Kakanui River,1101003,Kauru River,717.04,1145,Kauru River, ,111,29,doco,J41,2331912,5563922,14030211,efp,,,
+121681,11,2020,Kakanui River,1101003,Kauru River,717.04,1217,Kauru River, ,98,27,doco,J41,2332463,5564216,14029391,efp,,,
+121682,11,2020,Kakanui River,1101003,Kauru River,717.04,1254,Kauru River, ,98,27,doco,J41,2332844,5564487,14029391,efp,,,
+121683,11,2020,Kakanui River,1101003,Kauru River,717.04,1310,Kauru River, ,98,27,doco,J41,2332677,5564510,14029391,efp,,,
+121684,11,2020,Kakanui River,1101003,Kauru River,717.04,1002,Kauru River, ,98,27,doco,J41,2332533,5564376,14029391,efp,,,
+121685,11,2020,Kakanui River,1101003,Kauru River,717.04,1029,Kauru River, ,88,26,doco,J41,2333227,5565134,14029444,efp,,,
+121686,11,2020,Kakanui River,1101003,Kauru River,717.04,1511,Kauru River, ,88,26,doco,J41,2333122,5564853,14029444,efp,,,
+121687,11,2020,Kakanui River,1101003,Kauru River,717.04,1212,Kauru River, ,88,26,doco,J41,2333492,5565670,14029444,efp,,,
+121688,11,2021,Kakanui River,1101003,Kauru River,717.04,1025,Kauru River, ,80,25,doco,J41,2333807,5566046,14029290,efp,,,
+121689,11,2020,Kakanui River,1101003,Kauru River,717.04,1231,Kauru River, ,78,25,doco,J41,2334180,5566500,14029106,efp,,,
+121690,11,2020,Kakanui River,1101003,Kauru River,717.04,1245,Kauru River, ,73,24,doco,J41,2334627,5566858,14028881,efp,,,
+121691,11,2020,Kakanui River,1101003,Kauru River,717.04,1137,Kauru River, ,64,21,doco,J41,2335329,5567063,14028492,efp,,,
+121692,11,2020,Kakanui River,1101003,Kauru River,717.04,1257,Kauru River, ,64,21,doco,J41,2335765,5567342,14028492,efp,,,
+121693,11,2020,Kakanui River,1101003,Kauru River,717.04,1345,Kauru River, ,64,21,doco,J41,2336502,5567493,14028492,efp,,,
+121969,2,2020,Kakanui River,1101003,Kauru River,717.04,958,Kauru River, ,98,27,doco,J41,2332447,5564249,14029391,efp,,,
+121971,2,2020,Kakanui River,1101003,Kauru River,717.04,1037,Kauru River, ,98,27,doco,J41,2332512,5564388,14029391,efp,,,
+121972,2,2020,Kakanui River,1101003,Kauru River,717.04,1107,Kauru River, ,88,26,doco,J41,2333506,5565660,14029444,efp,,,
+121973,2,2020,Kakanui River,1101003,Kauru River,717.04,1210,Kauru River, ,78,25,doco,J41,2334145,5566450,14029106,efp,,,
+121180,5,2007,Kakanui River,1101001,Kakanui River,717.04,0,Kauru River, ,50,18,doco, ,2337560,5567437,14028593,han,1,,1
+121208,4,2021,Kakanui River,1101001,Kakanui River,717,1040,Kakanui River, ,69,23,wild,J42,2335853,5568638,14027775,efp,,,
+121373,4,2021,Kakanui River,1101001,Kakanui River,717,1545,Kakanui River, ,90,30,doco,J42,2332673,5572714,14026079,efp,,,
+121694,11,2020,Kakanui River,1101001,Kakanui River,717,1016,Kakanui River, ,98,30,doco,J42,2332616,5573086,14025834,efp,,,
+121695,11,2020,Kakanui River,1101001,Kakanui River,717,1022,Kakanui River, ,98,30,doco,J42,2332631,5573113,14025834,efp,,,
+121699,11,2020,Kakanui River,1101001,Kakanui River,717,1323,Kakanui River, ,97,30,doco,J42,2332676,5572761,14026079,efp,,,
+121700,11,2020,Kakanui River,1101001,Kakanui River,717,1427,Kakanui River, ,38,15,doco,J42,2338985,5563204,14030148,efp,,,
+121708,11,2020,Kakanui River,1101001,Kakanui River,717,1244,Kakanui River, ,79,26,doco,J42,2333439,5570021,14027482,efp,,,
+121712,11,2020,Kakanui River,1101001,Kakanui River,717,1350,Kakanui River, ,50,18,doco,J42,2337909,5566620,14028593,efp,,,
+121714,11,2020,Kakanui River,1101001,Kakanui River,717,1305,Kakanui River, ,20,9,doco,J42,2340030,5558431,14032872,vbd,,,
+121975,2,2020,Kakanui River,1101001,Kakanui River,717,1224,Kakanui River, ,97,30,doco,J42,2332672,5572745,14026079,efp,,,
+121976,2,2020,Kakanui River,1101001,Kakanui River,717,1416,Kakanui River, ,98,30,doco,J42,2332606,5573007,14025834,efp,,,
+121978,2,2020,Kakanui River,1101001,Kakanui River,717,1424,Kakanui River, ,98,30,doco,J42,2332614,5573176,14025834,efp,,,
